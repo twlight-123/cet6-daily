@@ -1,0 +1,515 @@
+{
+ "id": "2026-10-21",
+ "date": "2026-10-21",
+ "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 381,
+  "sentences": 19,
+  "avg_sentence_len": 20.1,
+  "flesch_ease": 49.7,
+  "flesch_grade": 11.3,
+  "hard_word_ratio": 0.144,
+  "long_sent_ratio": 0.158,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 99
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "Two students discuss a media studies assignment on how niche streaming services attract subscribers.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "You look glued to your laptop. Are you still trying to map out that media studies assignment on niche streaming platforms?"
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. I'm comparing two small services, and the puzzle is why anyone would pay for a library that looks so thin when the big platforms have thousands of titles."
+    },
+    {
+     "sp": "W",
+     "en": "That's the interesting part. I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+    },
+    {
+     "sp": "M",
+     "en": "So the advantage isn't volume but exclusivity. That would explain why one of the services I'm looking at charges only four dollars a month and still advertises a growing subscriber base."
+    },
+    {
+     "sp": "W",
+     "en": "Right. And some of them offer a lifetime deal for around fifty dollars, though my source said that kind of offer is usually time-limited."
+    },
+    {
+     "sp": "M",
+     "en": "That's a clever marketing hook. It lowers the barrier for people who hate recurring charges, but it also means the company gets cash upfront to buy more content later."
+    },
+    {
+     "sp": "W",
+     "en": "Did your case study mention how these services use audience data? I remember something about first-party data helping studios target ads more precisely."
+    },
+    {
+     "sp": "M",
+     "en": "Yes, and that seems to be the real business model. The streaming app collects viewing habits, and the parent company sells that insight to distributors planning marketing campaigns."
+    },
+    {
+     "sp": "W",
+     "en": "So the subscription fee may matter less than the data. That changes how I should frame my conclusion."
+    },
+    {
+     "sp": "M",
+     "en": "Me too. I was going to argue that small libraries are a weakness, but now I think the weakness is deliberate—it signals a curated catalogue rather than a random collection."
+    },
+    {
+     "sp": "W",
+     "en": "Careful, though. The professor warned us not to overgeneralise from one case. We should note that the strategy depends on having exclusive rights and a parent company with an ad business."
+    },
+    {
+     "sp": "M",
+     "en": "Fair point. I'll present it as a conditional advantage rather than a universal rule. Thanks—that saves me from a shaky argument."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "Why students prefer large platforms with thousands of titles",
+      "How small streaming services can succeed despite limited catalogues",
+      "How to negotiate a lower subscription fee for media services",
+      "Why the professor rejected their first assignment draft"
+     ],
+     "answer": 1,
+     "explain": "对话围绕小众流媒体为何能靠独家片源和数据分析吸引用户展开，A项同义概括。B项把大平台偏好当成讨论中心，属张冠李戴；C项将订阅费讨论夸大为谈判技巧，属过度推断；D项虚构教授否定初稿，属无中生有。",
+     "evidence": "That's the interesting part. I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the woman, what makes a limited library work?",
+     "options": [
+      "Partnering with the largest Hollywood studios",
+      "Offering the lowest monthly price in the market",
+      "Owning rights to films unavailable elsewhere",
+      "Providing thousands of newly released titles"
+     ],
+     "answer": 2,
+     "explain": "女士明确说有限片库若拥有别处难找影片的版权就能奏效，A项为同义改写。B项将四美元月费偷换为最低价保证；C项与原文小服务商合作对象不符，属张冠李戴；D项与“limited libraries”直接矛盾，属绝对化。",
+     "evidence": "I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the lifetime subscription offer?",
+     "options": [
+      "It may not be available indefinitely.",
+      "It is the company's most profitable plan.",
+      "It guarantees access to all future titles.",
+      "It is designed for long-term business clients."
+     ],
+     "answer": 0,
+     "explain": "女士说此类优惠通常有时间限制，可推知并非长期有效，A项正确。B项将营销手段推断为最盈利方案，属过度推断；C项“保证所有未来影片”绝对化；D项把面向个人用户的优惠偷换为企业客户。",
+     "evidence": "And some of them offer a lifetime deal for around fifty dollars, though my source said that kind of offer is usually time-limited."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the small service's strategy at the end?",
+     "options": [
+      "He accepts it with a qualification.",
+      "He remains completely unconvinced.",
+      "He regards it as ethically questionable.",
+      "He thinks it is bound to fail soon."
+     ],
+     "answer": 0,
+     "explain": "男士最后说会把该策略呈现为“有条件优势”而非普遍规律，说明他有限度地接受，A项正确。B项“完全不信”与“saves me from a shaky argument”不符；C项伦理质疑无据；D项“注定失败”属绝对化。",
+     "evidence": "Fair point. I'll present it as a conditional advantage rather than a universal rule."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "A monologue on how streaming platforms use audience data to reshape advertising.",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When streaming services first appeared, many observers assumed that their main product was entertainment. Subscribers paid a monthly fee, watched films and series, and the business model seemed straightforward. Over the past decade, however, a quieter shift has taken place. Streaming platforms have become valuable not only because of what they show but because of what they learn about the people watching. Every time a viewer pauses a film, abandons a series after two episodes, or returns to a favourite title, the platform records a signal. Individually, these signals seem trivial, and collected across millions of users, they form a detailed picture of taste, habit and intention. This is what industry analysts call first-party audience data, and it is increasingly central to how media companies make money. The commercial logic is easy to follow. A studio planning a marketing campaign wants to know which audiences are likely to respond. Instead of relying on broad demographic categories, it can use viewing patterns to target advertisements more precisely. A platform that both streams content and sells advertising space therefore occupies a strategic position: it controls the content that attracts viewers and the data that explains them. This does not mean that subscription fees are irrelevant. They remain an important source of revenue, especially for services without a large advertising business. But the relative importance of fees may decline as data-driven advertising grows. Some smaller services have even launched with modest libraries, apparently betting that a narrow but distinctive catalogue will attract a loyal audience whose behaviour is easier to measure. The trend raises questions that go beyond business strategy. If platforms know more about viewers than viewers know about themselves, the balance of power in media may shift further toward those who control the data. For audiences, the convenience of personalised recommendations comes with a less visible cost: the gradual transformation of private viewing habits into a commercial asset."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "How streaming platforms turn viewer data into commercial value",
+      "Why subscription fees have become entirely unimportant",
+      "How smaller services can copy the strategies of large ones",
+      "Why audiences should abandon personalised recommendations"
+     ],
+     "answer": 0,
+     "explain": "全文从订阅模式转向数据价值，说明平台如何把观看行为转化为商业资产，A项概括准确。B项“完全不再重要”绝对化，原文说费用仍重要；C项“复制大平台策略”属偷换概念；D项“应放弃推荐”是过度推断。",
+     "evidence": "Streaming platforms have become valuable not only because of what they show but because of what they learn about the people watching."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does first-party audience data mainly consist of?",
+     "options": [
+      "Viewers' viewing habits and choices recorded by platforms",
+      "Demographic categories purchased from outside agencies",
+      "Advertising space sold to studios and distributors",
+      "Subscription fees collected from loyal customers"
+     ],
+     "answer": 0,
+     "explain": "第二段说明平台记录暂停、弃剧、回看等观看信号，汇成用户品味与习惯，A项同义改写。B项把“不依赖宽泛人口分类”颠倒为购买外部数据，属因果倒置；C项是广告业务而非数据内容；D项将收入来源偷换为数据构成。",
+     "evidence": "Every time a viewer pauses a film, abandons a series after two episodes, or returns to a favourite title, the platform records a signal."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about smaller services with modest libraries?",
+     "options": [
+      "They may rely on measurable audience behaviour for revenue.",
+      "They are certain to be acquired by larger competitors.",
+      "They have abandoned advertising as a source of income.",
+      "They attract viewers mainly through large catalogues."
+     ],
+     "answer": 0,
+     "explain": "第四段说小服务商以窄而独特的片库吸引行为更易测量的忠实观众，可推知其收入可能依赖可测量的受众行为，A项正确。B项“必被收购”无据且绝对化；C项“放弃广告”与原文相反；D项“大片库”与modest libraries矛盾。",
+     "evidence": "Some smaller services have even launched with modest libraries, apparently betting that a narrow but distinctive catalogue will attract a loyal audience whose behaviour is easier to measure."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "When Streaming Guides Become Streaming Services",
+   "passage": "JustWatch began in 2015 as a search engine for streaming content, helping users locate films across an expanding array of platforms. Its core promise was simple: tell people where a title is available and let them decide which service to pay for. That promise, however, has gradually been complicated by the company's own ambition. This month JustWatch launched its own streaming service, JustWatch TV, signalling a shift from neutral guide to commercial participant.\n\nThe new service offers a small catalogue of films free with advertisements, including titles that are not freely available elsewhere. A paid subscription, currently four dollars a month or fifty dollars for a lifetime, removes the ads. Company representatives describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners. By the standards of major platforms, the collection is modest and somewhat dated.\n\nThat modesty may be deliberate. A narrow catalogue built around hard-to-find films can attract viewers who value curation over volume. Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch. The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a viable niche when the target audience is clearly defined.\n\nThe more significant development lies behind the screen. JustWatch already operates an advertising business that uses first-party audience data from its streaming guide to help studios and distributors plan campaigns. By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries. This deeper data, it argues, will improve targeting for clients across digital platforms. The subscription fee, in other words, may be less important than the information the service generates.\n\nFor users, the arrangement offers convenience and a degree of choice. Yet it also blurs a boundary that once seemed clear. A guide that recommends where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own. JustWatch insists that its vision is to direct fans to all their entertainment options in one place. Whether a company can remain a trusted guide while also competing in the market it once merely mapped is a question the next few years will answer.",
+   "source": {
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The failure of large platforms to attract loyal subscribers",
+      "A streaming guide's transition into a commercial streaming service",
+      "The technical challenges of building a streaming search engine",
+      "The decline of advertising revenue in the media industry"
+     ],
+     "answer": 1,
+     "explain": "全文围绕JustWatch从搜索指南转为流媒体服务及其商业模式变化展开，B项概括准确。A项“大平台失败”无据且与原文相反；C项把技术挑战当主题，属偷换概念；D项“广告收入下降”原文未提，属无中生有。",
+     "evidence": "This month JustWatch launched its own streaming service, JustWatch TV, signalling a shift from neutral guide to commercial participant.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What is said about JustWatch TV's free offering?",
+     "options": [
+      "It contains thousands of recent blockbusters.",
+      "It requires users to create an account first.",
+      "It includes films not free on other services.",
+      "It is supported entirely by subscription fees."
+     ],
+     "answer": 2,
+     "explain": "第二段指出免费带广告影片包含别处不免费的片源，C项同义改写。A项“数千部新大片”与“a few hundred titles”矛盾，属绝对化；B项与原文“无需创建账户即可播放”相反；D项与“free with advertisements”相悖，属偷换概念。",
+     "evidence": "The new service offers a small catalogue of films free with advertisements, including titles that are not freely available elsewhere.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What does the passage say about Roku's Howdy?",
+     "options": [
+      "It relies on search queries for audience data.",
+      "It offers a library larger than major platforms.",
+      "It charges more than JustWatch TV's paid plan.",
+      "It gained a million subscribers soon after launch."
+     ],
+     "answer": 3,
+     "explain": "第三段提到Howdy在推出六个月内据报达到一百万订阅者，D项同义改写。A项把JustWatch的数据方式张冠李戴给Howdy；B项“片库大于大平台”与limited library矛盾；C项费用比较原文未提，属无中生有。",
+     "evidence": "Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about JustWatch's advertising business?",
+     "options": [
+      "It may benefit from direct observation of viewing behaviour.",
+      "It has stopped using data from the streaming guide.",
+      "It depends mainly on subscription fees for revenue.",
+      "It targets viewers rather than studios and distributors."
+     ],
+     "answer": 0,
+     "explain": "第四段说新增自有服务后公司可直接观察观看行为而非仅靠搜索查询，可推知其广告业务可能受益，A项正确。B项“已停止使用指南数据”与原文相反；C项把订阅费偷换为广告业务主要收入；D项“面向观众而非片商”与原文客户对象颠倒。",
+     "evidence": "By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"blurs\" in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "makes less clear",
+      "makes more attractive",
+      "keeps strictly separate",
+      "rules out completely"
+     ],
+     "answer": 0,
+     "explain": "blurs指使界限变得模糊，与“makes less clear”同义，A项正确。B项“更有吸引力”偏离词义；C项“严格分开”与blur相反，属反义干扰；D项“完全排除”程度过重，属绝对化。",
+     "evidence": "Yet it also blurs a boundary that once seemed clear.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "A paid subscription, currently four dollars a month or fifty dollars for a lifetime, removes the ads. Company [1] describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners. By the standards of major platforms, the [2] is modest and somewhat dated. That modesty may be deliberate. A narrow catalogue built around hard-to-find films can attract viewers who value curation over volume. Roku's Howdy, a [3] service with a limited library, reportedly reached one million subscribers within six months of launch. The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a [4] niche when the target audience is clearly defined.\n\nThe more significant [5] lies behind the screen. JustWatch already operates an advertising business that uses first-party audience data from its streaming guide to help studios and distributors plan campaigns. By adding its own streaming service, the company can [6] viewing behaviour directly rather than infer it from search queries. This deeper data, it argues, will improve targeting for clients across digital platforms. The subscription fee, in other words, may be less important than the information the service [7].\n\nFor users, the arrangement offers convenience and a degree of choice. Yet it also blurs a boundary that once seemed clear. A guide that [8] where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own. JustWatch [9] that its vision is to direct fans to all their [10] options in one place. Whether a company can remain a trusted guide while also competing in the market it once merely mapped is a question the next few years will answer.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "chestnut"
+    },
+    {
+     "label": "B",
+     "word": "classification"
+    },
+    {
+     "label": "C",
+     "word": "collection"
+    },
+    {
+     "label": "D",
+     "word": "comparable"
+    },
+    {
+     "label": "E",
+     "word": "development"
+    },
+    {
+     "label": "F",
+     "word": "entertainment"
+    },
+    {
+     "label": "G",
+     "word": "generates"
+    },
+    {
+     "label": "H",
+     "word": "insists"
+    },
+    {
+     "label": "I",
+     "word": "mournful"
+    },
+    {
+     "label": "J",
+     "word": "observe"
+    },
+    {
+     "label": "K",
+     "word": "recommends"
+    },
+    {
+     "label": "L",
+     "word": "representatives"
+    },
+    {
+     "label": "M",
+     "word": "selection"
+    },
+    {
+     "label": "N",
+     "word": "similar"
+    },
+    {
+     "label": "O",
+     "word": "viable"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "representatives",
+     "lower": "representatives",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "代表",
+     "context": "Company representatives describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners."
+    },
+    {
+     "index": 2,
+     "word": "collection",
+     "lower": "collection",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "搜集，收集；收藏品",
+     "context": "By the standards of major platforms, the collection is modest and somewhat dated."
+    },
+    {
+     "index": 3,
+     "word": "comparable",
+     "lower": "comparable",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "可比较的； 类似的； 比得上的",
+     "context": "Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch."
+    },
+    {
+     "index": 4,
+     "word": "viable",
+     "lower": "viable",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a viable niche when the target audience is clearly defined."
+    },
+    {
+     "index": 5,
+     "word": "development",
+     "lower": "development",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "发展；开发；生长",
+     "context": "The more significant development lies behind the screen."
+    },
+    {
+     "index": 6,
+     "word": "observe",
+     "lower": "observe",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "遵守",
+     "context": "By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries."
+    },
+    {
+     "index": 7,
+     "word": "generates",
+     "lower": "generates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "产生",
+     "context": "The subscription fee, in other words, may be less important than the information the service generates."
+    },
+    {
+     "index": 8,
+     "word": "recommends",
+     "lower": "recommends",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "推荐，劝告，使受欢迎",
+     "context": "A guide that recommends where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own."
+    },
+    {
+     "index": 9,
+     "word": "insists",
+     "lower": "insists",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "主张，坚持",
+     "context": "JustWatch insists that its vision is to direct fans to all their [10] options in one place."
+    },
+    {
+     "index": 10,
+     "word": "entertainment",
+     "lower": "entertainment",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "娱乐",
+     "context": "JustWatch [9] that its vision is to direct fans to all their entertainment options in one place."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+  "long_sentences": [
+   {
+    "en": "“[JustWatchTV] will provide even deeper audience data and insights for JustWatch Media, the group’s campaign planning and buying service for film marketing campaigns across digital platforms like YouTube, Meta, and TikTok for studios, distributors, streamers, and media agencies,” the announcement said.",
+    "words": 41
+   },
+   {
+    "en": "“From the beginning, our vision was to create a single platform that directs fans to all of their entertainment options in one place,” David Croyé, founder and CEO of JustWatch Group, said in a statement.",
+    "words": 35
+   },
+   {
+    "en": "“JustWatch TV will help fill in the gaps and will make it easier for the massive JustWatch audience to discover and watch great movies and series, including those hard-to-find titles, right from the app itself.”",
+    "words": 35
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-21T16:25:36",
+ "difficulty": {
+  "score": 81,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 316,
+    "asl": 15.0,
+    "flesch": 61.4,
+    "fkgl": 8.4,
+    "long_sent": 0.048,
+    "beyond": 0.051,
+    "in_band": true,
+    "score": 98
+   },
+   {
+    "type": "passage_listening",
+    "words": 317,
+    "asl": 17.6,
+    "flesch": 42.2,
+    "fkgl": 11.8,
+    "long_sent": 0.0,
+    "beyond": 0.035,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 379,
+    "asl": 17.2,
+    "flesch": 47.2,
+    "fkgl": 11.0,
+    "long_sent": 0.0,
+    "beyond": 0.066,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "banked_cloze",
+    "words": 287,
+    "asl": 16.9,
+    "flesch": 47.6,
+    "fkgl": 10.8,
+    "long_sent": 0.0,
+    "beyond": 0.066,
+    "in_band": true,
+    "score": 87
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 81（接近六级），与六级区间有偏差。"
+}

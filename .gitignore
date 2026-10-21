@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# 生成物与本地缓存：只提交 out/ 下的成品
+data/sets/
+data/reading/
+data/logs/
+data/tts/
+data/*.json
+data/*.cache

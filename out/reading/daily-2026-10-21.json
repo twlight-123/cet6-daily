@@ -1,0 +1,47 @@
+{
+ "id": "daily-2026-10-21",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-21",
+ "source_label": "每日一文 · Ars Technica",
+ "title_en": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+ "title_zh": "解决流媒体碎片化问题的JustWatch推出了自己的流媒体服务",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "Since launching in 2015, JustWatch has helped people navigate the growing number of streaming services by providing a guide on where to find movies they want to stream. Now JustWatch has its own streaming service and wants people to subscribe.",
+   "zh": "自2015年上线以来，JustWatch通过提供指南告诉人们想看的电影在哪里可以流媒体观看，帮助用户应对日益增多的流媒体服务。如今，JustWatch有了自己的流媒体服务，并希望人们订阅。"
+  },
+  {
+   "en": "Launched today, JustWatch TV offers some movies available for free with ads that aren’t free on any other streaming service, including Green Room (2015), Locke (2013), and Sing Sing (2023). Other free movies include Fiddlin ’ (2018 ), Friday the 13th (1980), and Hotel Mumbai (2018). I could play movies available for free on JustWatch TV without creating an account.",
+   "zh": "JustWatch TV于今日上线，提供一些在其他任何流媒体服务上都不免费的、带广告免费观看的电影，包括《绿色房间》（2015）、《洛克》（2013）和《监狱剧院》（2023）。其他免费电影包括《小提琴手》（2018）、《十三号星期五》（1980）和《孟买酒店》（2018）。我无需创建账户就能在JustWatch TV上播放免费电影。"
+  },
+  {
+   "en": "The streaming service also sells a subscription for people who don’t want to watch JustWatch’s library with ads. It’s currently $4 per month or $50 for a lifetime subscription. The latter is only available for a “limited” time, a company spokesperson told Ars Technica. The rep was unable to confirm how long JustWatch will sell the lifetime subscription.",
+   "zh": "该流媒体服务还面向不想在JustWatch片库中看广告的用户出售订阅服务。目前价格为每月4美元或终身订阅50美元。公司发言人告诉Ars Technica，终身订阅仅在“有限”时间内提供。该代表无法确认JustWatch将出售终身订阅多长时间。"
+  },
+  {
+   "en": "Upon my perusal, JustWatch TV’s library seems limited and somewhat dated. That’s not necessarily a bad idea. Howdy, a Roku-owned streaming service with a similarly lackluster library compared to other services that costs $3/month without ads, reportedly had 1 million subscribers six months into launch.",
+   "zh": "据我浏览，JustWatch TV的片库似乎有限，而且有些过时。这未必是个坏主意。据报道，Roku旗下的流媒体服务Howdy与其他服务相比片库同样平平，无广告版每月收费3美元，上线六个月便拥有100万订阅用户。"
+  },
+  {
+   "en": "Without getting more specific, JustWatch SVP Quentin Carbonell told StreamTV Insider that the service has “a few hundred titles across” its different tiers. JustWatch TV has 30 content partners, including Paramount and New Regency, globally and plans to add more.",
+   "zh": "JustWatch高级副总裁Quentin Carbonell未透露更多细节，他告诉StreamTV Insider，该服务在不同层级中“共有几百部作品”。JustWatch TV在全球有30家内容合作伙伴，包括派拉蒙（Paramount）和新摄政（New Regency），并计划增加更多。"
+  },
+  {
+   "en": "“[JustWatchTV] will provide even deeper audience data and insights for JustWatch Media, the group’s campaign planning and buying service for film marketing campaigns across digital platforms like YouTube, Meta, and TikTok for studios, distributors, streamers, and media agencies,” the announcement said.",
+   "zh": "公告称：“[JustWatchTV]将为JustWatch Media提供更深入的受众数据和洞察。JustWatch Media是该集团为制片厂、发行商、流媒体平台和媒体机构在YouTube、Meta和TikTok等数字平台上开展电影营销活动提供活动策划和购买服务的部门。”"
+  },
+  {
+   "en": "JustWatch Group’s advertising business already leverages first-party audience data from the JustWatch streaming guide for ads for studios, distributors, streaming services, and media. JustWatch Group says the streaming guide has 50 million customers.",
+   "zh": "JustWatch集团的广告业务已经利用来自JustWatch流媒体指南的第一方受众数据，为制片厂、发行商、流媒体服务和媒体提供广告服务。JustWatch集团称，该流媒体指南拥有5000万用户。"
+  },
+  {
+   "en": "“From the beginning, our vision was to create a single platform that directs fans to all of their entertainment options in one place,” David Croyé, founder and CEO of JustWatch Group, said in a statement. “JustWatch TV will help fill in the gaps and will make it easier for the massive JustWatch audience to discover and watch great movies and series, including those hard-to-find titles, right from the app itself.”",
+   "zh": "JustWatch集团创始人兼首席执行官David Croyé在一份声明中表示：“从一开始，我们的愿景就是打造一个单一平台，将粉丝引导至一处集中查看所有娱乐选项。JustWatch TV将帮助填补空白，让庞大的JustWatch受众更容易直接在应用内发现并观看优秀的电影和剧集，包括那些难以找到的作品。”"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
+}
