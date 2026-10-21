@@ -1,135 +1,140 @@
 {
  "id": "2026-10-21",
  "date": "2026-10-21",
- "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+ "title": "A telling hole in a Neandertal bone hints at a bitter end",
  "source": "auto",
  "engine": "llm",
  "topics": [
+  "历史人文",
   "调查研究"
  ],
  "minutes": 35,
  "measure": {
-  "words": 381,
-  "sentences": 19,
+  "words": 563,
+  "sentences": 28,
   "avg_sentence_len": 20.1,
-  "flesch_ease": 49.7,
-  "flesch_grade": 11.3,
-  "hard_word_ratio": 0.144,
-  "long_sent_ratio": 0.158,
+  "flesch_ease": 55.1,
+  "flesch_grade": 10.6,
+  "hard_word_ratio": 0.099,
+  "long_sent_ratio": 0.25,
   "level": "六级",
   "in_band": true,
   "distance": 0.0,
   "issues": [],
-  "score": 99
+  "score": 100
  },
  "sections": [
   {
    "id": "sec_l1",
    "type": "long_conversation",
    "title": "Conversation 1",
-   "scene": "Two students discuss a media studies assignment on how niche streaming services attract subscribers.",
+   "scene": "Two graduate students discuss a recent archaeology lecture on Neandertal remains and the evidence of injury and care.",
    "script": [
     {
      "sp": "W",
-     "en": "You look glued to your laptop. Are you still trying to map out that media studies assignment on niche streaming platforms?"
+     "en": "Did you make it to Dr. Harrow's lecture on the Shanidar Neandertal finds yesterday?"
     },
     {
      "sp": "M",
-     "en": "Exactly. I'm comparing two small services, and the puzzle is why anyone would pay for a library that looks so thin when the big platforms have thousands of titles."
+     "en": "I did, but I had to leave early for a lab meeting. I caught the part about the shoulder blade with the puncture wound. She said it was probably made by a wooden spear."
     },
     {
      "sp": "W",
-     "en": "That's the interesting part. I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+     "en": "Right. And the wound showed no signs of healing, which suggests the person died around the time of the injury. But what I found more interesting was the broken tooth."
     },
     {
      "sp": "M",
-     "en": "So the advantage isn't volume but exclusivity. That would explain why one of the services I'm looking at charges only four dollars a month and still advertises a growing subscriber base."
+     "en": "The incisor? I thought that was just damage from the excavation."
     },
     {
      "sp": "W",
-     "en": "Right. And some of them offer a lifetime deal for around fifty dollars, though my source said that kind of offer is usually time-limited."
+     "en": "No, the tartar buildup showed the tooth had splintered years before death. So the individual lived with a serious facial injury for a long time."
     },
     {
      "sp": "M",
-     "en": "That's a clever marketing hook. It lowers the barrier for people who hate recurring charges, but it also means the company gets cash upfront to buy more content later."
+     "en": "That's remarkable. Surviving that would have required help from others. Dr. Harrow seemed cautious about that conclusion, though."
     },
     {
      "sp": "W",
-     "en": "Did your case study mention how these services use audience data? I remember something about first-party data helping studios target ads more precisely."
+     "en": "She was. She said it's speculation, but it's plausible. The person would have had trouble eating and drinking, and would have been in pain at first."
     },
     {
      "sp": "M",
-     "en": "Yes, and that seems to be the real business model. The streaming app collects viewing habits, and the parent company sells that insight to distributors planning marketing campaigns."
+     "en": "So the same set of remains suggests both violence and care. That's a complex picture of Neandertal behavior."
     },
     {
      "sp": "W",
-     "en": "So the subscription fee may matter less than the data. That changes how I should frame my conclusion."
+     "en": "Exactly. And she pointed out that many ways to die leave no mark on the skeleton at all. So finding evidence of trauma is rare and valuable."
     },
     {
      "sp": "M",
-     "en": "Me too. I was going to argue that small libraries are a weakness, but now I think the weakness is deliberate—it signals a curated catalogue rather than a random collection."
+     "en": "I wonder if the puncture could have been caused by a stone tool instead. Stone-tipped spears usually make a different shape, right?"
     },
     {
      "sp": "W",
-     "en": "Careful, though. The professor warned us not to overgeneralise from one case. We should note that the strategy depends on having exclusive rights and a parent company with an ad business."
+     "en": "Yes, a diamond-shaped hole. The round shape points to a wooden spear. The team also compared it with wounds on butchered animal bones and with experiments using re-created Paleolithic weapons."
     },
     {
      "sp": "M",
-     "en": "Fair point. I'll present it as a conditional advantage rather than a universal rule. Thanks—that saves me from a shaky argument."
+     "en": "That's a lot of careful work. I'm sorry I missed the end. Do you have notes I could borrow?"
+    },
+    {
+     "sp": "W",
+     "en": "Sure, I'll email them to you tonight."
     }
    ],
    "questions": [
     {
      "id": "l1_1",
-     "stem": "What are the speakers mainly discussing?",
+     "stem": "What is the conversation mainly about?",
      "options": [
-      "Why students prefer large platforms with thousands of titles",
-      "How small streaming services can succeed despite limited catalogues",
-      "How to negotiate a lower subscription fee for media services",
-      "Why the professor rejected their first assignment draft"
+      "The excavation methods used at a famous burial site",
+      "Evidence of injury and possible care in Neandertal remains",
+      "The difficulty of identifying wooden spears in fossils",
+      "The role of tartar in determining ancient diets"
      ],
      "answer": 1,
-     "explain": "对话围绕小众流媒体为何能靠独家片源和数据分析吸引用户展开，A项同义概括。B项把大平台偏好当成讨论中心，属张冠李戴；C项将订阅费讨论夸大为谈判技巧，属过度推断；D项虚构教授否定初稿，属无中生有。",
-     "evidence": "That's the interesting part. I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+     "explain": "对话围绕肩胛骨刺伤和断牙展开，讨论尼安德特人遭受暴力并可能得到照料，A 项概括准确；B 项只提及发掘方法，属细节；C 项是判断武器类型的依据，非主旨；D 项牙垢只是细节，非主题。",
+     "evidence": "So the same set of remains suggests both violence and care. That's a complex picture of Neandertal behavior."
     },
     {
      "id": "l1_2",
-     "stem": "According to the woman, what makes a limited library work?",
+     "stem": "What did the tartar on the broken tooth indicate?",
      "options": [
-      "Partnering with the largest Hollywood studios",
-      "Offering the lowest monthly price in the market",
-      "Owning rights to films unavailable elsewhere",
-      "Providing thousands of newly released titles"
+      "The tooth was broken during the excavation process.",
+      "The person had a diet consisting mainly of hard foods.",
+      "The tooth had been damaged years before the person died.",
+      "The person suffered the injury shortly before death."
      ],
      "answer": 2,
-     "explain": "女士明确说有限片库若拥有别处难找影片的版权就能奏效，A项为同义改写。B项将四美元月费偷换为最低价保证；C项与原文小服务商合作对象不符，属张冠李戴；D项与“limited libraries”直接矛盾，属绝对化。",
-     "evidence": "I read a case study suggesting that limited libraries can actually work if the service owns rights to films that are hard to find elsewhere."
+     "explain": "对话中明确说牙垢显示牙齿在死亡多年前裂开，A 项同义改写；B 项饮食推断过度；C 项与原文相反；D 项张冠李戴，那是肩胛骨伤的时间。",
+     "evidence": "No, the tartar buildup showed the tooth had splintered years before death."
     },
     {
      "id": "l1_3",
-     "stem": "What can be inferred about the lifetime subscription offer?",
+     "stem": "What can be inferred about Dr. Harrow's attitude toward the care hypothesis?",
      "options": [
-      "It may not be available indefinitely.",
-      "It is the company's most profitable plan.",
-      "It guarantees access to all future titles.",
-      "It is designed for long-term business clients."
+      "She considers it plausible but not firmly established.",
+      "She rejects it as unsupported by any evidence.",
+      "She believes it is the only possible explanation.",
+      "She thinks it is irrelevant to Neandertal behavior."
      ],
      "answer": 0,
-     "explain": "女士说此类优惠通常有时间限制，可推知并非长期有效，A项正确。B项将营销手段推断为最盈利方案，属过度推断；C项“保证所有未来影片”绝对化；D项把面向个人用户的优惠偷换为企业客户。",
-     "evidence": "And some of them offer a lifetime deal for around fifty dollars, though my source said that kind of offer is usually time-limited."
+     "explain": "男士说 Dr. Harrow 对结论谨慎，女士补充她称其为推测但合理，A 项准确；B 项绝对化；C 项与谨慎态度矛盾；D 项与对话主旨相反。",
+     "evidence": "She was. She said it's speculation, but it's plausible."
     },
     {
      "id": "l1_4",
-     "stem": "What is the man's attitude toward the small service's strategy at the end?",
+     "stem": "How does the man feel about missing the end of the lecture?",
      "options": [
-      "He accepts it with a qualification.",
-      "He remains completely unconvinced.",
-      "He regards it as ethically questionable.",
-      "He thinks it is bound to fail soon."
+      "Regretful and eager to get the notes.",
+      "Indifferent because he already knew the material.",
+      "Annoyed that the lecture was too speculative.",
+      "Confident that he can repeat the experiments."
      ],
      "answer": 0,
-     "explain": "男士最后说会把该策略呈现为“有条件优势”而非普遍规律，说明他有限度地接受，A项正确。B项“完全不信”与“saves me from a shaky argument”不符；C项伦理质疑无据；D项“注定失败”属绝对化。",
-     "evidence": "Fair point. I'll present it as a conditional advantage rather than a universal rule."
+     "explain": "男士说“I'm sorry I missed the end”并借笔记，A 项概括其遗憾与渴求；B 项与借笔记矛盾；C 项未表达恼怒；D 项无中生有。",
+     "evidence": "That's a lot of careful work. I'm sorry I missed the end. Do you have notes I could borrow?"
     }
    ]
   },
@@ -137,133 +142,136 @@
    "id": "sec_l2",
    "type": "passage_listening",
    "title": "Passage",
-   "scene": "A monologue on how streaming platforms use audience data to reshape advertising.",
+   "scene": "",
    "script": [
     {
      "sp": "N",
-     "en": "When streaming services first appeared, many observers assumed that their main product was entertainment. Subscribers paid a monthly fee, watched films and series, and the business model seemed straightforward. Over the past decade, however, a quieter shift has taken place. Streaming platforms have become valuable not only because of what they show but because of what they learn about the people watching. Every time a viewer pauses a film, abandons a series after two episodes, or returns to a favourite title, the platform records a signal. Individually, these signals seem trivial, and collected across millions of users, they form a detailed picture of taste, habit and intention. This is what industry analysts call first-party audience data, and it is increasingly central to how media companies make money. The commercial logic is easy to follow. A studio planning a marketing campaign wants to know which audiences are likely to respond. Instead of relying on broad demographic categories, it can use viewing patterns to target advertisements more precisely. A platform that both streams content and sells advertising space therefore occupies a strategic position: it controls the content that attracts viewers and the data that explains them. This does not mean that subscription fees are irrelevant. They remain an important source of revenue, especially for services without a large advertising business. But the relative importance of fees may decline as data-driven advertising grows. Some smaller services have even launched with modest libraries, apparently betting that a narrow but distinctive catalogue will attract a loyal audience whose behaviour is easier to measure. The trend raises questions that go beyond business strategy. If platforms know more about viewers than viewers know about themselves, the balance of power in media may shift further toward those who control the data. For audiences, the convenience of personalised recommendations comes with a less visible cost: the gradual transformation of private viewing habits into a commercial asset."
+     "en": "Archaeologists studying ancient human remains often face a fundamental challenge: many causes of death leave no trace on the skeleton. This makes any evidence of trauma particularly valuable. A recent analysis of a Neandertal shoulder blade from Shanidar, a famous burial site in Iraqi Kurdistan, has provided such evidence. The bone contains a round puncture wound that researchers believe was made by a wooden spear around the time of death. The shape of the hole is important. Stone-tipped spears typically produce diamond-shaped wounds, while wooden spears leave round ones. The team confirmed their hypothesis by comparing the fossil with butchered animal bones and with wounds created experimentally using re-created Paleolithic weapons. But the story does not end with violence. A shattered incisor found with the remains suggests that the individual, named Shanidar A, suffered a serious facial injury years before death. Tartar buildup on the tooth indicates that it had splintered long before the person died, meaning Shanidar A lived with the disability for a considerable period. Given that such an injury would have affected eating and drinking and caused severe initial pain, the researchers speculate that the individual likely needed care from others. This combination of violence and care, they argue, points to complex social behavior among Neandertals. Not everyone is convinced. Libby Cowgill, a biological anthropologist not involved in the study, calls the remains 'super cool' because they preserve rare evidence of trauma. However, she and others caution that inferring care from skeletal evidence is speculative. The study authors acknowledge this limitation but maintain that the most parsimonious explanation for Shanidar A's survival is that others helped. The debate highlights a broader issue in archaeology: interpreting behavior from incomplete physical evidence is inherently uncertain, yet such finds offer invaluable glimpses into the lives of our extinct relatives."
     }
    ],
    "questions": [
     {
-     "id": "l2_1",
+     "type": "main",
      "stem": "What is the passage mainly about?",
      "options": [
-      "How streaming platforms turn viewer data into commercial value",
-      "Why subscription fees have become entirely unimportant",
-      "How smaller services can copy the strategies of large ones",
-      "Why audiences should abandon personalised recommendations"
+      "A Neandertal fossil showing injury and possible care",
+      "The techniques for identifying ancient weapon wounds",
+      "The debate over the age of the Shanidar burial site",
+      "The diet of Neandertals revealed by dental remains"
      ],
      "answer": 0,
-     "explain": "全文从订阅模式转向数据价值，说明平台如何把观看行为转化为商业资产，A项概括准确。B项“完全不再重要”绝对化，原文说费用仍重要；C项“复制大平台策略”属偷换概念；D项“应放弃推荐”是过度推断。",
-     "evidence": "Streaming platforms have become valuable not only because of what they show but because of what they learn about the people watching."
+     "explain": "正确项概括全文：肩胛骨刺伤与断牙共同指向暴力与照料。B项将伤口鉴定技术当主旨，属以偏概全；C项年龄争议文中未提，属无关信息；D项饮食仅为牙垢推断的细节，非全文核心。",
+     "evidence": "This combination of violence and care, they argue, points to complex social behavior among Neandertals.",
+     "id": "l2_1"
     },
     {
-     "id": "l2_2",
-     "stem": "What does first-party audience data mainly consist of?",
+     "type": "detail",
+     "stem": "How did researchers test the cause of the puncture wound?",
      "options": [
-      "Viewers' viewing habits and choices recorded by platforms",
-      "Demographic categories purchased from outside agencies",
-      "Advertising space sold to studios and distributors",
-      "Subscription fees collected from loyal customers"
+      "By comparing it with wounds from re-created Paleolithic weapons",
+      "By analyzing DNA preserved inside the shoulder blade",
+      "By studying the healing patterns around the hole",
+      "By examining sediment surrounding the fossil"
      ],
      "answer": 0,
-     "explain": "第二段说明平台记录暂停、弃剧、回看等观看信号，汇成用户品味与习惯，A项同义改写。B项把“不依赖宽泛人口分类”颠倒为购买外部数据，属因果倒置；C项是广告业务而非数据内容；D项将收入来源偷换为数据构成。",
-     "evidence": "Every time a viewer pauses a film, abandons a series after two episodes, or returns to a favourite title, the platform records a signal."
+     "explain": "正确项同义改写原文的比较实验。B项DNA分析文中未提，属张冠李戴；C项愈合模式用于判断死亡时间，非验证致伤物；D项沉积物分析文中未用于此目的，属无关信息。",
+     "evidence": "The team confirmed their hypothesis by comparing the fossil with butchered animal bones and with wounds created experimentally using re-created Paleolithic weapons.",
+     "id": "l2_2"
     },
     {
-     "id": "l2_3",
-     "stem": "What can be inferred about smaller services with modest libraries?",
+     "type": "infer",
+     "stem": "What can be inferred about the care hypothesis?",
      "options": [
-      "They may rely on measurable audience behaviour for revenue.",
-      "They are certain to be acquired by larger competitors.",
-      "They have abandoned advertising as a source of income.",
-      "They attract viewers mainly through large catalogues."
+      "It is reasonable but not conclusively established.",
+      "It has been universally accepted by archaeologists.",
+      "It rests on direct evidence of nursing behavior.",
+      "It contradicts the skeletal evidence of violence."
      ],
      "answer": 0,
-     "explain": "第四段说小服务商以窄而独特的片库吸引行为更易测量的忠实观众，可推知其收入可能依赖可测量的受众行为，A项正确。B项“必被收购”无据且绝对化；C项“放弃广告”与原文相反；D项“大片库”与modest libraries矛盾。",
-     "evidence": "Some smaller services have even launched with modest libraries, apparently betting that a narrow but distinctive catalogue will attract a loyal audience whose behaviour is easier to measure."
+     "explain": "正确项对应作者承认局限但认为最合理，以及Cowgill称推断具推测性。B项“universally accepted”绝对化；C项“direct evidence”偷换概念，实为间接推断；D项暴力与照料并存不矛盾，属因果倒置。",
+     "evidence": "The study authors acknowledge this limitation but maintain that the most parsimonious explanation for Shanidar A's survival is that others helped.",
+     "id": "l2_3"
     }
    ]
   },
   {
    "id": "sec_r",
    "type": "reading",
-   "title": "When Streaming Guides Become Streaming Services",
-   "passage": "JustWatch began in 2015 as a search engine for streaming content, helping users locate films across an expanding array of platforms. Its core promise was simple: tell people where a title is available and let them decide which service to pay for. That promise, however, has gradually been complicated by the company's own ambition. This month JustWatch launched its own streaming service, JustWatch TV, signalling a shift from neutral guide to commercial participant.\n\nThe new service offers a small catalogue of films free with advertisements, including titles that are not freely available elsewhere. A paid subscription, currently four dollars a month or fifty dollars for a lifetime, removes the ads. Company representatives describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners. By the standards of major platforms, the collection is modest and somewhat dated.\n\nThat modesty may be deliberate. A narrow catalogue built around hard-to-find films can attract viewers who value curation over volume. Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch. The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a viable niche when the target audience is clearly defined.\n\nThe more significant development lies behind the screen. JustWatch already operates an advertising business that uses first-party audience data from its streaming guide to help studios and distributors plan campaigns. By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries. This deeper data, it argues, will improve targeting for clients across digital platforms. The subscription fee, in other words, may be less important than the information the service generates.\n\nFor users, the arrangement offers convenience and a degree of choice. Yet it also blurs a boundary that once seemed clear. A guide that recommends where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own. JustWatch insists that its vision is to direct fans to all their entertainment options in one place. Whether a company can remain a trusted guide while also competing in the market it once merely mapped is a question the next few years will answer.",
+   "title": "A Telling Hole in a Neandertal Bone Hints at a Bitter End",
+   "passage": "The size and structure of a puncture wound in a shoulder blade suggest that it was made by a wooden spear shortly before or after death, researchers write in Scientific Reports. But violence is not all this Neandertal may have known. A shattered tooth found with the remains hints that the deceased suffered a facial injury at some point in life. Surviving this injury indicates that Neandertals may have helped each other in times of need, the study authors speculate.\n\nThese remains with visible trauma are \"super cool,\" because \"there's a lot of ways to die that leave absolutely no mark on your skeleton,\" says Libby Cowgill, a biological anthropologist at the University of Missouri who wasn't involved with the study. Neandertals were often injured throughout their lives, probably from hunting. But archaeologists have also uncovered occasional signs that Neandertals and other hominids were stabbing and pummeling each other, perhaps intentionally, as far back as 430,000 years ago.\n\nDuring an excavation that began in 2019 at Shanidar, the famous Neandertal burial site in Iraqi Kurdistan, researchers uncovered remains from at least three previously unknown individuals. The set included ribs, hand bones, teeth and a perforated shoulder bone that probably belonged to a single individual who lived around 75,000 years ago. At first, the team had no idea what caused the hole. \"It's so round, it's like, what is it?\" recalls Emma Pomeroy, a biological anthropologist at the University of Cambridge.\n\nThe team removed the shoulder blade with the surrounding sediment and tested for evidence that roots or insects had damaged the fossil. But that didn't fit the nature of the damage. Instead, they found fragments of bone from the shoulder blade in the dirt that suggested it had been pierced when the individual, named Shanidar A, was alive. The team also didn't see any signs of healing around the puncture wound when they analyzed the bone under the microscope and using X-rays, suggesting that the injury had occurred around the time of death.\n\nThe next task was to find out what instrument might have caused the injury. The team compared the puncture with the fossilized remains of butchered animals found alongside human tools, as well as wounds created by archaeologists stabbing animal corpses with re-created Paleolithic weapons. Stone-tipped spears usually create a diamond-shaped hole. Wooden spears, on the other hand, tend to leave round puncture wounds. The team also found a broken incisor alongside the rest of the remains. The tooth was so shattered that Shanidar A probably experienced a serious injury to their face. Tartar buildup suggests that the tooth splintered in half years before Shanidar A died, meaning they lived with their disability for a long time.\n\n\"Given it would have affected their ability to eat, to drink — they'd have been in massive amount of pain at first — it's likely [to] have needed some care,\" Pomeroy says. That one set of remains suggest both violence and care show that Neandertal \"behavior is complex,\" Pomeroy says. \"Like us.\"",
    "source": {
-    "name": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/"
+    "name": "Science News",
+    "url": "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear"
    },
    "questions": [
     {
      "type": "main",
      "stem": "What is the passage mainly about?",
      "options": [
-      "The failure of large platforms to attract loyal subscribers",
-      "A streaming guide's transition into a commercial streaming service",
-      "The technical challenges of building a streaming search engine",
-      "The decline of advertising revenue in the media industry"
+      "A fossil that reveals both violence and possible care among Neandertals",
+      "The techniques used to identify wooden spears in ancient fossils",
+      "The debate over whether Neandertals hunted large animals",
+      "The excavation of a famous burial site in Iraqi Kurdistan"
      ],
      "answer": 1,
-     "explain": "全文围绕JustWatch从搜索指南转为流媒体服务及其商业模式变化展开，B项概括准确。A项“大平台失败”无据且与原文相反；C项把技术挑战当主题，属偷换概念；D项“广告收入下降”原文未提，属无中生有。",
-     "evidence": "This month JustWatch launched its own streaming service, JustWatch TV, signalling a shift from neutral guide to commercial participant.",
+     "explain": "文章以肩胛骨刺伤和断牙为核心，讨论尼安德特人既遭受暴力又可能得到照料，B项概括全文；A项是判断武器类型的细节；C项狩猎非重点；D项发掘只是背景。",
+     "evidence": "That one set of remains suggest both violence and care show that Neandertal \"behavior is complex,\" Pomeroy says.",
      "id": "r_1"
     },
     {
      "type": "detail",
-     "stem": "What is said about JustWatch TV's free offering?",
+     "stem": "What did the researchers conclude about the puncture wound?",
      "options": [
-      "It contains thousands of recent blockbusters.",
-      "It requires users to create an account first.",
-      "It includes films not free on other services.",
-      "It is supported entirely by subscription fees."
+      "It was made by a wooden spear around the time of death.",
+      "It resulted from root or insect damage after burial.",
+      "It was caused by a stone-tipped spear during hunting.",
+      "It showed clear signs of healing before death."
      ],
      "answer": 2,
-     "explain": "第二段指出免费带广告影片包含别处不免费的片源，C项同义改写。A项“数千部新大片”与“a few hundred titles”矛盾，属绝对化；B项与原文“无需创建账户即可播放”相反；D项与“free with advertisements”相悖，属偷换概念。",
-     "evidence": "The new service offers a small catalogue of films free with advertisements, including titles that are not freely available elsewhere.",
+     "explain": "原文说圆形伤口由木矛造成，且无愈合迹象表明发生在死亡前后，C项准确；A项被研究者排除；B项石矛造成菱形孔；D项与无愈合迹象矛盾。",
+     "evidence": "The size and structure of a puncture wound in a shoulder blade suggest that it was made by a wooden spear shortly before or after death, researchers write in Scientific Reports.",
      "id": "r_2"
     },
     {
      "type": "detail",
-     "stem": "What does the passage say about Roku's Howdy?",
+     "stem": "What does the broken incisor indicate about Shanidar A?",
      "options": [
-      "It relies on search queries for audience data.",
-      "It offers a library larger than major platforms.",
-      "It charges more than JustWatch TV's paid plan.",
-      "It gained a million subscribers soon after launch."
+      "The individual lived with a facial disability for years.",
+      "The individual suffered the injury during excavation.",
+      "The individual died soon after the facial injury.",
+      "The individual was unable to eat solid food at all."
      ],
      "answer": 3,
-     "explain": "第三段提到Howdy在推出六个月内据报达到一百万订阅者，D项同义改写。A项把JustWatch的数据方式张冠李戴给Howdy；B项“片库大于大平台”与limited library矛盾；C项费用比较原文未提，属无中生有。",
-     "evidence": "Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch.",
+     "explain": "原文说牙垢显示牙齿在死亡多年前裂开，因此个体长期带着面部伤残生活，D项准确；A项与发掘事实矛盾；B项与years before death矛盾；C项绝对化。",
+     "evidence": "Tartar buildup suggests that the tooth splintered in half years before Shanidar A died, meaning they lived with their disability for a long time.",
      "id": "r_3"
     },
     {
      "type": "infer",
-     "stem": "What can be inferred about JustWatch's advertising business?",
+     "stem": "What can be inferred about the care hypothesis from the passage?",
      "options": [
-      "It may benefit from direct observation of viewing behaviour.",
-      "It has stopped using data from the streaming guide.",
-      "It depends mainly on subscription fees for revenue.",
-      "It targets viewers rather than studios and distributors."
+      "It is plausible but not conclusively proven.",
+      "It has been universally accepted by archaeologists.",
+      "It is based on direct evidence of nursing behavior.",
+      "It contradicts the evidence of violence."
      ],
      "answer": 0,
-     "explain": "第四段说新增自有服务后公司可直接观察观看行为而非仅靠搜索查询，可推知其广告业务可能受益，A项正确。B项“已停止使用指南数据”与原文相反；C项把订阅费偷换为广告业务主要收入；D项“面向观众而非片商”与原文客户对象颠倒。",
-     "evidence": "By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries.",
+     "explain": "原文说作者推测可能需要照料，Pomeroy称行为复杂，但未断言已证实，A项准确；B项绝对化；C项无直接护理证据；D项暴力与照料并存不矛盾。",
+     "evidence": "\"Given it would have affected their ability to eat, to drink — they'd have been in massive amount of pain at first — it's likely [to] have needed some care,\" Pomeroy says.",
      "id": "r_4"
     },
     {
      "type": "vocab",
-     "stem": "The word \"blurs\" in the last paragraph is closest in meaning to ______.",
+     "stem": "The word \"pummeling\" in the passage is closest in meaning to ______.",
      "options": [
-      "makes less clear",
-      "makes more attractive",
-      "keeps strictly separate",
-      "rules out completely"
+      "beating repeatedly",
+      "stabbing sharply",
+      "cutting deeply",
+      "pushing gently"
      ],
-     "answer": 0,
-     "explain": "blurs指使界限变得模糊，与“makes less clear”同义，A项正确。B项“更有吸引力”偏离词义；C项“严格分开”与blur相反，属反义干扰；D项“完全排除”程度过重，属绝对化。",
-     "evidence": "Yet it also blurs a boundary that once seemed clear.",
+     "answer": 1,
+     "explain": "pummeling意为连续猛击，与beating repeatedly同义，B项准确；A项stabbing是刺；C项cutting是切；D项pushing gently是轻推，均不符。",
+     "evidence": "But archaeologists have also uncovered occasional signs that Neandertals and other hominids were stabbing and pummeling each other, perhaps intentionally, as far back as 430,000 years ago.",
      "id": "r_5"
     }
    ]
@@ -273,243 +281,243 @@
    "type": "banked_cloze",
    "title": "选词填空",
    "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
-   "passage": "A paid subscription, currently four dollars a month or fifty dollars for a lifetime, removes the ads. Company [1] describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners. By the standards of major platforms, the [2] is modest and somewhat dated. That modesty may be deliberate. A narrow catalogue built around hard-to-find films can attract viewers who value curation over volume. Roku's Howdy, a [3] service with a limited library, reportedly reached one million subscribers within six months of launch. The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a [4] niche when the target audience is clearly defined.\n\nThe more significant [5] lies behind the screen. JustWatch already operates an advertising business that uses first-party audience data from its streaming guide to help studios and distributors plan campaigns. By adding its own streaming service, the company can [6] viewing behaviour directly rather than infer it from search queries. This deeper data, it argues, will improve targeting for clients across digital platforms. The subscription fee, in other words, may be less important than the information the service [7].\n\nFor users, the arrangement offers convenience and a degree of choice. Yet it also blurs a boundary that once seemed clear. A guide that [8] where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own. JustWatch [9] that its vision is to direct fans to all their [10] options in one place. Whether a company can remain a trusted guide while also competing in the market it once merely mapped is a question the next few years will answer.",
+   "passage": "These remains with visible trauma are \"super cool,\" because \"there's a lot of ways to die that leave absolutely no mark on your skeleton,\" says Libby Cowgill, a biological [1] at the University of Missouri who wasn't involved with the study. Neandertals were often injured throughout their lives, probably from hunting. But archaeologists have also [2] occasional signs that Neandertals and other hominids were stabbing and pummeling each other, perhaps intentionally, as far back as 430,000 years ago.\n\nDuring an excavation that began in 2019 at Shanidar, the famous Neandertal [3] site in Iraqi Kurdistan, researchers uncovered remains from at least three previously unknown individuals. The set included ribs, hand bones, teeth and a [4] shoulder bone that probably belonged to a single individual who lived around 75,000 years ago.\n\nAt first, the team had no idea what caused the hole. \"It's so round, it's like, what is it?\" [5] Emma Pomeroy, a biological anthropologist at the University of Cambridge. The team removed the shoulder blade with the surrounding [6] and tested for evidence that roots or insects had damaged the [7]. But that didn't fit the nature of the damage. Instead, they found fragments of bone from the shoulder blade in the dirt that suggested it had been [8] when the individual, named Shanidar A, was alive. The team also didn't see any signs of healing around the puncture wound when they analyzed the bone under the [9] and using X-rays, suggesting that the injury had occurred around the time of death.\n\nThe next task was to find out what instrument might have caused the injury. The team [10] the puncture with the fossilized remains of butchered animals found alongside human tools, as well as wounds created by archaeologists stabbing animal corpses with re-created Paleolithic weapons. Stone-tipped spears usually create a diamond-shaped hole.",
    "bank": [
     {
      "label": "A",
-     "word": "chestnut"
+     "word": "anthropologist"
     },
     {
      "label": "B",
-     "word": "classification"
+     "word": "burial"
     },
     {
      "label": "C",
-     "word": "collection"
+     "word": "compared"
     },
     {
      "label": "D",
-     "word": "comparable"
+     "word": "fossil"
     },
     {
      "label": "E",
-     "word": "development"
+     "word": "hydraulic"
     },
     {
      "label": "F",
-     "word": "entertainment"
+     "word": "imprison"
     },
     {
      "label": "G",
-     "word": "generates"
+     "word": "microscope"
     },
     {
      "label": "H",
-     "word": "insists"
+     "word": "multiplication"
     },
     {
      "label": "I",
-     "word": "mournful"
+     "word": "perforated"
     },
     {
      "label": "J",
-     "word": "observe"
+     "word": "pierced"
     },
     {
      "label": "K",
-     "word": "recommends"
+     "word": "recalls"
     },
     {
      "label": "L",
-     "word": "representatives"
+     "word": "resort"
     },
     {
      "label": "M",
-     "word": "selection"
+     "word": "sediment"
     },
     {
      "label": "N",
-     "word": "similar"
+     "word": "signal"
     },
     {
      "label": "O",
-     "word": "viable"
+     "word": "uncovered"
     }
    ],
    "answers": [
     {
      "index": 1,
-     "word": "representatives",
-     "lower": "representatives",
+     "word": "anthropologist",
+     "lower": "anthropologist",
      "pos": "n",
-     "tier": "cet4",
-     "label": "L",
-     "gloss": "代表",
-     "context": "Company representatives describe the library as containing a few hundred titles across different tiers, supplied by about thirty content partners."
+     "tier": "beyond",
+     "label": "A",
+     "gloss": "",
+     "context": "These remains with visible trauma are \"super cool,\" because \"there's a lot of ways to die that leave absolutely no mark on your skeleton,\" says Libby Cowgill, a biological anthropologist at the University of Missouri who wasn't involved with the study."
     },
     {
      "index": 2,
-     "word": "collection",
-     "lower": "collection",
-     "pos": "n",
+     "word": "uncovered",
+     "lower": "uncovered",
+     "pos": "adj",
      "tier": "cet4",
-     "label": "C",
-     "gloss": "搜集，收集；收藏品",
-     "context": "By the standards of major platforms, the collection is modest and somewhat dated."
+     "label": "O",
+     "gloss": "揭开…的盖子",
+     "context": "But archaeologists have also uncovered occasional signs that Neandertals and other hominids were stabbing and pummeling each other, perhaps intentionally, as far back as 430,000 years ago."
     },
     {
      "index": 3,
-     "word": "comparable",
-     "lower": "comparable",
-     "pos": "adj",
-     "tier": "cet4",
-     "label": "D",
-     "gloss": "可比较的； 类似的； 比得上的",
-     "context": "Roku's Howdy, a comparable service with a limited library, reportedly reached one million subscribers within six months of launch."
+     "word": "burial",
+     "lower": "burial",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "埋葬",
+     "context": "During an excavation that began in 2019 at Shanidar, the famous Neandertal burial site in Iraqi Kurdistan, researchers uncovered remains from at least three previously unknown individuals."
     },
     {
      "index": 4,
-     "word": "viable",
-     "lower": "viable",
-     "pos": "adj",
+     "word": "perforated",
+     "lower": "perforated",
+     "pos": "v",
      "tier": "beyond",
-     "label": "O",
+     "label": "I",
      "gloss": "",
-     "context": "The lesson is not that small libraries always succeed, but that exclusivity and low prices can create a viable niche when the target audience is clearly defined."
+     "context": "The set included ribs, hand bones, teeth and a perforated shoulder bone that probably belonged to a single individual who lived around 75,000 years ago."
     },
     {
      "index": 5,
-     "word": "development",
-     "lower": "development",
-     "pos": "n",
-     "tier": "cet4",
-     "label": "E",
-     "gloss": "发展；开发；生长",
-     "context": "The more significant development lies behind the screen."
-    },
-    {
-     "index": 6,
-     "word": "observe",
-     "lower": "observe",
-     "pos": "v",
-     "tier": "cet4",
-     "label": "J",
-     "gloss": "遵守",
-     "context": "By adding its own streaming service, the company can observe viewing behaviour directly rather than infer it from search queries."
-    },
-    {
-     "index": 7,
-     "word": "generates",
-     "lower": "generates",
-     "pos": "v",
-     "tier": "cet4",
-     "label": "G",
-     "gloss": "产生",
-     "context": "The subscription fee, in other words, may be less important than the information the service generates."
-    },
-    {
-     "index": 8,
-     "word": "recommends",
-     "lower": "recommends",
+     "word": "recalls",
+     "lower": "recalls",
      "pos": "v",
      "tier": "cet4",
      "label": "K",
-     "gloss": "推荐，劝告，使受欢迎",
-     "context": "A guide that recommends where to watch is expected to serve the viewer's interest; a service that sells advertising and data has an interest of its own."
+     "gloss": "回想；叫回；收回",
+     "context": "\"It's so round, it's like, what is it?\" recalls Emma Pomeroy, a biological anthropologist at the University of Cambridge."
+    },
+    {
+     "index": 6,
+     "word": "sediment",
+     "lower": "sediment",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "The team removed the shoulder blade with the surrounding sediment and tested for evidence that roots or insects had damaged the [7]."
+    },
+    {
+     "index": 7,
+     "word": "fossil",
+     "lower": "fossil",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "D",
+     "gloss": "化石",
+     "context": "The team removed the shoulder blade with the surrounding [6] and tested for evidence that roots or insects had damaged the fossil."
+    },
+    {
+     "index": 8,
+     "word": "pierced",
+     "lower": "pierced",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "剌穿；v 穿入",
+     "context": "Instead, they found fragments of bone from the shoulder blade in the dirt that suggested it had been pierced when the individual, named Shanidar A, was alive."
     },
     {
      "index": 9,
-     "word": "insists",
-     "lower": "insists",
-     "pos": "v",
+     "word": "microscope",
+     "lower": "microscope",
+     "pos": "n",
      "tier": "cet4",
-     "label": "H",
-     "gloss": "主张，坚持",
-     "context": "JustWatch insists that its vision is to direct fans to all their [10] options in one place."
+     "label": "G",
+     "gloss": "显微镜",
+     "context": "The team also didn't see any signs of healing around the puncture wound when they analyzed the bone under the microscope and using X-rays, suggesting that the injury had occurred around the time of death."
     },
     {
      "index": 10,
-     "word": "entertainment",
-     "lower": "entertainment",
-     "pos": "n",
+     "word": "compared",
+     "lower": "compared",
+     "pos": "v",
      "tier": "cet4",
-     "label": "F",
-     "gloss": "娱乐",
-     "context": "JustWatch [9] that its vision is to direct fans to all their entertainment options in one place."
+     "label": "C",
+     "gloss": "比较，对照",
+     "context": "The team compared the puncture with the fossilized remains of butchered animals found alongside human tools, as well as wounds created by archaeologists stabbing animal corpses with re-created Paleolithic weapons."
     }
    ]
   }
  ],
  "reading_ref": {
-  "source": "Ars Technica",
-  "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+  "source": "Science News",
+  "url": "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear",
   "long_sentences": [
    {
-    "en": "“[JustWatchTV] will provide even deeper audience data and insights for JustWatch Media, the group’s campaign planning and buying service for film marketing campaigns across digital platforms like YouTube, Meta, and TikTok for studios, distributors, streamers, and media agencies,” the announcement said.",
-    "words": 41
+    "en": "These remains with visible trauma are “super cool,” because “there’s a lot of ways to die that leave absolutely no mark on your skeleton,” says Libby Cowgill, a biological anthropologist at the University of Missouri in Columbia who wasn’t involved with the study.",
+    "words": 43
    },
    {
-    "en": "“From the beginning, our vision was to create a single platform that directs fans to all of their entertainment options in one place,” David Croyé, founder and CEO of JustWatch Group, said in a statement.",
-    "words": 35
+    "en": "(See our AI policy here .) The size and structure of a puncture wound in a shoulder blade suggest that it was made by a wooden spear shortly before or after death, researchers write October 15 in Scientific Reports .",
+    "words": 40
    },
    {
-    "en": "“JustWatch TV will help fill in the gaps and will make it easier for the massive JustWatch audience to discover and watch great movies and series, including those hard-to-find titles, right from the app itself.”",
-    "words": 35
+    "en": "But archaeologists have also uncovered occasional signs that Neandertals and other hominids — modern humans and their extinct cousins — were stabbing and pummeling each other, maybe even intentionally, as far back as 430,000 years ago .",
+    "words": 37
    }
   ]
  },
  "reading_draft": null,
- "generated_at": "2026-10-21T16:25:36",
+ "generated_at": "2026-10-21T16:34:19",
  "difficulty": {
-  "score": 81,
+  "score": 83,
   "level": "接近六级",
   "in_band": false,
   "sections": [
    {
     "type": "long_conversation",
-    "words": 316,
-    "asl": 15.0,
-    "flesch": 61.4,
-    "fkgl": 8.4,
-    "long_sent": 0.048,
-    "beyond": 0.051,
+    "words": 281,
+    "asl": 10.8,
+    "flesch": 75.4,
+    "fkgl": 5.4,
+    "long_sent": 0.0,
+    "beyond": 0.103,
     "in_band": true,
-    "score": 98
+    "score": 75
    },
    {
     "type": "passage_listening",
-    "words": 317,
+    "words": 299,
     "asl": 17.6,
-    "flesch": 42.2,
-    "fkgl": 11.8,
-    "long_sent": 0.0,
-    "beyond": 0.035,
+    "flesch": 36.8,
+    "fkgl": 12.5,
+    "long_sent": 0.059,
+    "beyond": 0.1,
     "in_band": false,
-    "score": 58
+    "score": 64
    },
    {
     "type": "reading",
-    "words": 379,
-    "asl": 17.2,
-    "flesch": 47.2,
-    "fkgl": 11.0,
-    "long_sent": 0.0,
-    "beyond": 0.066,
+    "words": 496,
+    "asl": 19.8,
+    "flesch": 54.2,
+    "fkgl": 10.6,
+    "long_sent": 0.2,
+    "beyond": 0.091,
     "in_band": true,
-    "score": 80
+    "score": 92
    },
    {
     "type": "banked_cloze",
-    "words": 287,
-    "asl": 16.9,
-    "flesch": 47.6,
-    "fkgl": 10.8,
-    "long_sent": 0.0,
-    "beyond": 0.066,
+    "words": 301,
+    "asl": 21.5,
+    "flesch": 46.7,
+    "fkgl": 12.1,
+    "long_sent": 0.214,
+    "beyond": 0.093,
     "in_band": true,
-    "score": 87
+    "score": 100
    }
   ]
  },
- "notice": " 注意：今日自动题难度评分 81（接近六级），与六级区间有偏差。"
+ "notice": " 注意：今日自动题难度评分 83（接近六级），与六级区间有偏差。"
 }
