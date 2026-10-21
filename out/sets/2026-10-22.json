@@ -1,0 +1,520 @@
+{
+ "id": "2026-10-22",
+ "date": "2026-10-22",
+ "title": "Shanghai's 'Audacious' New Opera House Just Opened Its Doors—and a Gravity-Defying Staircase—to the Public",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 680,
+  "sentences": 26,
+  "avg_sentence_len": 26.2,
+  "flesch_ease": 38.0,
+  "flesch_grade": 14.5,
+  "hard_word_ratio": 0.09,
+  "long_sent_ratio": 0.346,
+  "level": "六级",
+  "in_band": true,
+  "distance": 2.0,
+  "issues": [],
+  "score": 92
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and her professor discuss a proposed public lecture on opera house architecture.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, do you have a moment? I'm organizing next month's public lecture series for the architecture society, and I'd like your advice on a speaker."
+    },
+    {
+     "sp": "M",
+     "en": "Of course. Who did you have in mind?"
+    },
+    {
+     "sp": "W",
+     "en": "I was thinking of inviting Dr. Lin, the cultural historian who wrote that book on waterfront performance venues. Her work on how public buildings either welcome or exclude ordinary citizens seems perfect for our theme."
+    },
+    {
+     "sp": "M",
+     "en": "That's a strong choice. She's rigorous but accessible. Have you considered what angle she might take? Audiences here are mostly students and local residents, not specialists."
+    },
+    {
+     "sp": "W",
+     "en": "I thought she could focus on the tension between prestige and accessibility. Many new opera houses are architectural landmarks, yet people assume they're only for the wealthy."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. That assumption is worth challenging. But be careful not to let the talk become a simple celebration of bold design. The interesting question is whether a striking staircase or an open lobby actually changes who feels entitled to walk in."
+    },
+    {
+     "sp": "W",
+     "en": "So you'd want her to address the gap between symbolic openness and real participation?"
+    },
+    {
+     "sp": "M",
+     "en": "Precisely. And she should probably mention that free entry to a building doesn't automatically create a new audience for the art performed inside. Access is a start, not a solution."
+    },
+    {
+     "sp": "W",
+     "en": "That's a useful distinction. I'll ask her to include concrete examples, perhaps comparing European and Asian cases."
+    },
+    {
+     "sp": "M",
+     "en": "Good. Also, keep the Q&A session generous. Students often ask the most revealing questions about cultural exclusion."
+    },
+    {
+     "sp": "W",
+     "en": "I'll schedule thirty minutes. One more thing: should we charge for tickets? We need to cover the honorarium."
+    },
+    {
+     "sp": "M",
+     "en": "I'd suggest a small suggested donation rather than a fixed fee. It signals openness while still supporting the series. And advertise through community centers, not just the university list."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. Thank you. I'll send her the invitation this afternoon."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "How to organize a public lecture on cultural accessibility",
+      "Why opera houses should be free to all visitors",
+      "Which European cities have the best performance venues",
+      "How to reduce the cost of university events"
+     ],
+     "answer": 0,
+     "explain": "对话围绕邀请学者做公共讲座、讨论建筑开放与真实参与展开，A项准确概括。B项将“免费入场”绝对化为核心主张；C项欧洲城市比较只是讲座可能涉及的例子；D项降低成本并非讨论重点。",
+     "evidence": "I'm organizing next month's public lecture series for the architecture society, and I'd like your advice on a speaker."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the professor warn against?",
+     "options": [
+      "Inviting a speaker who lacks academic reputation",
+      "Letting the lecture merely praise striking design",
+      "Holding the event without community advertising",
+      "Charging a fixed fee for student attendees"
+     ],
+     "answer": 1,
+     "explain": "教授明确提醒不要让讲座变成对大胆设计的简单赞美，B项同义改写。A项与Dr. Lin严谨且易懂矛盾；C项是后文建议；D项教授建议的是自愿捐赠而非固定收费。",
+     "evidence": "But be careful not to let the talk become a simple celebration of bold design."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about free entry to a building?",
+     "options": [
+      "It guarantees a broader audience for performances.",
+      "It is less important than the building's appearance.",
+      "It may not by itself attract new audiences to art.",
+      "It should be replaced by mandatory ticket sales."
+     ],
+     "answer": 2,
+     "explain": "教授说免费进入并不自动创造新观众，C项为合理推断。A项与原文相反；B项比较重要性无依据；D项与建议的自愿捐赠矛盾。",
+     "evidence": "And she should probably mention that free entry to a building doesn't automatically create a new audience for the art performed inside."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the professor's attitude toward the proposed lecture?",
+     "options": [
+      "Supportive but insistent on a critical angle",
+      "Doubtful about the speaker's qualifications",
+      "Indifferent to the event's community impact",
+      "Enthusiastic about charging fixed admission"
+     ],
+     "answer": 0,
+     "explain": "教授称选择很强并给出具体建议，同时坚持批判性视角，A项准确。B项与“严谨但易懂”矛盾；C项教授关注社区宣传，并非漠不关心；D项教授反对固定收费。",
+     "evidence": "That's a strong choice. She's rigorous but accessible."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "A news commentary on how cultural buildings balance spectacle and public access.",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Across the world, cities are competing to build cultural landmarks that do more than house performances. A new generation of opera houses, museums and concert halls is being designed to attract ordinary residents, not just ticket-holding elites who can afford premium seats. Architects increasingly treat staircases, rooftops and lobbies as public spaces, inviting people to enter without purchasing a seat or committing to a full evening program. This approach reflects a broader shift in urban policy. Governments hope that iconic buildings will boost tourism, stimulate local business and project an image of cultural sophistication to both visitors and investors. Yet critics point out that architectural openness does not automatically produce social inclusion. A spectacular staircase may draw crowds for photographs, while the performances inside remain expensive and unfamiliar to many citizens. Researchers who study cultural participation argue that access has two dimensions. The first is physical: Can people reach the building, and do they feel welcome to enter? The second is psychological: Do they believe the art presented there is meant for them? Removing entrance fees addresses the first dimension but leaves the second largely untouched. Without education programs, community partnerships and diverse programming, a landmark may remain a beautiful shell, and some cities have responded with practical measures. They schedule free open rehearsals, collaborate with schools and invite local amateur groups to perform. These efforts are less photogenic than a gravity-defying staircase, but they may do more to change who actually walks through the doors. The lesson is that cultural buildings succeed as civic destinations only when design is matched by sustained outreach."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Why iconic cultural buildings need outreach to be truly inclusive",
+      "How tourism profits from spectacular opera house design",
+      "Why architects prefer staircases to traditional lobbies",
+      "How entrance fees determine cultural participation"
+     ],
+     "answer": 0,
+     "explain": "全文讨论文化地标的开放设计需配合持续推广才能实现真正包容，A项概括准确。B项旅游收益只是背景；C项楼梯设计是例子而非主旨；D项费用只是参与的一个维度。",
+     "evidence": "The lesson is that cultural buildings succeed as civic destinations only when design is matched by sustained outreach."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What do critics say about architectural openness?",
+     "options": [
+      "It always raises ticket prices for local residents.",
+      "It may attract visitors without creating social inclusion.",
+      "It discourages governments from funding education.",
+      "It makes performances unfamiliar to architects."
+     ],
+     "answer": 1,
+     "explain": "批评者指出开放设计不自动带来社会包容，B项同义改写。A项“总是提价”属绝对化；C项无中生有；D项偷换概念，原文说表演对许多市民陌生。",
+     "evidence": "Yet critics point out that architectural openness does not automatically produce social inclusion."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about free open rehearsals?",
+     "options": [
+      "They are more visually impressive than new staircases.",
+      "They replace the need for diverse programming.",
+      "They may be more effective than design in broadening audiences.",
+      "They are mainly intended to train professional musicians."
+     ],
+     "answer": 2,
+     "explain": "原文说这些措施不如楼梯上镜，但可能更改变谁真正走进门，C项为合理推断。A项与“less photogenic”相反；B项与需要多元节目矛盾；D项无依据。",
+     "evidence": "These efforts are less photogenic than a gravity-defying staircase, but they may do more to change who actually walks through the doors."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A New Opera House Tests the Meaning of Openness",
+   "passage": "Shanghai's newest opera house opened this week, presenting a bold architectural profile and a soaring spiral staircase that links the street to a rooftop stage and observation deck. The nearly 1.6 million square-foot building contains three auditoriums with a combined capacity of 4,200 seats. Its stages were designed to host everything from traditional opera to classical symphonies and experimental productions.\n\nThe primary performance space, a 2,000-seat hall called Harmony Hall, is described by its architects as a finely tuned instrument that combines advanced theatre systems with carefully calibrated acoustics. A second venue, the 1,200-seat Soar Theatre, was conceived with baroque and classical opera in mind. The smaller Open Stage, which offers panoramic riverfront views, prioritizes flexibility through changing stage and seating configurations. Throughout, the main hall is a stark white space filled with natural light and sharp red accents.\n\nVisitors need no ticket to enter the building or to explore its architectural features. That philosophy of openness is embodied by the massive exterior staircase, which rises from the riverfront and spirals upward to form the roof. It is intended to connect existing walkways with an open-air observation deck, gathering spaces and a stage. The staircase alone resembles a large public sculpture, evoking a traditional Chinese fan, a swirling dance movement, piano keys and the flow of the Huangpu River.\n\nYet the building's architects insist that a cultural institution must answer to its surroundings and to the people who use it. \"Buildings like opera houses inevitably create thresholds through walls, doors and ticketed programs,\" co-founder Kjetil Thorsen told Dezeen. \"We see it as our responsibility to challenge those thresholds and make the building as much a civic destination as a performance venue.\" That ambition, however, raises a question: whether a dramatic staircase and an open lobby can genuinely alter who feels entitled to walk in.\n\nThe inaugural season, running from October through February 2027, will feature 82 performances, including ballet from Russia's Eifman Ballet and the American Ballet Theatre, a Beethoven cycle from Staatskapelle Berlin, and traditional Chinese operas such as The Peony Pavilion and Dream of the Red Chamber. Such programming signals prestige, but prestige alone may not dissolve the psychological distance that keeps many residents away from the art inside.\n\nShanghai, a financial hub of roughly 25 million people, has recently opened several major cultural venues, from the Museum of Art Pudong to the West Bund Grand Theatre. The new opera house thus joins a wider civic effort. As Thorsen told CNN, accessibility is about daring to go in, and about feeling invited even if you are not the average opera goer. Whether that feeling spreads beyond the photogenic staircase will depend on sustained outreach as much as on design.",
+   "source": {
+    "name": "Smithsonian News",
+    "url": "https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The design of a new opera house and the limits of open access",
+      "The acoustic challenges architects face in modern performance halls",
+      "The rivalry between traditional Chinese opera and Western ballet",
+      "The economic impact of cultural venues on Shanghai's tourism"
+     ],
+     "answer": 0,
+     "explain": "全文以新歌剧院为例，讨论开放设计能否带来真正包容，A项准确概括。B项声学挑战只是局部细节；C项中西艺术对立无中生有；D项旅游经济影响未提及。",
+     "evidence": "That ambition, however, raises a question: whether a dramatic staircase and an open lobby can genuinely alter who feels entitled to walk in.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What is special about the Open Stage?",
+     "options": [
+      "It has the largest seating capacity of the three halls.",
+      "It is reserved exclusively for baroque opera.",
+      "It can change its stage and seating arrangements.",
+      "It offers the best acoustics for symphonies."
+     ],
+     "answer": 2,
+     "explain": "原文说Open Stage通过变化的舞台与座位布局强调灵活性，C项同义改写。A项张冠李戴，最大的是Harmony Hall；B项绝对化且属于Soar Theatre；D项声学描述针对Harmony Hall。",
+     "evidence": "The smaller Open Stage, which offers panoramic riverfront views, prioritizes flexibility through changing stage and seating configurations.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What does the exterior staircase connect?",
+     "options": [
+      "The three auditoriums with the backstage area",
+      "Existing walkways with a rooftop observation deck",
+      "The riverfront with the city's main railway station",
+      "The main hall with the smaller experimental stage"
+     ],
+     "answer": 1,
+     "explain": "原文明确指出楼梯连接现有步道与露天观景台、聚集空间和舞台，B项准确。A项张冠李戴；C项火车站无中生有；D项混淆室内空间关系。",
+     "evidence": "It is intended to connect existing walkways with an open-air observation deck, gathering spaces and a stage.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the inaugural season's programming?",
+     "options": [
+      "It may signal prestige without removing psychological barriers.",
+      "It is designed mainly for foreign tourists and critics.",
+      "It will be free to all residents of Shanghai.",
+      "It relies entirely on experimental productions."
+     ],
+     "answer": 0,
+     "explain": "原文说节目显示声望，但声望未必消除心理距离，A项为合理推断。B项无依据；C项与需购票的演出矛盾；D项与包含芭蕾、交响乐等多元节目不符。",
+     "evidence": "Such programming signals prestige, but prestige alone may not dissolve the psychological distance that keeps many residents away from the art inside.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"thresholds\" in the passage is closest in meaning to ______.",
+     "options": [
+      "barriers to entry",
+      "acoustic standards",
+      "structural supports",
+      "ticket discounts"
+     ],
+     "answer": 0,
+     "explain": "语境中建筑师说要挑战由墙壁、门和售票项目造成的门槛，thresholds指进入障碍，A项正确。B项声学标准属偷换概念；C项结构支撑是建筑术语误用；D项折扣无中生有。",
+     "evidence": "Buildings like opera houses inevitably create thresholds through walls, doors and ticketed programs",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Throughout, the main hall is a stark white space filled with natural light and sharp red accents. Visitors need no [1] to enter the building or to explore its [2] features. That philosophy of openness is embodied by the massive exterior staircase, which rises from the riverfront and spirals upward to form the roof. It is intended to [3] existing walkways with an open-air observation deck, gathering spaces and a stage. The staircase alone resembles a large public [4], evoking a traditional Chinese fan, a swirling dance movement, piano keys and the flow of the Huangpu River.\n\nYet the building's architects insist that a [5] institution must answer to its surroundings and to the people who use it. \"Buildings like opera houses inevitably create [6] through walls, doors and ticketed programs,\" co-founder Kjetil Thorsen told Dezeen. \"We see it as our responsibility to challenge those thresholds and make the building as much a civic destination as a [7] venue.\"\n\nThat ambition, however, raises a question: whether a dramatic staircase and an open lobby can genuinely alter who feels [8] to walk in. The inaugural season, running from October through February 2027, will feature 82 [9], including ballet from Russia's Eifman Ballet and the American Ballet Theatre, a Beethoven cycle from Staatskapelle Berlin, and traditional Chinese operas such as The Peony Pavilion and Dream of the Red Chamber. Such programming signals prestige, but prestige alone may not [10] the psychological distance that keeps many residents away from the art inside.\n\nShanghai, a financial hub of roughly 25 million people, has recently opened several major cultural venues, from the Museum of Art Pudong to the West Bund Grand Theatre. The new opera house thus joins a wider civic effort.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "architectural"
+    },
+    {
+     "label": "B",
+     "word": "compromise"
+    },
+    {
+     "label": "C",
+     "word": "connect"
+    },
+    {
+     "label": "D",
+     "word": "cultural"
+    },
+    {
+     "label": "E",
+     "word": "dissolve"
+    },
+    {
+     "label": "F",
+     "word": "entitled"
+    },
+    {
+     "label": "G",
+     "word": "equivalent"
+    },
+    {
+     "label": "H",
+     "word": "impetus"
+    },
+    {
+     "label": "I",
+     "word": "performance"
+    },
+    {
+     "label": "J",
+     "word": "performances"
+    },
+    {
+     "label": "K",
+     "word": "possession"
+    },
+    {
+     "label": "L",
+     "word": "rotary"
+    },
+    {
+     "label": "M",
+     "word": "sculpture"
+    },
+    {
+     "label": "N",
+     "word": "thresholds"
+    },
+    {
+     "label": "O",
+     "word": "ticket"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "ticket",
+     "lower": "ticket",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "（交通违章）罚款传票",
+     "context": "Visitors need no ticket to enter the building or to explore its [2] features."
+    },
+    {
+     "index": 2,
+     "word": "architectural",
+     "lower": "architectural",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "A",
+     "gloss": "",
+     "context": "Visitors need no [1] to enter the building or to explore its architectural features."
+    },
+    {
+     "index": 3,
+     "word": "connect",
+     "lower": "connect",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "连接，连结；联系",
+     "context": "It is intended to connect existing walkways with an open-air observation deck, gathering spaces and a stage."
+    },
+    {
+     "index": 4,
+     "word": "sculpture",
+     "lower": "sculpture",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "M",
+     "gloss": "雕塑",
+     "context": "The staircase alone resembles a large public sculpture, evoking a traditional Chinese fan, a swirling dance movement, piano keys and the flow of the Huangpu River."
+    },
+    {
+     "index": 5,
+     "word": "cultural",
+     "lower": "cultural",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "D",
+     "gloss": "",
+     "context": "Yet the building's architects insist that a cultural institution must answer to its surroundings and to the people who use it."
+    },
+    {
+     "index": 6,
+     "word": "thresholds",
+     "lower": "thresholds",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "N",
+     "gloss": "门槛",
+     "context": "\"Buildings like opera houses inevitably create thresholds through walls, doors and ticketed programs,\" co-founder Kjetil Thorsen told Dezeen."
+    },
+    {
+     "index": 7,
+     "word": "performance",
+     "lower": "performance",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "演出，履行，表现",
+     "context": "\"We see it as our responsibility to challenge those thresholds and make the building as much a civic destination as a performance venue.\" That ambition, however, raises a question: whether a dramatic staircase and an open lobby can genuinely alter who feels [8] to walk in."
+    },
+    {
+     "index": 8,
+     "word": "entitled",
+     "lower": "entitled",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "使具有权利，使具有资格",
+     "context": "\"We see it as our responsibility to challenge those thresholds and make the building as much a civic destination as a [7] venue.\" That ambition, however, raises a question: whether a dramatic staircase and an open lobby can genuinely alter who feels entitled to walk in."
+    },
+    {
+     "index": 9,
+     "word": "performances",
+     "lower": "performances",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "演出，履行，表现",
+     "context": "The inaugural season, running from October through February 2027, will feature 82 performances, including ballet from Russia's Eifman Ballet and the American Ballet Theatre, a Beethoven cycle from Staatskapelle Berlin, and traditional Chinese operas such as The Peony Pavilion and Dream of the Red Chamber."
+    },
+    {
+     "index": 10,
+     "word": "dissolve",
+     "lower": "dissolve",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "使溶解；解散",
+     "context": "Such programming signals prestige, but prestige alone may not dissolve the psychological distance that keeps many residents away from the art inside."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Smithsonian News",
+  "url": "https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/",
+  "long_sentences": [
+   {
+    "en": "It will feature 82 performances, including ballet numbers from Russia’s Eifman Ballet and the American Ballet Theatre ; a Beethoven cycle from Staatskapelle Berlin , one of the world’s leading orchestras; and traditional Chinese operas, called xiqu , including The Peony Pavilion and Dream of the Red Chamber .",
+    "words": 49
+   },
+   {
+    "en": "“It’s not only about the glass walls and the doors, but it’s about being attracted to the space as you come in, and you feel that even if you’re not the average opera goer, you’re invited in.” Christian Thorsberg is an environmental writer and photographer from Chicago.",
+    "words": 47
+   },
+   {
+    "en": "“A cultural building, any building for that matter, must respond to its surroundings, the people who use it, the performers it serves, and the city it becomes part of,” Kjetil Thorsen, the co-founder of Snøhetta, tells Dezeen ’s Lizzie Crook.",
+    "words": 40
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-22T06:25:11",
+ "difficulty": {
+  "score": 71,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 300,
+    "asl": 10.3,
+    "flesch": 56.7,
+    "fkgl": 7.9,
+    "long_sent": 0.0,
+    "beyond": 0.08,
+    "in_band": false,
+    "score": 51
+   },
+   {
+    "type": "passage_listening",
+    "words": 264,
+    "asl": 17.6,
+    "flesch": 37.1,
+    "fkgl": 12.5,
+    "long_sent": 0.0,
+    "beyond": 0.095,
+    "in_band": false,
+    "score": 51
+   },
+   {
+    "type": "reading",
+    "words": 446,
+    "asl": 22.3,
+    "flesch": 37.4,
+    "fkgl": 13.6,
+    "long_sent": 0.1,
+    "beyond": 0.078,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "banked_cloze",
+    "words": 284,
+    "asl": 23.7,
+    "flesch": 39.5,
+    "fkgl": 13.6,
+    "long_sent": 0.167,
+    "beyond": 0.07,
+    "in_band": true,
+    "score": 96
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 71（偏易（四级水平）），与六级区间有偏差。"
+}
