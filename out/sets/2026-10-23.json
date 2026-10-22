@@ -1,0 +1,536 @@
+{
+ "id": "2026-10-23",
+ "date": "2026-10-23",
+ "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 455,
+  "sentences": 17,
+  "avg_sentence_len": 26.8,
+  "flesch_ease": 56.8,
+  "flesch_grade": 12.0,
+  "hard_word_ratio": 0.066,
+  "long_sent_ratio": 0.471,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 78
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student and a career advisor discuss space-industry internships.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor Lin, I'm torn between two summer internships and I'd value your perspective."
+    },
+    {
+     "sp": "M",
+     "en": "Glad to help. Which two are competing for your attention?"
+    },
+    {
+     "sp": "W",
+     "en": "One is with a private firm that builds lunar rovers; the other is with a university lab analysing satellite images of the Moon."
+    },
+    {
+     "sp": "M",
+     "en": "Both sound relevant. What matters most to you this summer?"
+    },
+    {
+     "sp": "W",
+     "en": "Honestly, I want something that will strengthen my graduate applications, but I also need to earn enough to cover rent."
+    },
+    {
+     "sp": "M",
+     "en": "That's a practical concern. The private firm pays well, I assume, but does it offer meaningful research tasks?"
+    },
+    {
+     "sp": "W",
+     "en": "They said interns mostly handle routine data entry and logistics. The lab, by contrast, would let me join a team mapping lunar craters."
+    },
+    {
+     "sp": "M",
+     "en": "So one offers money, the other offers intellectual engagement. Have you asked whether the lab can provide a stipend?"
+    },
+    {
+     "sp": "W",
+     "en": "I haven't. I assumed university labs never pay."
+    },
+    {
+     "sp": "M",
+     "en": "That's a common misconception. Many grant-funded projects include student support. It's worth an email before you decide."
+    },
+    {
+     "sp": "W",
+     "en": "If the lab could offer even a modest stipend, I'd lean toward it."
+    },
+    {
+     "sp": "M",
+     "en": "And don't overlook the network. The lab's director collaborates with NASA on mission planning, which could open doors later."
+    },
+    {
+     "sp": "W",
+     "en": "That's a good point. The firm's prestige is mainly commercial, not scientific."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. Prestige fades; skills and contacts endure. But make the choice yourself, not because I pushed you."
+    },
+    {
+     "sp": "W",
+     "en": "Understood. I'll contact the lab this afternoon and ask about funding and duties."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And keep the firm as a fallback. A paid backup is never a bad thing."
+    },
+    {
+     "sp": "W",
+     "en": "Thank you. I feel much clearer about how to proceed."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman's central problem?",
+     "options": [
+      "She has failed to secure any summer placement.",
+      "She cannot decide between two summer internships.",
+      "She doubts her professor's professional advice.",
+      "She must choose between study and part-time work."
+     ],
+     "answer": 1,
+     "explain": "女士开场即说在两个暑期实习间难以取舍，后文围绕此展开。B项与事实相反，她已有两个机会；C项她主动求教，并未质疑；D项她考虑收入，但非核心矛盾。",
+     "evidence": "Professor Lin, I'm torn between two summer internships and I'd value your perspective."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the private firm reportedly assign to interns?",
+     "options": [
+      "Analysis of satellite images of the Moon.",
+      "Design work on lunar rover prototypes.",
+      "Routine data entry and logistical support.",
+      "Collaboration with NASA mission planners."
+     ],
+     "answer": 2,
+     "explain": "女士转述公司安排实习生做常规数据录入与后勤。B项过度推断，公司造车不等于实习生设计；C项是大学实验室的任务；D项是实验室主任的人脉，张冠李戴。",
+     "evidence": "They said interns mostly handle routine data entry and logistics."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about university lab stipends?",
+     "options": [
+      "They are more common than the woman assumes.",
+      "They are never offered to undergraduate interns.",
+      "They are always smaller than corporate salaries.",
+      "They depend entirely on the director's goodwill."
+     ],
+     "answer": 0,
+     "explain": "男士称“大学实验室从不付钱”是常见误解，许多资助项目含学生补贴，暗示其比女士想的更普遍。B项与他的话相反；C项他未比较金额；D项他归因于项目资助而非个人善意。",
+     "evidence": "That's a common misconception. Many grant-funded projects include student support."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the woman's decision?",
+     "options": [
+      "Supportive but insistent on her independence.",
+      "Indifferent to which internship she selects.",
+      "Strongly opposed to the commercial firm.",
+      "Confident that money should be the priority."
+     ],
+     "answer": 0,
+     "explain": "男士提供建议却强调“别因我推动而选”，体现支持又尊重其自主。B项他积极分析，并非漠然；C项他未否定公司，只提醒权衡；D项他反而看重技能与人脉。",
+     "evidence": "But make the choice yourself, not because I pushed you."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When a spacecraft travels farther from Earth than any human has gone before, the public tends to focus on the heroic astronauts who ride it into the unknown. Yet the success of such a mission depends just as heavily on the engineers and flight controllers who remain on the ground, monitoring every parameter from a distance. During a recent lunar voyage, the crew commander described a moment of genuine fear: the onboard distance counter kept rising past the planned turning point. For several minutes he believed the craft might never return. In fact, the excess distance was a normal result of orbital mechanics, and the counter soon began to fall as the trajectory unfolded exactly as designed. What makes this anecdote instructive is not the danger itself but the division of labour it reveals so clearly. While the commander watched the numbers with mounting alarm, his crewmates were calmly conducting scientific observations and reporting to mission control. The ground teams, meanwhile, were monitoring the same data and knew the trajectory was proceeding as designed, so they felt no alarm at all. The astronauts' anxiety was real, but it was not shared by those with the fullest picture. This gap between cockpit perception and ground-level knowledge is common in high-risk enterprises, where those closest to the action often see only part of the story. It suggests that effective space missions need not only technical precision but also clear communication between those in the field and those at headquarters. Had the commander been briefed more thoroughly on expected fluctuations, his fear might have been avoided. The episode thus offers a lesson for any organisation managing complex operations: experts in the field may lack the context that specialists at headquarters possess, and bridging that gap is essential."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The gap between crew perception and ground knowledge.",
+      "The technical causes of a lunar mission's failure.",
+      "The heroic role of astronauts in space exploration.",
+      "The importance of public interest in space travel."
+     ],
+     "answer": 0,
+     "explain": "全文围绕机组感知与地面认知的落差及其启示展开。B项任务并未失败，与事实相反；C项首段即指出公众过度聚焦宇航员，非主旨；D项公众兴趣仅为引子，属以偏概全。",
+     "evidence": "This gap between cockpit perception and ground-level knowledge is common in high-risk enterprises, where those closest to the action often see only part of the story."
+    },
+    {
+     "id": "l2_2",
+     "stem": "Why did the distance counter rise beyond the planned point?",
+     "options": [
+      "It reflected normal orbital mechanics.",
+      "It signalled a serious navigational error.",
+      "It resulted from a failure in mission control.",
+      "It was caused by the crew's scientific work."
+     ],
+     "answer": 0,
+     "explain": "文中明确超出距离是轨道力学的正常结果。B项与“正常结果”矛盾；C项地面团队知晓轨迹正常，无故障；D项科研观测与计数器无关，属因果错置。",
+     "evidence": "In fact, the excess distance was a normal result of orbital mechanics, and the counter soon began to fall as the trajectory unfolded exactly as designed."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the commander's fear?",
+     "options": [
+      "It could have been eased by better briefing.",
+      "It spread quickly among the whole crew.",
+      "It proved the mission was poorly designed.",
+      "It was dismissed by ground controllers as trivial."
+     ],
+     "answer": 0,
+     "explain": "末段指出若事先更充分通报预期波动，恐惧或可避免，可推知简报能缓解焦虑。B项同僚当时冷静工作，未受传染；C项任务按设计进行；D项文中未提地面轻视其恐惧。",
+     "evidence": "Had the commander been briefed more thoroughly on expected fluctuations, his fear might have been avoided."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Fear at the Farthest Point",
+   "passage": "When Artemis II commander Reid Wiseman addressed the Starmus VIII festival, he did not begin with triumph or with the customary celebration of a mission accomplished. Instead, he recalled the moment during his ten-day lunar mission when genuine fear took hold of him, a moment that few in the audience could have anticipated. The crew had been told their maximum distance from Earth would be 219,667 nautical miles, a record for human spaceflight. As the spacecraft shot past that figure and the odometer kept climbing, Wiseman became convinced that something had gone catastrophically wrong. His alarm was understandable, given the circumstances in which the crew was operating. Mission control had assured the crew that 219,667 nautical miles marked the farthest point of their journey, after which they would turn homeward. Yet three minutes after the counter reached that number, it displayed 219,668, and soon 219,669. To Wiseman, each additional mile suggested that the craft had overshot its intended path and might never return. \"That was the moment that I felt real fear,\" he later told the audience. What makes the episode striking is how isolated his panic was, even within the confined space of the spacecraft. While Wiseman fixated on the rising figures, his crewmates were otherwise engaged: two astronauts were conducting scientific observations at the window, and a third was relaying reports to mission control. None of them noticed his private terror, and the ground teams, for their part, were monitoring the same data and understood that the trajectory was proceeding exactly as planned. Eventually the counter began to fall, and Wiseman's dread dissolved into relief. When the odometer clicked back to 219,668, he announced, \"We're going home,\" and the crew cheered. Looking back, he attributed the mission's safe return not to the astronauts but to the engineers and flight controllers on Earth, calling them \"the true heroes\" whose courage and rigour made the voyage possible. The Artemis II flight, launched on April 1, was the first crewed journey to the Moon since Apollo 17 in 1972, and nearly every moment aboard was livestreamed to a fascinated public. The crew later received the Stephen Hawking Medal for Science Communication. Yet the most instructive aspect of Wiseman's account may be its lesson about perception: those closest to an event may lack the context that specialists elsewhere possess, and bridging that gap is essential in any high-stakes operation.",
+   "source": {
+    "name": "Live Science",
+    "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The technical design of the Orion space capsule.",
+      "A commander's fear and the value of shared context.",
+      "The history of lunar missions since Apollo 17.",
+      "The public's fascination with livestreamed spaceflight."
+     ],
+     "answer": 1,
+     "explain": "文章以指挥官恐惧为线索，落脚于“近事者可能缺乏全局背景”的启示。A项技术设计仅一笔带过；C项历史背景是陪衬；D项公众兴趣为末段细节，均非主旨。",
+     "evidence": "Yet the most instructive aspect of Wiseman's account may be its lesson about perception: those closest to an event may lack the context that specialists elsewhere possess, and bridging that gap is essential in any high-stakes operation.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What had mission control told the crew about 219,667 nautical miles?",
+     "options": [
+      "It was an estimate that could not be exceeded.",
+      "It was the minimum distance required for safety.",
+      "It marked the farthest point before turning home.",
+      "It was the point at which fuel would run out."
+     ],
+     "answer": 2,
+     "explain": "第二段明确该数字是旅程最远点，之后即返航。A项“不可超越的估计”与后文超出矛盾；B项“最低安全距离”偷换概念；D项燃料耗尽文中未提，属无中生有。",
+     "evidence": "Mission control had assured the crew that 219,667 nautical miles marked the farthest point of their journey, after which they would turn homeward.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What were the other crew members doing while Wiseman panicked?",
+     "options": [
+      "They were preparing an emergency return to Earth.",
+      "They were checking the odometer for navigation errors.",
+      "They were arguing with mission control about the route.",
+      "They were carrying out observations and sending reports."
+     ],
+     "answer": 3,
+     "explain": "第三段指出两人在窗边做科学观测，一人在向地面汇报。A项紧急返航属过度推断，并未发生；B项只有指挥官盯着计数器；C项文中无争执。",
+     "evidence": "While Wiseman fixated on the rising figures, his crewmates were otherwise engaged: two astronauts were conducting scientific observations at the window, and a third was relaying reports to mission control.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the ground teams during the episode?",
+     "options": [
+      "They knew the trajectory was normal and felt no alarm.",
+      "They were unaware of the rising distance counter.",
+      "They shared the commander's fear of overshooting.",
+      "They ordered the crew to stop scientific work."
+     ],
+     "answer": 0,
+     "explain": "第三段称地面团队监测同样数据，明白轨迹完全按计划进行，故可推知他们并不惊慌。B项他们监测同一数据，并非不知；C项与“按计划进行”相反；D项文中无此命令。",
+     "evidence": "None of them noticed his private terror, and the ground teams, for their part, were monitoring the same data and understood that the trajectory was proceeding exactly as planned.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"fixated\" in Paragraph 3 is closest in meaning to ______.",
+     "options": [
+      "obsessively focused",
+      "briefly glanced",
+      "calmly ignored",
+      "randomly guessed"
+     ],
+     "answer": 0,
+     "explain": "fixated 指“痴迷地盯着”，与 obsessively focused 同义，呼应他紧盯上升数字。B项“短暂一瞥”程度过轻；C项“冷静忽视”与恐惧语境相反；D项“随意猜测”无关。",
+     "evidence": "While Wiseman fixated on the rising figures, his crewmates were otherwise engaged: two astronauts were conducting scientific observations at the window, and a third was relaying reports to mission control.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "As the spacecraft shot past that figure and the odometer kept climbing, Wiseman became convinced that something had gone catastrophically wrong. His alarm was [1]. Mission control had assured the crew that 219,667 [2] miles marked the farthest point of their journey, after which they would turn homeward. Yet three minutes after the counter reached that number, it displayed 219,668, and soon 219,669. To Wiseman, each additional mile suggested that the craft had overshot its [3] path and might never return. \"That was the moment that I felt real fear,\" he later told the [4].\n\nWhat makes the episode striking is how isolated his panic was. While Wiseman fixated on the rising figures, his crewmates were otherwise engaged: two [5] were conducting scientific observations at the window, and a third was relaying reports to mission control. None of them noticed his private terror. The ground teams, for their part, were monitoring the same data and understood that the trajectory was proceeding exactly as planned.\n\nEventually the counter began to fall, and Wiseman's dread [6] into relief. When the odometer clicked back to 219,668, he announced, \"We're going home,\" and the crew cheered. Looking back, he [7] the mission's safe return not to the astronauts but to the [8] and flight controllers on Earth, calling them \"the true heroes\" whose courage and rigour made the voyage possible.\n\nThe Artemis II flight, launched on April 1, was the first crewed journey to the Moon since Apollo 17 in 1972, and nearly every moment aboard was livestreamed to a [9] public. The crew later received the Stephen Hawking Medal for Science Communication.\n\nYet the most instructive aspect of Wiseman's account may be its lesson about perception: those closest to an event may lack the context that [10] elsewhere possess, and bridging that gap is essential in any high-stakes operation.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "astronauts"
+    },
+    {
+     "label": "B",
+     "word": "attributed"
+    },
+    {
+     "label": "C",
+     "word": "audience"
+    },
+    {
+     "label": "D",
+     "word": "considerate"
+    },
+    {
+     "label": "E",
+     "word": "consistent"
+    },
+    {
+     "label": "F",
+     "word": "dissolved"
+    },
+    {
+     "label": "G",
+     "word": "electron"
+    },
+    {
+     "label": "H",
+     "word": "engineers"
+    },
+    {
+     "label": "I",
+     "word": "evaporate"
+    },
+    {
+     "label": "J",
+     "word": "fascinated"
+    },
+    {
+     "label": "K",
+     "word": "intended"
+    },
+    {
+     "label": "L",
+     "word": "locust"
+    },
+    {
+     "label": "M",
+     "word": "nautical"
+    },
+    {
+     "label": "N",
+     "word": "specialists"
+    },
+    {
+     "label": "O",
+     "word": "understandable"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "understandable",
+     "lower": "understandable",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "His alarm was understandable."
+    },
+    {
+     "index": 2,
+     "word": "nautical",
+     "lower": "nautical",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "Mission control had assured the crew that 219,667 nautical miles marked the farthest point of their journey, after which they would turn homeward."
+    },
+    {
+     "index": 3,
+     "word": "intended",
+     "lower": "intended",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "打算",
+     "context": "To Wiseman, each additional mile suggested that the craft had overshot its intended path and might never return."
+    },
+    {
+     "index": 4,
+     "word": "audience",
+     "lower": "audience",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "听众，观众，读者",
+     "context": "\"That was the moment that I felt real fear,\" he later told the audience."
+    },
+    {
+     "index": 5,
+     "word": "astronauts",
+     "lower": "astronauts",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "宇宙航行员，宇航员",
+     "context": "While Wiseman fixated on the rising figures, his crewmates were otherwise engaged: two astronauts were conducting scientific observations at the window, and a third was relaying reports to mission control."
+    },
+    {
+     "index": 6,
+     "word": "dissolved",
+     "lower": "dissolved",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "使溶解；解散",
+     "context": "Eventually the counter began to fall, and Wiseman's dread dissolved into relief."
+    },
+    {
+     "index": 7,
+     "word": "attributed",
+     "lower": "attributed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "归因于",
+     "context": "Looking back, he attributed the mission's safe return not to the astronauts but to the [8] and flight controllers on Earth, calling them \"the true heroes\" whose courage and rigour made the voyage possible."
+    },
+    {
+     "index": 8,
+     "word": "engineers",
+     "lower": "engineers",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "工程师，技师",
+     "context": "Looking back, he [7] the mission's safe return not to the astronauts but to the engineers and flight controllers on Earth, calling them \"the true heroes\" whose courage and rigour made the voyage possible."
+    },
+    {
+     "index": 9,
+     "word": "fascinated",
+     "lower": "fascinated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "强烈地吸引，迷住",
+     "context": "The Artemis II flight, launched on April 1, was the first crewed journey to the Moon since Apollo 17 in 1972, and nearly every moment aboard was livestreamed to a fascinated public."
+    },
+    {
+     "index": 10,
+     "word": "specialists",
+     "lower": "specialists",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "专家",
+     "context": "Yet the most instructive aspect of Wiseman's account may be its lesson about perception: those closest to an event may lack the context that specialists elsewhere possess, and bridging that gap is essential in any high-stakes operation."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Live Science",
+  "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon",
+  "long_sentences": [
+   {
+    "en": "\"I was watching this number, and I saw it hit 219,667, and I thought, 'Great, this is the farthest we will be from Earth, and the next number I will see will be 219,666 ‪—‬ we'll be going home.' But about three minutes later, I didn't see 219,666; I saw 219,668.",
+    "words": 51
+   },
+   {
+    "en": "Commander Reid Wiseman and his three crewmates were supposed to reach 219,667 nautical miles (252,788 standard miles, or 406,823 kilometers) — farther than any humans have ever traveled from their home planet — before turning back toward Earth on the sixth day of their 10-day mission to the moon.",
+    "words": 49
+   },
+   {
+    "en": "'Huh? That's weird.' \"And then about three minutes later, it goes to 219,669, and that was the moment that I felt real fear because I thought we had just gone too far ‪—‬ we're never going to come home ‪—‬ and so I was very scared,\" he added.",
+    "words": 48
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-23T06:25:34",
+ "difficulty": {
+  "score": 80,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 261,
+    "asl": 9.3,
+    "flesch": 66.7,
+    "fkgl": 6.3,
+    "long_sent": 0.0,
+    "beyond": 0.073,
+    "in_band": false,
+    "score": 57
+   },
+   {
+    "type": "passage_listening",
+    "words": 294,
+    "asl": 22.6,
+    "flesch": 46.6,
+    "fkgl": 12.4,
+    "long_sent": 0.077,
+    "beyond": 0.048,
+    "in_band": false,
+    "score": 70
+   },
+   {
+    "type": "reading",
+    "words": 389,
+    "asl": 21.6,
+    "flesch": 48.5,
+    "fkgl": 11.9,
+    "long_sent": 0.167,
+    "beyond": 0.069,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 299,
+    "asl": 18.7,
+    "flesch": 51.5,
+    "fkgl": 10.7,
+    "long_sent": 0.188,
+    "beyond": 0.07,
+    "in_band": true,
+    "score": 99
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 80（接近六级），与六级区间有偏差。"
+}
