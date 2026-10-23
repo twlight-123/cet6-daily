@@ -1,0 +1,39 @@
+{
+ "id": "daily-2026-10-24",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-24",
+ "source_label": "每日一文 · Live Science",
+ "title_en": "Climate change is literally altering the shape of our planet",
+ "title_zh": "气候变化正在改变地球的形状",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "Our planet is not a perfect sphere. Because of its rotation, it is a bit flatter at the poles and bulges in the middle. But the new study reveals that Earth is getting rounder at an accelerated rate, largely due to shifts caused by the melting polar ice caps.",
+   "zh": "我们的星球并非完美的球体。由于自转，地球在两极略扁，中间略鼓。但一项新研究揭示，地球正以加速的速率变得更圆，这主要是由极地冰盖融化引起的变化所致。"
+  },
+  {
+   "en": "The study, published Sept. 9 in the journal JGR Solid Earth , used direct measurements from the global navigation satellite system (GNSS) to track the planet's shape-shifting over time. This system provides direct measurements, but there are limits in how it can be used. For example, there are few GNSS stations near the North and South poles and few in remote oceans because they must be deployed on buoys.",
+   "zh": "这项研究于9月9日发表在《JGR固体地球》期刊上，利用全球导航卫星系统（GNSS）的直接测量数据来追踪地球形状随时间的变化。该系统提供直接测量，但其使用存在局限。例如，南北极附近的GNSS站点很少，偏远海洋中的站点也很少，因为它们必须部署在浮标上。"
+  },
+  {
+   "en": "Christoforos Kotsakis , a professor of geodesy at the Aristotle University of Thessaloniki in Greece, developed a new method for analyzing GNSS data to better capture the changes in the planet's surface. He found that the poles are rising and the equator's bulge has been shrinking, each by about 0.04 inch (1 millimeter) per year between 2011 to 2015. That's a small number, considering Earth's diameter at the equator is about 7,926 miles (12,756 kilometers). But that change is bigger than between 1997-2000, when Earth was becoming about 0.02 inch (0.5 mm) rounder per year. This means Earth's shape is rounding at 0.016 inch (0.4 mm) more per year with each decade that passes.",
+   "zh": "希腊塞萨洛尼基亚里士多德大学大地测量学教授克里斯托福罗斯·科察基斯（Christoforos Kotsakis）开发了一种分析GNSS数据的新方法，以更好地捕捉地球表面的变化。他发现，2011年至2015年间，两极在上升，赤道隆起在缩小，两者每年各约0.04英寸（1毫米）。考虑到地球赤道直径约为7926英里（12756公里），这个数字很小。但这一变化比1997-2000年间更大，当时地球每年变圆约0.02英寸（0.5毫米）。这意味着每过十年，地球形状变圆的速率每年增加0.016英寸（0.4毫米）。"
+  },
+  {
+   "en": "The shift is being driven by polar ice melt, which takes pressure off the Earth's crust and allows it to rise slowly, similar to how rising bread dough springs back after you press a finger into it, Kotsakis reported. Meanwhile, increased mass toward the equator puts pressure on the crust there, reducing its bulge. However, there's a catch: When considering the solid Earth and the ocean together, the planet is getting flatter by about 0.03 inches (0.8 mm) a year because the ocean is getting bulgier at the equator as water shifts away from the poles. This 'water weight' overwhelms the rounding happening in the rock below.",
+   "zh": "科察基斯报告称，这种变化由极地冰层融化驱动，冰层融化减轻了地壳的压力，使其缓慢上升，类似于发酵的面团在手指按压后回弹。与此同时，赤道附近质量增加，对那里的地壳施加压力，减小了隆起。然而，有一个问题：当把固体地球和海洋放在一起考虑时，地球每年反而变扁约0.03英寸（0.8毫米），因为随着水从两极转移，海洋在赤道处变得更加隆起。这种“水的重量”压过了下方岩石中发生的变圆趋势。"
+  },
+  {
+   "en": "Researchers also track Earth's changing shape using measurements of its gravity field, which varies depending on the mass of particular regions. GNSS changes and gravity field measurements don't match up perfectly, Kotsakis found, which indicates that the planet's shape and gravity field aren't in perfect lockstep. However, the two methods can be used together to track the major effects of climate change , especially the melting of Greenland and Antarctica and the varying movements of ocean water.",
+   "zh": "研究人员还通过测量重力场来追踪地球形状的变化，重力场因特定区域的质量而异。科察基斯发现，GNSS变化与重力场测量并不完全吻合，这表明地球的形状和重力场并非完全同步。然而，这两种方法可以结合使用，以追踪气候变化的主要影响，尤其是格陵兰和南极洲的冰层融化以及海水的各种运动。"
+  },
+  {
+   "en": "Stephanie Pappas is a contributing writer for Live Science, covering topics ranging from geoscience to archaeology to the human brain and behavior. She was previously a senior writer for Live Science but is now a freelancer based in Denver, Colorado, and regularly contributes to Scientific American and The Monitor, the monthly magazine of the American Psychological Association. Stephanie received a bachelor's degree in psychology from the University of South Carolina and a graduate certificate in science communication from the University of California, Santa Cruz.",
+   "zh": "斯蒂芬妮·帕帕斯（Stephanie Pappas）是《生活科学》的特约撰稿人，报道领域从地球科学到考古学，再到人脑与行为。她曾任《生活科学》高级撰稿人，现为科罗拉多州丹佛市的自由撰稿人，定期为《科学美国人》和美国心理学会月刊《观察家》撰稿。斯蒂芬妮在南卡罗来纳大学获得心理学学士学位，并在加州大学圣克鲁兹分校获得科学传播研究生证书。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet"
+}

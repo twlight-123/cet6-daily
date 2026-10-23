@@ -1,0 +1,499 @@
+{
+ "id": "2026-10-24",
+ "date": "2026-10-24",
+ "title": "Climate change is literally altering the shape of our planet",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 483,
+  "sentences": 22,
+  "avg_sentence_len": 22.0,
+  "flesch_ease": 45.5,
+  "flesch_grade": 12.4,
+  "hard_word_ratio": 0.095,
+  "long_sent_ratio": 0.227,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university student and her professor discuss a research project on satellite data and its limitations.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been reading about how scientists use satellite data to measure changes in the Earth's surface. But I'm confused about why they still need ground-based stations if satellites can cover the whole planet."
+    },
+    {
+     "sp": "M",
+     "en": "That's a good question. Satellites do provide broad coverage, but their signals can be affected by the atmosphere, and they don't give you the same level of precision as a fixed station on the ground. Ground stations act as reference points to calibrate the satellite data."
+    },
+    {
+     "sp": "W",
+     "en": "So the ground stations are like anchors? But I read that there are very few stations near the poles or in the middle of the ocean. Doesn't that leave big gaps?"
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. And that's a major challenge. In remote oceans, you'd need to place stations on buoys, which is expensive and logistically difficult. Near the poles, the harsh conditions make maintenance hard. So we have to rely on models to fill in the gaps, and that introduces uncertainty."
+    },
+    {
+     "sp": "W",
+     "en": "I see. For my project, I want to compare different methods for tracking the Earth's shape changes. Would it be better to focus on the gravity field data or the GNSS measurements?"
+    },
+    {
+     "sp": "M",
+     "en": "Actually, the most interesting research compares both. They don't always agree perfectly, and understanding why can reveal a lot about what's happening beneath the surface. For instance, the solid Earth might be rising in one place while the ocean water redistributes and causes a different effect."
+    },
+    {
+     "sp": "W",
+     "en": "So the discrepancies are not just errors—they're clues?"
+    },
+    {
+     "sp": "M",
+     "en": "Precisely. That's the kind of critical thinking I hope to see in your project. Just make sure you don't treat the two datasets as interchangeable; each has its own strengths and limitations."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The limitations of satellite data and the value of combining measurement methods.",
+      "The procedure for installing GNSS stations on ocean buoys.",
+      "The reasons why polar ice is melting at an accelerating rate.",
+      "The difficulty of maintaining ground stations in harsh environments."
+     ],
+     "answer": 0,
+     "explain": "对话围绕卫星数据的局限以及地面站和重力场数据与GNSS测量结合的价值展开。B项只是细节；C项未讨论冰融化原因；D项是部分内容，非主旨。",
+     "evidence": "Actually, the most interesting research compares both. They don't always agree perfectly, and understanding why can reveal a lot about what's happening beneath the surface."
+    },
+    {
+     "id": "l1_2",
+     "stem": "Why are ground stations needed according to the professor?",
+     "options": [
+      "To provide continuous power for satellite operations.",
+      "To serve as reference points for calibrating satellite data.",
+      "To measure the exact depth of the ocean at remote locations.",
+      "To collect biological samples from polar regions."
+     ],
+     "answer": 1,
+     "explain": "教授明确指出地面站作为参考点校准卫星数据。A项张冠李戴；C项无关；D项偷换概念。",
+     "evidence": "Ground stations act as reference points to calibrate the satellite data."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the professor imply about discrepancies between datasets?",
+     "options": [
+      "They indicate that one dataset is completely unreliable.",
+      "They are usually caused by human error in data collection.",
+      "They can offer insights into underlying physical processes.",
+      "They should be eliminated before any analysis begins."
+     ],
+     "answer": 2,
+     "explain": "教授说差异能揭示地表下发生的情况，即提供洞察。A项绝对化；B项无依据；D项与教授观点相反。",
+     "evidence": "They don't always agree perfectly, and understanding why can reveal a lot about what's happening beneath the surface."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the professor's attitude toward the student's project plan?",
+     "options": [
+      "Supportive but cautionary about treating datasets as equivalent.",
+      "Disappointed that the student chose a narrow topic.",
+      "Indifferent because the project is not his responsibility.",
+      "Confident that the student will avoid all methodological errors."
+     ],
+     "answer": 0,
+     "explain": "教授鼓励比较两种数据，但提醒不要将其视为可互换，体现支持中有告诫。B项无失望；C项不关心错误；D项过于绝对。",
+     "evidence": "That's the kind of critical thinking I hope to see in your project. Just make sure you don't treat the two datasets as interchangeable; each has its own strengths and limitations."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "A new study was published in the Journal of Geophysical Research. It shows that the Earth's shape is slowly becoming rounder. The speed of this change is increasing, and this has surprised many researchers. The research was led by a team of geodesists, and they used data from the Global Navigation Satellite System. This let them track small movements of the Earth's crust over time with great precision. The findings show that between 2011 and 2015, the poles rose. At the same time, the equatorial bulge shrank by about one millimeter per year. This is a small but measurable change in the planet's overall shape. The Earth's diameter is nearly 13,000 kilometers, so this may seem unimportant. However, the rate is more than double what it was in the late 1990s. This means the process is speeding up, and the main cause of this change is the melting of polar ice caps. Melting ice reduces pressure on the crust, and this allows the crust to rise slowly over many decades. At the same time, water from the melting ice flows toward the equator. This increases mass there and further reduces the bulge, and in this way, the trend is strengthened. However, the picture becomes more complex when oceans are included. The redistribution of water actually makes the planet slightly flatter overall. This is because the ocean bulges at the equator. This effect is stronger than the rounding effect in the solid rock. The researchers also compared their GNSS measurements with gravity field data. They found that the two do not perfectly match. This suggests that the Earth's shape and its gravity field do not move in perfect step as previously thought. Still, using both methods together can give a fuller understanding of how climate change is reshaping the planet. This is especially true in sensitive regions like Greenland and Antarctica, and the study shows the importance of long-term monitoring. It also points to the need for better station coverage in remote areas to reduce uncertainty."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A study showing that Earth's shape is changing at an accelerating rate due to ice melt.",
+      "The technical specifications of the Global Navigation Satellite System.",
+      "The history of geodesy and its contributions to climate science.",
+      "The economic costs of maintaining ground stations in polar regions."
+     ],
+     "answer": 0,
+     "explain": "文章主旨是研究显示地球形状因冰融化而加速变圆。B项只是工具；C项历史非重点；D项经济成本未讨论。",
+     "evidence": "A new study was published in the Journal of Geophysical Research."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does the study say about the rate of Earth's rounding?",
+     "options": [
+      "It has remained stable since the late 1990s.",
+      "It is now more than double the rate of the late 1990s.",
+      "It decreased slightly between 2011 and 2015.",
+      "It is too small to be measured accurately."
+     ],
+     "answer": 1,
+     "explain": "原文指出2011-2015年速率是1990年代末的两倍多。A项与原文矛盾；C项下降错误；D项可测量错误。",
+     "evidence": "The Earth's diameter is nearly 13,000 kilometers, so this may seem unimportant."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the effect of ocean water on Earth's shape?",
+     "options": [
+      "It reinforces the rounding trend observed in the solid Earth.",
+      "It has no measurable impact on the planet's overall shape.",
+      "It counteracts the rounding by making the equator bulge more.",
+      "It causes the poles to rise even faster than before."
+     ],
+     "answer": 2,
+     "explain": "原文说海洋在赤道隆起，抵消固体地球的变圆趋势，使整体略扁。A项相反；B项无影响错误；D项加速极地上升无依据。",
+     "evidence": "However, the picture becomes more complex when oceans are included."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Earth's Changing Shape: A Climate Signal",
+   "passage": "Our planet is not a perfect sphere, and its rotation makes it flat at the poles and wide at the equator. Scientists have known this for a long time, and but a recent study in JGR Solid Earth shows that Earth is becoming rounder faster than before. The main cause is the melting of polar ice caps, and this finding has caught much attention from scientists. The research was led by Christoforos Kotsakis, a professor of geodesy, and his team used direct measurements from the global navigation satellite system (GNSS). This system can track the planet's shape changes with great precision over time. However, GNSS has limits, and there are few stations near the poles and in remote oceans. Equipment there must be placed on buoys, and this makes full coverage hard to achieve. To solve this problem, Kotsakis developed a new method to better capture surface changes. He found that between 2011 and 2015, the poles rose and the equatorial bulge shrank by about one millimeter per year. This rate is more than double the 0.5 millimeters per year seen between 1997 and 2000. It shows an acceleration of about 0.4 millimeters per year each decade. This trend has important meaning for our understanding of how the planet works. The cause is polar ice melt, and melting ice reduces pressure on the Earth's crust. The crust then slowly rebounds, much like bread dough springing back after being pressed. At the same time, more mass moves toward the equator, and this puts pressure on the crust there and reduces its bulge. However, when we consider the solid Earth and the ocean together, the planet is actually getting flatter by about 0.8 millimeters per year. This is because the ocean bulges at the equator as water moves away from the poles. This \"water weight\" is stronger than the rounding in the rock below, and it creates a complex interplay between different parts of the Earth system. Researchers also track Earth's changing shape using gravity field measurements, and these measurements change with regional mass. Kotsakis found that GNSS changes and gravity field measurements do not match perfectly. This suggests that the planet's shape and gravity field are not in perfect step. But the two methods can be combined to track the major effects of climate change. These effects include the melting of Greenland and Antarctica and the changing movements of ocean water. Together they give a fuller picture of ongoing environmental changes, and the study stresses the importance of long-term monitoring. It also points to the need for better station coverage in remote areas to reduce uncertainties. As climate change continues to change how mass is distributed on Earth's surface, understanding these small shape changes will be key. It will help predict future sea-level rise and other environmental impacts, and this makes continued research in this field essential.",
+   "source": {
+    "name": "Live Science",
+    "url": "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A study revealing how climate change is altering Earth's shape.",
+      "The historical development of geodesy as a scientific field.",
+      "The economic challenges of deploying buoys in remote oceans.",
+      "The limitations of GNSS technology in measuring polar ice."
+     ],
+     "answer": 0,
+     "explain": "正确项是对全文主旨的概括：研究揭示气候变化如何改变地球形状。B项“历史发展”文中未提，属无关信息；C项“经济挑战”原文未涉及，属无中生有；D项“GNSS局限”只是文中细节，不能概括全文。",
+     "evidence": "Scientists have known this for a long time, and but a recent study in JGR Solid Earth shows that Earth is becoming rounder faster than before.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did Kotsakis find about the rate of Earth's rounding?",
+     "options": [
+      "It has remained constant since 1997.",
+      "It is too small to be measured with GNSS.",
+      "It is now about 0.4 mm per year faster each decade.",
+      "It decreased between 2011 and 2015."
+     ],
+     "answer": 2,
+     "explain": "正确项对应原文“加速约每十年0.4毫米”。A项“保持不变”与原文加速趋势相反；B项“太小无法测量”与GNSS可精确追踪矛盾；C项“下降”与原文加速相反，属因果倒置。",
+     "evidence": "It shows an acceleration of about 0.4 millimeters per year each decade.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why does the ocean make the planet flatter overall?",
+     "options": [
+      "Ocean water removes pressure from the equatorial crust.",
+      "The ocean bulges at the equator, counteracting the rock's rounding.",
+      "Melting ice increases the mass at the poles.",
+      "Gravity field changes pull water toward the poles."
+     ],
+     "answer": 1,
+     "explain": "正确项对应原文：海水在赤道隆起，抵消岩石变圆效应。A项“移除压力”与原文“施加压力”相反；B项“极地质量增加”与原文质量向赤道移动矛盾；C项“引力拉水向极地”与原文水远离极地相反。",
+     "evidence": "This is because the ocean bulges at the equator as water moves away from the poles.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about GNSS and gravity data?",
+     "options": [
+      "They are completely unrelated and cannot be used together.",
+      "They provide complementary information about Earth's changes.",
+      "Gravity data is more reliable than GNSS measurements.",
+      "GNSS data should replace gravity field measurements."
+     ],
+     "answer": 1,
+     "explain": "正确项由原文“两者不完美匹配但可结合追踪气候变化影响”推断为互补。A项“完全无关”过于绝对，与可结合矛盾；B项“更可靠”无依据，属过度推断；C项“取代”与原文结合使用相反。",
+     "evidence": "But the two methods can be combined to track the major effects of climate change.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"lockstep\" in the passage is closest in meaning to ______.",
+     "options": [
+      "perfect agreement",
+      "rapid acceleration",
+      "complete separation",
+      "unexpected change"
+     ],
+     "answer": 0,
+     "explain": "正确项“perfect agreement”与lockstep“步调一致”同义，对应原文“不完美同步”。B项“快速加速”与词义无关；C项“完全分离”是反义；D项“意外变化”无依据。",
+     "evidence": "This suggests that the planet's shape and gravity field are not in perfect step.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Our planet is not a perfect sphere; its rotation causes it to flatten at the poles and bulge at the equator. However, a recent study [1] in JGR Solid Earth reveals that Earth is becoming [2] at an accelerated pace, primarily due to shifts triggered by the melting of polar ice caps. The research, led by Christoforos Kotsakis, a professor of geodesy, utilized direct measurements from the global navigation satellite system (GNSS) to track the planet's shape-shifting over time.\n\nAlthough GNSS provides [3] data, it has limitations: there are few stations near the poles and in remote oceans, where equipment must be deployed on buoys. Kotsakis developed a new [4] method to better capture surface changes. He found that between 2011 and 2015, the poles rose and the [5] bulge shrank by about one millimeter per year. This rate is more than double the 0.5 millimeters per year observed between 1997 and 2000, indicating an [6] of about 0.4 millimeters per year each decade.\n\nThe underlying [7] is polar ice melt, which relieves pressure on the Earth's crust and allows it to rebound slowly, much like bread dough springing back after being pressed. Simultaneously, [8] mass toward the equator exerts pressure on the crust there, reducing its bulge.\n\nHowever, when the solid Earth and the ocean are considered together, the planet is actually getting [9] by about 0.8 millimeters per year because the ocean bulges at the equator as water shifts away from the poles. This 'water weight' [10] the rounding occurring in the rock below.\n\nResearchers also monitor Earth's changing shape using gravity field measurements, which vary with regional mass. Kotsakis found that GNSS changes and gravity field measurements do not match perfectly, suggesting that the planet's shape and gravity field are not in perfect lockstep.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "acceleration"
+    },
+    {
+     "label": "B",
+     "word": "analytical"
+    },
+    {
+     "label": "C",
+     "word": "conscious"
+    },
+    {
+     "label": "D",
+     "word": "editorial"
+    },
+    {
+     "label": "E",
+     "word": "equatorial"
+    },
+    {
+     "label": "F",
+     "word": "flatter"
+    },
+    {
+     "label": "G",
+     "word": "increased"
+    },
+    {
+     "label": "H",
+     "word": "luncheon"
+    },
+    {
+     "label": "I",
+     "word": "mechanism"
+    },
+    {
+     "label": "J",
+     "word": "overwhelms"
+    },
+    {
+     "label": "K",
+     "word": "previous"
+    },
+    {
+     "label": "L",
+     "word": "published"
+    },
+    {
+     "label": "M",
+     "word": "register"
+    },
+    {
+     "label": "N",
+     "word": "rounder"
+    },
+    {
+     "label": "O",
+     "word": "valuable"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "published",
+     "lower": "published",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "公布；发表；出版",
+     "context": "However, a recent study published in JGR Solid Earth reveals that Earth is becoming [2] at an accelerated pace, primarily due to shifts triggered by the melting of polar ice caps."
+    },
+    {
+     "index": 2,
+     "word": "rounder",
+     "lower": "rounder",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "However, a recent study [1] in JGR Solid Earth reveals that Earth is becoming rounder at an accelerated pace, primarily due to shifts triggered by the melting of polar ice caps."
+    },
+    {
+     "index": 3,
+     "word": "valuable",
+     "lower": "valuable",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "贵重物品，财宝",
+     "context": "Although GNSS provides valuable data, it has limitations: there are few stations near the poles and in remote oceans, where equipment must be deployed on buoys."
+    },
+    {
+     "index": 4,
+     "word": "analytical",
+     "lower": "analytical",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "分析的",
+     "context": "Kotsakis developed a new analytical method to better capture surface changes."
+    },
+    {
+     "index": 5,
+     "word": "equatorial",
+     "lower": "equatorial",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "E",
+     "gloss": "",
+     "context": "He found that between 2011 and 2015, the poles rose and the equatorial bulge shrank by about one millimeter per year."
+    },
+    {
+     "index": 6,
+     "word": "acceleration",
+     "lower": "acceleration",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "加速；加速度",
+     "context": "This rate is more than double the 0.5 millimeters per year observed between 1997 and 2000, indicating an acceleration of about 0.4 millimeters per year each decade."
+    },
+    {
+     "index": 7,
+     "word": "mechanism",
+     "lower": "mechanism",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "机制，机能",
+     "context": "The underlying mechanism is polar ice melt, which relieves pressure on the Earth's crust and allows it to rebound slowly, much like bread dough springing back after being pressed."
+    },
+    {
+     "index": 8,
+     "word": "increased",
+     "lower": "increased",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "vt&vi&n 增加",
+     "context": "Simultaneously, increased mass toward the equator exerts pressure on the crust there, reducing its bulge."
+    },
+    {
+     "index": 9,
+     "word": "flatter",
+     "lower": "flatter",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "平的，扁平的",
+     "context": "However, when the solid Earth and the ocean are considered together, the planet is actually getting flatter by about 0.8 millimeters per year because the ocean bulges at the equator as water shifts away from the poles."
+    },
+    {
+     "index": 10,
+     "word": "overwhelms",
+     "lower": "overwhelms",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "压倒，战胜",
+     "context": "This 'water weight' overwhelms the rounding occurring in the rock below."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Live Science",
+  "url": "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet",
+  "long_sentences": [
+   {
+    "en": "However, there's a catch: When considering the solid Earth and the ocean together, the planet is getting flatter by about 0.03 inches (0.8 mm) a year because the ocean is getting bulgier at the equator as water shifts away from the poles.",
+    "words": 42
+   },
+   {
+    "en": "The shift is being driven by polar ice melt, which takes pressure off the Earth's crust and allows it to rise slowly, similar to how rising bread dough springs back after you press a finger into it, Kotsakis reported.",
+    "words": 39
+   },
+   {
+    "en": "She was previously a senior writer for Live Science but is now a freelancer based in Denver, Colorado, and regularly contributes to Scientific American and The Monitor, the monthly magazine of the American Psychological Association.",
+    "words": 35
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-24T06:24:11",
+ "difficulty": {
+  "score": 86,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 277,
+    "asl": 13.8,
+    "flesch": 64.8,
+    "fkgl": 7.7,
+    "long_sent": 0.05,
+    "beyond": 0.072,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "passage_listening",
+    "words": 332,
+    "asl": 13.8,
+    "flesch": 65.1,
+    "fkgl": 7.6,
+    "long_sent": 0.0,
+    "beyond": 0.093,
+    "in_band": true,
+    "score": 81
+   },
+   {
+    "type": "reading",
+    "words": 469,
+    "asl": 17.4,
+    "flesch": 60.4,
+    "fkgl": 9.1,
+    "long_sent": 0.0,
+    "beyond": 0.077,
+    "in_band": true,
+    "score": 69
+   },
+   {
+    "type": "banked_cloze",
+    "words": 290,
+    "asl": 22.3,
+    "flesch": 42.1,
+    "fkgl": 12.9,
+    "long_sent": 0.154,
+    "beyond": 0.107,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}
