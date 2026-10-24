@@ -1,0 +1,520 @@
+{
+ "id": "2026-10-25",
+ "date": "2026-10-25",
+ "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 713,
+  "sentences": 30,
+  "avg_sentence_len": 23.8,
+  "flesch_ease": 36.4,
+  "flesch_grade": 14.1,
+  "hard_word_ratio": 0.139,
+  "long_sent_ratio": 0.233,
+  "level": "六级",
+  "in_band": true,
+  "distance": 3.6,
+  "issues": [],
+  "score": 87
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student journalist interviews a university biosecurity officer about AI protein design and safety oversight.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor Lane, thanks for meeting me. I'm writing for the campus science magazine about the new AI protein-design tools. Some students are worried these could be misused."
+    },
+    {
+     "sp": "M",
+     "en": "It's a legitimate concern. The same software that helps us design a novel enzyme for medicine could, in principle, be redirected toward harmful agents. That's why we now need an ethics review before any generative protein work on campus."
+    },
+    {
+     "sp": "W",
+     "en": "So every student project gets screened?"
+    },
+    {
+     "sp": "M",
+     "en": "Not every single one. Routine coursework is exempt. But if a project involves creating sequences not found in nature, the researcher must submit a risk assessment. We check whether the design could plausibly enhance virulence or evade existing countermeasures."
+    },
+    {
+     "sp": "W",
+     "en": "I've read that some labs are embedding hidden signatures into AI-generated proteins. Does our university use that?"
+    },
+    {
+     "sp": "M",
+     "en": "We're watching the technology closely, but we haven't adopted it yet. The signatures can be stripped out fairly easily, so they're more of a deterrent than a guarantee. For now, human review remains our primary safeguard."
+    },
+    {
+     "sp": "W",
+     "en": "Critics say that kind of review slows down legitimate research. How do you respond?"
+    },
+    {
+     "sp": "M",
+     "en": "There's certainly a cost in time. But the review process usually takes days, not months, and it has caught at least two proposals that were poorly justified. I'd argue the delay is modest compared with the potential consequences of an accident or deliberate misuse."
+    },
+    {
+     "sp": "W",
+     "en": "What about international collaboration? A lab overseas might not follow the same rules."
+    },
+    {
+     "sp": "M",
+     "en": "That's the hard part. Biosecurity can't stop at national borders. We're pushing for shared screening standards, but progress is slow because institutions guard their autonomy. Still, I'm cautiously optimistic that the norm is shifting."
+    },
+    {
+     "sp": "W",
+     "en": "One last question: what should a student do if they suspect a project is risky?"
+    },
+    {
+     "sp": "M",
+     "en": "Speak to the ethics committee directly. You don't need proof, just a reasonable concern. Early reporting is far better than waiting until something goes wrong."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The university's procedures for overseeing AI protein research",
+      "The technical details of how AI designs new proteins",
+      "The competition between campus labs and industry",
+      "The history of biosecurity regulations in Europe"
+     ],
+     "answer": 0,
+     "explain": "对话围绕校园内AI蛋白质研究的伦理审查、风险评估和国际协作展开，A项概括准确；B项技术细节只是背景；C项竞争未提及；D项历史与欧洲法规属无中生有。",
+     "evidence": "That's why we now need an ethics review before any generative protein work on campus.",
+     "id": "l1_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the man, which projects must undergo risk assessment?",
+     "options": [
+      "All student coursework involving proteins",
+      "Projects creating sequences not found in nature",
+      "Any project funded by international partners",
+      "Projects that use standard database proteins"
+     ],
+     "answer": 1,
+     "explain": "男士明确说涉及自然界不存在的序列的项目须提交风险评估，B项同义改写；A项与“常规课程豁免”相反；C项资助来源未提；D项标准数据库蛋白恰属常规范围。",
+     "evidence": "But if a project involves creating sequences not found in nature, the researcher must submit a risk assessment.",
+     "id": "l1_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the hidden-signature technology?",
+     "options": [
+      "It has replaced human review at the university.",
+      "It is too expensive for most laboratories.",
+      "It offers limited protection because it can be removed.",
+      "It is illegal under current international rules."
+     ],
+     "answer": 2,
+     "explain": "男士说签名容易被剥离，更多是威慑而非保障，C项合理推断；A项与“人工审查仍是主要保障”矛盾；B项成本未提；D项合法性未讨论。",
+     "evidence": "The signatures can be stripped out fairly easily, so they're more of a deterrent than a guarantee.",
+     "id": "l1_3"
+    },
+    {
+     "type": "attitude",
+     "stem": "What is the man's attitude toward international screening standards?",
+     "options": [
+      "Doubtful but hopeful about eventual progress",
+      "Convinced that they will be adopted soon",
+      "Indifferent to whether they are implemented",
+      "Certain that they will fail completely"
+     ],
+     "answer": 0,
+     "explain": "男士称进展缓慢但“谨慎乐观”，A项准确对应；B项“很快通过”过度乐观；C项漠不关心与积极推动矛盾；D项“彻底失败”绝对化。",
+     "evidence": "Still, I'm cautiously optimistic that the norm is shifting.",
+     "id": "l1_4"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, AI has changed how scientists design proteins. Proteins are the molecular machines that do most jobs in living cells. AI tools predict how amino acid chains fold into 3D shapes. This lets them create proteins that do not exist in nature. These proteins could help medicine and industry, and but the same power raises hard questions about security. In theory, a designed protein could be turned into a harmful agent. To reduce this risk, researchers have proposed hiding markers, or watermarks, in AI-generated proteins. The idea is simple, and if a protein carries a detectable signature, authorities can trace its origin. They can also flag suspicious designs for closer inspection, and early tests suggest these watermarks can be found with high accuracy. The protein's function also stays largely intact, and however, independent experts remain cautious, and they point out that watermarks are fragile. A determined user can change the amino acid sequence or adjust the molecular structure. Then the signature disappears, and once removed, the watermark cannot be recovered. Screening tools may fail to notice that a protein was ever marked. Critics also warn that a watermark only identifies the source after the fact. It does not stop a malicious actor from making a dangerous protein in the first place. Despite these limits, many scientists see value in the approach, and A watermark may discourage casual misuse. It may also help institutions track unauthorized access to protein-design software. More importantly, the debate has pushed the research community to strengthen oversight. It has also pushed them to share screening standards. And it has pushed them to involve security experts earlier in the design process. As one biosecurity specialist put it, the goal is not a perfect technical fix. The goal is a layered defense, and such a defense makes dangerous misuse harder, riskier, and easier to detect."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The promise and limitations of watermarking AI-designed proteins",
+      "The race between AI companies to patent protein tools",
+      "The medical benefits of proteins not found in nature",
+      "The failure of international biosecurity treaties"
+     ],
+     "answer": 0,
+     "explain": "全文围绕蛋白质水印技术的价值与局限展开，A项概括准确；B项专利竞争未提；C项医学益处只是背景；D项条约失败无中生有。",
+     "evidence": "To reduce this risk, researchers have proposed hiding markers, or watermarks, in AI-generated proteins."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does the passage say about the detection of watermarks?",
+     "options": [
+      "It requires destroying the protein's structure.",
+      "It can be done with high accuracy in early tests.",
+      "It depends on the protein's medical use.",
+      "It is impossible once the protein is synthesized."
+     ],
+     "answer": 1,
+     "explain": "原文称早期测试中水印可高精度检测且功能基本不受影响，B项同义改写；A项“破坏结构”与“功能完整”矛盾；C项医学用途无关；D项“不可能”绝对化。",
+     "evidence": "They can also flag suspicious designs for closer inspection, and early tests suggest these watermarks can be found with high accuracy."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the limitations of watermarking?",
+     "options": [
+      "Watermarks can be removed and leave no trace of marking.",
+      "Watermarks make proteins unsafe for medical use.",
+      "Watermarks are too costly for most institutions.",
+      "Watermarks prevent all unauthorized protein design."
+     ],
+     "answer": 0,
+     "explain": "原文说签名可被改变而消失且无法恢复，A项合理推断；B项与“功能基本完整”矛盾；C项成本未提；D项“阻止一切”绝对化。",
+     "evidence": "Then the signature disappears, and once removed, the watermark cannot be recovered."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Watermarking AI-Designed Proteins: A Partial Safeguard",
+   "passage": "Artificial intelligence has given scientists an unprecedented ability to design proteins that do not exist in nature, molecules that could yield life-saving drugs or, in the wrong hands, dangerous biological agents. To reduce the risk of misuse, researchers at Google DeepMind have developed a way to embed hidden signatures, or watermarks, into AI-generated proteins without significantly altering their function. The technique, called SynthIDBio, aims to make it easier to trace the origin of a designed protein and to flag suspicious designs for closer scrutiny.\n\nThe approach comes in two forms. The first, SynthIDBio-sequence, subtly biases the amino acid choices made by a protein-design program according to a secret key. Anyone who knows the key can later assess how likely a given sequence was produced under that bias. The second, SynthIDBio-structure, introduces minuscule adjustments to the predicted three-dimensional arrangement of atoms, adjustments that a detector can recognize but that are too small to distort the protein's shape. In tests, the systems identified more than 99% of watermarked proteins while correctly ignoring 99.9% of unmarked ones.\n\nExperts describe the work as an impressive technical achievement, yet they caution that it is not ready for widespread use. The watermarks are, in the words of one Microsoft scientist, \"effective but brittle.\" A user can remove a sequence watermark by resequencing the protein, or a structure watermark by adding noise to its spatial coordinates. Once a watermark is stripped away, screening tools have no way to tell that the protein was ever marked.\n\nA further limitation is that watermarking is fundamentally reactive. It can help identify who created a harmful protein after an attack, but it does not stop the protein from being made in the first place. As a specialist in chemical and biological arms control notes, criminals may fear identification, but terrorists seeking a biological weapon are unlikely to care about being traced after a successful strike.\n\nbut, the technology may still serve a useful purpose. It could deter casual misuse, help institutions detect unauthorized access to protein-generation software, and discourage misleading claims about how a protein was produced. More broadly, the debate surrounding SynthIDBio has encouraged researchers to strengthen oversight and to involve security experts earlier in the design process.\n\nIn the end, no single technical fix can eliminate biosecurity risks. Watermarking is best understood as one layer in a broader defense, making dangerous misuse somewhat harder, riskier, and easier to detect, while human review and international cooperation remain essential.",
+   "source": {
+    "name": "Live Science",
+    "url": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The medical promise of proteins created by artificial intelligence",
+      "The development and limits of watermarking AI-designed proteins",
+      "The competition among tech firms to control protein design",
+      "The failure of international treaties on biological weapons"
+     ],
+     "answer": 1,
+     "explain": "全文先介绍SynthIDBio水印的两种形式与检测效果，再重点讨论其易被去除、只能事后追溯等局限，B项概括准确。A项医学前景仅是开头引子；C项企业竞争原文未提；D项条约失败属无中生有。",
+     "evidence": "To reduce the risk of misuse, researchers at Google DeepMind have developed a way to embed hidden signatures, or watermarks, into AI-generated proteins without significantly altering their function.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "How does SynthIDBio-structure embed a watermark?",
+     "options": [
+      "By resequencing the protein's amino acids",
+      "By making tiny changes to atomic arrangements",
+      "By adding a visible label to the protein surface",
+      "By replacing the protein with a natural variant"
+     ],
+     "answer": 1,
+     "explain": "原文说该技术对原子三维排列做微小调整，B项为同义改写。A项是去除序列水印的手段，张冠李戴；C项“可见标签”与“隐藏签名”矛盾；D项替换为天然变体原文未提。",
+     "evidence": "The second, SynthIDBio-structure, introduces minuscule adjustments to the predicted three-dimensional arrangement of atoms, adjustments that a detector can recognize but that are too small to distort the protein's shape.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the tests show about the two systems?",
+     "options": [
+      "They required human experts to verify every result.",
+      "They failed to detect most watermarked proteins in practice.",
+      "They distorted the function of the proteins they marked.",
+      "They flagged nearly all marked proteins and ignored almost all unmarked ones."
+     ],
+     "answer": 3,
+     "explain": "原文称系统识别超99%带水印蛋白并正确忽略99.9%无标记蛋白，D项为同义改写。A项人工核验原文未提；B项与检测数据相反；C项与“不显著改变功能”矛盾。",
+     "evidence": "In tests, the systems identified more than 99% of watermarked proteins while correctly ignoring 99.9% of unmarked ones.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the effectiveness of watermarking?",
+     "options": [
+      "It can be undone, leaving no evidence of prior marking.",
+      "It makes AI protein design completely safe.",
+      "It is too expensive for most research labs.",
+      "It prevents terrorists from obtaining any protein."
+     ],
+     "answer": 0,
+     "explain": "原文说水印被去除后筛查工具无法察觉其曾被标记，A项为合理推断。B项“完全安全”绝对化；C项成本原文未提；D项与“恐怖分子不在乎被追踪”相悖，属过度推断。",
+     "evidence": "Once a watermark is stripped away, screening tools have no way to tell that the protein was ever marked.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"brittle\" in Paragraph 3 is closest in meaning to ______.",
+     "options": [
+      "easily broken or removed",
+      "highly accurate",
+      "technically complex",
+      "widely accepted"
+     ],
+     "answer": 0,
+     "explain": "brittle本义“易碎的”，此处指水印易被去除，后文即举例说明，A项契合。B项“高精度”是检测数据特点，偷换概念；C项“技术复杂”与脆弱性无关；D项“广泛接受”与专家保留态度相反。",
+     "evidence": "The watermarks are, in the words of one Microsoft scientist, \"effective but brittle.\"",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "To reduce the risk of misuse, researchers at Google DeepMind have developed a way to embed hidden signatures, or watermarks, into AI-generated proteins without significantly altering their [1]. The technique, called SynthIDBio, aims to make it easier to trace the origin of a designed protein and to flag [2] designs for closer scrutiny.\n\nThe approach comes in two forms. The first, SynthIDBio-sequence, subtly [3] the amino acid choices made by a protein-design program according to a secret key. Anyone who knows the key can later assess how likely a given sequence was produced under that bias. The second, SynthIDBio-structure, introduces minuscule adjustments to the [4] three-dimensional arrangement of atoms, adjustments that a [5] can recognize but that are too small to [6] the protein's shape. In tests, the systems identified more than 99% of [7] proteins while correctly ignoring 99.9% of unmarked ones.\n\nExperts describe the work as an impressive technical achievement, yet they caution that it is not ready for widespread use. The watermarks are, in the words of one Microsoft [8], \"effective but brittle.\" A user can remove a sequence watermark by resequencing the protein, or a structure watermark by adding noise to its spatial [9]. Once a watermark is stripped away, screening tools have no way to tell that the protein was ever marked.\n\nA further limitation is that watermarking is fundamentally [10]. It can help identify who created a harmful protein after an attack, but it does not stop the protein from being made in the first place. As a specialist in chemical and biological arms control notes, criminals may fear identification, but terrorists seeking a biological weapon are unlikely to care about being traced after a successful strike.\n\nNevertheless, the technology may still serve a useful purpose.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "allocate"
+    },
+    {
+     "label": "B",
+     "word": "bamboo"
+    },
+    {
+     "label": "C",
+     "word": "biases"
+    },
+    {
+     "label": "D",
+     "word": "climax"
+    },
+    {
+     "label": "E",
+     "word": "coordinates"
+    },
+    {
+     "label": "F",
+     "word": "defendant"
+    },
+    {
+     "label": "G",
+     "word": "detector"
+    },
+    {
+     "label": "H",
+     "word": "distort"
+    },
+    {
+     "label": "I",
+     "word": "function"
+    },
+    {
+     "label": "J",
+     "word": "predicted"
+    },
+    {
+     "label": "K",
+     "word": "radioactive"
+    },
+    {
+     "label": "L",
+     "word": "reactive"
+    },
+    {
+     "label": "M",
+     "word": "scientist"
+    },
+    {
+     "label": "N",
+     "word": "suspicious"
+    },
+    {
+     "label": "O",
+     "word": "watermarked"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "function",
+     "lower": "function",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "& n 功能，运行",
+     "context": "To reduce the risk of misuse, researchers at Google DeepMind have developed a way to embed hidden signatures, or watermarks, into AI-generated proteins without significantly altering their function."
+    },
+    {
+     "index": 2,
+     "word": "suspicious",
+     "lower": "suspicious",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "怀疑的；可疑的",
+     "context": "The technique, called SynthIDBio, aims to make it easier to trace the origin of a designed protein and to flag suspicious designs for closer scrutiny."
+    },
+    {
+     "index": 3,
+     "word": "biases",
+     "lower": "biases",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "偏见",
+     "context": "The first, SynthIDBio-sequence, subtly biases the amino acid choices made by a protein-design program according to a secret key."
+    },
+    {
+     "index": 4,
+     "word": "predicted",
+     "lower": "predicted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "预言，预测，预告",
+     "context": "The second, SynthIDBio-structure, introduces minuscule adjustments to the predicted three-dimensional arrangement of atoms, adjustments that a [5] can recognize but that are too small to [6] the protein's shape."
+    },
+    {
+     "index": 5,
+     "word": "detector",
+     "lower": "detector",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "G",
+     "gloss": "发觉者，探测器",
+     "context": "The second, SynthIDBio-structure, introduces minuscule adjustments to the [4] three-dimensional arrangement of atoms, adjustments that a detector can recognize but that are too small to [6] the protein's shape."
+    },
+    {
+     "index": 6,
+     "word": "distort",
+     "lower": "distort",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "H",
+     "gloss": "扭曲",
+     "context": "The second, SynthIDBio-structure, introduces minuscule adjustments to the [4] three-dimensional arrangement of atoms, adjustments that a [5] can recognize but that are too small to distort the protein's shape."
+    },
+    {
+     "index": 7,
+     "word": "watermarked",
+     "lower": "watermarked",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "In tests, the systems identified more than 99% of watermarked proteins while correctly ignoring 99.9% of unmarked ones."
+    },
+    {
+     "index": 8,
+     "word": "scientist",
+     "lower": "scientist",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "The watermarks are, in the words of one Microsoft scientist, \"effective but brittle.\" A user can remove a sequence watermark by resequencing the protein, or a structure watermark by adding noise to its spatial [9]."
+    },
+    {
+     "index": 9,
+     "word": "coordinates",
+     "lower": "coordinates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "使协调，调节",
+     "context": "The watermarks are, in the words of one Microsoft [8], \"effective but brittle.\" A user can remove a sequence watermark by resequencing the protein, or a structure watermark by adding noise to its spatial coordinates."
+    },
+    {
+     "index": 10,
+     "word": "reactive",
+     "lower": "reactive",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "A further limitation is that watermarking is fundamentally reactive."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Live Science",
+  "url": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work",
+  "long_sentences": [
+   {
+    "en": "This might deter some criminals, but terrorists looking to create a novel protein for a biological weapon would be less likely to care about being identified after a successful attack, said Max Brackmann , a chemical, biological, radiological, and nuclear arms expert at the Spiez Laboratory in Switzerland.",
+    "words": 48
+   },
+   {
+    "en": "\"This has the potential to reduce biosecurity threats, such as unauthorized toxin creation, and may help with database curation, preventing artificial designs from cluttering the standard databases,\" said Roy Sleator , a biology professor at Munster Technological University in Ireland, who was not involved in the research.",
+    "words": 47
+   },
+   {
+    "en": "SynthIDBio-sequence subtly influences how the program chooses each amino acid according to a secret watermarking \"key.\" Once the sequence is generated, anyone who knows the hidden code can assess how likely the sequence is to have been created under the key's bias.",
+    "words": 42
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-25T06:20:33",
+ "difficulty": {
+  "score": 72,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 309,
+    "asl": 10.0,
+    "flesch": 56.5,
+    "fkgl": 7.8,
+    "long_sent": 0.0,
+    "beyond": 0.097,
+    "in_band": false,
+    "score": 51
+   },
+   {
+    "type": "passage_listening",
+    "words": 309,
+    "asl": 14.0,
+    "flesch": 52.4,
+    "fkgl": 9.4,
+    "long_sent": 0.0,
+    "beyond": 0.094,
+    "in_band": true,
+    "score": 81
+   },
+   {
+    "type": "reading",
+    "words": 406,
+    "asl": 21.4,
+    "flesch": 33.2,
+    "fkgl": 13.9,
+    "long_sent": 0.158,
+    "beyond": 0.106,
+    "in_band": false,
+    "score": 61
+   },
+   {
+    "type": "banked_cloze",
+    "words": 290,
+    "asl": 20.7,
+    "flesch": 39.9,
+    "fkgl": 12.8,
+    "long_sent": 0.143,
+    "beyond": 0.1,
+    "in_band": true,
+    "score": 97
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 72（偏易（四级水平）），与六级区间有偏差。"
+}

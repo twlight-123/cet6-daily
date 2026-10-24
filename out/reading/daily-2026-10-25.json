@@ -1,0 +1,47 @@
+{
+ "id": "daily-2026-10-25",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-25",
+ "source_label": "每日一文 · Live Science",
+ "title_en": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation.",
+ "title_zh": "科学家们现在可以“水印”人工智能生成的蛋白质，以阻止生物武器的产生。",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "To help guard against nefarious uses of these proteins, scientists have recently figured out a way to \"watermark\" them without compromising their function. A team from Google DeepMind developed this technique to better track the provenance of AI-designed proteins.",
+   "zh": "为了防范这些蛋白质被恶意利用，科学家最近找到了一种在不损害其功能的前提下为其添加“水印”的方法。谷歌DeepMind的一个团队开发了这项技术，以更好地追踪AI设计蛋白质的来源。"
+  },
+  {
+   "en": "\"This has the potential to reduce biosecurity threats, such as unauthorized toxin creation, and may help with database curation, preventing artificial designs from cluttering the standard databases,\" said Roy Sleator , a biology professor at Munster Technological University in Ireland, who was not involved in the research.",
+   "zh": "“这有可能减少生物安全威胁，例如未经授权的毒素制造，并可能有助于数据库管理，防止人工设计污染标准数据库，”爱尔兰芒斯特理工大学生物学教授罗伊·斯莱特表示，他并未参与这项研究。"
+  },
+  {
+   "en": "\"In practice, it could help trace a design's origin, flag engineered proteins for extra biosecurity checks, and reduce misleading claims about how a protein was made,\" Sleator told Live Science in an email.",
+   "zh": "“在实践中，它可以帮助追踪设计的来源，标记工程蛋白质以进行额外的生物安全检查，并减少关于蛋白质制造方式的误导性说法，”斯莱特在给《生活科学》的电子邮件中说。"
+  },
+  {
+   "en": "The unveiling of the AI program AlphaFold in 2020 was a milestone in protein engineering. The tool, which won Demis Hassabis, John Jumper and David Baker the Nobel Prize in Chemistry in 2024 , can reveal the 3D structure of a protein from the sequence of its building blocks, called amino acids. Proteins fold like origami, adopting 3D shapes that dictate their function.",
+   "zh": "2020年AI程序AlphaFold的亮相是蛋白质工程的一个里程碑。该工具能够根据蛋白质构建单元（称为氨基酸）的序列揭示其三维结构，于2024年为德米斯·哈萨比斯、约翰·江珀和戴维·贝克赢得了诺贝尔化学奖。蛋白质像折纸一样折叠，形成决定其功能的三维形状。"
+  },
+  {
+   "en": "However, AlphaFold's technology also opened the door to generating brand-new proteins that could be used to create biothreats, including viral proteins that can evade our immune systems and existing vaccines.",
+   "zh": "然而，AlphaFold的技术也为生成全新的蛋白质打开了大门，这些蛋白质可能被用于制造生物威胁，包括能够逃避免疫系统和现有疫苗的病毒蛋白质。"
+  },
+  {
+   "en": "Current screening tools identify novel dangerous or restricted molecules by seeing how similar their amino acid sequences are to those of recognized threats. But the problem is that AI could come up with proteins that don't look like anything we've ever seen. That's what the new watermarking technique aims to solve.",
+   "zh": "当前的筛查工具通过观察新分子与已知威胁的氨基酸序列的相似程度来识别危险或受限分子。但问题在于，AI可能设计出与我们见过的任何蛋白质都不相似的蛋白质。这正是新的水印技术旨在解决的问题。"
+  },
+  {
+   "en": "The DeepMind team has framed the watermarking effort as a \"family\" of related techniques they call SynthIDBio. The first member of this family is SynthIDBio-sequence, which encodes watermarks into the amino acid sequences of proteins created by a program called ProteinMPNN.",
+   "zh": "DeepMind团队将这项水印工作构建为一个相关技术的“家族”，称为SynthIDBio。该家族的第一个成员是SynthIDBio-sequence，它将水印编码到由名为ProteinMPNN的程序创建的蛋白质的氨基酸序列中。"
+  },
+  {
+   "en": "When users tell ProteinMPNN the desired 3D shape for their protein, it chooses amino acid options that ultimately fold into that shape. SynthIDBio-sequence subtly influences how the program chooses each amino acid according to a secret watermarking \"key.\" Once the sequence is generated, anyone who knows the hidden code can assess how likely the sequence is to have been created under the key's bias. In their recent study, the DeepMind team showed that proteins built with this watermark could still bind to their targets as well as non-watermarked proteins.",
+   "zh": "当用户告诉ProteinMPNN他们想要的蛋白质三维形状时，它会选择最终折叠成该形状的氨基酸选项。SynthIDBio-sequence根据秘密的水印“密钥”巧妙地影响程序选择每个氨基酸的方式。一旦序列生成，任何知道隐藏代码的人都可以评估该序列在密钥偏差下被创建的可能性。在最近的研究中，DeepMind团队表明，带有这种水印的蛋白质仍然可以像未加水印的蛋白质一样与靶标结合。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work"
+}
