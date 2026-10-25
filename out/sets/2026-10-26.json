@@ -1,0 +1,520 @@
+{
+ "id": "2026-10-26",
+ "date": "2026-10-26",
+ "title": "Venezuela opposition leader Machado returns after months in exile",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 677,
+  "sentences": 32,
+  "avg_sentence_len": 21.2,
+  "flesch_ease": 44.9,
+  "flesch_grade": 12.3,
+  "hard_word_ratio": 0.096,
+  "long_sent_ratio": 0.281,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student discusses with her professor the ethical and practical challenges of conducting field research in a politically unstable region.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I'm planning my fieldwork for the dissertation on democratic transitions, and I've hit a dilemma."
+    },
+    {
+     "sp": "M",
+     "en": "Go on. I remember you were considering a case in South America, but the situation there has been shifting rapidly."
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. My contacts say the interim government has overstayed its legal mandate, and no election date has been set. I worry that going there now might put my local collaborators at risk."
+    },
+    {
+     "sp": "M",
+     "en": "That's a legitimate concern. When I did research in similar contexts, I found that remote interviews and encrypted communication could replace some in-person work, but not all of it."
+    },
+    {
+     "sp": "W",
+     "en": "I've already started conducting interviews via secure video calls, but the nuance of observing political rallies and public sentiment is lost."
+    },
+    {
+     "sp": "M",
+     "en": "True. You might consider a comparative approach: study the transition process from a neighboring country where you can safely observe cross-border dynamics and interview exiles."
+    },
+    {
+     "sp": "W",
+     "en": "That's an interesting idea. But wouldn't that shift my focus from the domestic opposition to diaspora politics?"
+    },
+    {
+     "sp": "M",
+     "en": "It would, but that's a valid angle. Many scholars argue that exile communities play a crucial role in shaping international pressure and maintaining democratic discourse."
+    },
+    {
+     "sp": "W",
+     "en": "I see. So I could frame it as a study of how opposition movements adapt when their leaders are forced abroad."
+    },
+    {
+     "sp": "M",
+     "en": "Precisely. And you'd still be engaging with the core questions about legitimacy and representation. Just be transparent about the limitations in your methodology chapter."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. I'll draft a revised proposal and send it to you by Friday."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And remember to check with the ethics board about interviewing vulnerable populations remotely. They may need more safeguards."
+    },
+    {
+     "sp": "W",
+     "en": "Will do. Thank you for helping me think this through."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "Why democratic transitions fail in South America.",
+      "How to adjust a research plan due to political instability.",
+      "How to obtain funding for fieldwork abroad.",
+      "Whether exile communities should be studied."
+     ],
+     "answer": 1,
+     "explain": "对话围绕学生因对象国政局不稳而调整田野调查方案展开，教授建议远程访谈或改做流亡社群比较研究。B项是对话背景而非主旨；C项 funding 未提及；D项仅是教授提出的一个替代角度，非中心议题。",
+     "evidence": "Professor, I'm planning my fieldwork for the dissertation on democratic transitions, and I've hit a dilemma."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say about her current interviews?",
+     "options": [
+      "They rely on local collaborators for translation.",
+      "They have been postponed until an election is held.",
+      "They are conducted through secure video calls.",
+      "They focus on diaspora communities abroad."
+     ],
+     "answer": 2,
+     "explain": "女士明确说已开始通过安全视频通话进行访谈。B项选举日期未定不等于推迟访谈；C项翻译未提及；D项流亡社群是教授后来建议的方向，非当前访谈对象。",
+     "evidence": "I've already started conducting interviews via secure video calls, but the nuance of observing political rallies and public sentiment is lost."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the professor's view of remote research?",
+     "options": [
+      "It can partially substitute for in-person fieldwork.",
+      "It is always preferable to conducting research abroad.",
+      "It cannot produce reliable data in any context.",
+      "It requires the approval of local authorities."
+     ],
+     "answer": 0,
+     "explain": "教授说远程访谈可替代部分实地工作，但并非全部，可推知是“部分替代”。B项 always 绝对化；C项 cannot 绝对化且与教授经历矛盾；D项地方当局批准未提及，属过度推断。",
+     "evidence": "When I did research in similar contexts, I found that remote interviews and encrypted communication could replace some in-person work, but not all of it."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the professor's suggestion?",
+     "options": [
+      "Receptive but initially doubtful.",
+      "Dismissive and unwilling to change.",
+      "Enthusiastic and fully convinced.",
+      "Confused and unable to follow."
+     ],
+     "answer": 0,
+     "explain": "女士先质疑是否偏离研究重点，经解释后表示将修改提案，态度是接受但起初有疑虑。B项与最终同意不符；C项 fully convinced 过度；D项 confused 无依据。",
+     "evidence": "That's an interesting idea. But wouldn't that shift my focus from the domestic opposition to diaspora politics?"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, international observers have increasingly questioned interim governments that stay in power beyond their set terms. This is especially true when these administrations were installed with a clear promise to oversee a quick return to constitutional rule. Such situations often arise after a sudden political break, and A caretaker administration is installed to prepare for elections and to restore normalcy to public institutions. However, when the promised vote is repeatedly delayed, the interim authority can gradually entrench itself. The line between temporary stewardship and de facto rule becomes blurred. The authority quietly consolidates control over key levers of state power, and this phenomenon is not unique to any single region. Comparative studies suggest that it appears across different political systems and cultural contexts. Analysts note that prolonged interim periods tend to erode public trust, and citizens grow skeptical of promises that elections are just around the corner. They begin to suspect that the delay serves the interests of those now in office. Opposition groups may face a dilemma, and participating in a process they view as flawed could lend it credibility. Boycotting it risks leaving them without representation and weakening their influence over the transition, and meanwhile, international actors often prioritize stability over democratic timelines. This further complicates the picture and sometimes inadvertently reinforces the position of entrenched interim authorities. Some scholars argue that the solution lies in stronger institutional safeguards. These could include fixed deadlines enforced by independent courts or international monitoring, and such measures could make delays politically costly and legally accountable. Others emphasize the role of civil society in maintaining pressure for accountability. They also stress its role in keeping the question of elections alive in public debate. What remains clear is that without a credible path to elections, interim arrangements risk becoming permanent features of political life. They would then undermine the very democratic principles they were meant to uphold."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The risks posed by prolonged interim governments.",
+      "The history of international election monitoring.",
+      "The reasons behind a specific political rupture.",
+      "The role of civil society in economic reform."
+     ],
+     "answer": 0,
+     "explain": "短文聚焦临时政府超期执政带来的合法性风险与民主侵蚀。B项选举监督只是文中提及的一个方面；C项具体政治断裂是背景而非主旨；D项经济改革未提及，属偷换概念。",
+     "evidence": "In recent years, international observers have increasingly questioned interim governments that stay in power beyond their set terms."
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, what dilemma do opposition groups face?",
+     "options": [
+      "Joining a flawed process may legitimize it, while boycotting may cost representation.",
+      "They must choose between armed resistance and exile abroad.",
+      "They are forced to support international monitoring or lose funding.",
+      "They can either accept delayed elections or demand immediate economic reform."
+     ],
+     "answer": 0,
+     "explain": "文中明确说反对派面临两难：参与有缺陷的进程可能赋予其合法性，抵制则可能失去代表权。B项武装抵抗与流亡未提及；C项国际监督与资金无此因果；D项经济改革是偷换概念。",
+     "evidence": "Opposition groups may face a dilemma, and participating in a process they view as flawed could lend it credibility."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about international actors' priorities?",
+     "options": [
+      "They tend to value stability more than adherence to democratic schedules.",
+      "They always insist on immediate elections regardless of conditions.",
+      "They have abandoned all involvement in interim governments.",
+      "They prioritize civil society over institutional safeguards."
+     ],
+     "answer": 0,
+     "explain": "文中说国际行为体常将稳定置于民主时间表之上，可推知其更重稳定。B项 always 绝对化且与原文相反；C项 abandoned 无依据；D项将公民社会与制度保障对立，属过度推断。",
+     "evidence": "Boycotting it risks leaving them without representation and weakening their influence over the transition, and meanwhile, international actors often prioritize stability over democratic timelines."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Perils of Prolonged Interim Rule",
+   "passage": "When a government is suddenly removed from power, a temporary administration is often put in place. Its job is to prepare the country for new elections within a set time, and such arrangements are meant to be temporary. But history shows they can easily last longer than planned and become firmly established. A recent case in a South American nation shows how a caretaker government can resist the very vote it was designed to support. In this case, the interim president was allowed to serve for a limited period, and the legislature could approve an extension. But the assembly, controlled by the ruling party, never voted to extend her term. She stayed in office beyond the legal limit, and no election date has been set, and the opposition has repeatedly demanded one. The delay has raised doubts about the country's democratic future and the role of outside powers. The opposition leader, a Nobel laureate, returned from months of exile, and she came back to rally supporters and press for a timetable. Her return energized crowds, and but it also showed how fragile the political process is. Meanwhile, the United States had captured the former president on drug charges, and it chose to work with the interim leader rather than the opposition figure. This decision stunned many Venezuelans, and they had hoped for a quick return to elections. Critics say that putting economic stability before election timelines risks making long interim rule seem normal. They argue that without a credible election date, the interim government may slowly gather power. This blurs the line between temporary stewardship and de facto authority. Supporters of the current approach answer that rebuilding institutions and stabilizing the economy are prerequisites for any meaningful vote. They add that the dilemma is not unique to this case. Scholars of democratic transitions warn that interim periods tend to erode public trust, and they also weaken opposition movements. These movements may face a choice between joining a flawed process and boycotting it altogether. International actors often make the problem worse by stressing stability over democratic principles. In the end, the legitimacy of any interim arrangement depends on a clear and credible path to elections. Without such a path, temporary measures risk becoming permanent features of political life. They would then undermine the democratic principles they were meant to uphold.",
+   "source": {
+    "name": "ABC News",
+    "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The tendency of interim governments to outlast their intended limits.",
+      "The personal story of a Nobel-winning opposition figure.",
+      "The economic strategies of a South American country.",
+      "The record of U.S. military actions in the region."
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文核心：临时政府易超期并固化。B项人物故事仅为文中细节；C项经济策略是支持者论点的一部分；D项军事行动文中未提，属无关信息。",
+     "evidence": "But history shows they can easily last longer than planned and become firmly established.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What happened to the interim president's term?",
+     "options": [
+      "It was never extended by the legislature.",
+      "It ended automatically after a fixed period.",
+      "It was extended twice by the assembly.",
+      "It was approved indefinitely by the highest court."
+     ],
+     "answer": 0,
+     "explain": "原文明确立法机构从未投票延长其任期。B项“自动结束”文中未提；C项“两次延长”与原文相反；D项“最高法院无限期批准”属张冠李戴，法院仅允许有限延期。",
+     "evidence": "But the assembly, controlled by the ruling party, never voted to extend her term.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why were many Venezuelans surprised by the U.S. decision?",
+     "options": [
+      "It chose to work with the interim leader rather than the opposition figure.",
+      "It prevented the opposition leader from returning from exile.",
+      "It refused to capture the former president on drug charges.",
+      "It demanded immediate elections before economic stabilization."
+     ],
+     "answer": 0,
+     "explain": "原文说美国选择与临时领导人合作而非反对派领袖，令许多委内瑞拉人震惊。B项“阻止返回”文中未提；C项与事实相反；D项美国强调先稳定经济，属因果倒置。",
+     "evidence": "Meanwhile, the United States had captured the former president on drug charges, and it chose to work with the interim leader rather than the opposition figure.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about critics' view of prioritizing economic stability?",
+     "options": [
+      "It may unintentionally make prolonged interim rule appear acceptable.",
+      "It will certainly bring about immediate democratic elections.",
+      "It is the only way to rebuild public trust.",
+      "It has no connection to the timing of elections."
+     ],
+     "answer": 0,
+     "explain": "批评者认为将经济稳定置于选举时间表之上有使长期临时统治正常化的风险，可推知可能无意中使其显得可接受。B项“certainly”绝对化且与批评者观点相反；C项“only”绝对化；D项“无关联”与原文矛盾。",
+     "evidence": "Critics say that putting economic stability before election timelines risks making long interim rule seem normal.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"entrenched\" in the first paragraph is closest in meaning to:",
+     "options": [
+      "firmly established",
+      "temporarily appointed",
+      "legally challenged",
+      "quickly removed"
+     ],
+     "answer": 0,
+     "explain": "entrenched意为“根深蒂固的”，与firmly established同义。B项“临时任命”是字面干扰；C项“合法性质疑”与语境相反；D项“迅速移除”是反义。",
+     "evidence": "But history shows they can easily last longer than planned and become firmly established.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Such arrangements are meant to be temporary, yet history shows that they can easily outlast their [1] purpose. The recent experience of a South American nation illustrates how a caretaker government, once [2], may resist the very vote it was designed to facilitate. In this case, the interim president was [3] to serve for a limited period, with the possibility of an extension approved by the [4]. But the ruling-party-controlled assembly never voted to extend her term, leaving her in office beyond the legal limit.\n\nNo election date has been [5], and the opposition has repeatedly demanded one. The delay has raised doubts about the country's democratic future and the role of external powers. The opposition leader, a Nobel laureate, returned from months of exile to rally supporters and press for a timetable. Her [6] energized crowds, but it also highlighted the fragility of the political process.\n\nMeanwhile, the United States, which had [7] the former president on drug charges, chose to work with the interim leader rather than the opposition figure. This decision stunned many Venezuelans who had hoped for a swift return to elections.\n\nCritics argue that prioritizing economic [8] over electoral timelines risks normalizing prolonged interim rule. They contend that without a credible date for elections, the interim government may gradually consolidate power, blurring the line between temporary [9] and de facto authority. Supporters of the current approach counter that rebuilding institutions and stabilizing the economy are prerequisites for any [10] vote.\n\nThe dilemma is not unique to this case. Scholars of democratic transitions warn that interim periods tend to erode public trust and weaken opposition movements, which may face a choice between participating in a flawed process and boycotting it altogether.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "apologize"
+    },
+    {
+     "label": "B",
+     "word": "authorized"
+    },
+    {
+     "label": "C",
+     "word": "captured"
+    },
+    {
+     "label": "D",
+     "word": "champagne"
+    },
+    {
+     "label": "E",
+     "word": "destine"
+    },
+    {
+     "label": "F",
+     "word": "entrenched"
+    },
+    {
+     "label": "G",
+     "word": "legislature"
+    },
+    {
+     "label": "H",
+     "word": "meaningful"
+    },
+    {
+     "label": "I",
+     "word": "original"
+    },
+    {
+     "label": "J",
+     "word": "reappearance"
+    },
+    {
+     "label": "K",
+     "word": "scheduled"
+    },
+    {
+     "label": "L",
+     "word": "stabilization"
+    },
+    {
+     "label": "M",
+     "word": "stewardship"
+    },
+    {
+     "label": "N",
+     "word": "strange"
+    },
+    {
+     "label": "O",
+     "word": "target"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "original",
+     "lower": "original",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "原始的，最初的",
+     "context": "Such arrangements are meant to be temporary, yet history shows that they can easily outlast their original purpose."
+    },
+    {
+     "index": 2,
+     "word": "entrenched",
+     "lower": "entrenched",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "F",
+     "gloss": "",
+     "context": "The recent experience of a South American nation illustrates how a caretaker government, once entrenched, may resist the very vote it was designed to facilitate."
+    },
+    {
+     "index": 3,
+     "word": "authorized",
+     "lower": "authorized",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "授权， 批准",
+     "context": "In this case, the interim president was authorized to serve for a limited period, with the possibility of an extension approved by the [4]."
+    },
+    {
+     "index": 4,
+     "word": "legislature",
+     "lower": "legislature",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "G",
+     "gloss": "",
+     "context": "In this case, the interim president was [3] to serve for a limited period, with the possibility of an extension approved by the legislature."
+    },
+    {
+     "index": 5,
+     "word": "scheduled",
+     "lower": "scheduled",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "日程表",
+     "context": "No election date has been scheduled, and the opposition has repeatedly demanded one."
+    },
+    {
+     "index": 6,
+     "word": "reappearance",
+     "lower": "reappearance",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "J",
+     "gloss": "",
+     "context": "Her reappearance energized crowds, but it also highlighted the fragility of the political process."
+    },
+    {
+     "index": 7,
+     "word": "captured",
+     "lower": "captured",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "捕获，俘获；夺得",
+     "context": "Meanwhile, the United States, which had captured the former president on drug charges, chose to work with the interim leader rather than the opposition figure."
+    },
+    {
+     "index": 8,
+     "word": "stabilization",
+     "lower": "stabilization",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "Critics argue that prioritizing economic stabilization over electoral timelines risks normalizing prolonged interim rule."
+    },
+    {
+     "index": 9,
+     "word": "stewardship",
+     "lower": "stewardship",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "They contend that without a credible date for elections, the interim government may gradually consolidate power, blurring the line between temporary stewardship and de facto authority."
+    },
+    {
+     "index": 10,
+     "word": "meaningful",
+     "lower": "meaningful",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "Supporters of the current approach counter that rebuilding institutions and stabilizing the economy are prerequisites for any meaningful vote."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ABC News",
+  "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261",
+  "long_sentences": [
+   {
+    "en": "“You know it, this is until the end.” On Sunday afternoon, Machado strode into a church in the state of Lara, west of Caracas, to the applause of dozens gathered there as they shook her hand and hugged her, with cellphones aloft to record her return.",
+    "words": 46
+   },
+   {
+    "en": "CARACAS, Venezuela -- Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future — and the role of the U.S. — are growing.",
+    "words": 44
+   },
+   {
+    "en": "It was her first appearance since the U.S. military deposed the country’s then-President Nicolás Maduro in January, replacing him with an interim president who has exceeded the time she was authorized to serve , with no election scheduled.",
+    "words": 38
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-26T06:19:05",
+ "difficulty": {
+  "score": 62,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 274,
+    "asl": 13.7,
+    "flesch": 46.0,
+    "fkgl": 10.3,
+    "long_sent": 0.0,
+    "beyond": 0.073,
+    "in_band": false,
+    "score": 51
+   },
+   {
+    "type": "passage_listening",
+    "words": 316,
+    "asl": 17.6,
+    "flesch": 24.6,
+    "fkgl": 14.2,
+    "long_sent": 0.0,
+    "beyond": 0.057,
+    "in_band": false,
+    "score": 52
+   },
+   {
+    "type": "reading",
+    "words": 389,
+    "asl": 16.9,
+    "flesch": 42.9,
+    "fkgl": 11.5,
+    "long_sent": 0.0,
+    "beyond": 0.044,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "banked_cloze",
+    "words": 285,
+    "asl": 19.0,
+    "flesch": 29.9,
+    "fkgl": 13.8,
+    "long_sent": 0.067,
+    "beyond": 0.074,
+    "in_band": false,
+    "score": 64
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 62（偏易（四级水平）），与六级区间有偏差。"
+}
