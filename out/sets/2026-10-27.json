@@ -1,0 +1,514 @@
+{
+ "id": "2026-10-27",
+ "date": "2026-10-27",
+ "title": "Forensic Facial Specialists Can Identify People Using Just a Couple Facial Features",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 408,
+  "sentences": 18,
+  "avg_sentence_len": 22.7,
+  "flesch_ease": 37.0,
+  "flesch_grade": 13.7,
+  "hard_word_ratio": 0.088,
+  "long_sent_ratio": 0.167,
+  "level": "六级",
+  "in_band": true,
+  "distance": 3.0,
+  "issues": [],
+  "score": 93
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student discusses with a campus security officer the reliability of facial recognition systems and the possibility of training human experts.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Excuse me, Officer Bennett? I'm Maya, a psychology graduate student. I'm doing a project on facial recognition and I was hoping to ask you a few questions about the cameras on campus."
+    },
+    {
+     "sp": "M",
+     "en": "Sure, Maya. What would you like to know? Though I should warn you, I'm not an engineer—I just monitor the feeds and respond to alerts."
+    },
+    {
+     "sp": "W",
+     "en": "That's actually perfect. I'm more interested in the practical side. How often do the alerts turn out to be accurate? I've read that in labs the systems are nearly flawless, but real-world conditions are messier."
+    },
+    {
+     "sp": "M",
+     "en": "You've read right. Last month we had a case where the system flagged a student because of a similar jacket and backpack. Turned out to be the wrong person. Bad lighting and sunglasses definitely make things harder."
+    },
+    {
+     "sp": "W",
+     "en": "So false positives are a real headache. Do you think human specialists could help reduce them? My project is looking at how experts—say, forensic analysts—make decisions with limited information."
+    },
+    {
+     "sp": "M",
+     "en": "I'd say yes, but it depends. A human can notice context—like whether someone is walking with a group or looks lost. But humans get tired and distracted, especially after staring at screens for hours."
+    },
+    {
+     "sp": "W",
+     "en": "That's a fair point. The study I'm reading found that specialists could identify a hidden face after uncovering just one or two features, and they adapted their strategy depending on the face. They didn't follow a fixed rule."
+    },
+    {
+     "sp": "M",
+     "en": "Interesting. So they're not just following a checklist. That flexibility sounds valuable, but it also makes me wonder how you'd train a machine to do the same."
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. The authors suggest their findings could inform training for both humans and AI. But they also caution that their experiment wasn't meant to mimic real-world conditions."
+    },
+    {
+     "sp": "M",
+     "en": "Well, if you need access to our incident reports for your project, I can put you in touch with the data office. Just don't expect any miracles—real life is rarely as clean as a lab."
+    },
+    {
+     "sp": "W",
+     "en": "I won't. Thanks, Officer Bennett. This has been really helpful."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The strict rules campus police follow when using surveillance cameras",
+      "The limitations and potential improvements of facial recognition in practice",
+      "The psychological effects of constant monitoring on students",
+      "The technical specifications of the latest facial recognition software"
+     ],
+     "answer": 1,
+     "explain": "对话围绕面部识别在真实场景中的误报、人为干预的可能以及专家策略展开，A项概括准确；B项把监控规则当主旨，属张冠李戴；C项讨论学生心理，对话未涉及；D项技术规格并非讨论重点。",
+     "evidence": "Last month we had a case where the system flagged a student because of a similar jacket and backpack. Turned out to be the wrong person."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does Officer Bennett say about human specialists?",
+     "options": [
+      "They rely on a fixed checklist to identify suspects",
+      "They always outperform automated systems in every situation",
+      "They can notice contextual cues but may lose focus over time",
+      "They are rarely affected by long hours of screen work"
+     ],
+     "answer": 2,
+     "explain": "Bennett提到人能看到情境线索，但也会疲劳分心，A项同义概括；B项“总是胜过”绝对化；C项与原文“不遵循固定规则”相反；D项与“盯着屏幕数小时会累”矛盾。",
+     "evidence": "A human can notice context—like whether someone is walking with a group or looks lost. But humans get tired and distracted, especially after staring at screens for hours."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the study Maya mentions?",
+     "options": [
+      "Its findings may help design training for both humans and machines",
+      "It proved that automated systems are useless in real life",
+      "It was conducted under realistic field conditions",
+      "It showed that experts always need many facial features"
+     ],
+     "answer": 0,
+     "explain": "Maya转述研究可为人与AI训练提供参考，A项合理推断；B项“毫无用处”过度推断；C项与“并非模拟真实条件”相反；D项与“仅需一两个特征”矛盾。",
+     "evidence": "The authors suggest their findings could inform training for both humans and AI."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is Officer Bennett's attitude toward facial recognition technology?",
+     "options": [
+      "Realistic, acknowledging both its value and its flaws",
+      "Dismissive, believing it should be abandoned entirely",
+      "Overenthusiastic, trusting it without reservation",
+      "Indifferent, showing no interest in the topic"
+     ],
+     "answer": 0,
+     "explain": "Bennett既承认系统有用，也指出误报和现实困难，态度务实，A项正确；B项“应完全放弃”过于极端；C项“毫无保留信任”与误报案例矛盾；D项“漠不关心”与积极参与讨论不符。",
+     "evidence": "Just don't expect any miracles—real life is rarely as clean as a lab."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Facial recognition technology has become a familiar presence in daily life, from unlocking smartphones to monitoring public spaces. In controlled laboratory settings, these systems can achieve remarkable accuracy, correctly identifying people in the vast majority of cases. Yet when deployed in the real world, their performance often falters. Poor lighting, accessories such as sunglasses, and changes in appearance can confuse algorithms or produce false matches. To address these shortcomings, researchers are turning to human expertise for inspiration. A recent study examined how forensic facial specialists—professionals trained to compare faces for identification purposes—make their decisions. The specialists were presented with pairs of similar faces and one obscured face, and were asked to match the hidden face by revealing individual features one at a time. A points system encouraged them to uncover as few features as possible, and the results were striking. The specialists correctly identified the hidden face about ninety percent of the time after uncovering only one or two features. also, they did not follow a rigid procedure. Instead, they adapted their strategy depending on the face before them, often starting with the ears, which proved highly informative, and then selecting other features as needed. This flexibility, the researchers note, had not been documented before. The findings carry implications for training both human analysts and artificial intelligence systems. If machines could learn to prioritize features the way experts do—relying on ears while adjusting to context—they might become more robust in challenging conditions. However, the researchers caution that their experiment was not designed to replicate real-world scenarios. The controlled setting allowed for careful measurement, but it cannot capture the full complexity of a busy street or a crowded airport. As facial recognition continues to spread, understanding how human experts extract identity information from minimal cues may offer a valuable roadmap. The goal is not to replace machines with people, but to combine the strengths of both. In the meantime, those wary of being identified might take a simple precaution: cover your ears."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Why facial recognition systems fail in laboratory experiments",
+      "How studies of human facial experts could improve recognition systems",
+      "The legal and ethical debates surrounding public surveillance",
+      "The history of forensic facial identification techniques"
+     ],
+     "answer": 1,
+     "explain": "正确项依据：全文围绕人类专家研究对改进人脸识别的启示。A项将实验室表现与原文相反；C项法律伦理未展开；D项历史演变非重点。",
+     "evidence": "To address these shortcomings, researchers are turning to human expertise for inspiration.",
+     "id": "l2_1"
+    },
+    {
+     "type": "detail",
+     "stem": "How did the specialists in the study identify the hidden face?",
+     "options": [
+      "By relying on a fixed sequence of features every time",
+      "By comparing the entire face at once without any covering",
+      "By uncovering features one by one and adapting their approach",
+      "By using a points system to guess randomly"
+     ],
+     "answer": 2,
+     "explain": "正确项依据：专家逐个揭示特征并随机应变。A项与“不遵循僵化程序”矛盾；B项与实验设计不符；D项曲解积分系统。",
+     "evidence": "Instead, they adapted their strategy depending on the face before them, often starting with the ears, which proved highly informative, and then selecting other features as needed.",
+     "id": "l2_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the study's limitations?",
+     "options": [
+      "Its controlled design may not reflect real-world complexity",
+      "It failed to measure the specialists' accuracy",
+      "It relied on too few facial features to be valid",
+      "It proved that AI systems are superior to humans"
+     ],
+     "answer": 0,
+     "explain": "正确项依据：实验并非模拟真实场景，控制设计难反映现实复杂性。B项与准确率90%矛盾；C项实验涉及多个特征；D项未比较优劣且与主旨相反。",
+     "evidence": "However, the researchers caution that their experiment was not designed to replicate real-world scenarios.",
+     "id": "l2_3"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Learning from Human Experts to Improve Facial Recognition",
+   "passage": "Facial recognition technology has become increasingly common, from unlocking smartphones to monitoring public spaces. In controlled laboratory conditions, these systems can be extraordinarily precise, correctly identifying individuals in the vast majority of cases. Yet when deployed in the real world, their performance often deteriorates. Poor lighting, accessories such as sunglasses, and changes in appearance can either confuse algorithms or lead to false matches. Understanding how human experts overcome such challenges may offer a path to more robust systems.\n\nTo investigate this possibility, a team of cognitive and AI researchers recruited 27 forensic facial specialists employed by the federal government. The specialists were presented with images of two similar faces and one obscured face. Their task was to match the hidden face to one of the other faces by individually removing coverings from nine different features: cheeks, chin, ears, eyes, eyebrows, forehead, neck, nose, and mouth. A points system incentivized the experts to uncover the fewest possible features, and another version of the experiment revealed the features at random.\n\nAccording to the study published in PLOS One, the specialists were incredibly accurate, correctly identifying the hidden face 90 percent of the time after uncovering only one or two features. \"What surprised me most was that specialists could accurately judge identity from a single facial feature most of the time,\" study author Carina Hahn said in a statement. \"It's remarkable how much identity information they can extract from so little.\"\n\nEars, the team found, were the experts' favorite feature to uncover and proved extremely useful for identification. But they strategically selected other features next as they adapted. Interestingly, along with ears, the seldom-selected foreheads were associated with the highest accuracy, while chins and necks were the least helpful. Taken together, the findings are consistent with other research results, which suggest that certain aspects of our faces contain more identifying information than others.\n\nWhat stood out to the team was the specialists' adaptability. \"Specialists have a striking ability to adapt their strategy depending on the face in front of them, rather than applying one fixed rule,\" Hahn explained. \"The combination of relying on features known to be useful, like ears, with adjusting when needed, hasn't been documented before.\"\n\nImportantly, the team cautions that this experiment doesn't mimic real-world conditions, nor is it meant to. Instead the findings may be useful for training both human and AI facial specialists in the future. The researchers emphasize that the goal is not to replace machines with people but to combine the strengths of both. As facial recognition continues to spread, understanding how experts extract identity information from minimal cues may offer a valuable roadmap. In the meantime, those wary of being identified might take a simple precaution: cover your ears.",
+   "source": {
+    "name": "Nautilus",
+    "url": "https://nautil.us/forensic-facial-specialists-can-identify-people-using-just-a-couple-facial-features-1286039/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Why facial recognition systems fail in laboratory experiments",
+      "How studies of human facial experts could inform recognition training",
+      "The legal debates surrounding public surveillance cameras",
+      "The history of forensic facial identification methods"
+     ],
+     "answer": 1,
+     "explain": "文章开篇指出人脸识别在真实场景中性能下降，并引出研究人类专家如何克服挑战以改进系统，后文围绕该实验展开，故B项正确。A项与原文实验室表现优异矛盾；C项法律争论文中未涉及；D项历史演变并非重点。",
+     "evidence": "Understanding how human experts overcome such challenges may offer a path to more robust systems.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "How did the specialists match the hidden face in the experiment?",
+     "options": [
+      "By following a fixed sequence of features every time",
+      "By comparing the whole face without any coverings",
+      "By revealing individual features one at a time and adapting",
+      "By guessing randomly under a points system"
+     ],
+     "answer": 2,
+     "explain": "原文指出专家逐个揭示特征并策略性调整，C项同义改写。A项与“不遵循固定规则”矛盾；B项与实验设计不符；D项曲解积分系统，专家并非随机猜测。",
+     "evidence": "But they strategically selected other features next as they adapted.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Which facial features were associated with the highest accuracy?",
+     "options": [
+      "Eyes and eyebrows",
+      "Chins and necks",
+      "Cheeks and mouths",
+      "Ears and foreheads"
+     ],
+     "answer": 3,
+     "explain": "原文明确耳朵和额头准确率最高，D项正确。A项眼睛和眉毛未提及为最高；B项下巴和脖子原文说帮助最小；C项脸颊和嘴未提及为最高。",
+     "evidence": "Interestingly, along with ears, the seldom-selected foreheads were associated with the highest accuracy, while chins and necks were the least helpful.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the study's experimental design?",
+     "options": [
+      "Its controlled setting may not fully reflect real-world conditions",
+      "It failed to measure the specialists' identification accuracy",
+      "It relied on too few facial features to be reliable",
+      "It proved that AI systems outperform human experts"
+     ],
+     "answer": 0,
+     "explain": "原文强调实验并非模拟真实场景，A项合理推断。B项与90%准确率矛盾；C项涉及九个特征并非太少；D项未比较且与主旨相反。",
+     "evidence": "Importantly, the team cautions that this experiment doesn't mimic real-world conditions, nor is it meant to.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"deteriorates\" in the first paragraph is closest in meaning to ______.",
+     "options": [
+      "gets worse",
+      "improves sharply",
+      "stays the same",
+      "becomes more precise"
+     ],
+     "answer": 0,
+     "explain": "deteriorates意为“恶化、变差”，结合后文误报可知指性能下降，A项正确。B项与上下文相反；C项“保持不变”与表现不佳矛盾；D项“更精确”与文意相反。",
+     "evidence": "Yet when deployed in the real world, their performance often deteriorates.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Their task was to match the hidden face to one of the other faces by individually removing coverings from nine different features: cheeks, chin, ears, eyes, eyebrows, [1], neck, nose, and mouth. A points system [2] the experts to uncover the fewest possible features, and another version of the experiment revealed the features at random.\n\nAccording to the study published in PLOS One, the specialists were incredibly [3], correctly identifying the hidden face 90 percent of the time after uncovering only one or two features. \"What [4] me most was that specialists could accurately judge [5] from a single facial feature most of the time,\" study author Carina Hahn said in a statement. \"It's remarkable how much identity information they can [6] from so little.\"\n\nEars, the team found, were the experts' favorite feature to uncover and proved extremely useful for identification. But they strategically selected other features next as they adapted. Interestingly, along with ears, the seldom-selected foreheads were associated with the highest accuracy, while chins and necks were the least helpful.\n\nTaken together, the findings are [7] with other research results, which suggest that certain aspects of our faces contain more identifying information than others. What stood out to the team was the specialists' [8]. \"Specialists have a striking ability to adapt their strategy depending on the face in front of them, rather than applying one fixed rule,\" Hahn explained. \"The [9] of relying on features known to be useful, like ears, with adjusting when needed, hasn't been [10] before.\"\n\nImportantly, the team cautions that this experiment doesn't mimic real-world conditions, nor is it meant to. Instead the findings may be useful for training both human and AI facial specialists in the future. The researchers emphasize that the goal is not to replace machines with people but to combine the strengths of both.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "accurate"
+    },
+    {
+     "label": "B",
+     "word": "adaptability"
+    },
+    {
+     "label": "C",
+     "word": "capacitor"
+    },
+    {
+     "label": "D",
+     "word": "combination"
+    },
+    {
+     "label": "E",
+     "word": "consistent"
+    },
+    {
+     "label": "F",
+     "word": "decorate"
+    },
+    {
+     "label": "G",
+     "word": "documented"
+    },
+    {
+     "label": "H",
+     "word": "extract"
+    },
+    {
+     "label": "I",
+     "word": "forehead"
+    },
+    {
+     "label": "J",
+     "word": "identity"
+    },
+    {
+     "label": "K",
+     "word": "incentivized"
+    },
+    {
+     "label": "L",
+     "word": "introduce"
+    },
+    {
+     "label": "M",
+     "word": "justifiable"
+    },
+    {
+     "label": "N",
+     "word": "stairway"
+    },
+    {
+     "label": "O",
+     "word": "surprised"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "forehead",
+     "lower": "forehead",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "额头，前部",
+     "context": "Their task was to match the hidden face to one of the other faces by individually removing coverings from nine different features: cheeks, chin, ears, eyes, eyebrows, forehead, neck, nose, and mouth."
+    },
+    {
+     "index": 2,
+     "word": "incentivized",
+     "lower": "incentivized",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "K",
+     "gloss": "",
+     "context": "A points system incentivized the experts to uncover the fewest possible features, and another version of the experiment revealed the features at random."
+    },
+    {
+     "index": 3,
+     "word": "accurate",
+     "lower": "accurate",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "精确的，准确的",
+     "context": "According to the study published in PLOS One, the specialists were incredibly accurate, correctly identifying the hidden face 90 percent of the time after uncovering only one or two features."
+    },
+    {
+     "index": 4,
+     "word": "surprised",
+     "lower": "surprised",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "\"What surprised me most was that specialists could accurately judge [5] from a single facial feature most of the time,\" study author Carina Hahn said in a statement."
+    },
+    {
+     "index": 5,
+     "word": "identity",
+     "lower": "identity",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "身份",
+     "context": "\"What [4] me most was that specialists could accurately judge identity from a single facial feature most of the time,\" study author Carina Hahn said in a statement."
+    },
+    {
+     "index": 6,
+     "word": "extract",
+     "lower": "extract",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "H",
+     "gloss": "取出；提取；n 摘录",
+     "context": "\"It's remarkable how much identity information they can extract from so little.\" Ears, the team found, were the experts' favorite feature to uncover and proved extremely useful for identification."
+    },
+    {
+     "index": 7,
+     "word": "consistent",
+     "lower": "consistent",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "一致的",
+     "context": "Taken together, the findings are consistent with other research results, which suggest that certain aspects of our faces contain more identifying information than others."
+    },
+    {
+     "index": 8,
+     "word": "adaptability",
+     "lower": "adaptability",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "What stood out to the team was the specialists' adaptability."
+    },
+    {
+     "index": 9,
+     "word": "combination",
+     "lower": "combination",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "联合，结合",
+     "context": "\"The combination of relying on features known to be useful, like ears, with adjusting when needed, hasn't been [10] before.\" Importantly, the team cautions that this experiment doesn't mimic real-world conditions, nor is it meant to."
+    },
+    {
+     "index": 10,
+     "word": "documented",
+     "lower": "documented",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "文件",
+     "context": "\"The [9] of relying on features known to be useful, like ears, with adjusting when needed, hasn't been documented before.\" Importantly, the team cautions that this experiment doesn't mimic real-world conditions, nor is it meant to."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Nautilus",
+  "url": "https://nautil.us/forensic-facial-specialists-can-identify-people-using-just-a-couple-facial-features-1286039/",
+  "long_sentences": [
+   {
+    "en": "“It’s remarkable how much identity information they can extract from so little.” Ears, the team found, were the experts’ favorite feature to uncover (and proved to be extremely useful for identification), but they strategically selected other features next as they adapted.",
+    "words": 41
+   },
+   {
+    "en": "“The combination of relying on features known to be useful, like ears, with adjusting when needed, hasn’t been documented before.” Importantly, the team cautions that this experiment doesn’t mimic real-word conditions, nor is it meant to.",
+    "words": 36
+   },
+   {
+    "en": "The goal was to match the obscured face to one of the other faces by individually removing the coverings from nine different features: cheeks, chin, ears, eyes, eyebrows, forehead, neck, nose, and mouth.",
+    "words": 33
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-27T06:28:17",
+ "difficulty": {
+  "score": 82,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 334,
+    "asl": 11.1,
+    "flesch": 69.4,
+    "fkgl": 6.3,
+    "long_sent": 0.0,
+    "beyond": 0.081,
+    "in_band": true,
+    "score": 90
+   },
+   {
+    "type": "passage_listening",
+    "words": 335,
+    "asl": 17.6,
+    "flesch": 38.4,
+    "fkgl": 12.3,
+    "long_sent": 0.0,
+    "beyond": 0.057,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 452,
+    "asl": 20.5,
+    "flesch": 35.7,
+    "fkgl": 13.4,
+    "long_sent": 0.091,
+    "beyond": 0.069,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "banked_cloze",
+    "words": 304,
+    "asl": 23.4,
+    "flesch": 38.1,
+    "fkgl": 13.8,
+    "long_sent": 0.154,
+    "beyond": 0.066,
+    "in_band": true,
+    "score": 93
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 82（接近六级），与六级区间有偏差。"
+}

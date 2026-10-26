@@ -1,0 +1,39 @@
+{
+ "id": "daily-2026-10-27",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-27",
+ "source_label": "每日一文 · Nautilus",
+ "title_en": "Forensic Facial Specialists Can Identify People Using Just a Couple Facial Features",
+ "title_zh": "法医面部专家可以通过几个面部特征来识别人",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "In lab conditions, it’s extraordinarily precise, correctly identifying people 99 percent of the time. In the real world, however, things get a little tougher. Bad lighting, sunglasses, clothing, and more can either flummox AI facial recognition systems or lead to false positives. Of course, we already have human forensic facial specialists, and a better understanding of their expertise could help train their computer counterparts.",
+   "zh": "在实验室条件下，人脸识别极其精准，正确识别率高达99%。然而在现实世界中，情况就要棘手一些。糟糕的光线、太阳镜、衣物等因素，要么会让AI人脸识别系统失灵，要么会导致误判。当然，我们早已拥有从事法证人脸识别的专家，更深入地了解他们的专业能力，有助于训练他们的计算机同行。"
+  },
+  {
+   "en": "To investigate, a team of cognitive and AI researchers from the National Institute of Standards and Technology recruited 27 forensic facial experts employed by the federal government. The specialists were given images of two similar faces and one hidden face. The goal was to match the obscured face to one of the other faces by individually removing the coverings from nine different features: cheeks, chin, ears, eyes, eyebrows, forehead, neck, nose, and mouth. A points system incentivized the experts to uncover the fewest possible features and another version of the experiment individually uncovered the features at random.",
+   "zh": "为了开展研究，美国国家标准与技术研究院（National Institute of Standards and Technology）的一支认知与人工智能研究团队招募了27名受雇于联邦政府的法证人脸识别专家。研究人员向这些专家提供两张相似面孔的图像和一张被遮挡的面孔。目标是逐一移除九个不同面部特征上的遮盖物——脸颊、下巴、耳朵、眼睛、眉毛、额头、脖子、鼻子和嘴巴——从而将那张被遮挡的面孔与另外两张中的一张匹配起来。一套积分系统激励专家尽可能少地揭开特征，而实验的另一个版本则随机逐一揭开各项特征。"
+  },
+  {
+   "en": "According to the study published in PLOS One , they were incredibly accurate, correctly identifying the hidden face 90 percent of the time after uncovering only one or two features. “What surprised me most was that specialists could accurately judge identity from a single facial feature most of the time,” study author Carina Hahn said in a statement . “It’s remarkable how much identity information they can extract from so little.”",
+   "zh": "根据发表在《PLOS One》上的这项研究，专家的准确率令人惊叹：仅揭开一两个特征后，他们就有90%的概率正确识别出被遮挡的面孔。研究作者卡琳娜·哈恩（Carina Hahn）在一份声明中表示：“最让我惊讶的是，专家大多数时候仅凭单一面部特征就能准确判断身份。他们能从如此之少的信息中提取出如此多的身份信息，这非常了不起。”"
+  },
+  {
+   "en": "Ears, the team found, were the experts’ favorite feature to uncover (and proved to be extremely useful for identification), but they strategically selected other features next as they adapted. Interestingly, along with ears, the seldom-selected foreheads were associated with the highest accuracy (chins and necks were the least helpful). Taken together, the findings are consistent with other research results, which suggest that certain aspects of our faces contain more identifying information than others.",
+   "zh": "研究团队发现，耳朵是专家最喜欢揭开的特征（事实证明它对身份识别极为有用），但他们在适应过程中会有策略地选择其他特征。有趣的是，除了耳朵之外，很少被选择的额头反而与最高的准确率相关（下巴和脖子的帮助最小）。总体而言，这些发现与其他研究结果一致，表明我们面部的某些部位比其他部位包含更多的身份识别信息。"
+  },
+  {
+   "en": "But the adaptability is what stood out to the team. “Specialists have a striking ability to adapt their strategy depending on the face in front of them, rather than applying one fixed rule,” Hahn explained. “The combination of relying on features known to be useful, like ears, with adjusting when needed, hasn’t been documented before.”",
+   "zh": "但真正让研究团队眼前一亮的，是专家的适应能力。哈恩解释说：“专家有一种惊人的能力，能够根据面前的面孔调整策略，而不是套用某条固定规则。既依赖已知有用的特征（如耳朵），又在需要时作出调整，这种组合此前从未被记录过。”"
+  },
+  {
+   "en": "Importantly, the team cautions that this experiment doesn’t mimic real-word conditions, nor is it meant to. Instead the findings may be useful for training both human and AI facial specialists in the future. So if you’d like to avoid AI identification going forward, remember to pack your earmuffs.",
+   "zh": "重要的是，研究团队提醒说，这项实验并不模拟现实世界的条件，也无意如此。相反，这些发现可能有助于未来培训人类和AI人脸识别专家。所以，如果你想避免被AI识别出来，记得戴上耳罩。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://nautil.us/forensic-facial-specialists-can-identify-people-using-just-a-couple-facial-features-1286039/"
+}
