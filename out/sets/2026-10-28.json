@@ -1,0 +1,524 @@
+{
+ "id": "2026-10-28",
+ "date": "2026-10-28",
+ "title": "Divers Recover a Mysterious Cauldron That Had Been Hiding at the Bottom of an English River for Hundreds of Years",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 702,
+  "sentences": 35,
+  "avg_sentence_len": 20.1,
+  "flesch_ease": 51.7,
+  "flesch_grade": 11.0,
+  "hard_word_ratio": 0.103,
+  "long_sent_ratio": 0.143,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student discusses a riverbank excavation project with her archaeology professor.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, do you have a moment? I want to talk about the volunteer excavation at the riverbank site this summer."
+    },
+    {
+     "sp": "M",
+     "en": "Of course, come in. I heard you signed up. How’s the preparation going?"
+    },
+    {
+     "sp": "W",
+     "en": "That’s just it. I’m excited, but I’m also a bit overwhelmed. The site is mostly waterlogged sediment, and I’ve never worked in those conditions before."
+    },
+    {
+     "sp": "M",
+     "en": "That’s a fair concern. Waterlogged deposits preserve organic materials remarkably well, but they demand careful handling. Have you done any reading on stratigraphy?"
+    },
+    {
+     "sp": "W",
+     "en": "Some. I understand the basic principle that layers build up over time, but I’m not confident about reading them in the field."
+    },
+    {
+     "sp": "M",
+     "en": "That’s exactly what the field school is for. You’ll learn to record each layer and note what it contains. The key is patience—don’t rush to interpret."
+    },
+    {
+     "sp": "W",
+     "en": "Right. And what about the artifacts themselves? I heard the team found hundreds of sharpening stones last year."
+    },
+    {
+     "sp": "M",
+     "en": "Yes, roughly eight hundred. They tell us a lot about daily life and military activity, but they’re not glamorous. You won’t be handling gold, I’m afraid."
+    },
+    {
+     "sp": "W",
+     "en": "That’s fine. I’m more interested in what the objects reveal about the people who used them. But I do worry about the physical work—lifting and moving things."
+    },
+    {
+     "sp": "M",
+     "en": "You’ll be trained in safe techniques, and no one expects you to haul heavy objects alone. Teamwork is part of the method."
+    },
+    {
+     "sp": "W",
+     "en": "That’s reassuring. One more thing: should I bring my own tools?"
+    },
+    {
+     "sp": "M",
+     "en": "The project provides trowels and recording equipment. Just bring sturdy boots and a waterproof notebook. And keep an open mind—fieldwork rarely goes as planned."
+    },
+    {
+     "sp": "W",
+     "en": "I’ll keep that in mind. Thanks, Professor. I feel a lot better about joining."
+    },
+    {
+     "sp": "M",
+     "en": "You’re welcome. I’ll see you at the orientation next week."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The difficulties of preserving waterlogged organic materials.",
+      "The professor’s research on ancient Roman military sites.",
+      "The student’s concerns and preparation for a fieldwork project.",
+      "The student’s decision to change her field of study."
+     ],
+     "answer": 2,
+     "explain": "对话围绕学生参加河岸发掘的顾虑与准备展开，教授给予建议，A项概括准确。B项张冠李戴，教授研究并非对话主旨；C项以偏概全，只是细节；D项无中生有，学生未提转专业。",
+     "evidence": "Professor, do you have a moment? I want to talk about the volunteer excavation at the riverbank site this summer."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the professor say about the sharpening stones?",
+     "options": [
+      "They are too damaged to provide useful information.",
+      "They reveal aspects of daily life and military activity.",
+      "They are the most valuable finds at the site.",
+      "They were discovered by the student last summer."
+     ],
+     "answer": 1,
+     "explain": "教授明确说这些磨石“tell us a lot about daily life and military activity”，B项同义改写。A项与原文相反；C项绝对化，教授说它们“not glamorous”；D项张冠李戴，学生并未发现。",
+     "evidence": "They tell us a lot about daily life and military activity, but they’re not glamorous."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the student’s attitude toward the excavation?",
+     "options": [
+      "She is confident that she will make major discoveries.",
+      "She is enthusiastic but aware of her limited experience.",
+      "She doubts whether the project is worth her time.",
+      "She believes the work will be easier than expected."
+     ],
+     "answer": 1,
+     "explain": "学生说“excited, but also a bit overwhelmed”，并承认缺乏野外经验，B项准确推断。A项过度推断，她未提重大发现；C项与“excited”矛盾；D项与“overwhelmed”相反。",
+     "evidence": "I’m excited, but I’m also a bit overwhelmed. The site is mostly waterlogged sediment, and I’ve never worked in those conditions before."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the professor’s attitude toward the student’s participation?",
+     "options": [
+      "Supportive and instructive.",
+      "Skeptical of her abilities.",
+      "Indifferent to her concerns.",
+      "Concerned about her safety alone."
+     ],
+     "answer": 0,
+     "explain": "教授耐心解答、给予建议并鼓励她“keep an open mind”，态度是支持与指导，A项正确。B项与“You’ll be trained”矛盾；C项与耐心回答矛盾；D项片面，安全只是其中一点。",
+     "evidence": "You’ll be trained in safe techniques, and no one expects you to haul heavy objects alone. Teamwork is part of the method."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Underwater archaeology is often imagined as a hunt for treasure, but in practice it is a slow, methodical science. Recently, a team working in a northern English river recovered a large iron vessel that had rested in the sediment for centuries. The object’s age is still uncertain, but its recovery illustrates how careful planning turns a difficult dive into a controlled operation. The vessel was first spotted by a diver during a routine survey. It lay in darkness, partly buried in debris, and its weight made direct lifting impossible. Rather than attempt a risky removal, the team spent months designing a recovery plan. Divers secured the object in netting inside a metal cage, and colleagues on a boat above raised it slowly to the surface. The operation was compared to a military exercise, with each person assigned a specific task. Once on land, the vessel was sent to a conservation laboratory. There, specialists will clean away deposits that accumulated over centuries and take X-rays to reveal hidden features such as rivets, repairs and decorative details. Researchers will also test for food residues, which may indicate what was once cooked inside. Such evidence could help determine the object’s age and its role in daily life. The discovery is significant because Roman-era finds are rare in this region, despite its proximity to a major Roman wall. Nearby excavations have produced hundreds of sharpening stones, coins and anchors, suggesting a site of considerable activity. The vessel itself does not match Roman design, however, and experts suspect it may be medieval or even older. Why such a valuable object ended up in a river remains a mystery. It may have been lost, discarded or deliberately offered. For now, the team hopes the vessel will eventually go on display alongside other local finds, allowing the public to share in a story that science is only beginning to tell."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The careful recovery and study of a mysterious river vessel.",
+      "The competition among divers to find ancient treasures.",
+      "The decline of underwater archaeology in England.",
+      "The Roman occupation of northern England."
+     ],
+     "answer": 0,
+     "explain": "全文围绕一件神秘铁器的打捞、保护与研究展开，A项概括准确。B项偷换概念，原文强调科学而非寻宝竞赛；C项无中生有；D项以偏概全，罗马只是背景。",
+     "evidence": "Recently, a team working in a northern English river recovered a large iron vessel that had rested in the sediment for centuries."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What did the team do before raising the vessel?",
+     "options": [
+      "They cleaned it with X-ray equipment.",
+      "They spent months designing a recovery plan.",
+      "They tested food residues in the laboratory.",
+      "They moved it to a museum for display."
+     ],
+     "answer": 1,
+     "explain": "原文明确说团队“spent months designing a recovery plan”，B项同义改写。A项张冠李戴，X-ray在打捞后；C项时间倒置， residue测试在实验室阶段；D项过度推断，展览只是希望。",
+     "evidence": "Rather than attempt a risky removal, the team spent months designing a recovery plan."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the vessel’s origin?",
+     "options": [
+      "It was certainly made during the Roman period.",
+      "It may predate the Roman era or belong to a later period.",
+      "It was imported from a distant Mediterranean region.",
+      "It was used as a weapon in military conflicts."
+     ],
+     "answer": 1,
+     "explain": "原文说其设计不符罗马时代，专家猜测可能是中世纪甚至更早，B项准确推断。A项与原文矛盾；C项无中生有；D项偷换概念，原文未提武器用途。",
+     "evidence": "The vessel itself does not match Roman design, however, and experts suspect it may be medieval or even older."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A River’s Secret: The Recovery of an Ancient Cauldron",
+   "passage": "When divers descended into England’s River Wear, their objective was clear: to retrieve a mysterious iron cauldron that had lain submerged for centuries. The vessel’s origins were unknown, but its recovery demanded careful planning. The operation unfolded “like clockwork,” according to Gary Bankhead, an underwater archaeologist at Durham University, with each team member assigned a specific task. After freeing the artifact from debris, divers secured it in thick netting inside a metal cage, and colleagues above slowly raised it into the late morning sun.\n\nThe cauldron’s age remains uncertain. It was found alongside a trove of Roman artifacts, yet its three-legged design is inconsistent with the Roman era. Experts’ best guess is that it is medieval; their second-best guess is that it dates to the Iron Age. Such ambiguity is common in archaeology, where objects often resist simple classification.\n\nNearby investigations have yielded roughly 800 Roman whetstones, used by soldiers to sharpen swords, as well as coins and stone anchors. Researchers analyzed the sediment layer containing the whetstones and dated it to between 104 and 238 C.E. They suspect the site hosted a factory that operated thousands of years ago. Although England was a Roman province for hundreds of years, Roman-era discoveries are rare in Sunderland. “It is only ten miles or so south of Hadrian’s Wall, so you would expect the Romans to be in Sunderland,” Bankhead told the Guardian, “but there has been virtually no archaeological evidence.”\n\nBankhead, who serves as president of the local Vedra Hylton Community Association, spotted the cauldron while diving in September 2025. He estimated that it weighed nearly 70 pounds—too heavy for any single diver to lift from the riverbed. For months, he and his colleagues plotted how to raise it safely. When the cauldron finally emerged, Bankhead was “blown away” by its scale. “I’d seen it previously underwater, and I estimated how big it was, but when you see it in the daylight, you just marvel at its sheer size,” he told BBC News.\n\nThe team now hopes to determine the object’s age. After recovery, the cauldron was sent to York Archaeology’s conservation facilities, where experts will carefully clean it, removing deposits that formed over many years. Researchers from Durham University will then take X-rays, which may reveal hidden features such as rivets, repairs and decorative elements. They will also look for surviving food deposits, which could indicate what was cooked inside or allow radiocarbon testing to establish its age.\n\nBankhead suggests that a cauldron of this kind likely came from a high-status settlement or a monastic community. Given its value, the team is unsure why it ended up in the river; Bankhead wonders whether it played a role in some ritual or offering. He hopes the cauldron will eventually go on display at a museum alongside other artifacts discovered nearby, allowing the public to share in a story that science is only beginning to tell.",
+   "source": {
+    "name": "Smithsonian News",
+    "url": "https://www.smithsonianmag.com/smart-news/divers-recover-a-mysterious-cauldron-that-had-been-hiding-at-the-bottom-of-an-english-river-for-hundreds-of-years-180989765/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The Roman occupation of northern England and its legacy.",
+      "The recovery and investigation of a mysterious ancient cauldron.",
+      "The techniques used to preserve waterlogged iron objects.",
+      "The rivalry between local archaeology groups in Sunderland."
+     ],
+     "answer": 1,
+     "explain": "全文围绕铁锅的打捞、年代推测与后续研究展开，B项概括准确。A项以偏概全，罗马背景只是细节；C项偷换概念，保护技术仅为部分内容；D项无中生有，未提团体竞争。",
+     "evidence": "When divers descended into England’s River Wear, their objective was clear: to retrieve a mysterious iron cauldron that had lain submerged for centuries.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did researchers find near the cauldron’s location?",
+     "options": [
+      "A series of ancient stone anchors and gold coins.",
+      "A well-preserved medieval cooking site.",
+      "A large collection of Roman sharpening stones.",
+      "A factory that produced iron cauldrons."
+     ],
+     "answer": 2,
+     "explain": "原文提到附近发现约800块罗马磨石，C项同义改写。A项偷换概念，原文是coins而非gold coins；B项张冠李戴，中世纪是锅的猜测年代；D项过度推断，工厂只是推测。",
+     "evidence": "Nearby investigations have yielded roughly 800 Roman whetstones, used by soldiers to sharpen swords, as well as coins and stone anchors.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why was the cauldron’s recovery carefully planned?",
+     "options": [
+      "It was guarded by local community members.",
+      "It was located in a dangerous military zone.",
+      "It was fragile and could break easily.",
+      "It was too heavy for one diver to lift."
+     ],
+     "answer": 3,
+     "explain": "原文明确说锅重近70磅，单个潜水员无法搬动，D项正确。A项张冠李戴，社区协会是组织者而非守卫；B项无中生有；C项偷换概念，原文未提易碎。",
+     "evidence": "He estimated that it weighed nearly 70 pounds—too heavy for any single diver to lift from the riverbed.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about Roman-era finds in Sunderland?",
+     "options": [
+      "They are unexpectedly scarce despite the area’s proximity to Roman sites.",
+      "They are abundant but poorly preserved.",
+      "They have been fully excavated by local volunteers.",
+      "They are less valuable than medieval objects."
+     ],
+     "answer": 0,
+     "explain": "原文说尽管靠近哈德良长城，罗马时期发现却“virtually no archaeological evidence”，A项准确推断。B项与原文相反；C项过度推断，未提完全发掘；D项无中生有，未比较价值。",
+     "evidence": "Although England was a Roman province for hundreds of years, Roman-era discoveries are rare in Sunderland.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “inconsistent” in the passage is closest in meaning to ______.",
+     "options": [
+      "not in agreement",
+      "not yet confirmed",
+      "not fully examined",
+      "not easily repaired"
+     ],
+     "answer": 0,
+     "explain": "inconsistent意为“不一致的”，指锅的设计与罗马时代不符，A项正确。B项“未确认”偷换概念；C项“未充分检查”无关；D项“不易修复”望文生义。",
+     "evidence": "It was found alongside a trove of Roman artifacts, yet its three-legged design is inconsistent with the Roman era.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Such ambiguity is common in archaeology, where objects often resist simple [1]. Nearby investigations have yielded roughly 800 Roman whetstones, used by soldiers to sharpen swords, as well as coins and stone anchors. Researchers analyzed the [2] layer containing the whetstones and dated it to between 104 and 238 C.E. They suspect the site hosted a factory that [3] thousands of years ago.\n\nAlthough England was a Roman [4] for hundreds of years, Roman-era discoveries are rare in Sunderland. “It is only ten miles or so south of Hadrian’s Wall, so you would expect the Romans to be in Sunderland,” Bankhead told the Guardian, “but there has been virtually no [5] evidence.”\n\nBankhead, who serves as president of the local Vedra Hylton Community Association, spotted the cauldron while diving in September 2025. He [6] that it weighed nearly 70 pounds—too heavy for any single diver to lift from the [7]. For months, he and his colleagues plotted how to raise it safely. When the cauldron finally [8], Bankhead was “blown away” by its scale. “I’d seen it previously underwater, and I estimated how big it was, but when you see it in the daylight, you just [9] at its sheer size,” he told BBC News.\n\nThe team now hopes to determine the object’s age. After recovery, the cauldron was sent to York Archaeology’s [10] facilities, where experts will carefully clean it, removing deposits that formed over many years. Researchers from Durham University will then take X-rays, which may reveal hidden features such as rivets, repairs and decorative elements. They will also look for surviving food deposits, which could indicate what was cooked inside or allow radiocarbon testing to establish its age. Bankhead suggests that a cauldron of this kind likely came from a high-status settlement or a monastic community.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "archaeological"
+    },
+    {
+     "label": "B",
+     "word": "classification"
+    },
+    {
+     "label": "C",
+     "word": "communication"
+    },
+    {
+     "label": "D",
+     "word": "conservation"
+    },
+    {
+     "label": "E",
+     "word": "dispose"
+    },
+    {
+     "label": "F",
+     "word": "emerged"
+    },
+    {
+     "label": "G",
+     "word": "engagement"
+    },
+    {
+     "label": "H",
+     "word": "estimated"
+    },
+    {
+     "label": "I",
+     "word": "incomplete"
+    },
+    {
+     "label": "J",
+     "word": "intermittent"
+    },
+    {
+     "label": "K",
+     "word": "marvel"
+    },
+    {
+     "label": "L",
+     "word": "operated"
+    },
+    {
+     "label": "M",
+     "word": "province"
+    },
+    {
+     "label": "N",
+     "word": "riverbed"
+    },
+    {
+     "label": "O",
+     "word": "sediment"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "classification",
+     "lower": "classification",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "分类，级别",
+     "context": "Such ambiguity is common in archaeology, where objects often resist simple classification."
+    },
+    {
+     "index": 2,
+     "word": "sediment",
+     "lower": "sediment",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "Researchers analyzed the sediment layer containing the whetstones and dated it to between 104 and 238 C.E."
+    },
+    {
+     "index": 3,
+     "word": "operated",
+     "lower": "operated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "操作；施行手术",
+     "context": "They suspect the site hosted a factory that operated thousands of years ago."
+    },
+    {
+     "index": 4,
+     "word": "province",
+     "lower": "province",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "省；领域，部门",
+     "context": "Although England was a Roman province for hundreds of years, Roman-era discoveries are rare in Sunderland."
+    },
+    {
+     "index": 5,
+     "word": "archaeological",
+     "lower": "archaeological",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "A",
+     "gloss": "",
+     "context": "“It is only ten miles or so south of Hadrian’s Wall, so you would expect the Romans to be in Sunderland,” Bankhead told the Guardian, “but there has been virtually no archaeological evidence.” Bankhead, who serves as president of the local Vedra Hylton Community Association, spotted the cauldron while diving in September 2025."
+    },
+    {
+     "index": 6,
+     "word": "estimated",
+     "lower": "estimated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "估计",
+     "context": "He estimated that it weighed nearly 70 pounds—too heavy for any single diver to lift from the [7]."
+    },
+    {
+     "index": 7,
+     "word": "riverbed",
+     "lower": "riverbed",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "He [6] that it weighed nearly 70 pounds—too heavy for any single diver to lift from the riverbed."
+    },
+    {
+     "index": 8,
+     "word": "emerged",
+     "lower": "emerged",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "出现",
+     "context": "When the cauldron finally emerged, Bankhead was “blown away” by its scale."
+    },
+    {
+     "index": 9,
+     "word": "marvel",
+     "lower": "marvel",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "K",
+     "gloss": "奇迹；惊奇；v 惊奇",
+     "context": "“I’d seen it previously underwater, and I estimated how big it was, but when you see it in the daylight, you just marvel at its sheer size,” he told BBC News."
+    },
+    {
+     "index": 10,
+     "word": "conservation",
+     "lower": "conservation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "保护，保存",
+     "context": "After recovery, the cauldron was sent to York Archaeology’s conservation facilities, where experts will carefully clean it, removing deposits that formed over many years."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Smithsonian News",
+  "url": "https://www.smithsonianmag.com/smart-news/divers-recover-a-mysterious-cauldron-that-had-been-hiding-at-the-bottom-of-an-english-river-for-hundreds-of-years-180989765/",
+  "long_sentences": [
+   {
+    "en": "A few days after the recovery, Jemima Cowey , a conservation project manager at York Archaeology, posted an update on LinkedIn : “After a monumental effort from so many different people, the River Wear cauldron has arrived into the York Archaeology conservation facilities for treatment,” she wrote.",
+    "words": 47
+   },
+   {
+    "en": "“I’d seen it previously underwater, and I estimated how big it was, but when you see it in the daylight, you just marvel at its sheer size.” Next, the team hopes to find out how old the object is.",
+    "words": 39
+   },
+   {
+    "en": "Next, researchers from Durham University will take X-rays, which may “reveal important features currently concealed from view, including rivets, repairs, decorative elements, manufacturing details and evidence of how the cauldron was constructed,” Bankhead says in a statement .",
+    "words": 38
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-28T06:30:55",
+ "difficulty": {
+  "score": 85,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 304,
+    "asl": 9.8,
+    "flesch": 74.7,
+    "fkgl": 5.3,
+    "long_sent": 0.0,
+    "beyond": 0.115,
+    "in_band": true,
+    "score": 78
+   },
+   {
+    "type": "passage_listening",
+    "words": 315,
+    "asl": 17.5,
+    "flesch": 46.7,
+    "fkgl": 11.1,
+    "long_sent": 0.056,
+    "beyond": 0.06,
+    "in_band": false,
+    "score": 70
+   },
+   {
+    "type": "reading",
+    "words": 488,
+    "asl": 20.3,
+    "flesch": 47.0,
+    "fkgl": 11.8,
+    "long_sent": 0.125,
+    "beyond": 0.098,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 300,
+    "asl": 20.0,
+    "flesch": 47.2,
+    "fkgl": 11.6,
+    "long_sent": 0.133,
+    "beyond": 0.09,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 85（接近六级），与六级区间有偏差。"
+}
