@@ -1,0 +1,51 @@
+{
+ "id": "daily-2026-10-29",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-29",
+ "source_label": "每日一文 · Quanta",
+ "title_en": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+ "title_zh": "蜘蛛如何将“丝料”纺成自然界最坚硬的材料",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "A spider, when knocked off a wall, doesn’t fall for long. Within milliseconds, it spins a soup of proteins into sturdy climbing gear. Using a thin, shimmering strand of silk, the spider hauls itself back up.",
+   "zh": "蜘蛛从墙上被碰落时，并不会坠落太久。在几毫秒之内，它就能将一团蛋白质“浓汤”纺成坚固的攀爬工具。借助一根纤细闪亮的丝线，蜘蛛便能将自己拉回原处。"
+  },
+  {
+   "en": "The strand is tougher than Kevlar, the synthetic fiber in bike tires and bulletproof vests, and stronger than steel. It’s flexible and biocompatible with human bodies. Scientists dream of making spider silk into high-performing materials for seat belts, helmets, naval materials, and even scaffolds to help repair brain cells. But attempts to make spider silk in the lab have fallen short because researchers don’t know enough about how a spider spins “silk dope,” a liquid blend of proteins, water, and salt, from its silk glands into a remarkable solid.",
+   "zh": "这种丝线比凯夫拉（Kevlar，用于自行车轮胎和防弹衣的合成纤维）更坚韧，强度也超过钢铁。它柔韧且与人体生物相容。科学家梦想将蜘蛛丝制成高性能材料，用于安全带、头盔、舰船材料，甚至用于帮助修复脑细胞的支架。但实验室中制造蜘蛛丝的尝试一直未能如愿，因为研究人员对蜘蛛如何从其丝腺中将“丝浆”（一种由蛋白质、水和盐组成的液体混合物）纺成非凡固体的过程了解得还不够。"
+  },
+  {
+   "en": "Mapping out the molecular mechanisms behind the process is “really the holy grail” for the field, said Gregory Holland , a chemist and spectroscopist at San Diego State University. Recently, he led research that described how the molecules in liquid spider dope reorganize into semiliquid droplets called condensates before turning into solid silk fiber. The result is an atomic-level look into the spider’s silk factory.",
+   "zh": "圣地亚哥州立大学（San Diego State University）化学家兼光谱学家格雷戈里·霍兰（Gregory Holland）表示，绘制这一过程背后的分子机制图谱是该领域“真正的圣杯”。最近，他领导的研究描述了液态蜘蛛丝浆中的分子如何重新组织成被称为凝聚体（condensates）的半液体液滴，然后再转变为固体丝纤维。这一成果让人们得以在原子层面窥探蜘蛛的“制丝工厂”。"
+  },
+  {
+   "en": "The findings are also a practical guide to the formation of condensates, which nature has used repeatedly to organize molecules for genetic processes and for the creation of impressively strong biological materials.",
+   "zh": "这些发现也为凝聚体的形成提供了实用指南。自然界反复利用凝聚体来组织分子，以完成遗传过程并创造出强度惊人的生物材料。"
+  },
+  {
+   "en": "“It’s becoming clear that [condensates are] a common strategy that’s being used across a range of different organisms,” said Matthew Harrington , a biological materials scientist at McGill University who was not involved in the study. By unpacking how nature uses condensates, scientists hope to re-create some of its most rugged materials.",
+   "zh": "未参与该研究的麦吉尔大学（McGill University）生物材料科学家马修·哈林顿（Matthew Harrington）说：“越来越清楚的是，（凝聚体）是不同生物体普遍采用的一种策略。”通过揭示自然界如何利用凝聚体，科学家希望重新创造出一些最坚固的材料。"
+  },
+  {
+   "en": "Spiders are incredible natural factories. They can spin up to seven types of silks, and the same spider can often spin several of them. Aciniform silk wraps up insects for later snacking. Rubbery flagelliform silk reinforces the capture spiral to absorb shock. Dragline silk anchors webs and spiders to walls. Each type of silk has different properties depending on the species and related to how its molecules are assembled. And silks of the same type can have slightly different properties depending on the species.",
+   "zh": "蜘蛛是不可思议的天然工厂。它们最多能纺出七种丝，而同一只蜘蛛通常能纺出其中好几种。葡萄状腺丝（aciniform silk）用于包裹昆虫以备日后食用。橡胶状的鞭状腺丝（flagelliform silk）用于加固捕获螺旋丝以吸收冲击。拖牵丝（dragline silk）将蛛网和蜘蛛固定在墙壁上。每种丝的特性因物种而异，并与其分子的组装方式有关。同一类型的丝在不同物种之间也可能略有差异。"
+  },
+  {
+   "en": "In 1907, scientists discovered that spider silk is made of long, modular proteins, later named spidroins, which are in the same group of fiber proteins as collagen and keratin. More than half a century later, X-rays started to reveal the fiber’s underlying structure. The silk is made of flat sheets of protein, known as beta sheets , that are embedded in a less ordered, non-crystalline matrix.",
+   "zh": "1907年，科学家发现蜘蛛丝由长而模块化的蛋白质构成，后来被命名为蛛丝蛋白（spidroins），它们与胶原蛋白和角蛋白同属纤维蛋白家族。半个多世纪后，X射线开始揭示这种纤维的基本结构。蜘蛛丝由被称为β折叠（beta sheets）的扁平蛋白质片层构成，这些片层嵌入在有序度较低的非结晶基质中。"
+  },
+  {
+   "en": "In the early 2000s, as they inspected the spidroins in solution, researchers didn’t see organized, fixed structures like those seen in most proteins. Instead, the spidroins featured intrinsically disordered regions that fluttered around, forming and re-forming various shapes. Researchers then started to untangle how this soup of unstructured proteins could organize into strong, solid fibers.",
+   "zh": "21世纪初，研究人员在观察溶液中的蛛丝蛋白时，并未看到大多数蛋白质中那种有序、固定的结构。相反，蛛丝蛋白具有内在无序区域，这些区域不断飘动，形成并重新形成各种形状。随后，研究人员开始厘清这种无序蛋白质“浓汤”如何组织成坚固的固体纤维。"
+  },
+  {
+   "en": "One early theory suggested that proteins in the dope start to align with one another, as in a crystal, while remaining dynamic, in a transitional state known as “liquid crystal.” Another considered spider silk to be like silkworm silk, which has proteins organized into micelles, or small spheres, which then compress into silk fiber.",
+   "zh": "一种早期理论认为，丝浆中的蛋白质开始像晶体一样彼此排列对齐，同时保持动态，处于一种被称为“液晶”的过渡状态。另一种理论则认为蜘蛛丝类似蚕丝，其蛋白质组织成胶束（micelles），即小球体，然后压缩成丝纤维。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/"
+}

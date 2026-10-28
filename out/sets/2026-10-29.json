@@ -1,0 +1,512 @@
+{
+ "id": "2026-10-29",
+ "date": "2026-10-29",
+ "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 728,
+  "sentences": 37,
+  "avg_sentence_len": 19.7,
+  "flesch_ease": 46.7,
+  "flesch_grade": 11.6,
+  "hard_word_ratio": 0.141,
+  "long_sent_ratio": 0.135,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 99
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student visits her professor to discuss a research proposal on spider silk.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been reading about spider silk and its potential for medical materials. I want to propose a project on how spiders spin their silk."
+    },
+    {
+     "sp": "M",
+     "en": "That's an ambitious topic. What's your angle? The field is crowded with attempts to replicate the process in the lab, but most have failed."
+    },
+    {
+     "sp": "W",
+     "en": "I know. I'm interested in the liquid stage—the 'silk dope.' Recent research shows that the proteins in the dope form droplets called condensates before turning into fiber. I'd like to explore whether we can trigger that formation artificially."
+    },
+    {
+     "sp": "M",
+     "en": "Interesting. Condensates are a hot topic in cell biology. But spider silk is a special case. The proteins are intrinsically disordered, which makes them hard to study with conventional methods."
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. That's why I want to combine spectroscopy with microscopy. My preliminary reading suggests that the condensates act as a kind of organizing hub, concentrating the proteins without locking them into a rigid structure."
+    },
+    {
+     "sp": "M",
+     "en": "So you're hoping to mimic the natural process. Have you considered the ethical and practical issues? Spiders produce very little silk, and farming them is not feasible. Some researchers use engineered bacteria instead."
+    },
+    {
+     "sp": "W",
+     "en": "Yes, I'm aware. But my focus is on the fundamental mechanism, not mass production. If we understand how the spider organizes the molecules, we might design synthetic proteins that self-assemble."
+    },
+    {
+     "sp": "M",
+     "en": "That's a reasonable goal. But remember, the spider's silk gland is a complex environment. It's not just about the proteins; it's also about the salt concentration, water content, and pH changes. You'll need to control for those variables."
+    },
+    {
+     "sp": "W",
+     "en": "I plan to collaborate with a chemist who can help me set up the conditions. Do you think this is feasible for a one-year master's project?"
+    },
+    {
+     "sp": "M",
+     "en": "It's ambitious, but if you narrow the scope to one type of silk, say dragline silk, and focus on one parameter, it could work. I'd suggest starting with a literature review on condensates in other organisms to see if there are parallels."
+    },
+    {
+     "sp": "W",
+     "en": "That's a great idea. I'll look into squid beaks and mussel adhesives. Thank you, Professor."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman's main purpose in meeting the professor?",
+     "options": [
+      "To seek advice on her research proposal about spider silk",
+      "To request funding for a project on synthetic fibers",
+      "To discuss ethical issues in spider farming",
+      "To ask for help with a literature review on cell biology"
+     ],
+     "answer": 0,
+     "explain": "女士开场即说明想提出关于蜘蛛纺丝的课题，随后讨论可行性，故 A 正确。B 项“申请资金”未提及；C 项“伦理问题”是教授提及的细节，非女士目的；D 项“文献综述”是教授的建议，非来意。",
+     "evidence": "I want to propose a project on how spiders spin their silk."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say about condensates in silk dope?",
+     "options": [
+      "They lock proteins into a permanent solid structure",
+      "They concentrate proteins without fixing them rigidly",
+      "They are identical to structures found in silkworm silk",
+      "They prevent proteins from forming any organized shapes"
+     ],
+     "answer": 1,
+     "explain": "女士说 condensates 像“组织中心”，浓缩蛋白质但不锁定为刚性结构，故 B 正确。A 项与原文相反；C 项“与蚕丝相同”属张冠李戴；D 项“阻止形成有序形状”与原文矛盾。",
+     "evidence": "the condensates act as a kind of organizing hub, concentrating the proteins without locking them into a rigid structure."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the professor's view on the project?",
+     "options": [
+      "He believes it is too risky to attempt within a year",
+      "He thinks the topic has been fully explored already",
+      "He considers it feasible if the scope is narrowed",
+      "He doubts the value of studying spider silk at all"
+     ],
+     "answer": 2,
+     "explain": "教授说“ambitious, but if you narrow the scope... it could work”，表明缩小范围后可行，故 C 正确。A 项“太冒险”过度推断；B 项“已充分研究”与原文“field is crowded”不符；D 项“怀疑价值”无依据。",
+     "evidence": "It's ambitious, but if you narrow the scope to one type of silk, say dragline silk, and focus on one parameter, it could work."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the professor's attitude toward the woman's plan?",
+     "options": [
+      "Supportive but cautious",
+      "Indifferent and dismissive",
+      "Enthusiastic and uncritical",
+      "Confused and skeptical"
+     ],
+     "answer": 0,
+     "explain": "教授肯定目标合理，但提醒变量复杂并建议缩小范围，体现支持而谨慎，故 A 正确。B 项“漠不关心”与对话不符；C 项“不加批判”忽略其提醒；D 项“困惑怀疑”过度。",
+     "evidence": "That's a reasonable goal. But remember, the spider's silk gland is a complex environment."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Spider silk has long fascinated scientists because of its extraordinary combination of strength and flexibility. Weight for weight, it is tougher than Kevlar and stronger than steel, yet it is also biocompatible, meaning it can be used inside the human body without causing harm. These properties have inspired dreams of producing artificial silk for use in everything from seat belts to surgical scaffolds. However, reproducing spider silk in the laboratory has proved remarkably difficult. The challenge lies not in the final fiber but in the process of spinning it. A spider stores silk proteins in a liquid form known as 'silk dope,' which is a mixture of proteins, water, and salts. When the spider needs silk, it transforms this liquid into a solid thread within milliseconds. How exactly this happens has been a mystery. Recent research has begun to reveal that the proteins first organize into tiny liquid droplets called condensates. These droplets concentrate the proteins and prepare them for the final assembly into fiber, and condensates are not unique to spiders. In recent years, biologists have discovered that cells use similar droplets to organize many molecular processes, from DNA regulation to the formation of strong biological materials. For example, mussels use condensates to create adhesives that attach them to rocks, and squid beaks are molded into stiff, durable structures through a similar mechanism. This widespread use suggests that condensates are a fundamental strategy in nature for building complex materials. Understanding how spiders use condensates could therefore do more than solve a long-standing mystery. It could also provide a blueprint for designing new materials. If scientists can learn to control the formation of condensates, they might be able to create synthetic fibers with properties rivaling those of natural silk. Such materials could have applications in medicine, engineering, and beyond. The spider's silk factory, refined over millions of years, may yet teach us how to make better materials ourselves."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The commercial applications of spider silk in industry",
+      "The role of condensates in spider silk production and beyond",
+      "The evolutionary history of spiders and their silk glands",
+      "The challenges of farming spiders for silk production"
+     ],
+     "answer": 1,
+     "explain": "全文围绕 condensates 在蜘蛛纺丝中的作用及其在自然界的普遍性展开，故 B 正确。A 项“商业应用”只是开头提及的梦想，非主旨；C 项“进化史”未涉及；D 项“养殖挑战”文中未提。",
+     "evidence": "Recent research has begun to reveal that the proteins first organize into tiny liquid droplets called condensates."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What makes spider silk difficult to reproduce in the lab?",
+     "options": [
+      "The final fiber is too complex to analyze",
+      "The spinning process from liquid to solid is not fully understood",
+      "Spiders produce too many types of silk to study",
+      "The proteins are too strong to be synthesized"
+     ],
+     "answer": 1,
+     "explain": "原文指出挑战在于纺丝过程，即液体如何变成固体尚不清楚，故 B 正确。A 项“最终纤维太复杂”与原文“挑战不在最终纤维”矛盾；C 项“类型太多”是细节但非原因；D 项“蛋白质太强”属偷换概念。",
+     "evidence": "The challenge lies not in the final fiber but in the process of spinning it."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about condensates from the passage?",
+     "options": [
+      "They are found only in spiders and silkworms",
+      "They serve as a general organizational tool in biology",
+      "They prevent proteins from assembling into fibers",
+      "They are a recent laboratory invention"
+     ],
+     "answer": 1,
+     "explain": "文中说 condensates 在细胞中广泛用于组织分子过程，是自然界的普遍策略，故 B 正确。A 项“仅见于蜘蛛和蚕”与广泛分布矛盾；C 项“阻止组装”与原文相反；D 项“实验室发明”属无中生有。",
+     "evidence": "This widespread use suggests that condensates are a fundamental strategy in nature for building complex materials."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Secret of Spider Silk",
+   "passage": "Spider silk has long been celebrated for its remarkable properties. It is tougher than Kevlar, stronger than steel, and biocompatible with the human body. These qualities have inspired scientists to dream of producing artificial silk for use in seat belts, helmets, and even scaffolds for repairing brain cells. Yet despite decades of effort, attempts to replicate spider silk in the laboratory have largely fallen short. The obstacle is not the final fiber but the process by which a spider transforms a liquid blend of proteins, water, and salt—known as \"silk dope\"—into a solid thread within milliseconds.\n\nRecently, a team led by Gregory Holland at San Diego State University offered a molecular-level explanation. They found that the proteins in silk dope first organize into semiliquid droplets called condensates before assembling into solid fiber. This discovery provides an atomic-level view of the spider's silk factory and suggests that condensates are a key intermediate in the spinning process.\n\nCondensates are not unique to spiders. In recent years, biologists have realized that cells use similar droplets to organize molecules for various tasks, from regulating gene expression to packaging proteins. At a larger scale, organisms employ condensates to build impressive materials: they help mold squid beaks into stiff structures, form adhesives that allow mussels to attach to rocks, and create marine cement for sandcastle worms. \"It's becoming clear that condensates are a common strategy used across a range of organisms,\" said Matthew Harrington, a materials scientist at McGill University.\n\nThe significance of the spider silk finding extends beyond solving a biological puzzle. By understanding how nature uses condensates to assemble strong materials, scientists hope to re-create some of nature's most rugged substances. If researchers can learn to control condensate formation, they might design synthetic proteins that self-assemble into fibers with properties rivaling those of natural silk. Such materials could have applications in medicine, engineering, and beyond.\n\nHowever, the spider's silk gland is a complex environment. The proteins involved are intrinsically disordered, making them difficult to study with conventional methods. Moreover, the process depends on precise conditions of salt concentration, water content, and pH. Researchers must therefore combine advanced techniques, such as spectroscopy and microscopy, to capture the fleeting condensate stage. Despite these challenges, the pursuit continues, driven by the promise of materials that could outperform anything humans have yet engineered.\n\nThe spider, after all, has had millions of years to perfect its craft. By unraveling the secrets of its silk factory, scientists may finally learn how to spin a better fiber themselves.",
+   "source": {
+    "name": "Quanta",
+    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the main idea of the passage?",
+     "options": [
+      "Condensates are central to spider silk formation and hold promise for material design",
+      "Spider silk's commercial potential has been overstated by scientists",
+      "Scientists have successfully replicated spider silk in the laboratory",
+      "The silk gland's complexity makes research impossible"
+     ],
+     "answer": 0,
+     "explain": "文章核心是 condensates 在蜘蛛纺丝中的作用及其对材料设计的启示，故 A 正确。B 项“商业潜力被夸大”无依据；C 项“已成功复制”与原文相反；D 项“研究不可能”过于绝对。",
+     "evidence": "They found that the proteins in silk dope first organize into semiliquid droplets called condensates before assembling into solid fiber.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what is the main obstacle to making artificial spider silk?",
+     "options": [
+      "The final fiber is too expensive to produce",
+      "Spiders cannot be farmed in large numbers",
+      "The spinning process from liquid to solid is not fully understood",
+      "The proteins are too weak to be synthesized"
+     ],
+     "answer": 2,
+     "explain": "原文明确指出障碍在于纺丝过程而非最终纤维，故 C 正确。A 项“成本高”未提；B 项“养殖难”非文中障碍；D 项“蛋白质太弱”与原文“tougher than Kevlar”矛盾。",
+     "evidence": "The obstacle is not the final fiber but the process by which a spider transforms a liquid blend of proteins, water, and salt—known as \"silk dope\"—into a solid thread within milliseconds.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What example of condensate use is mentioned in the passage?",
+     "options": [
+      "Spiders using them to digest insects",
+      "Bacteria using them to synthesize Kevlar",
+      "Silkworms using them to produce micelles",
+      "Mussels using them to create adhesives"
+     ],
+     "answer": 3,
+     "explain": "原文提到贻贝利用 condensates 形成黏合剂附着岩石，故 D 正确。A 项“蜘蛛消化昆虫”是 aciniform silk 的功能，张冠李戴；B 项“细菌合成 Kevlar”无中生有；C 项“蚕产生胶束”是旧理论，非 condensate 例子。",
+     "evidence": "they help mold squid beaks into stiff structures, form adhesives that allow mussels to attach to rocks, and create marine cement for sandcastle worms.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the future of spider silk research?",
+     "options": [
+      "It will likely fail because the silk gland is too complex",
+      "It may lead to new materials if condensate formation can be controlled",
+      "It has already produced synthetic fibers superior to natural silk",
+      "It should focus on farming spiders rather than laboratory synthesis"
+     ],
+     "answer": 1,
+     "explain": "文末指出若学会控制 condensate 形成，可能设计自组装纤维，故 B 正确。A 项“注定失败”与原文“pursuit continues”矛盾；C 项“已产生优于天然丝的纤维”过度推断；D 项“应转向养殖”无依据。",
+     "evidence": "If researchers can learn to control condensate formation, they might design synthetic proteins that self-assemble into fibers with properties rivaling those of natural silk.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"rugged\" in paragraph 4 is closest in meaning to ______.",
+     "options": [
+      "rough and uneven",
+      "strong and durable",
+      "simple and basic",
+      "flexible and soft"
+     ],
+     "answer": 1,
+     "explain": "此处 rugged 修饰 materials，与上文 strong materials 呼应，意为“坚固耐用”，故 B 正确。A 项“粗糙不平”是字面义，脱离语境；C 项“简单基本”与语境相反；D 项“柔软灵活”与 rugged 相反。",
+     "evidence": "By understanding how nature uses condensates to assemble strong materials, scientists hope to re-create some of nature's most rugged substances.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Spider silk has long been celebrated for its remarkable properties. It is tougher than Kevlar, stronger than steel, and [1] with the human body. These qualities have inspired scientists to dream of producing artificial silk for use in seat belts, helmets, and even scaffolds for repairing brain cells. Yet despite decades of effort, attempts to [2] spider silk in the laboratory have largely fallen short.\n\nThe obstacle is not the final fiber but the process by which a spider [3] a liquid blend of proteins, water, and salt—known as \"silk dope\"—into a solid thread within milliseconds. Recently, a team led by Gregory Holland at San Diego State University offered a molecular-level [4]. They found that the proteins in silk dope first [5] into semiliquid droplets called condensates before assembling into solid fiber. This discovery [6] an atomic-level view of the spider's silk factory and suggests that condensates are a key intermediate in the spinning process.\n\nCondensates are not unique to spiders. In recent years, biologists have realized that cells use similar droplets to organize [7] for various tasks, from regulating gene expression to packaging proteins. At a larger scale, organisms employ condensates to build [8] materials: they help mold squid beaks into stiff structures, form adhesives that allow mussels to attach to rocks, and create marine cement for sandcastle worms. \"It's becoming clear that condensates are a common strategy used across a range of organisms,\" said Matthew Harrington, a materials [9] at McGill University.\n\nThe significance of the spider silk finding extends beyond solving a biological puzzle. By understanding how nature uses condensates to assemble strong materials, scientists hope to re-create some of nature's most rugged substances. If researchers can learn to control condensate [10], they might design synthetic proteins that self-assemble into fibers with properties rivaling those of natural silk.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "aspirational"
+    },
+    {
+     "label": "B",
+     "word": "biocompatible"
+    },
+    {
+     "label": "C",
+     "word": "confront"
+    },
+    {
+     "label": "D",
+     "word": "evaporate"
+    },
+    {
+     "label": "E",
+     "word": "explanation"
+    },
+    {
+     "label": "F",
+     "word": "formation"
+    },
+    {
+     "label": "G",
+     "word": "helicopter"
+    },
+    {
+     "label": "H",
+     "word": "impressive"
+    },
+    {
+     "label": "I",
+     "word": "molecules"
+    },
+    {
+     "label": "J",
+     "word": "organize"
+    },
+    {
+     "label": "K",
+     "word": "provides"
+    },
+    {
+     "label": "L",
+     "word": "recall"
+    },
+    {
+     "label": "M",
+     "word": "replicate"
+    },
+    {
+     "label": "N",
+     "word": "scientist"
+    },
+    {
+     "label": "O",
+     "word": "transforms"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "biocompatible",
+     "lower": "biocompatible",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "It is tougher than Kevlar, stronger than steel, and biocompatible with the human body."
+    },
+    {
+     "index": 2,
+     "word": "replicate",
+     "lower": "replicate",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "Yet despite decades of effort, attempts to replicate spider silk in the laboratory have largely fallen short."
+    },
+    {
+     "index": 3,
+     "word": "transforms",
+     "lower": "transforms",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "改变",
+     "context": "The obstacle is not the final fiber but the process by which a spider transforms a liquid blend of proteins, water, and salt—known as \"silk dope\"—into a solid thread within milliseconds."
+    },
+    {
+     "index": 4,
+     "word": "explanation",
+     "lower": "explanation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "解释，说明；辩解",
+     "context": "Recently, a team led by Gregory Holland at San Diego State University offered a molecular-level explanation."
+    },
+    {
+     "index": 5,
+     "word": "organize",
+     "lower": "organize",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "组织，编组",
+     "context": "They found that the proteins in silk dope first organize into semiliquid droplets called condensates before assembling into solid fiber."
+    },
+    {
+     "index": 6,
+     "word": "provides",
+     "lower": "provides",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "提供；装备，供给",
+     "context": "This discovery provides an atomic-level view of the spider's silk factory and suggests that condensates are a key intermediate in the spinning process."
+    },
+    {
+     "index": 7,
+     "word": "molecules",
+     "lower": "molecules",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "分子，克分子",
+     "context": "In recent years, biologists have realized that cells use similar droplets to organize molecules for various tasks, from regulating gene expression to packaging proteins."
+    },
+    {
+     "index": 8,
+     "word": "impressive",
+     "lower": "impressive",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "给人印象深刻的",
+     "context": "At a larger scale, organisms employ condensates to build impressive materials: they help mold squid beaks into stiff structures, form adhesives that allow mussels to attach to rocks, and create marine cement for sandcastle worms."
+    },
+    {
+     "index": 9,
+     "word": "scientist",
+     "lower": "scientist",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "These qualities have inspired scientists to dream of producing artificial silk for use in seat belts, helmets, and even scaffolds for repairing brain cells."
+    },
+    {
+     "index": 10,
+     "word": "formation",
+     "lower": "formation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "形成；构成；形成物",
+     "context": "If researchers can learn to control condensate formation, they might design synthetic proteins that self-assemble into fibers with properties rivaling those of natural silk."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Quanta",
+  "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+  "long_sentences": [
+   {
+    "en": "One early theory suggested that proteins in the dope start to align with one another, as in a crystal, while remaining dynamic, in a transitional state known as “liquid crystal.” Another considered spider silk to be like silkworm silk, which has proteins organized into micelles, or small spheres, which then compress into silk fiber.",
+    "words": 54
+   },
+   {
+    "en": "But attempts to make spider silk in the lab have fallen short because researchers don’t know enough about how a spider spins “silk dope,” a liquid blend of proteins, water, and salt, from its silk glands into a remarkable solid.",
+    "words": 40
+   },
+   {
+    "en": "“Because they’re fluid, they’re malleable,” Harrington said, “so you [i.e., biology] can kind of shape them into whatever you want.” More research showed that living cells use condensates everywhere, to organize DNA, regulate gene expression, and package proteins.",
+    "words": 38
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-29T06:32:03",
+ "difficulty": {
+  "score": 76,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 336,
+    "asl": 11.2,
+    "flesch": 58.2,
+    "fkgl": 7.9,
+    "long_sent": 0.0,
+    "beyond": 0.098,
+    "in_band": true,
+    "score": 77
+   },
+   {
+    "type": "passage_listening",
+    "words": 318,
+    "asl": 17.7,
+    "flesch": 44.7,
+    "fkgl": 11.4,
+    "long_sent": 0.0,
+    "beyond": 0.085,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 419,
+    "asl": 18.2,
+    "flesch": 37.5,
+    "fkgl": 12.6,
+    "long_sent": 0.087,
+    "beyond": 0.117,
+    "in_band": true,
+    "score": 81
+   },
+   {
+    "type": "banked_cloze",
+    "words": 303,
+    "asl": 20.2,
+    "flesch": 37.0,
+    "fkgl": 13.1,
+    "long_sent": 0.133,
+    "beyond": 0.122,
+    "in_band": true,
+    "score": 87
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 76（接近六级），与六级区间有偏差。"
+}
