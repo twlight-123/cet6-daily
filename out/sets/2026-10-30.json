@@ -1,0 +1,512 @@
+{
+ "id": "2026-10-30",
+ "date": "2026-10-30",
+ "title": "Capturing the complete process of embryonic development",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 709,
+  "sentences": 28,
+  "avg_sentence_len": 25.3,
+  "flesch_ease": 42.2,
+  "flesch_grade": 13.7,
+  "hard_word_ratio": 0.069,
+  "long_sent_ratio": 0.286,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and her supervisor discuss a new imaging technique for tracking cell development.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been reading about the new lineage-tracing methods that allow researchers to follow individual cells as an embryo develops. It seems like a huge leap from the old snapshot approach."
+    },
+    {
+     "sp": "M",
+     "en": "Absolutely. For years, we could only look at fixed moments—a picture of a developing heart or a snapshot of the nervous system forming. But now we can reconstruct the entire family tree of cells over time."
+    },
+    {
+     "sp": "W",
+     "en": "That's what excites me. I'm particularly interested in how this might help us understand birth defects. If we know exactly when and where cells normally change course, we could pinpoint what goes wrong."
+    },
+    {
+     "sp": "M",
+     "en": "Yes, and the same logic applies to cancer. Cancer isn't a single event; it's a process where cells gradually acquire traits like the ability to spread. A detailed lineage map could show us when those traits emerge."
+    },
+    {
+     "sp": "W",
+     "en": "I also read that the technique uses something like a flight recorder inside the cell—small heritable changes to DNA that are passed down as cells divide. Then scientists read those changes backward to build the family tree."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. But keep in mind that mammalian embryos are far more complex than the tiny worm used in early studies. They have many more cells, develop out of sight in the uterus, and don't follow a completely predetermined script."
+    },
+    {
+     "sp": "W",
+     "en": "So the challenge is much bigger. Does that mean the new studies are more comprehensive than the worm work?"
+    },
+    {
+     "sp": "M",
+     "en": "In a way, yes. They cover over a million cells and multiple developmental stages. But we still need to be cautious—the mouse is not a human, and the findings may not translate directly."
+    },
+    {
+     "sp": "W",
+     "en": "Understood. I'd like to focus my thesis on how this technique could inform stem cell research, especially the sequence of cell states that leads to mature cell types."
+    },
+    {
+     "sp": "M",
+     "en": "That's a promising direction. Let's meet next week to narrow down your research questions and see what data are available."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "A new method for tracking cell development and its applications",
+      "The ethical concerns of experimenting on mammalian embryos",
+      "The limitations of traditional microscopy in studying embryos",
+      "The differences between worm and mammalian developmental patterns"
+     ],
+     "answer": 0,
+     "explain": "对话围绕新型细胞谱系追踪技术及其在出生缺陷、癌症和干细胞研究中的应用展开，A项正确。B项伦理问题未讨论；C项只是开头提及的传统方法局限，非主旨；D项只是细节对比，非中心。",
+     "evidence": "Professor, I've been reading about the new lineage-tracing methods that allow researchers to follow individual cells as an embryo develops.",
+     "id": "l1_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What distinguishes mammalian embryos from the worm in early studies?",
+     "options": [
+      "They have fewer cells and develop more slowly.",
+      "They develop in the uterus and are not fully predetermined.",
+      "Their development cannot be tracked with current technology.",
+      "They possess a simpler genetic script than the worm."
+     ],
+     "answer": 1,
+     "explain": "男士指出哺乳动物胚胎细胞更多、在子宫内发育且不完全按预定剧本，B项正确。A项细胞数量说反；C项与原文相反；D项遗传复杂性说反。",
+     "evidence": "They have many more cells, develop out of sight in the uterus, and don't follow a completely predetermined script.",
+     "id": "l1_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the woman's research plan?",
+     "options": [
+      "She intends to replicate the worm study in mice.",
+      "She plans to focus on stem cell applications of the new technique.",
+      "She wants to compare human and mouse embryos directly.",
+      "She will abandon the lineage-tracing approach due to complexity."
+     ],
+     "answer": 1,
+     "explain": "女士明确表示想将论文聚焦于该技术如何助力干细胞研究，B项正确。A项 worm 研究只是背景；C项人类胚胎未提及；D项她并未放弃，反而积极。",
+     "evidence": "I'd like to focus my thesis on how this technique could inform stem cell research, especially the sequence of cell states that leads to mature cell types.",
+     "id": "l1_3"
+    },
+    {
+     "type": "attitude",
+     "stem": "What is the man's attitude toward the new studies?",
+     "options": [
+      "Enthusiastic but cautious about direct translation to humans.",
+      "Dismissive because mouse models are irrelevant.",
+      "Concerned that the technique is too expensive.",
+      "Confident that all birth defects can now be cured."
+     ],
+     "answer": 0,
+     "explain": "男士肯定研究的全面性，但提醒小鼠不等于人类，态度是热情而谨慎，A项正确。B项 dismissive 不符；C项费用未提；D项过度推断。",
+     "evidence": "But we still need to be cautious—the mouse is not a human, and the findings may not translate directly.",
+     "id": "l1_4"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In the 1980s, scientists achieved a milestone by tracing the complete development of a tiny transparent worm, Caenorhabditis elegans, whose body contains only about 1,000 cells. Using microscopy, they could follow each cell division and see where every descendant ended up. This work provided a foundational understanding of how a relatively simple organism is built. However, replicating this feat in a mammal seemed almost impossible. Mammalian embryos contain vastly more cells, develop hidden inside the uterus, and do not follow a rigidly predetermined script. For decades, researchers had to settle for snapshots—static images of particular moments in development—rather than a continuous movie. Now, a new technology called PEtracer is changing that. It acts like a flight recorder inside each cell, making small, heritable changes to DNA that are passed down as cells divide. By reading these changes later, scientists can work backward to reconstruct the family tree of cells. Combined with information about gene activity and cell location, this approach has produced one of the most detailed views yet of mouse development, covering over a million cells. The implications are broad. Birth defects often arise when cells change course during organ formation, and a detailed map could help pinpoint where and when things go wrong. In cancer, the same approach could trace when cells acquire traits such as the ability to spread or resist treatment. Stem cell research may also benefit by revealing the sequence of cell states that leads to mature cell types. While the mouse is not a human, and findings may not translate directly, the work marks a significant step toward understanding the complete process of embryonic development in mammals. It transforms a process once studied in pieces into a coherent, dynamic narrative."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The history of microscopy in developmental biology",
+      "A new technique that provides a detailed view of mammalian development",
+      "The limitations of using mice to study human diseases",
+      "The ethical debate surrounding embryo research"
+     ],
+     "answer": 1,
+     "explain": "全文介绍 PEtracer 技术如何实现对哺乳动物胚胎发育的详细追踪及其意义，B项正确。A项显微镜历史只是开头；C项小鼠局限是部分内容；D项伦理未提。",
+     "evidence": "Now, a new technology called PEtracer is changing that."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does PEtracer do inside a cell?",
+     "options": [
+      "It records the electrical activity of the cell membrane.",
+      "It makes small heritable changes to DNA that are passed down.",
+      "It labels cells with fluorescent dyes for microscopy.",
+      "It prevents cells from dividing during observation."
+     ],
+     "answer": 1,
+     "explain": "原文明确 PEtracer 对 DNA 做可遗传的小改变并随分裂传递，B项正确。A项电活动未提；C项荧光染料是旧方法；D项阻止分裂与功能相反。",
+     "evidence": "It acts like a flight recorder inside each cell, making small, heritable changes to DNA that are passed down as cells divide."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the earlier worm study from the passage?",
+     "options": [
+      "It was less comprehensive because the worm has fewer cells and is simpler.",
+      "It failed to provide any useful insights into development.",
+      "It used the same PEtracer technology as the new mouse study.",
+      "It was conducted on mammals with hidden embryos."
+     ],
+     "answer": 0,
+     "explain": "原文对比指出线虫仅约1000个细胞且简单，而哺乳动物细胞多且复杂，故早期研究范围较窄，A项正确。B项否定其价值不符；C项技术不同；D项对象错误。",
+     "evidence": "Mammalian embryos contain vastly more cells, develop hidden inside the uterus, and do not follow a rigidly predetermined script."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Mapping the Embryo: A New Blueprint for Development",
+   "passage": "For decades, scientists have been able to capture only isolated moments in the development of an embryo: a snapshot of a forming brain, a picture of the heart taking shape, or a glimpse of cells beginning to assemble the nervous system. These static images, while valuable, have left researchers longing for a continuous record of how a single fertilized egg gives rise to hundreds of specialized cell types.\n\nA new study from the laboratory of MIT Professor Jonathan Weissman offers one of the most detailed views yet of how a mammal is built, cell by cell. By following the family history of over a million cells as a mouse embryo develops, the researchers have created a kind of developmental blueprint—a movie rather than a snapshot—showing how cells divide and ultimately become the tissues and organs of the body. The work, published in Cell, was conducted in collaboration with groups at Yale University and the Max Planck Institute.\n\nCentral to this achievement is a technology called PEtracer, developed in the Weissman Lab. The system acts somewhat like a flight recorder inside a cell. It makes small, heritable changes to DNA that are passed down as cells divide. By reading those changes later, scientists can work backward to reconstruct which cells came from which ancestors, essentially building a family tree for the cells in the developing embryo. When combined with information about gene activity and cell location, this approach yields a comprehensive picture of development.\n\nThe map could have broad implications for understanding disease. Many birth defects arise when cells change course as tissues and organs are being assembled. A detailed map of typical development could help researchers pinpoint where and when those processes go awry. In cancer, the same approach could help scientists trace when cells acquire traits such as the ability to spread or resist treatment. The map could also inform stem cell research by revealing the sequence of cell states that leads to mature, functional cell types.\n\nAchieving something similar in a mammal was once considered a challenge on a vastly different scale. Mammalian embryos contain far more cells, develop inside the uterus—out of sight—and do not follow a completely predetermined script. In the 1980s, scientists painstakingly traced the development of a tiny worm with only about 1,000 cells, but replicating that feat in mammals remained elusive. The new study tackles this challenge by analyzing over a million cells from mouse embryos collected at multiple points during development.\n\nWhile earlier studies might focus on one cell population, this approach puts those individual stories into the context of the entire developing animal. The mouse is not a human, and the findings may not translate directly, but the work marks a significant step toward a coherent, dynamic understanding of embryonic development in mammals.",
+   "source": {
+    "name": "MIT News",
+    "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the main purpose of the passage?",
+     "options": [
+      "To compare microscopy techniques used in embryology research",
+      "To argue that mouse studies are superior to worm studies",
+      "To describe a new method for tracking mammalian development",
+      "To criticize the limitations of snapshot approaches in biology"
+     ],
+     "answer": 2,
+     "explain": "文章介绍 PEtracer 技术如何构建小鼠胚胎发育蓝图及其在疾病研究中的意义，C 项正确。A 项显微镜比较非重点；B 项优劣比较片面；D 项批评快照只是引子。",
+     "evidence": "A new study from the laboratory of MIT Professor Jonathan Weissman offers one of the most detailed views yet of how a mammal is built, cell by cell.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What does PEtracer do to track cell lineage?",
+     "options": [
+      "It labels cells with fluorescent proteins for real-time imaging.",
+      "It introduces small heritable DNA changes passed to daughter cells.",
+      "It records the electrical signals of dividing cells.",
+      "It physically separates cells at different developmental stages."
+     ],
+     "answer": 1,
+     "explain": "原文明确 PEtracer 对 DNA 做可遗传的小改变并随分裂传递，B 项正确。A 项荧光蛋白未提；C 项电信号错误；D 项物理分离与 flight recorder 不符。",
+     "evidence": "It makes small, heritable changes to DNA that are passed down as cells divide.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what is one potential application of the developmental map?",
+     "options": [
+      "Predicting the exact lifespan of a mouse embryo",
+      "Understanding when cancer cells acquire harmful traits",
+      "Designing new microscopes with higher resolution",
+      "Creating artificial embryos from stem cells"
+     ],
+     "answer": 1,
+     "explain": "原文指出该图谱可帮助追踪癌细胞何时获得扩散或耐药等特性，B 项正确。A 项寿命预测未提；C 项显微镜设计无关；D 项人造胚胎过度推断。",
+     "evidence": "In cancer, the same approach could help scientists trace when cells acquire traits such as the ability to spread or resist treatment.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the 1980s worm study from the passage?",
+     "options": [
+      "It was less comprehensive because the worm is simpler and has fewer cells.",
+      "It provided no useful insights into mammalian development.",
+      "It used the same PEtracer technology as the new mouse study.",
+      "It was conducted on mammals with hidden embryos."
+     ],
+     "answer": 0,
+     "explain": "原文对比线虫仅约1000细胞且简单，哺乳动物细胞多且复杂，故早期研究范围较窄，A 项正确。B 项否定价值不符；C 项技术不同；D 项对象错误。",
+     "evidence": "In the 1980s, scientists painstakingly traced the development of a tiny worm with only about 1,000 cells, but replicating that feat in mammals remained elusive.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"elusive\" in the passage is closest in meaning to ______.",
+     "options": [
+      "difficult to achieve",
+      "easy to observe",
+      "clearly defined",
+      "widely accepted"
+     ],
+     "answer": 0,
+     "explain": "elusive 意为“难以实现/捉摸”，与 difficult to achieve 同义，A 项正确。B 项 easy to observe 反义；C 项 clearly defined 不符；D 项 widely accepted 无关。",
+     "evidence": "In the 1980s, scientists painstakingly traced the development of a tiny worm with only about 1,000 cells, but replicating that feat in mammals remained elusive.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "For decades, scientists have been able to capture only isolated moments in the development of an embryo: a snapshot of a forming brain, a picture of the heart taking shape, or a glimpse of cells beginning to assemble the nervous system. These static images, while valuable, have left researchers longing for a [1] record of how a single fertilized egg gives rise to hundreds of [2] cell types.\n\nA new study from the [3] of MIT Professor Jonathan Weissman offers one of the most detailed views yet of how a [4] is built, cell by cell. By following the family history of over a million cells as a mouse embryo develops, the researchers have created a kind of developmental [5]—a movie rather than a snapshot—showing how cells divide and ultimately become the tissues and organs of the body. The work, [6] in Cell, was conducted in collaboration with groups at Yale University and the Max Planck Institute.\n\nCentral to this [7] is a technology called PEtracer, developed in the Weissman Lab. The system acts somewhat like a flight recorder inside a cell. It makes small, [8] changes to DNA that are passed down as cells divide. By reading those changes later, scientists can work backward to reconstruct which cells came from which ancestors, essentially building a family tree for the cells in the developing embryo. When [9] with information about gene activity and cell location, this approach yields a comprehensive picture of development.\n\nThe map could have broad implications for understanding disease. Many birth defects arise when cells change course as tissues and organs are being assembled. A detailed map of typical development could help researchers [10] where and when those processes go awry.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "achievement"
+    },
+    {
+     "label": "B",
+     "word": "blueprint"
+    },
+    {
+     "label": "C",
+     "word": "combined"
+    },
+    {
+     "label": "D",
+     "word": "continuous"
+    },
+    {
+     "label": "E",
+     "word": "directory"
+    },
+    {
+     "label": "F",
+     "word": "ecology"
+    },
+    {
+     "label": "G",
+     "word": "heritable"
+    },
+    {
+     "label": "H",
+     "word": "inherent"
+    },
+    {
+     "label": "I",
+     "word": "laboratory"
+    },
+    {
+     "label": "J",
+     "word": "mammal"
+    },
+    {
+     "label": "K",
+     "word": "pinpoint"
+    },
+    {
+     "label": "L",
+     "word": "published"
+    },
+    {
+     "label": "M",
+     "word": "specialized"
+    },
+    {
+     "label": "N",
+     "word": "straighten"
+    },
+    {
+     "label": "O",
+     "word": "tribute"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "continuous",
+     "lower": "continuous",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "连续不断的，持续的",
+     "context": "These static images, while valuable, have left researchers longing for a continuous record of how a single fertilized egg gives rise to hundreds of [2] cell types."
+    },
+    {
+     "index": 2,
+     "word": "specialized",
+     "lower": "specialized",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "专业从事",
+     "context": "These static images, while valuable, have left researchers longing for a [1] record of how a single fertilized egg gives rise to hundreds of specialized cell types."
+    },
+    {
+     "index": 3,
+     "word": "laboratory",
+     "lower": "laboratory",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "实验室，研究室",
+     "context": "A new study from the laboratory of MIT Professor Jonathan Weissman offers one of the most detailed views yet of how a [4] is built, cell by cell."
+    },
+    {
+     "index": 4,
+     "word": "mammal",
+     "lower": "mammal",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "J",
+     "gloss": "哺乳动物",
+     "context": "A new study from the [3] of MIT Professor Jonathan Weissman offers one of the most detailed views yet of how a mammal is built, cell by cell."
+    },
+    {
+     "index": 5,
+     "word": "blueprint",
+     "lower": "blueprint",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "蓝图，设计图",
+     "context": "By following the family history of over a million cells as a mouse embryo develops, the researchers have created a kind of developmental blueprint—a movie rather than a snapshot—showing how cells divide and ultimately become the tissues and organs of the body."
+    },
+    {
+     "index": 6,
+     "word": "published",
+     "lower": "published",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "公布；发表；出版",
+     "context": "The work, published in Cell, was conducted in collaboration with groups at Yale University and the Max Planck Institute."
+    },
+    {
+     "index": 7,
+     "word": "achievement",
+     "lower": "achievement",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "完成；成就，成绩",
+     "context": "Central to this achievement is a technology called PEtracer, developed in the Weissman Lab."
+    },
+    {
+     "index": 8,
+     "word": "heritable",
+     "lower": "heritable",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "G",
+     "gloss": "",
+     "context": "It makes small, heritable changes to DNA that are passed down as cells divide."
+    },
+    {
+     "index": 9,
+     "word": "combined",
+     "lower": "combined",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "联合，结合",
+     "context": "When combined with information about gene activity and cell location, this approach yields a comprehensive picture of development."
+    },
+    {
+     "index": 10,
+     "word": "pinpoint",
+     "lower": "pinpoint",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "K",
+     "gloss": "",
+     "context": "A detailed map of typical development could help researchers pinpoint where and when those processes go awry."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "MIT News",
+  "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
+  "long_sentences": [
+   {
+    "en": "8 in the journal Cell , in collaboration with Zachary Smith’s group at Yale University and the Max Planck Institute for Molecular Genetics, provides a comprehensive view of a process that has long been studied in pieces: how a single fertilized egg gives rise to hundreds of different kinds of cells, arranged in the right places and at the right times to build an animal.",
+    "words": 65
+   },
+   {
+    "en": "A new study out of the lab of MIT Professor Jonathan Weissman, a member of the Whitehead Institute for Biomedical Research and a Howard Hughes Medical Institute investigator, offers one of the most detailed views yet of how a mammal is built, cell by cell.",
+    "words": 45
+   },
+   {
+    "en": "For decades, scientists have been able to look at individual moments in the development of an embryo: a snapshot of a developing brain, a picture of how the heart takes shape, or a glimpse of cells beginning to form the nervous system.",
+    "words": 42
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-30T06:33:32",
+ "difficulty": {
+  "score": 87,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 316,
+    "asl": 14.4,
+    "flesch": 66.2,
+    "fkgl": 7.6,
+    "long_sent": 0.0,
+    "beyond": 0.07,
+    "in_band": true,
+    "score": 94
+   },
+   {
+    "type": "passage_listening",
+    "words": 287,
+    "asl": 17.9,
+    "flesch": 46.8,
+    "fkgl": 11.2,
+    "long_sent": 0.0,
+    "beyond": 0.073,
+    "in_band": false,
+    "score": 57
+   },
+   {
+    "type": "reading",
+    "words": 465,
+    "asl": 22.1,
+    "flesch": 44.8,
+    "fkgl": 12.5,
+    "long_sent": 0.143,
+    "beyond": 0.073,
+    "in_band": true,
+    "score": 96
+   },
+   {
+    "type": "banked_cloze",
+    "words": 286,
+    "asl": 22.0,
+    "flesch": 47.0,
+    "fkgl": 12.2,
+    "long_sent": 0.154,
+    "beyond": 0.066,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 87（接近六级），与六级区间有偏差。"
+}

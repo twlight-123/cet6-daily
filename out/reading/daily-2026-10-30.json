@@ -1,0 +1,47 @@
+{
+ "id": "daily-2026-10-30",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-30",
+ "source_label": "每日一文 · MIT News",
+ "title_en": "Capturing the complete process of embryonic development",
+ "title_zh": "胚胎发育的捕捉胚胎发育完整过程的",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "For decades, scientists have been able to look at individual moments in the development of an embryo: a snapshot of a developing brain, a picture of how the heart takes shape, or a glimpse of cells beginning to form the nervous system.",
+   "zh": "几十年来，科学家一直能够观察胚胎发育过程中的个别瞬间：发育中大脑的快照、心脏成形的图像，或细胞开始形成神经系统时的片段。"
+  },
+  {
+   "en": "A new study out of the lab of MIT Professor Jonathan Weissman, a member of the Whitehead Institute for Biomedical Research and a Howard Hughes Medical Institute investigator, offers one of the most detailed views yet of how a mammal is built, cell by cell.",
+   "zh": "麻省理工学院（MIT）教授乔纳森·韦斯曼（Jonathan Weissman）实验室的一项新研究，提供了迄今最详细的哺乳动物如何逐细胞构建的视图之一。韦斯曼是怀特黑德生物医学研究所（Whitehead Institute for Biomedical Research）成员，也是霍华德·休斯医学研究所（Howard Hughes Medical Institute）研究员。"
+  },
+  {
+   "en": "By following the family history of over a million cells as a mouse embryo develops, the researchers have created a kind of developmental blueprint, or movie, showing how cells divide and ultimately become the tissues and organs in the body.",
+   "zh": "通过追踪小鼠胚胎发育过程中逾一百万个细胞的家族史，研究人员创建了一种发育蓝图，或者说一部“电影”，展示细胞如何分裂并最终成为体内的组织和器官。"
+  },
+  {
+   "en": "This open-access work, published Oct. 8 in the journal Cell , in collaboration with Zachary Smith’s group at Yale University and the Max Planck Institute for Molecular Genetics, provides a comprehensive view of a process that has long been studied in pieces: how a single fertilized egg gives rise to hundreds of different kinds of cells, arranged in the right places and at the right times to build an animal.",
+   "zh": "这项开放获取的研究于10月8日发表在《细胞》（Cell）期刊上，由耶鲁大学扎卡里·史密斯（Zachary Smith）团队和马克斯·普朗克分子遗传学研究所合作完成。它全面呈现了一个长期被分段研究的过程：一个受精卵如何产生数百种不同类型的细胞，并在正确的时间和位置排列，从而构建出一只动物。"
+  },
+  {
+   "en": "The map could have broad implications for understanding birth defects and cancer. Many birth defects arise when cells change course as tissues and organs are being assembled. A detailed map of typical development could help researchers pinpoint where and when those processes go awry. In cancer, the same approach could help scientists trace when cells acquire traits such as the ability to spread or resist treatment.",
+   "zh": "这张图谱对理解出生缺陷和癌症可能具有广泛意义。许多出生缺陷发生在组织和器官组装过程中细胞改变路线之时。一份典型发育的详细图谱可以帮助研究人员精确定位这些过程出错的地点和时间。在癌症中，同样的方法可以帮助科学家追踪细胞何时获得扩散或耐药等特性。"
+  },
+  {
+   "en": "The map could also inform stem cell research by revealing the sequence of cell states that leads to mature, functional cell types. In the 1980s, scientists ventured into similar territory by painstakingly following the development of Caenorhabditis elegans , a tiny worm whose transparent body contains only about 1,000 cells. Using microscopy, they could trace how individual cells divided and where their descendants ended up. But achieving something similar in a mammal was a challenge on a vastly different scale. Mammalian embryos contain far more cells, develop inside the uterus — out of sight — and do not follow a completely predetermined script. The new study tackles this challenge using a technology developed in the Weissman Lab called PEtracer. The system acts somewhat like a flight recorder inside a cell. PEtracer makes small, heritable changes to DNA that are passed down as cells divide. By reading those changes later, scientists can work backward to reconstruct which cells came from which ancestors, essentially building a family tree for the cells in the developing embryo.",
+   "zh": "该图谱还可通过揭示通向成熟、功能性细胞类型的细胞状态序列，为干细胞研究提供信息。20世纪80年代，科学家曾通过艰苦追踪秀丽隐杆线虫（Caenorhabditis elegans）的发育进入类似领域。这种微小蠕虫身体透明，仅约1000个细胞。利用显微镜，他们可以追踪单个细胞如何分裂以及后代最终去向。但在哺乳动物中实现类似目标，难度不可同日而语。哺乳动物胚胎细胞数量多得多，在子宫内发育——无法直接看到——而且并不遵循完全预设的脚本。这项新研究利用韦斯曼实验室开发的一种名为PEtracer的技术应对这一挑战。该系统在某种程度上像细胞内部的飞行记录器。PEtracer对DNA做出微小、可遗传的改变，这些改变随细胞分裂传递下去。通过日后读取这些改变，科学家可以回溯重建哪些细胞来自哪些祖先，实质上为发育中胚胎的细胞建立家谱。"
+  },
+  {
+   "en": "In this work, the researchers combined these family trees with information about what genes were turned on in each cell and where these cells were located in the embryo. They analyzed over a million cells from mouse embryos collected at multiple points during development, allowing them to follow not just where cells ended up, but when they began heading toward particular fates.",
+   "zh": "在这项工作中，研究人员将这些家谱与每个细胞中哪些基因被开启以及这些细胞在胚胎中位置的信息结合起来。他们分析了在发育多个时间点采集的小鼠胚胎逾一百万个细胞，从而不仅追踪细胞最终去向，还能追踪它们何时开始走向特定命运。"
+  },
+  {
+   "en": "A new study from Jay Shendure’s group at the University of Washington, published concurrently in the journal Science , uses a related approach called DNA Typewriter to track cell divisions in developing mouse embryos and build a record of their cellular history.",
+   "zh": "华盛顿大学杰伊·申杜雷（Jay Shendure）团队的一项新研究同时发表在《科学》（Science）期刊上，使用一种名为DNA Typewriter的相关方法追踪发育中小鼠胚胎的细胞分裂，并建立其细胞历史记录。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028"
+}
