@@ -1,0 +1,515 @@
+{
+ "id": "2026-10-31",
+ "date": "2026-10-31",
+ "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 759,
+  "sentences": 29,
+  "avg_sentence_len": 26.2,
+  "flesch_ease": 38.4,
+  "flesch_grade": 14.4,
+  "hard_word_ratio": 0.079,
+  "long_sent_ratio": 0.276,
+  "level": "六级",
+  "in_band": true,
+  "distance": 1.6,
+  "issues": [],
+  "score": 93
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university financial aid officer and a student discuss a suspicious email about a loan refund.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Hi, I’m here because I got an email saying my student loan refund was ready, but I never applied for a refund this semester."
+    },
+    {
+     "sp": "M",
+     "en": "That’s concerning. Let me pull up your account. Did the email ask you to click a link or provide personal information?"
+    },
+    {
+     "sp": "W",
+     "en": "Yes, it said I needed to verify my identity by entering my Social Security number and bank details. It looked official, with the university logo."
+    },
+    {
+     "sp": "M",
+     "en": "That’s a classic phishing attempt. We’ve seen a rise in these scams targeting students who haven’t taken out loans recently. The fraudsters try to hijack refunds."
+    },
+    {
+     "sp": "W",
+     "en": "So it’s not real? I almost filled it out. But why would they target me? I’m a senior with no current loans."
+    },
+    {
+     "sp": "M",
+     "en": "They often target students whose data might be in older databases. Once they get your info, they can file fake aid applications in your name and redirect the money."
+    },
+    {
+     "sp": "W",
+     "en": "That’s scary. What should I do now?"
+    },
+    {
+     "sp": "M",
+     "en": "First, don’t click any links. Forward the email to our IT security team. Then, check your credit report for any unauthorized activity. Also, consider placing a fraud alert."
+    },
+    {
+     "sp": "W",
+     "en": "Should I contact the police?"
+    },
+    {
+     "sp": "M",
+     "en": "You can file a report with the campus police and the FTC. But the most important thing is to secure your accounts and monitor them. We’ll also flag your file so no new aid applications can be processed without your in-person verification."
+    },
+    {
+     "sp": "W",
+     "en": "Thanks. I feel a bit better. I’ll forward the email right away."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And remember, legitimate emails from our office will never ask for your SSN via a link. Always come in person or call the official number."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "A phishing scam targeting student aid",
+      "How to apply for a student loan refund",
+      "The university’s new online verification system",
+      "Steps to improve credit scores"
+     ],
+     "answer": 0,
+     "explain": "对话围绕学生收到可疑退款邮件展开，工作人员指出这是针对学生援助的钓鱼诈骗。A项是学生误以为的退款流程，非主旨；C项在线验证系统是后续措施，非核心；D项信用评分是附带建议，非主题。",
+     "evidence": "That’s a classic phishing attempt. We’ve seen a rise in these scams targeting students who haven’t taken out loans recently."
+    },
+    {
+     "id": "l1_2",
+     "stem": "Why did the email seem convincing to the student?",
+     "options": [
+      "It included her correct student ID number.",
+      "It came from the university’s official email address.",
+      "It displayed the university logo and requested verification.",
+      "It mentioned her current loan balance accurately."
+     ],
+     "answer": 2,
+     "explain": "学生说邮件看起来正式，带有大学标志并要求验证身份。A项未提及学生ID；B项邮件并非来自官方地址，否则不会被认定为钓鱼；D项她当前没有贷款，故不可能提及准确余额。",
+     "evidence": "It looked official, with the university logo."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the fraudsters’ method?",
+     "options": [
+      "They only target students with active loans.",
+      "They rely on students’ ignorance of loan procedures.",
+      "They use stolen data to file fake aid applications.",
+      "They collaborate with university financial aid offices."
+     ],
+     "answer": 2,
+     "explain": "男士提到诈骗者获取信息后会用学生名义提交虚假援助申请并转移资金。A项与原文“target students who haven’t taken out loans recently”矛盾；B项过度推断，未提无知；D项无中生有，未提合作。",
+     "evidence": "Once they get your info, they can file fake aid applications in your name and redirect the money."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man’s attitude toward the student’s situation?",
+     "options": [
+      "Dismissive of her concerns",
+      "Supportive and instructive",
+      "Alarmed but helpless",
+      "Skeptical of her story"
+     ],
+     "answer": 1,
+     "explain": "男士耐心解释并给出具体行动建议，态度是支持且指导性的。A项他并未轻视；C项他提供了解决方案，并非无助；D项他相信学生并认真处理，未表怀疑。",
+     "evidence": "First, don’t click any links. Forward the email to our IT security team. Then, check your credit report for any unauthorized activity."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Identity theft in higher education is a growing problem, and fraudsters are increasingly targeting federal student aid programs. These programs are meant to help real learners pursue their academic goals. Recent reports show that criminals buy personal information of Americans who never went to college. They then use it to file fake financial aid applications in those people's names. This happens without the victims' knowledge or consent, and once approved, aid money goes to schools to cover tuition. Any extra money is deposited into bank accounts controlled by the fraudsters, and they quickly withdraw the funds before anyone notices. This scheme often involves \"ghost students\" who exist only on paper, and it has led to major losses. These losses undermine public trust in the entire financial aid system, and the Department of Justice reports that over 830,000 possibly fraudulent accounts have been found. Estimated losses are nearing $130 million, and the number is still growing, and victims often do not find out until years later. They are asked to repay loans they never took out, and this leaves them shocked and confused. The fraud damages credit and puts a heavy burden on victims, and they must prove their innocence through a long and frustrating process. To fight this, authorities are using data analysis to spot suspicious patterns. They are also adding stricter identity checks at every stage of the application process. Officials stress that student aid is for real students, and they say they will pursue fraudsters wherever they are. The case shows the need for strong safeguards to protect students and taxpayer funds."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The process of applying for federal student aid",
+      "A large-scale student aid fraud scheme and countermeasures",
+      "The impact of identity theft on credit scores",
+      "New online verification systems in universities"
+     ],
+     "answer": 1,
+     "explain": "短文概述了利用身份盗窃骗取学生援助的“幽灵学生”计划及其应对措施。A项申请流程只是背景细节；C项信用影响是部分后果；D项验证系统是应对措施之一，非全文主旨。",
+     "evidence": "This scheme often involves \"ghost students\" who exist only on paper, and it has led to major losses."
+    },
+    {
+     "id": "l2_2",
+     "stem": "Who are most frequently targeted by the fraudsters?",
+     "options": [
+      "Current college students with active loans",
+      "High school graduates who never attended college",
+      "International students seeking financial aid",
+      "University employees handling aid applications"
+     ],
+     "answer": 1,
+     "explain": "原文明确指出诈骗者购买从未上过大学的美国人的个人信息。A项与原文“never attended college”相反；C项未提及国际学生；D项无中生有。",
+     "evidence": "Recent reports show that criminals buy personal information of Americans who never went to college."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the victims’ experience?",
+     "options": [
+      "They are quickly notified by the government.",
+      "They face difficulties proving their innocence.",
+      "They receive compensation for the fraud.",
+      "They are mostly college graduates."
+     ],
+     "answer": 1,
+     "explain": "原文提到受害者多年后才被要求还款，且“imposes a heavy burden on victims to prove their innocence”。A项与“unaware until years later”矛盾；C项未提补偿；D项与“never attended college”矛盾。",
+     "evidence": "Estimated losses are nearing $130 million, and the number is still growing, and victims often do not find out until years later."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Ghost Students and the Student Aid Fraud Crisis",
+   "passage": "The United States has launched its first broad federal crackdown on “ghost students”—fraudsters who steal identities to pose as college students and siphon off federal student aid. The Department of Justice (DOJ) recently charged five individuals and seized more than $750,000 in cryptocurrency from a network linked to Kenyan nationals. According to officials, the scheme relied partly on artificial intelligence and exploited gaps in the student aid system.\n\nThe fraud typically begins with the purchase of personally identifiable information (PII) of Americans, especially high school graduates who never attended college. Using this data, criminals fill out the Free Application for Federal Student Aid (FAFSA) and seek enrollment in universities or community colleges. If accepted, aid is first sent to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Some even create fake online classroom presences to keep the ghost student enrolled for multiple semesters.\n\nThe scale is staggering. The Department of Education has identified over 830,000 potentially fraudulent federal student aid accounts, with estimated total losses approaching $130 million. For victims, the scheme often goes unnoticed until years later when they are asked to repay loans they never took out. By then, their credit may be damaged, and they face the burden of proving their innocence. Officials have identified more than $32 million in actual loss tied to specific subjects and believe the true total is substantially higher.\n\nThe DOJ’s investigation was triggered by the Department of Education’s Office of Inspector General, which first detected suspicious patterns. The FBI then traced money to domestic and foreign bank accounts and crypto wallets. In one case, a defendant used multiple bank accounts to receive over 700 fraudulent refund deposits totaling approximately $1,439,548. In another, a single person received more than $1 million linked to over 300 fraudulent student accounts.\n\nTo combat the problem, the Department of Education has introduced online identity verification requirements and automated systems to flag fraudulent FAFSA applications. Officials insist that fraud can be stopped without overly burdening the government. “Student aid belongs to real students,” said one official, “and we will follow the data trail wherever it leads.” The crackdown sends a clear message that exploiting programs meant to help students will not be tolerated.\n\nAs the investigation continues, the case underscores the vulnerability of federal aid systems and the need for robust safeguards. It also highlights the devastating impact on innocent Americans whose identities are stolen and who may spend years clearing their names.",
+   "source": {
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The application process for federal student aid",
+      "A large-scale student aid fraud and the official response",
+      "The growing role of AI in higher education",
+      "The impact of cryptocurrency on financial crimes"
+     ],
+     "answer": 1,
+     "explain": "文章开篇即点明主题：美国首次大规模打击“幽灵学生”诈骗，随后详述诈骗手法、规模及应对措施。A项申请流程仅为背景信息；C项AI只是诈骗手段之一，非全文主旨；D项加密货币仅为资金转移方式，属细节。",
+     "evidence": "The United States has launched its first broad federal crackdown on “ghost students”—fraudsters who steal identities to pose as college students and siphon off federal student aid.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Who are most frequently targeted by the fraudsters?",
+     "options": [
+      "College students with active loan accounts",
+      "University staff processing aid applications",
+      "International students applying for financial aid",
+      "High school graduates who never went to college"
+     ],
+     "answer": 3,
+     "explain": "第二段明确指出诈骗者购买美国人的个人信息，尤其是从未上过大学的高中毕业生。A项与原文“never attended college”相矛盾；B项张冠李戴，文中未提大学员工；C项无中生有，未提及国际学生。",
+     "evidence": "The fraud typically begins with the purchase of personally identifiable information (PII) of Americans, especially high school graduates who never attended college.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "How do fraudsters keep ghost students enrolled for multiple semesters?",
+     "options": [
+      "By bribing university admissions officers",
+      "By creating fake online classroom presences",
+      "By submitting forged high school transcripts",
+      "By hacking into the university’s enrollment system"
+     ],
+     "answer": 1,
+     "explain": "第二段末句提到，诈骗者创建虚假的在线课堂存在，使幽灵学生得以多学期注册。A项贿赂招生人员文中未提及；C项伪造成绩单无依据；D项黑客入侵系统属过度推断，原文只说创建虚假在线存在。",
+     "evidence": "Some even create fake online classroom presences to keep the ghost student enrolled for multiple semesters.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the victims’ experience?",
+     "options": [
+      "They are quickly notified by the government.",
+      "They face difficulties proving their innocence.",
+      "They receive compensation for the fraud.",
+      "They are mostly college graduates."
+     ],
+     "answer": 1,
+     "explain": "第三段指出受害者多年后才被要求还款，信用受损，且面临证明清白的负担。A项与“goes unnoticed until years later”矛盾；C项文中未提补偿；D项与“never attended college”矛盾，属偷换概念。",
+     "evidence": "By then, their credit may be damaged, and they face the burden of proving their innocence.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “siphon off” in the first paragraph is closest in meaning to ______.",
+     "options": [
+      "illegally divert",
+      "officially allocate",
+      "carefully monitor",
+      "gradually repay"
+     ],
+     "answer": 0,
+     "explain": "“siphon off”意为“抽走、挪用”，结合语境指诈骗者窃取学生援助资金，A项“非法转移”最接近。B项“官方分配”与欺诈语境相反；C项“仔细监控”无关；D项“逐步偿还”无依据，属偷换概念。",
+     "evidence": "The United States has launched its first broad federal crackdown on “ghost students”—fraudsters who steal identities to pose as college students and siphon off federal student aid.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "If accepted, aid is first sent to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Some even create fake online [1] presences to keep the ghost student enrolled for multiple semesters.\n\nThe scale is staggering. The Department of Education has identified over 830,000 potentially fraudulent federal student aid accounts, with [2] total losses approaching $130 million.\n\nFor victims, the scheme often goes [3] until years later when they are asked to repay loans they never took out. By then, their credit may be damaged, and they face the burden of proving their [4].\n\nOfficials have identified more than $32 million in actual loss tied to specific subjects and believe the true total is substantially higher. The DOJ’s investigation was [5] by the Department of Education’s Office of Inspector General, which first detected [6] patterns. The FBI then traced money to domestic and foreign bank accounts and crypto wallets. In one case, a defendant used multiple bank accounts to receive over 700 fraudulent [7] deposits totaling approximately $1,439,548. In another, a single person received more than $1 million linked to over 300 fraudulent student accounts.\n\nTo combat the problem, the Department of Education has introduced online identity verification requirements and [8] systems to flag fraudulent FAFSA applications. Officials insist that fraud can be stopped without overly burdening the government. “Student aid [9] to real students,” said one official, “and we will follow the data trail wherever it leads.”\n\nThe crackdown sends a clear message that exploiting programs meant to help students will not be tolerated. As the investigation continues, the case underscores the [10] of federal aid systems and the need for robust safeguards.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "automated"
+    },
+    {
+     "label": "B",
+     "word": "belongs"
+    },
+    {
+     "label": "C",
+     "word": "classroom"
+    },
+    {
+     "label": "D",
+     "word": "directory"
+    },
+    {
+     "label": "E",
+     "word": "estimated"
+    },
+    {
+     "label": "F",
+     "word": "furnish"
+    },
+    {
+     "label": "G",
+     "word": "innocence"
+    },
+    {
+     "label": "H",
+     "word": "pragmatic"
+    },
+    {
+     "label": "I",
+     "word": "reason"
+    },
+    {
+     "label": "J",
+     "word": "recession"
+    },
+    {
+     "label": "K",
+     "word": "refund"
+    },
+    {
+     "label": "L",
+     "word": "suspicious"
+    },
+    {
+     "label": "M",
+     "word": "triggered"
+    },
+    {
+     "label": "N",
+     "word": "unnoticed"
+    },
+    {
+     "label": "O",
+     "word": "vulnerability"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "classroom",
+     "lower": "classroom",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "教室，课堂",
+     "context": "Some even create fake online classroom presences to keep the ghost student enrolled for multiple semesters."
+    },
+    {
+     "index": 2,
+     "word": "estimated",
+     "lower": "estimated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "估计",
+     "context": "The Department of Education has identified over 830,000 potentially fraudulent federal student aid accounts, with estimated total losses approaching $130 million."
+    },
+    {
+     "index": 3,
+     "word": "unnoticed",
+     "lower": "unnoticed",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "For victims, the scheme often goes unnoticed until years later when they are asked to repay loans they never took out."
+    },
+    {
+     "index": 4,
+     "word": "innocence",
+     "lower": "innocence",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "G",
+     "gloss": "",
+     "context": "By then, their credit may be damaged, and they face the burden of proving their innocence."
+    },
+    {
+     "index": 5,
+     "word": "triggered",
+     "lower": "triggered",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "引发，引起",
+     "context": "The DOJ’s investigation was triggered by the Department of Education’s Office of Inspector General, which first detected [6] patterns."
+    },
+    {
+     "index": 6,
+     "word": "suspicious",
+     "lower": "suspicious",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "怀疑的；可疑的",
+     "context": "The DOJ’s investigation was [5] by the Department of Education’s Office of Inspector General, which first detected suspicious patterns."
+    },
+    {
+     "index": 7,
+     "word": "refund",
+     "lower": "refund",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "K",
+     "gloss": "退款；vt  退还",
+     "context": "In one case, a defendant used multiple bank accounts to receive over 700 fraudulent refund deposits totaling approximately $1,439,548."
+    },
+    {
+     "index": 8,
+     "word": "automated",
+     "lower": "automated",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "A",
+     "gloss": "使自动化",
+     "context": "To combat the problem, the Department of Education has introduced online identity verification requirements and automated systems to flag fraudulent FAFSA applications."
+    },
+    {
+     "index": 9,
+     "word": "belongs",
+     "lower": "belongs",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "属于，附属",
+     "context": "“Student aid belongs to real students,” said one official, “and we will follow the data trail wherever it leads.” The crackdown sends a clear message that exploiting programs meant to help students will not be tolerated."
+    },
+    {
+     "index": 10,
+     "word": "vulnerability",
+     "lower": "vulnerability",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "As the investigation continues, the case underscores the vulnerability of federal aid systems and the need for robust safeguards."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Ars Technica",
+  "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+  "long_sentences": [
+   {
+    "en": "In connection with the arrests, officials said they “identified more than $32 million in actual loss tied to these specific subjects” and “we believe that actual total is substantially higher,” with “millions more suspected.” The DOE’s Office of Inspector General first detected the fraud patterns that brought the alleged scheme to light.",
+    "words": 52
+   },
+   {
+    "en": "Stamos for the Eastern District of Virginia said that data analysis “identified unusual, suspicious patterns of behavior” that the FBI said indicated “coordinated fraud was happening involving FAFSA.” Those patterns gave investigators “a solid basis and a solid lead to open further inquiries that have led to indictments,” Stamos said.",
+    "words": 50
+   },
+   {
+    "en": "The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.” So far, the DOE has “identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,” officials said at the press conference.",
+    "words": 48
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-10-31T06:31:26",
+ "difficulty": {
+  "score": 81,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 278,
+    "asl": 10.3,
+    "flesch": 71.0,
+    "fkgl": 5.9,
+    "long_sent": 0.0,
+    "beyond": 0.086,
+    "in_band": true,
+    "score": 68
+   },
+   {
+    "type": "passage_listening",
+    "words": 262,
+    "asl": 17.5,
+    "flesch": 55.1,
+    "fkgl": 9.9,
+    "long_sent": 0.0,
+    "beyond": 0.031,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "reading",
+    "words": 412,
+    "asl": 19.6,
+    "flesch": 36.8,
+    "fkgl": 13.0,
+    "long_sent": 0.048,
+    "beyond": 0.07,
+    "in_band": true,
+    "score": 79
+   },
+   {
+    "type": "banked_cloze",
+    "words": 279,
+    "asl": 18.6,
+    "flesch": 39.4,
+    "fkgl": 12.4,
+    "long_sent": 0.067,
+    "beyond": 0.068,
+    "in_band": true,
+    "score": 89
+   }
+  ]
+ }
+}

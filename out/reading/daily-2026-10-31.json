@@ -1,0 +1,51 @@
+{
+ "id": "daily-2026-10-31",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-10-31",
+ "source_label": "每日一文 · Ars Technica",
+ "title_en": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+ "title_zh": "美国司法部表示，数千名“幽灵学生”利用人工智能窃取了数百万美元的学生贷款",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.",
+   "zh": "美国司法部（DOJ）表示，已对五名个人提出指控，这是联邦政府首次对“幽灵学生”展开大规模打击——所谓“幽灵学生”，是指盗用数百名美国人身份、冒充假大学生以骗取学生贷款的诈骗者。"
+  },
+  {
+   "en": "In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals” after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.",
+   "zh": "司法部在周四的新闻稿中表示，已发现一个部分依赖人工智能的大规模诈骗计划。经过数据分析帮助标记出可能的诈骗者后，司法部从“一个与肯尼亚籍人员相关的网络”中查获了超过75万美元的加密货币。司法部全国欺诈执法司助理司法部长科林·M·麦克唐纳（Colin M. McDonald）将此次逮捕归功于特朗普政府实施的新欺诈检测措施。他表示，“这是肯尼亚首次开展此类国际查扣行动”，同时警告诈骗者，打击行动才刚刚开始。"
+  },
+  {
+   "en": "“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”",
+   "zh": "“如果你盗用美国人的身份，如果你窃取纳税人的钱，如果你利用本应帮助学生建设未来的项目——我们会找到你，”麦克唐纳说。“无论你是在内布拉斯加州、新泽西州、弗吉尼亚州，还是在内罗毕，我们都会追查到底。”"
+  },
+  {
+   "en": "Once they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said.",
+   "zh": "一旦拿到这些敏感数据，他们就会填写联邦学生援助免费申请表（FAFSA），同时争取被大学和社区学院录取。如果被录取，学生援助资金会先拨给学校用于支付学费和杂费，但剩余的钱会存入诈骗者控制的银行账户。司法部表示，已有数十名美国人开设银行账户，充当诈骗者的资金中转人。"
+  },
+  {
+   "en": "“It looks like the ghost student is actually completing the class,” McDonald said at the press conference. “Some even create the appearance of a fake student in an online classroom to trick schools into believing a real person is present. The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.”",
+   "zh": "“看起来幽灵学生确实在完成课程，”麦克唐纳在新闻发布会上说。“有些人甚至在网上课堂中制造出假学生的假象，让学校相信真有一个人在场。目的就是让幽灵学生尽可能长时间地留在学校，一个学期接一个学期地待下去。”"
+  },
+  {
+   "en": "So far, the DOE has “identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,” officials said at the press conference. If all those accounts are ghost students, total losses come close to $130 million, the DOJ said.",
+   "zh": "官员们在新闻发布会上表示，到目前为止，能源部（DOE）已“识别出超过83万个利用美国公民个人身份信息（PII）创建的潜在欺诈性联邦学生援助账户”。司法部表示，如果所有这些账户都是幽灵学生，总损失将接近1.3亿美元。"
+  },
+  {
+   "en": "For Americans whose data is stolen, there’s little opportunity to discover the scheme until the government comes collecting on loans years later. In the meantime, victims’ credit can be damaged. Once they detect the scheme, they’re stuck defending against demands to repay inflated student loans, which McDonald admitted is messy.",
+   "zh": "对于数据被盗的美国人来说，在政府多年后追讨贷款之前，他们几乎没有机会发现这一骗局。与此同时，受害者的信用可能受损。一旦发现骗局，他们还得应对偿还虚增学生贷款的要求，麦克唐纳承认这很棘手。"
+  },
+  {
+   "en": "In connection with the arrests, officials said they “identified more than $32 million in actual loss tied to these specific subjects” and “we believe that actual total is substantially higher,” with “millions more suspected.”",
+   "zh": "与此次逮捕相关，官员们表示，他们“已确认与这些特定对象相关的实际损失超过3200万美元”，并且“我们认为实际总额要高得多”，“还有数百万美元疑似涉案”。"
+  },
+  {
+   "en": "The DOE’s Office of Inspector General first detected the fraud patterns that brought the alleged scheme to light. The FBI then helped identify how many accounts were impacted, tracing money to US and foreign bank accounts and crypto wallets. In one case, a defendant “used multiple bank accounts across several financial institutions to receive over 700 fraudulently obtained federal student aid refund deposits, totaling approximately $1,439,548,” the DOJ said. In another, “one person received more than $1 million in deposits that were linked to more than 300 fraudulent student accounts,” Inside Higher Ed reported .",
+   "zh": "能源部监察长办公室最先发现了这些欺诈模式，从而揭开了这一涉嫌骗局。联邦调查局（FBI）随后帮助确定了受影响账户的数量，并追踪资金流向美国和外国银行账户及加密钱包。司法部表示，在其中一起案件中，一名被告“利用多家金融机构的多个银行账户接收了700多笔欺诈获得的联邦学生援助退款存款，总额约为1,439,548美元”。据《高等教育内幕》（Inside Higher Ed）报道，在另一起案件中，“一人收到了超过100万美元的存款，这些存款与300多个欺诈性学生账户有关”。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+}
