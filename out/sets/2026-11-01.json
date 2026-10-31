@@ -1,0 +1,511 @@
+{
+ "id": "2026-11-01",
+ "date": "2026-11-01",
+ "title": "In Dark Eden, I imagined how life might exist on a sunless planet",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 726,
+  "sentences": 27,
+  "avg_sentence_len": 26.9,
+  "flesch_ease": 59.4,
+  "flesch_grade": 11.7,
+  "hard_word_ratio": 0.072,
+  "long_sent_ratio": 0.407,
+  "level": "六级",
+  "in_band": true,
+  "distance": 2.4,
+  "issues": [],
+  "score": 76
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university careers adviser and a final-year student discuss how to frame an unusual research project for job applications.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Come in, Daniel. You wanted to talk about how to present your final-year project on job applications. I read the summary you sent — a study of how people imagine life on planets that have no sun. That’s certainly unusual."
+    },
+    {
+     "sp": "M",
+     "en": "That’s exactly my worry. It’s interesting to me, but employers might think it’s just science fiction and not take it seriously. I’ve spent two years on it, though, and I don’t want to hide it."
+    },
+    {
+     "sp": "W",
+     "en": "You shouldn’t hide it. The problem isn’t the topic; it’s how you describe it. Right now your summary starts with the imaginative side — the dark planet, the glowing forests. That’s the part that makes people think of fiction."
+    },
+    {
+     "sp": "M",
+     "en": "So you’re saying I should lead with the method instead? The interviews, the survey data, the statistical analysis?"
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. What you actually did was design a questionnaire, collect responses from over three hundred people and analyse the patterns. That’s research training, and it’s what employers care about. The topic is just the setting."
+    },
+    {
+     "sp": "M",
+     "en": "But won’t they ask why I chose such a strange setting? I’d have to explain the whole idea of planets without stars."
+    },
+    {
+     "sp": "W",
+     "en": "You can explain it in one sentence. Say you needed a case where people had no direct experience, so you could study how they reason from indirect evidence. That’s a serious question in psychology. The setting makes it memorable, not less serious."
+    },
+    {
+     "sp": "M",
+     "en": "That makes sense. I suppose I’ve been treating the topic as a weakness when it could be a way to stand out."
+    },
+    {
+     "sp": "W",
+     "en": "Provided you keep the focus on what you can do. One more thing: your summary is nearly two pages. Cut it to one. Put the method and the results first, and mention the imaginative background only at the end, as context."
+    },
+    {
+     "sp": "M",
+     "en": "I’ll rewrite it tonight. Should I also prepare a short answer for the interview, in case they ask about the science behind it?"
+    },
+    {
+     "sp": "W",
+     "en": "Yes, but keep it brief. You’re not applying to be an astronomer. You’re showing that you can design a study, handle data and explain your choices clearly. That’s the message."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman’s main purpose in the conversation?",
+     "options": [
+      "To advise the man on how to present his project to employers",
+      "To persuade the man to change the topic of his research",
+      "To explain why research on imaginary planets is unscientific",
+      "To help the man prepare for a postgraduate interview"
+     ],
+     "answer": 0,
+     "explain": "女士反复强调问题不在选题而在描述方式，并建议先讲方法和数据、压缩篇幅，故 A 正确。B 项她明确说“You shouldn’t hide it”，并非要求换题；C 项她把该选题视为严肃心理学问题；D 项对话针对求职申请而非读研面试。",
+     "evidence": "The problem isn’t the topic; it’s how you describe it."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say the man actually did in his project?",
+     "options": [
+      "He interviewed astronomers about planets without stars",
+      "He wrote a science-fiction story to illustrate a theory",
+      "He designed a questionnaire and analysed survey responses",
+      "He compared published studies on how people reason"
+     ],
+     "answer": 2,
+     "explain": "女士明确指出他设计问卷、收集三百多人回答并分析模式，故 B 正确。A 项把“问卷调查”偷换为“采访天文学家”；C 项把研究背景的想象成分当成实际工作；D 项“比较已发表研究”属张冠李戴。",
+     "evidence": "What you actually did was design a questionnaire, collect responses from over three hundred people and analyse the patterns."
+    },
+    {
+     "id": "l1_3",
+     "stem": "Why does the woman suggest keeping the topic in the application?",
+     "options": [
+      "It proves the man has read widely in astronomy",
+      "It can make his application more memorable to employers",
+      "It shows he is willing to take intellectual risks",
+      "It distracts attention from his weak statistical skills"
+     ],
+     "answer": 1,
+     "explain": "女士说选题“makes it memorable, not less serious”，即能让人记住，故 B 正确。A 项她强调不必当天文学家；C 项她关注的是可展示的能力而非冒险精神；D 项她认为数据分析正是其强项，属因果倒置。",
+     "evidence": "The setting makes it memorable, not less serious."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman’s attitude towards the man’s concern?",
+     "options": [
+      "Sympathetic but doubtful about his ability",
+      "Reassuring and focused on practical revision",
+      "Impatient with his repeated questions",
+      "Impressed by the originality of his topic"
+     ],
+     "answer": 1,
+     "explain": "女士先安抚“You shouldn’t hide it”，再给出压缩篇幅、调整顺序等具体建议，故 B 正确。A 项她未怀疑其能力；C 项她耐心回答并主动补充建议；D 项她认为选题只是背景，重点在方法。",
+     "evidence": "You shouldn’t hide it."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For centuries, the question of whether life could exist without sunlight was treated as speculation. That changed in 1977, when researchers exploring the deep ocean floor near the Galápagos Islands found dense communities of animals around hot vents. These creatures lived in total darkness, far below the reach of the sun, and appeared to depend not on photosynthesis but on chemicals released by the vents. The discovery forced biologists to widen their definition of the conditions under which life can survive. Since then, similar ecosystems have been found in many parts of the deep sea. Microorganisms there use chemical energy to produce food, a process known as chemosynthesis. Some scientists now argue that life on Earth may have begun in such environments, rather than in shallow, sunlit waters. The idea remains debated, but it has encouraged astronomers to consider that life might arise on planets that receive little or no light from a star. Free-floating planets, which drift through space without orbiting a sun, are extremely difficult to detect because they emit almost no light. Astronomers have identified a number of them using a technique called gravitational lensing, in which a planet’s gravity briefly bends and brightens the light of a more distant star. The method has confirmed that such planets are common, though their temperatures and atmospheres remain largely unknown. Whether any of them could support life is a separate question. Without sunlight, any ecosystem would need an internal source of energy, such as heat from the planet’s core or chemical reactions in its rocks. Some researchers regard this as plausible; others point out that the absence of light makes observation extremely difficult, and that claims about life on dark planets should be treated with caution until direct evidence is available. What has changed is not the evidence but the imagination of researchers. A few decades ago, a sunless planet was a setting for fiction. Today it is a legitimate subject of scientific study, even if the answers remain uncertain. The lesson may be that the limits of life are often set less by nature than by the questions we are willing to ask."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "How the discovery of deep-sea life widened scientific views of where life might exist",
+      "Why free-floating planets are more common than planets orbiting stars",
+      "How gravitational lensing has replaced earlier methods of space observation",
+      "Why most biologists now accept that life began in shallow waters"
+     ],
+     "answer": 0,
+     "explain": "全文从深海热泉发现出发，说明其如何促使科学家重新界定生命存在的条件并思考无光行星，故 A 正确。B 项“更常见”属无据比较；C 项透镜技术只是探测手段之一，未“取代”；D 项与原文“may have begun in such environments”相反。",
+     "evidence": "The discovery forced biologists to widen their definition of the conditions under which life can survive."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What did researchers find near the Galápagos Islands in 1977?",
+     "options": [
+      "Microorganisms that produced food through photosynthesis",
+      "Animal communities living in darkness around hot vents",
+      "A free-floating planet with a warm core",
+      "Evidence that life on Earth began in shallow waters"
+     ],
+     "answer": 1,
+     "explain": "原文说在热泉周围发现密集动物群落，处于完全黑暗之中，故 B 正确。A 项“光合作用”与原文“not on photosynthesis”相反；C 项把深海发现与行星探测混为一谈；D 项原文恰恰质疑浅水起源说。",
+     "evidence": "researchers exploring the deep ocean floor near the Galápagos Islands found dense communities of animals around hot vents."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about claims of life on dark planets?",
+     "options": [
+      "They have been proved by gravitational lensing",
+      "They are accepted by most astronomers today",
+      "They remain uncertain because direct evidence is lacking",
+      "They are based mainly on science fiction rather than research"
+     ],
+     "answer": 2,
+     "explain": "原文说缺乏直接证据前应谨慎对待此类主张，暗示其仍不确定，故 C 正确。A 项透镜技术只确认行星存在，未证明生命；B 项原文有“others point out”表明存在分歧；D 项原文明确它已是“legitimate subject of scientific study”。",
+     "evidence": "claims about life on dark planets should be treated with caution until direct evidence is available."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Life Without a Sun: From Speculation to Science",
+   "passage": "In 1992, British writer Chris Beckett invented a planet called Eden for a short story. Eden had no sun, and Beckett had no evidence such worlds existed. He assumed they might, and that life might arise on them, because even on Earth ecosystems flourish without sunlight around deep-ocean thermal vents. His guess proved better founded than he could have known, and free-floating planets, drifting through space without orbiting a star, are now known to exist. Being dark, they are hard to detect, but a number have been identified through gravitational lensing, which uses the bending of light by a planet’s gravity. That such planets are common is no longer controversial, and whether any support life is a separate and much harder question. When Beckett built Eden, he did not aim for complete scientific accuracy. He tried instead to make the world coherent, so readers would believe in it. He thought considerably about how the planet might work, not because his characters understand it — the story is told entirely by people who do not — but because he needed a framework to guide his imagination. In his design, Eden was once covered in ice, with liquid water beneath in which life could emerge. One life form, resembling tree roots, obtained extra energy by pushing deep into hot rocks, heating its sap and pumping it back up, like a geothermal power station. It used this heat to melt upward into the ice, feeding on nutrients and creating living space, until much of the surface was ice-free and the atmosphere breathable. Millions of years later, that thawed surface became the setting for Beckett’s novel Dark Eden and its sequels. In the novel, a small community descended from stranded Earth visitors lives with stone and wooden tools. They are exiles from a sunlit world surviving only in folk memory, and they can barely imagine it. Their stories tell them Earth people could fly, that there was a thing called leckytrickity, and that Earth animals had eyes in which you could see a mind looking back — not like the flat, blank eyes of Eden creatures. On Eden, the root-like organisms put up structures humans call “trees”, and a whole ecosystem has evolved around them, including “starflowers” that parasitise their roots. There are also many “animals”, though strictly speaking they are unrelated to Earth’s animal kingdom. With no sunlight, there is no alternation of day and night, but Eden’s life has developed bioluminescence, much as deep-sea organisms on Earth have. The “trees” carry luminous “lanternflowers”, and the starflowers glitter. Imagine a leafless forest on a moonless night, lit by thousands of Chinese lanterns, with twinkling fairy lights at ground level. With your eyes half-closed, the forests of Eden would look something like that. What Beckett’s case illustrates is not that fiction predicts science, but that the boundary between the two is porous. A planet without a sun was once a speculative setting; it is now a legitimate object of study.",
+   "source": {
+    "name": "New Scientist",
+    "url": "https://www.newscientist.com/article/2596453-in-dark-eden-i-imagined-how-life-might-exist-on-a-sunless-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "How a writer’s imagined sunless planet anticipated later scientific findings",
+      "Why gravitational lensing is the most reliable method in astronomy",
+      "How Beckett designed a planet to match the latest scientific evidence",
+      "Why scientists now believe that life on Earth began in deep water"
+     ],
+     "answer": 0,
+     "explain": "全文以贝克特虚构的无光行星为线索，说明其设想后来与科学发现相呼应，故A正确。B项透镜技术只是文中细节；C项原文说贝克特未追求完全科学准确；D项文中只提及生命或始于深海，并非主旨。",
+     "evidence": "What Beckett’s case illustrates is not that fiction predicts science, but that the boundary between the two is porous.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did Beckett think life might exist on a sunless planet?",
+     "options": [
+      "He had read studies of free-floating planets detected by lensing",
+      "He had observed bioluminescent life in the deep ocean himself",
+      "He believed that all planets have hot cores and liquid water",
+      "He knew that deep-sea ecosystems thrive without sunlight"
+     ],
+     "answer": 3,
+     "explain": "原文说地球上深海热泉周围有完整生态系统在无光条件下繁盛，故D正确。A项他1992年时尚不知此类行星存在；B项他并未亲自观察，属过度推断；C项“所有行星”属绝对化。",
+     "evidence": "He assumed they might, and that life might arise on them, because even on Earth ecosystems flourish without sunlight around deep-ocean thermal vents.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, how did Eden’s root-like life forms obtain extra energy?",
+     "options": [
+      "By absorbing sunlight through the ice",
+      "By heating sap in hot rocks and pumping it back",
+      "By feeding directly on starflowers",
+      "By using bioluminescence to attract animals"
+     ],
+     "answer": 1,
+     "explain": "原文说它们深入热岩、加热汁液再泵回，像地热发电站，故B正确。A项伊甸无阳光，与文意相反；C项吃星花的是其寄生关系，非能量来源；D项生物发光是后来生态特征，属张冠李戴。",
+     "evidence": "obtained extra energy by pushing deep into hot rocks, heating its sap and pumping it back up, like a geothermal power station.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the humans in Dark Eden from their stories?",
+     "options": [
+      "They have accurate knowledge of Earth’s technology",
+      "They preserve a detailed written record of their origin",
+      "They retain only a vague and distorted memory of Earth",
+      "They have entirely forgotten that Earth ever existed"
+     ],
+     "answer": 2,
+     "explain": "原文说地球只存于民间记忆、他们“barely imagine it”，且故事中有“leckytrickity”等失真说法，故C正确。A项“准确知识”与失真记忆矛盾；B项原文是口头故事而非文字记录；D项他们仍以流放者自居，记得地球存在。",
+     "evidence": "They are exiles from a sunlit world surviving only in folk memory, and they can barely imagine it.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “porous” in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "firmly established",
+      "easily crossed",
+      "widely criticised",
+      "carefully measured"
+     ],
+     "answer": 1,
+     "explain": "porous本义“多孔的”，此处喻指科幻与科学的界限可渗透、易跨越，故B正确。A项与“界限模糊”相反；C项文中未提批评；D项与“界限”搭配不当，属望文生义。",
+     "evidence": "the boundary between the two is porous.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "He put considerable thought into how the planet might work, not because his characters understand it — the story is told entirely by people who do not — but because he needed a [1] to guide his imagination. In his design, Eden was once covered in ice, with liquid water beneath it in which life could emerge. One form of life, resembling tree roots, [2] extra energy by pushing deep into hot rocks, heating its sap and pumping it back up, like a geothermal power station. It used this heat to melt its way upward into the ice, feeding on nutrients and creating living space, until much of the surface was ice-free and the atmosphere breathable.\n\nMillions of years later, that thawed surface became the setting for Beckett’s novel Dark Eden and its sequels. In the novel, a small [3] descended from stranded visitors from Earth lives with stone and wooden tools. They are exiles from a sunlit world that [4] only in folk memory, and they can barely imagine it. Their stories tell them that Earth people could fly, that there was a thing called [5], and that Earth animals had eyes in which you could see a mind looking back — not like the flat, blank eyes of Eden creatures.\n\nOn Eden, the root-like organisms put up [6] that the humans call “trees”, and a whole ecosystem has [7] around them, including “starflowers” that parasitise their roots. There are also many “animals”, though strictly speaking they are [8] to Earth’s animal kingdom.\n\nWith no sunlight, there is no alternation of day and night, but Eden’s life has developed [9], much as deep-sea organisms on Earth have. The “trees” carry [10] “lanternflowers”, and the starflowers glitter.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "absence"
+    },
+    {
+     "label": "B",
+     "word": "bioluminescence"
+    },
+    {
+     "label": "C",
+     "word": "community"
+    },
+    {
+     "label": "D",
+     "word": "electronics"
+    },
+    {
+     "label": "E",
+     "word": "evolved"
+    },
+    {
+     "label": "F",
+     "word": "framework"
+    },
+    {
+     "label": "G",
+     "word": "intensify"
+    },
+    {
+     "label": "H",
+     "word": "leckytrickity"
+    },
+    {
+     "label": "I",
+     "word": "luminous"
+    },
+    {
+     "label": "J",
+     "word": "obtained"
+    },
+    {
+     "label": "K",
+     "word": "reservation"
+    },
+    {
+     "label": "L",
+     "word": "standardize"
+    },
+    {
+     "label": "M",
+     "word": "structures"
+    },
+    {
+     "label": "N",
+     "word": "survives"
+    },
+    {
+     "label": "O",
+     "word": "unrelated"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "framework",
+     "lower": "framework",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "框架，构架，结构",
+     "context": "He put considerable thought into how the planet might work, not because his characters understand it — the story is told entirely by people who do not — but because he needed a framework to guide his imagination."
+    },
+    {
+     "index": 2,
+     "word": "obtained",
+     "lower": "obtained",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "获得",
+     "context": "One form of life, resembling tree roots, obtained extra energy by pushing deep into hot rocks, heating its sap and pumping it back up, like a geothermal power station."
+    },
+    {
+     "index": 3,
+     "word": "community",
+     "lower": "community",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "社区；社会；公社",
+     "context": "In the novel, a small community descended from stranded visitors from Earth lives with stone and wooden tools."
+    },
+    {
+     "index": 4,
+     "word": "survives",
+     "lower": "survives",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "幸免于；v 活下来",
+     "context": "They are exiles from a sunlit world that survives only in folk memory, and they can barely imagine it."
+    },
+    {
+     "index": 5,
+     "word": "leckytrickity",
+     "lower": "leckytrickity",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "Their stories tell them that Earth people could fly, that there was a thing called leckytrickity, and that Earth animals had eyes in which you could see a mind looking back — not like the flat, blank eyes of Eden creatures."
+    },
+    {
+     "index": 6,
+     "word": "structures",
+     "lower": "structures",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "结构",
+     "context": "On Eden, the root-like organisms put up structures that the humans call “trees”, and a whole ecosystem has [7] around them, including “starflowers” that parasitise their roots."
+    },
+    {
+     "index": 7,
+     "word": "evolved",
+     "lower": "evolved",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "使发展",
+     "context": "On Eden, the root-like organisms put up [6] that the humans call “trees”, and a whole ecosystem has evolved around them, including “starflowers” that parasitise their roots."
+    },
+    {
+     "index": 8,
+     "word": "unrelated",
+     "lower": "unrelated",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "There are also many “animals”, though strictly speaking they are unrelated to Earth’s animal kingdom."
+    },
+    {
+     "index": 9,
+     "word": "bioluminescence",
+     "lower": "bioluminescence",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "With no sunlight, there is no alternation of day and night, but Eden’s life has developed bioluminescence, much as deep-sea organisms on Earth have."
+    },
+    {
+     "index": 10,
+     "word": "luminous",
+     "lower": "luminous",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "I",
+     "gloss": "发光的；夜明的",
+     "context": "The “trees” carry luminous “lanternflowers”, and the starflowers glitter."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "New Scientist",
+  "url": "https://www.newscientist.com/article/2596453-in-dark-eden-i-imagined-how-life-might-exist-on-a-sunless-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+  "long_sentences": [
+   {
+    "en": "(In the biblical story of Eden, humans are exiled from Eden – my Eden is the place of exile.) Their stories tell them that Earth people could fly through the air, that there was a thing there called leckytrickity, that Earth animals had eyes that you could look into and see their minds looking back out at you, not like the flat, blank eyes of Eden creatures.",
+    "words": 67
+   },
+   {
+    "en": "One of the ways these organisms used this heat was to push upwards into the planet’s shell of ice, melting parts of it, feeding on the nutrients it contained, and creating more living space – and they carried on doing so until much of the surface of Eden was ice-free, and had an atmosphere that would turn out to be breathable by humans.",
+    "words": 63
+   },
+   {
+    "en": "In Dark Eden , a tiny community of humans, descended from stranded visitors from Earth, eke out a living using tools made of stone and wood, and try to make sense of their life as exiles from a sunlit world that lives on in folk memory, but which they can only very shakily imagine.",
+    "words": 54
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-01T06:28:43",
+ "difficulty": {
+  "score": 88,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 366,
+    "asl": 10.8,
+    "flesch": 76.4,
+    "fkgl": 5.3,
+    "long_sent": 0.0,
+    "beyond": 0.077,
+    "in_band": true,
+    "score": 75
+   },
+   {
+    "type": "passage_listening",
+    "words": 357,
+    "asl": 19.8,
+    "flesch": 50.9,
+    "fkgl": 11.1,
+    "long_sent": 0.111,
+    "beyond": 0.062,
+    "in_band": true,
+    "score": 89
+   },
+   {
+    "type": "reading",
+    "words": 497,
+    "asl": 20.7,
+    "flesch": 56.3,
+    "fkgl": 10.6,
+    "long_sent": 0.083,
+    "beyond": 0.08,
+    "in_band": true,
+    "score": 89
+   },
+   {
+    "type": "banked_cloze",
+    "words": 287,
+    "asl": 23.9,
+    "flesch": 53.2,
+    "fkgl": 11.8,
+    "long_sent": 0.25,
+    "beyond": 0.091,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}

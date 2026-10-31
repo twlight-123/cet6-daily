@@ -1,0 +1,31 @@
+{
+ "id": "daily-2026-11-01",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-01",
+ "source_label": "每日一文 · New Scientist",
+ "title_en": "In Dark Eden, I imagined how life might exist on a sunless planet",
+ "title_zh": "在《黑暗伊甸园》中，我想象着生命如何在一个没有太阳的星球上生存",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "I came up with the idea of the planet Eden in 1992 for a short story called The Circle of Stones . At that time, I had no idea that there really were such things as planets without suns, but it seemed likely to me. It also seemed possible to me that life might arise on such a planet, since, even here on Earth, whole ecologies thrive without sunlight around thermal vents in the deep ocean. Life on Earth may have even have begun in such places.",
+   "zh": "1992年，我为短篇小说《石之环》（The Circle of Stones）构思了伊甸（Eden）这颗行星。当时我并不知道宇宙中真的存在没有太阳的行星，但在我看来，这种行星很可能存在。我也觉得，生命有可能在这样的行星上诞生——因为即便在地球上，深海热液喷口周围也有完整的生态系统在无阳光条件下繁衍生息。地球上的生命甚至可能就起源于这类地方。"
+  },
+  {
+   "en": "Quite often, if something seems likely, it does indeed happen. (In another book , I predicted that a US president would one day seek to take over Greenland and Canada.) Having written that story, I learned that free-floating planets did indeed exist. Being dark, they’re hard to spot, but a number have been detected using gravitational lensing . And I gather it’s not particularly controversial to think that some of them might support life (though not quite in the form that I chose to imagine it – but I’ll come to that).",
+   "zh": "很多时候，一件事只要看起来很可能发生，它就真的会发生。（在另一本书里，我曾预言，总有一天会有一位美国总统试图吞并格陵兰和加拿大。）写完那个故事后，我才了解到，自由漂浮的行星确实存在。由于它们本身不发光，很难被发现，但天文学家已经借助引力透镜（gravitational lensing）探测到了不少这类行星。而且据我所知，认为其中一些行星可能孕育生命，这并不特别有争议（尽管生命形态未必完全是我所想象的那样——这一点我稍后会谈到）。"
+  },
+  {
+   "en": "When creating a world for a story, I don’t usually seek to make the whole thing scientifically accurate, but I try to make it hang together in a way that feels coherent. I didn’t build Eden by doing a lot of research, but I did put a lot of thought into how it might all work. This wasn’t so I could put it all in the book – no one in Eden knows this stuff and the story is told entirely by its characters! – but so that I had something to guide my imagination and make my invented world feel coherent.",
+   "zh": "为故事构建一个世界时，我通常不会追求整件事在科学上完全准确，但我会努力让它前后自洽、读起来浑然一体。我并没有通过大量研究来构建伊甸，但我确实花了很多心思去设想它如何运转。这样做不是为了把这些内容都写进书里——伊甸上没有人懂这些，故事完全由书中人物讲述！——而是为了让我在想象时有据可依，让我虚构的世界显得连贯可信。"
+  },
+  {
+   "en": "My idea was that Eden had once been covered in ice, but its hot core meant there was liquid water below the ice in which life could come into existence. One particular kind of life form appeared, somewhat resembling tree roots, that was able to obtain additional energy by pushing deep down into hot rocks, pumping its sap through them to heat it, and then pumping it back up again, like a geothermal power station. One of the ways these organisms used this heat was to push upwards into the planet’s shell of ice, melting parts of it, feeding on the nutrients it contained, and creating more living space – and they carried on doing so until much of the surface of Eden was ice-free, and had an atmosphere that would turn out to be breathable by humans.",
+   "zh": "我的设想是，伊甸曾经被冰层覆盖，但它的炽热核心使得冰下存在液态水，生命可以在那里诞生。后来出现了一种特殊的生命形态，外形有些像树根，它能够通过向炽热岩石深处推进来获取额外能量：把汁液泵送下去穿过岩石加热，然后再泵送上来，就像一座地热发电站。这些生物利用热量的一种方式，是向上顶入行星的冰壳，融化部分冰层，以其中的营养物质为食，并开辟出更多生存空间——它们一直这样做，直到伊甸的大部分表面不再有冰，并形成了一层后来被证明可供人类呼吸的大气。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.newscientist.com/article/2596453-in-dark-eden-i-imagined-how-life-might-exist-on-a-sunless-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+}
