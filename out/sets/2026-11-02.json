@@ -1,0 +1,519 @@
+{
+ "id": "2026-11-02",
+ "date": "2026-11-02",
+ "title": "Comets probably didn’t deliver life’s building blocks to Earth",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 617,
+  "sentences": 24,
+  "avg_sentence_len": 25.7,
+  "flesch_ease": 38.7,
+  "flesch_grade": 14.2,
+  "hard_word_ratio": 0.092,
+  "long_sent_ratio": 0.333,
+  "level": "六级",
+  "in_band": true,
+  "distance": 1.3,
+  "issues": [],
+  "score": 95
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "Two students discuss a public lecture on the origins of life and plan a follow-up seminar.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Did you go to Dr. Patel's lecture last night on how life began on Earth?"
+    },
+    {
+     "sp": "M",
+     "en": "I did, and I have to say it was not what I expected. I thought we would hear mostly about the famous Miller-Urey experiment, but she spent nearly half the talk on comets."
+    },
+    {
+     "sp": "W",
+     "en": "Right, she argued that the old picture of comets as delivery trucks for organic molecules is looking weaker than most textbooks suggest."
+    },
+    {
+     "sp": "M",
+     "en": "That was the part that surprised me. She kept saying that even if a comet carries the right chemicals, getting them to the surface intact is a completely different problem."
+    },
+    {
+     "sp": "W",
+     "en": "And she showed those computer models about hydrogen cyanide. I had never thought about how fast and at what angle a comet would have to strike for anything to survive."
+    },
+    {
+     "sp": "M",
+     "en": "The numbers were striking. If I remember correctly, she said only about one impact in a billion years might have delivered a meaningful amount."
+    },
+    {
+     "sp": "W",
+     "en": "That is what I wrote down too. But she was careful to say the study does not completely rule out comets. It just makes them a much less likely source."
+    },
+    {
+     "sp": "M",
+     "en": "Which leaves asteroids, volcanoes and deep-sea vents as alternatives. I found the asteroid idea the most convincing, because those carbon-rich rocks seem to have a better chance of arriving in one piece."
+    },
+    {
+     "sp": "W",
+     "en": "I am thinking of proposing a seminar on this for our astronomy club. Would you be willing to present the comet argument while I cover the asteroid side?"
+    },
+    {
+     "sp": "M",
+     "en": "I would, but only if we keep the focus on evidence rather than on who tells the better story. The topic attracts a lot of speculation."
+    },
+    {
+     "sp": "W",
+     "en": "Agreed. Let us meet tomorrow to sketch out the structure and decide which studies to assign as reading."
+    },
+    {
+     "sp": "M",
+     "en": "Fine. I will bring the lecture handout and a couple of review articles I found this morning."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "A new textbook that explains the Miller-Urey experiment",
+      "A seminar on how to write convincing astronomy essays",
+      "A lecture that questions comets as a source of life's ingredients",
+      "A plan to observe a comet through the campus telescope"
+     ],
+     "answer": 2,
+     "explain": "对话围绕 Patel 博士讲座展开，核心是彗星运送生命原料这一旧观点受到质疑，故 A 正确。B 项把后续研讨会准备偷换为写作方法；C 项张冠李戴，Miller-Urey 实验只是被提及；D 项无关信息，对话未提望远镜观测。",
+     "evidence": "she argued that the old picture of comets as delivery trucks for organic molecules is looking weaker than most textbooks suggest."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What did the woman note about hydrogen cyanide?",
+     "options": [
+      "It breaks down more easily than most organic compounds",
+      "Its survival depends on a comet's speed and impact angle",
+      "It was the main subject of the Miller-Urey experiment",
+      "It can form only in the deep ocean"
+     ],
+     "answer": 1,
+     "explain": "女士明确说从未想过彗星要以多快速度和什么角度撞击才能让物质存活，故 B 正确。A 项与原文相反，氢氰酸是较稳定的分子；C 项张冠李戴；D 项无中生有，海洋只是讨论撞击地点时提到。",
+     "evidence": "I had never thought about how fast and at what angle a comet would have to strike for anything to survive."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the man's view of the asteroid idea?",
+     "options": [
+      "He doubts that asteroids contain carbon-rich material",
+      "He considers it more plausible than the comet explanation",
+      "He believes it has been disproved by computer models",
+      "He thinks it deserves less attention than volcanoes"
+     ],
+     "answer": 1,
+     "explain": "男士说含碳小行星更有可能完整抵达，并认为小行星观点最有说服力，可推知 B。A 项与原文相反；C 项过度推断，模型只针对彗星；D 项偷换比较对象，他并未贬低小行星而抬高温泉。",
+     "evidence": "I found the asteroid idea the most convincing, because those carbon-rich rocks seem to have a better chance of arriving in one piece."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the coming seminar?",
+     "options": [
+      "Supportive but insistent on sticking to evidence",
+      "Reluctant because the topic is too speculative",
+      "Confident that it will settle the scientific debate",
+      "Indifferent to which studies are assigned"
+     ],
+     "answer": 0,
+     "explain": "男士同意参加，但强调聚焦证据而非谁的故事更动听，故 A 正确。B 项与“I would”矛盾；C 项绝对化，他并未说能解决争论；D 项与结尾主动带资料矛盾。",
+     "evidence": "I would, but only if we keep the focus on evidence rather than on who tells the better story."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For decades, one of the most attractive ideas in the study of life's origins has been that comets delivered the necessary chemicals to the young Earth. The picture is simple and appealing: icy bodies rich in carbon and nitrogen collide with the planet, and their cargo seeds the first steps toward biology. A recent modeling study, however, suggests that this picture deserves a second look. The researchers focused on hydrogen cyanide, a molecule that is unusually stable and that can release energy to drive later reactions. If even this robust compound struggles to survive an impact, they reasoned, more fragile molecules would fare worse. Their simulations tracked comets passing through the modern atmosphere and striking the surface, and they also considered the denser early atmosphere, which would have been even more destructive. The results were sobering. On average, only about one impact over more than a billion years would have delivered a meaningful amount of hydrogen cyanide. To survive at all, a comet would need to be larger than one hundred meters across, to move slowly and to arrive at a shallow angle. It would also have to hit land rather than ocean, because water would dilute the chemicals too quickly to trigger useful reactions. The study does not close the case. It leaves open the possibility that a rare comet did contribute, and it notes that Mars, with its thinner atmosphere and weaker gravity, may have received carbon-based molecules more easily. But it does shift attention toward other candidates, including carbon-rich asteroids, volcanoes and hydrothermal vents. For students of science, the episode offers a useful lesson. A familiar story can survive for years not because the evidence is strong but because it is easy to repeat. When new tools allow researchers to test that story, the result may be less a dramatic refutation than a quiet redistribution of probability. That is how scientific understanding usually advances."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A study that weakens the case for comets as life's chemical couriers",
+      "A new method for detecting hydrogen cyanide in space",
+      "The history of the Miller-Urey experiment and its critics",
+      "Why Mars is a better candidate for life than Earth"
+     ],
+     "answer": 0,
+     "explain": "全文围绕一项模拟研究展开，说明彗星运送生命原料的可能性被大大降低，故A正确。B项偷换概念，氢氰酸只是研究对象而非探测方法；C项张冠李戴，Miller-Urey未在文中出现；D项过度推断，火星只是附带比较。",
+     "evidence": "A recent modeling study, however, suggests that this picture deserves a second look.",
+     "id": "l2_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did the researchers choose hydrogen cyanide as their test molecule?",
+     "options": [
+      "It is the only organic compound found in comets",
+      "It is relatively stable and can power later reactions",
+      "It is produced mainly in the deep ocean",
+      "It is more fragile than most carbon-based chemicals"
+     ],
+     "answer": 1,
+     "explain": "原文指出氢氰酸异常稳定并能释放能量驱动后续反应，故B正确。A项绝对化，原文只说彗星含多种分子；C项张冠李戴，海洋是撞击地点；D项与原文相反，它比多数碳基分子更稳定。",
+     "evidence": "The researchers focused on hydrogen cyanide, a molecule that is unusually stable and that can release energy to drive later reactions.",
+     "id": "l2_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the study's conclusion?",
+     "options": [
+      "It proves that comets played no role in delivering organics",
+      "It makes comets a far less likely source without eliminating them",
+      "It shows that asteroids have replaced comets as the accepted source",
+      "It confirms that early Earth's atmosphere was thinner than today's"
+     ],
+     "answer": 1,
+     "explain": "原文明确说研究未完全排除彗星，只是大幅降低其可能性，故B正确。A项绝对化，与“does not close the case”矛盾；C项过度推断，小行星只是候选之一；D项因果倒置，早期大气更稠密。",
+     "evidence": "It leaves open the possibility that a rare comet did contribute, and it notes that Mars, with its thinner atmosphere and weaker gravity, may have received carbon-based molecules more easily.",
+     "id": "l2_3"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Comets Probably Didn't Deliver Life's Building Blocks to Earth",
+   "passage": "For decades, the idea that comets seeded the young Earth with the chemicals needed for life has been repeated in textbooks and documentaries. A new modeling study, published October 28 in Scientific Reports, challenges that familiar story. The researchers do not claim to have disproved it entirely, but they argue that the delivery scenario is far less plausible than commonly assumed.\n\nThe study centers on hydrogen cyanide, a molecule containing carbon and nitrogen that is left over from the solar system's formation. Its strong internal bond allows it to release energy that can drive later reactions, and this same bond makes it unusually stable compared with other carbon-based compounds. The team reasoned that if even this robust molecule struggles to survive an impact, more fragile chemicals would fare worse.\n\nUsing computer simulations, the researchers estimated how often hydrogen cyanide would remain intact as a comet passed through Earth's atmosphere and struck the surface. They also considered the early atmosphere, which was probably denser and therefore even more destructive. The results were sobering: on average, only about one impact over more than a billion years would have delivered a meaningful amount. To survive, a comet would need to be larger than one hundred meters across, to move slowly and to arrive at a shallow angle. It would also have to hit land rather than ocean, since water would dilute the chemicals too quickly to trigger useful reactions.\n\nThe study does not close the case. It leaves open the possibility that a rare comet did contribute, and it suggests that Mars, with its thinner atmosphere and weaker gravity, may have received carbon-based molecules more easily. But it does shift attention toward other candidates, including carbon-rich asteroids known as carbonaceous chondrites, as well as volcanoes and hydrothermal vents.\n\nOutside researchers have responded with cautious interest. Nicolle Zellner, a physicist not involved in the work, says it is important to revisit old ideas as understanding of comets and the early solar system improves. Gordon Osinski, a planetary geologist, predicts that the study will make people think twice about comets as the originator of organics and hopes others will try to reproduce the results.\n\nFor students of science, the episode offers a useful lesson. A familiar story can survive for years not because the evidence is strong but because it is easy to repeat. When new tools allow researchers to test that story, the outcome may be less a dramatic refutation than a quiet redistribution of probability. That is how scientific understanding usually advances.",
+   "source": {
+    "name": "Science News",
+    "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A study that weakens the case for comets as life's chemical couriers",
+      "A new method for detecting hydrogen cyanide in space",
+      "The history of the Miller-Urey experiment and its critics",
+      "Why Mars is a better candidate for life than Earth"
+     ],
+     "answer": 0,
+     "explain": "全文围绕一项模拟研究展开，说明彗星运送生命原料的可能性被大大降低，故A正确。B项偷换概念，氢氰酸只是研究对象而非探测方法；C项张冠李戴，Miller-Urey未在文中出现；D项过度推断，火星只是附带比较。",
+     "evidence": "A new modeling study, published October 28 in Scientific Reports, challenges that familiar story.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did the researchers choose hydrogen cyanide as their test molecule?",
+     "options": [
+      "It is the only organic compound found in comets",
+      "It is relatively stable and can power later reactions",
+      "It is produced mainly in the deep ocean",
+      "It is more fragile than most carbon-based chemicals"
+     ],
+     "answer": 1,
+     "explain": "原文指出氢氰酸异常稳定并能释放能量驱动后续反应，故B正确。A项绝对化，原文只说彗星含多种分子；C项张冠李戴，海洋是撞击地点；D项与原文相反，它比多数碳基分子更稳定。",
+     "evidence": "Its strong internal bond allows it to release energy that can drive later reactions, and this same bond makes it unusually stable compared with other carbon-based compounds.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What condition would a comet need to meet to deliver useful chemistry?",
+     "options": [
+      "It would have to strike an ocean to spread the chemicals",
+      "It would have to be small enough to burn up in the atmosphere",
+      "It would have to hit land at a shallow angle and low speed",
+      "It would have to arrive during the first million years of Earth"
+     ],
+     "answer": 2,
+     "explain": "原文列出存活条件：直径大于一百米、速度慢、角度浅，且须撞击陆地而非海洋，故C正确。A项因果倒置，海水会稀释化学物质；B项与原文相反；D项偷换时间范围，原文为十亿年。",
+     "evidence": "To survive, a comet would need to be larger than one hundred meters across, to move slowly and to arrive at a shallow angle.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the study's conclusion?",
+     "options": [
+      "It proves that comets played no role in delivering organics",
+      "It makes comets a far less likely source without eliminating them",
+      "It shows that asteroids have replaced comets as the accepted source",
+      "It confirms that early Earth's atmosphere was thinner than today's"
+     ],
+     "answer": 1,
+     "explain": "原文明确说研究未完全排除彗星，只是大幅降低其可能性，故B正确。A项绝对化，与“does not close the case”矛盾；C项过度推断，小行星只是候选之一；D项因果倒置，早期大气更稠密。",
+     "evidence": "It leaves open the possibility that a rare comet did contribute, and it suggests that Mars, with its thinner atmosphere and weaker gravity, may have received carbon-based molecules more easily.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"sobering\" in the third paragraph is closest in meaning to ______.",
+     "options": [
+      "making people feel serious and concerned",
+      "causing confusion and disagreement",
+      "bringing relief and satisfaction",
+      "sounding highly technical and obscure"
+     ],
+     "answer": 0,
+     "explain": "sobering指结果令人警醒、让人认真对待，与“使人严肃担忧”一致，故A正确。B项偷换为争议；C项与语境相反，结果并不令人满意；D项偷换为术语晦涩，原文强调的是结论的警示性。",
+     "evidence": "The results were sobering: on average, only about one impact over more than a billion years would have delivered a meaningful amount.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "For decades, the idea that comets seeded the young Earth with the chemicals needed for life has been repeated in textbooks and documentaries. A new modeling study, [1] October 28 in Scientific Reports, challenges that familiar story. The researchers do not claim to have disproved it entirely, but they argue that the delivery scenario is far less [2] than commonly assumed.\n\nThe study centers on [3] cyanide, a molecule containing carbon and nitrogen that is left over from the solar system's formation. Its strong internal bond allows it to release energy that can drive later reactions, and this same bond makes it unusually stable compared with other carbon-based compounds. The team reasoned that if even this [4] molecule struggles to survive an impact, more fragile chemicals would fare worse.\n\nUsing computer simulations, the researchers [5] how often hydrogen cyanide would remain intact as a comet passed through Earth's atmosphere and struck the surface. They also considered the early atmosphere, which was probably denser and therefore even more destructive. The results were sobering: on average, only about one impact over more than a billion years would have [6] a meaningful amount. To survive, a comet would need to be larger than one hundred meters across, to move slowly and to arrive at a shallow angle. It would also have to hit land rather than ocean, since water would dilute the chemicals too quickly to [7] useful reactions.\n\nThe study does not close the case. It leaves open the [8] that a rare comet did contribute, and it suggests that Mars, with its [9] atmosphere and weaker gravity, may have received carbon-based molecules more easily. But it does shift attention toward other [10], including carbon-rich asteroids known as carbonaceous chondrites, as well as volcanoes and hydrothermal vents. Outside researchers have responded with cautious interest.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "candidates"
+    },
+    {
+     "label": "B",
+     "word": "contract"
+    },
+    {
+     "label": "C",
+     "word": "delivered"
+    },
+    {
+     "label": "D",
+     "word": "dramatic"
+    },
+    {
+     "label": "E",
+     "word": "estimated"
+    },
+    {
+     "label": "F",
+     "word": "habitual"
+    },
+    {
+     "label": "G",
+     "word": "hydrogen"
+    },
+    {
+     "label": "H",
+     "word": "pineapple"
+    },
+    {
+     "label": "I",
+     "word": "plausible"
+    },
+    {
+     "label": "J",
+     "word": "possibility"
+    },
+    {
+     "label": "K",
+     "word": "published"
+    },
+    {
+     "label": "L",
+     "word": "rattle"
+    },
+    {
+     "label": "M",
+     "word": "robust"
+    },
+    {
+     "label": "N",
+     "word": "thinner"
+    },
+    {
+     "label": "O",
+     "word": "trigger"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "published",
+     "lower": "published",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "公布；发表；出版",
+     "context": "A new modeling study, published October 28 in Scientific Reports, challenges that familiar story."
+    },
+    {
+     "index": 2,
+     "word": "plausible",
+     "lower": "plausible",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "I",
+     "gloss": "似有道理的， 似乎正确的， 貌似可信的",
+     "context": "The researchers do not claim to have disproved it entirely, but they argue that the delivery scenario is far less plausible than commonly assumed."
+    },
+    {
+     "index": 3,
+     "word": "hydrogen",
+     "lower": "hydrogen",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "氢",
+     "context": "The study centers on hydrogen cyanide, a molecule containing carbon and nitrogen that is left over from the solar system's formation."
+    },
+    {
+     "index": 4,
+     "word": "robust",
+     "lower": "robust",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "M",
+     "gloss": "强健的",
+     "context": "The team reasoned that if even this robust molecule struggles to survive an impact, more fragile chemicals would fare worse."
+    },
+    {
+     "index": 5,
+     "word": "estimated",
+     "lower": "estimated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "估计",
+     "context": "Using computer simulations, the researchers estimated how often hydrogen cyanide would remain intact as a comet passed through Earth's atmosphere and struck the surface."
+    },
+    {
+     "index": 6,
+     "word": "delivered",
+     "lower": "delivered",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "发表",
+     "context": "The results were sobering: on average, only about one impact over more than a billion years would have delivered a meaningful amount."
+    },
+    {
+     "index": 7,
+     "word": "trigger",
+     "lower": "trigger",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "引发，引起",
+     "context": "It would also have to hit land rather than ocean, since water would dilute the chemicals too quickly to trigger useful reactions."
+    },
+    {
+     "index": 8,
+     "word": "possibility",
+     "lower": "possibility",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "可能；可能的事",
+     "context": "It leaves open the possibility that a rare comet did contribute, and it suggests that Mars, with its [9] atmosphere and weaker gravity, may have received carbon-based molecules more easily."
+    },
+    {
+     "index": 9,
+     "word": "thinner",
+     "lower": "thinner",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "It leaves open the [8] that a rare comet did contribute, and it suggests that Mars, with its thinner atmosphere and weaker gravity, may have received carbon-based molecules more easily."
+    },
+    {
+     "index": 10,
+     "word": "candidates",
+     "lower": "candidates",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "申请求职者；投考者；候选人",
+     "context": "But it does shift attention toward other candidates, including carbon-rich asteroids known as carbonaceous chondrites, as well as volcanoes and hydrothermal vents."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Science News",
+  "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
+  "long_sentences": [
+   {
+    "en": "“Even though we see that comets contain all of these molecules in really high concentrations, it’s not straightforward to go from there to saying we’re going to have all of these available for prebiotic chemistry on the surface of the Earth,” says Richard Anslow, a planetary scientist at the Met Office, the national meteorological service for the United Kingdom in Exeter.",
+    "words": 61
+   },
+   {
+    "en": "“So if things look bad for hydrogen cyanide, then we think it’s going to be much harder for other, more complicated molecules that are more likely to be broken down during these impacts.” Based on the simulations, a comet impact that kept hydrogen cyanide intact would be extremely unlikely, the team found.",
+    "words": 52
+   },
+   {
+    "en": "If Earth’s carbon-based chemicals didn’t come from comets, they may have come from carbon-rich asteroids called carbonaceous chondrites , says Gordon Osinski, a planetary geologist at Western University in London, Canada, who was not involved in the study.",
+    "words": 38
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-02T06:29:22",
+ "difficulty": {
+  "score": 91,
+  "level": "六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 305,
+    "asl": 14.5,
+    "flesch": 66.4,
+    "fkgl": 7.6,
+    "long_sent": 0.0,
+    "beyond": 0.049,
+    "in_band": true,
+    "score": 94
+   },
+   {
+    "type": "passage_listening",
+    "words": 317,
+    "asl": 18.6,
+    "flesch": 46.5,
+    "fkgl": 11.4,
+    "long_sent": 0.059,
+    "beyond": 0.06,
+    "in_band": false,
+    "score": 70
+   },
+   {
+    "type": "reading",
+    "words": 418,
+    "asl": 19.9,
+    "flesch": 41.5,
+    "fkgl": 12.4,
+    "long_sent": 0.095,
+    "beyond": 0.079,
+    "in_band": true,
+    "score": 100
+   },
+   {
+    "type": "banked_cloze",
+    "words": 301,
+    "asl": 20.1,
+    "flesch": 42.0,
+    "fkgl": 12.4,
+    "long_sent": 0.067,
+    "beyond": 0.076,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 91（六级），与六级区间有偏差。"
+}

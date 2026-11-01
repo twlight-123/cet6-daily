@@ -1,0 +1,55 @@
+{
+ "id": "daily-2026-11-02",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-02",
+ "source_label": "每日一文 · Science News",
+ "title_en": "Comets probably didn’t deliver life’s building blocks to Earth",
+ "title_zh": "彗星可能并没有把生命的基石带到地球上",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "Most comets would have been traveling too fast and at too steep an angle to Earth for prebiotic compounds to survive impact with the planet, researchers contend October 28 in Scientific Reports . While the study doesn’t completely rule out the possibility that comets brought these molecules to Earth, it contradicts the long-standing idea that comets seeded Earth with the chemicals necessary for life to arise.",
+   "zh": "研究人员10月28日在《科学报告》上撰文指出，大多数彗星飞向地球的速度太快、角度太陡，其携带的益生元化合物难以在撞击地球后存活。虽然这项研究并未完全排除彗星将这类分子带到地球的可能性，但它与一个长期存在的观点相矛盾——即彗星为地球播下了生命诞生所必需的化学物质。"
+  },
+  {
+   "en": "“Even though we see that comets contain all of these molecules in really high concentrations, it’s not straightforward to go from there to saying we’re going to have all of these available for prebiotic chemistry on the surface of the Earth,” says Richard Anslow, a planetary scientist at the Met Office, the national meteorological service for the United Kingdom in Exeter.",
+   "zh": "“尽管我们看到彗星中含有高浓度的所有这些分子，但并不能由此直接推断说，地球上表面会有所有这些分子可用于益生元化学，”英国国家气象局（Met Office）的行星科学家理查德·安斯洛（Richard Anslow）说。该机构位于埃克塞特。"
+  },
+  {
+   "en": "Comets carry carbon- and nitrogen-containing molecules left over from early in the solar system’s formation. These molecules can react to form biologically important compounds like sugars and DNA. Scientists have long thought that comets could have delivered these building blocks to Earth when they collided with the planet during its first billion years.",
+   "zh": "彗星携带了太阳系形成早期残留的含碳和含氮分子。这些分子可以发生反应，形成糖和DNA等具有生物学重要性的化合物。长期以来，科学家一直认为，在 Earth 最初十亿年里，彗星与地球相撞时可能将这些生命构件送到了地球上。"
+  },
+  {
+   "en": "But it’s important to revisit these ideas as our understanding of both comets and the early solar system improves, says Nicolle Zellner, a physicist at Albion College in Michigan who was not involved in the study.",
+   "zh": "但密歇根州阿尔比恩学院的物理学家妮科尔·泽尔纳（Nicolle Zellner）表示，随着我们对彗星和早期太阳系的认识不断深入，重新审视这些观点很重要。她并未参与这项研究。"
+  },
+  {
+   "en": "In the new work, Anslow and colleagues used computer simulations to predict the likelihood that a chemical called hydrogen cyanide would survive a comet’s journey through Earth’s present atmosphere and its impact with the planet’s surface. The early Earth’s atmosphere was probably much denser, so would have been even more destructive.",
+   "zh": "在这项新研究中，安斯洛及其同事利用计算机模拟，预测了一种名为氰化氢的化学物质在彗星穿越地球现今大气层并撞击地球表面的过程中存活的可能性。早期地球的大气层可能要稠密得多，因此破坏性也会更强。"
+  },
+  {
+   "en": "The strong chemical bond between the carbon and nitrogen atoms in hydrogen cyanide can release energy that drives later chemical reactions necessary for life. It also makes the molecule particularly stable compared to other carbon-based chemicals.",
+   "zh": "氰化氢中碳原子和氮原子之间的强化学键可以释放能量，驱动生命所需的后续化学反应。与其他碳基化学物质相比，这也使该分子格外稳定。"
+  },
+  {
+   "en": "“It’s probably one of the more robust molecules to surviving impacts,” Anslow says. “So if things look bad for hydrogen cyanide, then we think it’s going to be much harder for other, more complicated molecules that are more likely to be broken down during these impacts.”",
+   "zh": "“它可能是撞击后存活能力较强的分子之一，”安斯洛说。“所以，如果连氰化氢的情况都不乐观，那么我们认为，其他更复杂、在这些撞击中更可能被分解的分子就更加难以幸存。”"
+  },
+  {
+   "en": "Based on the simulations, a comet impact that kept hydrogen cyanide intact would be extremely unlikely, the team found. On average, the simulations suggest that only one impact would have been able to deliver a meaningful amount of hydrogen cyanide to the planet’s surface over more than a billion years. For hydrogen cyanide to survive the crash, the comet would have to be larger than 100 meters across, slow moving and traveling at an oblique angle to Earth.",
+   "zh": "研究团队发现，根据模拟结果，一次能让氰化氢保持完整的彗星撞击是极不可能的。模拟显示，平均而言，在超过十亿年的时间里，只有一次撞击能够向地球表面输送有意义数量的氰化氢。要让氰化氢在撞击中存活，彗星直径必须大于100米、移动缓慢，并以斜角飞向地球。"
+  },
+  {
+   "en": "A comet that met those narrow criteria would also have had to crash into land, rather than an ocean, to kick off any biologically useful chemistry. If the comet landed in the ocean, any hydrogen cyanide that survived would be diluted too quickly to trigger those reactions.",
+   "zh": "符合这些苛刻条件的彗星还必须撞上陆地而非海洋，才能启动任何有生物学用途的化学过程。如果彗星坠入海洋，任何幸存下来的氰化氢都会被过快稀释，无法触发那些反应。"
+  },
+  {
+   "en": "While still improbable, comets may have been more likely to deliver carbon-based molecules to Mars than to Earth, the simulations showed. Mars’ thinner atmosphere and smaller size meant that comets would impact at lower speeds. That could mean that more compounds could survive the collision.",
+   "zh": "模拟显示，尽管可能性仍然不大，但彗星向火星输送碳基分子的可能性或许比向地球输送更高。火星大气更稀薄、体积更小，意味着彗星撞击速度会更低。这可能意味着更多化合物能在碰撞中幸存。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp"
+}
