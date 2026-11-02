@@ -1,0 +1,500 @@
+{
+ "id": "2026-11-03",
+ "date": "2026-11-03",
+ "title": "Melting permafrost has birthed a new type of large landslide",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 649,
+  "sentences": 27,
+  "avg_sentence_len": 24.0,
+  "flesch_ease": 47.3,
+  "flesch_grade": 12.6,
+  "hard_word_ratio": 0.106,
+  "long_sent_ratio": 0.111,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and her supervisor discuss a field study on thawing permafrost and landslide risks.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I’ve been reading about those massive landslides in the Northwest Territories. The ground there had been frozen for ages, yet it suddenly collapsed. I’m thinking of focusing my thesis on similar risks in our local alpine regions."
+    },
+    {
+     "sp": "M",
+     "en": "That’s a timely topic. But remember, permafrost isn’t just frozen dirt; it’s a complex system. Before you design your field study, you need to consider what triggers such sudden failures. Are you thinking about temperature monitoring or something else?"
+    },
+    {
+     "sp": "W",
+     "en": "I was planning to install temperature sensors at different depths, and also map cracks on the surface. But I’m not sure how to link those observations to actual landslide events. The literature seems to suggest that wildfires decades ago might have started the process."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. The wildfire removes the insulating vegetation, allowing deeper warming. Then water seeps through cracks and thaws the frozen layer from below. That’s the mechanism those researchers proposed. But your local area hasn’t had recent wildfires, so you’d need to look at long-term climate trends instead."
+    },
+    {
+     "sp": "W",
+     "en": "So you mean I should compare sites with different histories of disturbance? That could be complicated, but I see the point. Maybe I can use satellite data to identify slow ground movement before a collapse."
+    },
+    {
+     "sp": "M",
+     "en": "That’s a smart approach. Satellite interferometry can detect subtle creeping. But don’t underestimate the difficulty of interpreting the data. You’ll need to combine it with ground truth. Also, make sure your project timeline is realistic; two years of monitoring might not capture a catastrophic event."
+    },
+    {
+     "sp": "W",
+     "en": "I understand. I’ll narrow the scope to one valley and focus on the relationship between thaw depth and surface cracks. I’ll draft a revised proposal by next week."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And keep in mind that this isn’t just an academic exercise. These slides can dam rivers and threaten communities. Your work could inform early warning systems."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "Comparing wildfire policies in northern regions",
+      "Revising a thesis proposal on permafrost landslide risks",
+      "Planning a rescue operation after a landslide",
+      "Reviewing satellite technology for climate studies"
+     ],
+     "answer": 1,
+     "explain": "对话围绕学生修改论文提案、聚焦冻土滑坡风险展开，导师给出具体建议。A项正确概括；B项 wildfire 只是触发机制之一，非政策比较；C项救援行动文中未提；D项卫星技术仅为工具细节，非主旨。",
+     "evidence": "I’ll narrow the scope to one valley and focus on the relationship between thaw depth and surface cracks. I’ll draft a revised proposal by next week."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the man, what can wildfire do to permafrost?",
+     "options": [
+      "It increases the depth of seasonal snow cover.",
+      "It directly melts the entire frozen layer.",
+      "It removes vegetation that insulates the ground.",
+      "It prevents water from entering surface cracks."
+     ],
+     "answer": 2,
+     "explain": "男士明确说 wildfire removes the insulating vegetation，使深层升温。A项为同义改写；B项“直接融化整个冻结层”夸大且与“从下往上”机制不符；C项雪盖深度文中未提；D项与“水渗入裂缝”相反。",
+     "evidence": "The wildfire removes the insulating vegetation, allowing deeper warming."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about the student’s original monitoring plan?",
+     "options": [
+      "It may fail to capture a rare catastrophic event.",
+      "It requires equipment that is too expensive.",
+      "It should focus on recent wildfire sites.",
+      "It will produce results within a few months."
+     ],
+     "answer": 0,
+     "explain": "男士提醒“两年监测可能抓不到灾难性事件”，暗示原计划时间跨度不足。A项为合理推断；B项费用未提；C项当地无近期野火，方向错误；D项与“时间要现实”矛盾。",
+     "evidence": "Also, make sure your project timeline is realistic; two years of monitoring might not capture a catastrophic event."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man’s attitude toward the student’s revised approach?",
+     "options": [
+      "Supportive but cautious about data interpretation",
+      "Doubtful that the topic is worth studying",
+      "Indifferent to the practical applications",
+      "Confident that no further revision is needed"
+     ],
+     "answer": 0,
+     "explain": "男士称“smart approach”并提醒数据解读难度，体现支持而谨慎。A项准确；B项与“timely topic”矛盾；C项他主动提早期预警，并非漠不关心；D项他仍要求修改提案，并非无需再改。",
+     "evidence": "That’s a smart approach. Satellite interferometry can detect subtle creeping. But don’t underestimate the difficulty of interpreting the data."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Across the Arctic, a silent transformation is underway. Ground that has remained frozen for thousands of years is beginning to thaw, and the consequences are not merely local. When permafrost degrades, it can release carbon dioxide and methane, gases that further warm the atmosphere. But the effects extend beyond greenhouse gas emissions, and thawing ground also loses its mechanical strength, turning solid foundations into unstable slurry. This threatens roads, pipelines, and buildings constructed on frozen soil, and scientists have recently identified a particularly dramatic hazard: permafrost detachment slides. Unlike gradual subsidence, these events mobilize enormous blocks of still-frozen earth, sometimes moving them hundreds of meters in minutes. The trigger often lies in processes set in motion decades earlier. Wildfires, for instance, can burn away the insulating vegetation, allowing summer heat to penetrate deeper. Cracks then form as the ground creeps, and water seeps down, thawing the base of the frozen layer from below. Eventually, the entire slab detaches and slides catastrophically, and such slides are not isolated curiosities. Satellite surveys in one Canadian region have revealed more than 150 similar scars, suggesting the phenomenon may be widespread wherever permafrost is thin and warm. The implications for northern communities are serious, and A single slide can dam a river, causing floods upstream and disrupting fish migration. It can also sever transportation links, leaving villages isolated for weeks, and yet predicting these events remains difficult. The slow creeping that precedes a slide may last for years, offering a window for monitoring. Researchers are now testing ground-based sensors and satellite radar to detect subtle movements. But early warning systems need reliable data and local cooperation. As one geologist put it, we are only beginning to understand what happens beneath the surface. The challenge is urgent, because the frozen ground that once seemed permanent is now changing faster than our models predicted."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The environmental and infrastructural threats of thawing permafrost",
+      "The history of Arctic exploration and settlement",
+      "The economic costs of building pipelines in cold regions",
+      "The role of wildfires in increasing carbon emissions"
+     ],
+     "answer": 0,
+     "explain": "全文从冻土融化释放温室气体到地基失稳、滑坡灾害及社区影响，主干是威胁。A项概括全面；B项历史探索无依据；C项管道仅为基础设施一例；D项野火是触发机制之一，非主旨。",
+     "evidence": "When permafrost degrades, it can release carbon dioxide and methane, gases that further warm the atmosphere."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What often triggers permafrost detachment slides according to the passage?",
+     "options": [
+      "Wildfires that remove insulating vegetation decades earlier",
+      "Heavy rainfall that saturates the surface soil",
+      "Earthquakes that fracture the frozen layer",
+      "Human construction that compacts the ground"
+     ],
+     "answer": 0,
+     "explain": "原文明确野火清除隔热植被，使热量下传、裂缝形成，最终滑动。A项为同义概括；B项降雨非主要触发；C项地震未提；D项人类建设是受害者而非触发因素。",
+     "evidence": "Wildfires, for instance, can burn away the insulating vegetation, allowing summer heat to penetrate deeper."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about early warning systems for these slides?",
+     "options": [
+      "They are feasible but require sustained monitoring and local input.",
+      "They are already in place across the Arctic region.",
+      "They are unnecessary because slides occur without warning.",
+      "They rely solely on satellite data without ground checks."
+     ],
+     "answer": 0,
+     "explain": "原文说慢速蠕变提供监测窗口，研究者正测试传感器和雷达，但需可靠数据和地方合作。A项合理推断；B项“已全面部署”过度；C项与“监测窗口”矛盾；D项原文强调需地面合作，非仅卫星。",
+     "evidence": "Researchers are now testing ground-based sensors and satellite radar to detect subtle movements."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A New Class of Catastrophic Landslides",
+   "passage": "In 2018, a colossal landslide in Canada’s Northwest Territories moved a volume of earth comparable to seven Great Pyramids of Giza, leaving a barren scar in the forest. What baffled scientists was that the slide had begun in ground that had been frozen solid for years. An analysis published in Geophysical Research Letters now identifies the event as a new class of catastrophic landslides, termed permafrost detachment slides.\n\nThe mechanism appears to be set in motion decades before the actual collapse. Wildfires can burn away the insulating vegetation, allowing summer heat to penetrate deeper. As the frozen ground warms, it begins to creep, forming tension cracks. Water then seeps through these cracks and reaches beneath the permafrost layer, thawing it from below. Over time, the entire frozen slab loses its grip and detaches catastrophically. This sequence challenges the traditional view that permafrost thaws only from the top down.\n\nField observations revealed that both the 2018 slide and a similar event in 2017 had initiated along flat sliding surfaces roughly 20 meters underground, at the base of the permafrost layer. Satellite data showed that the ground at both sites had been gradually moving meters each year for decades. To test their hypothesis, researchers installed instruments that tracked ground temperature from 2020 to 2022, focusing on spots with undisturbed forest or where wildfire had burned about 25 years earlier. They then used computer simulations to estimate how the ground would have evolved after a fire. The results suggested that wildfire and extreme summer temperatures can warm and weaken the frozen ground surface, causing it to creep and form cracks.\n\nMore than 150 other slides in the region, identified via satellite observations, may also belong to this new category. According to Joseph Young, a permafrost geologist, such slides could occur wherever there is a relatively thin and warm permafrost layer and a rapid warming event to set things in motion. This implies that the hazard is not confined to a single valley but may be widespread across northern landscapes.\n\nThe implications are serious. A single slide can dam a river, causing floods upstream and disrupting fish migration. It can also sever transportation links, leaving communities isolated. As permafrost continues to thaw in cold regions worldwide, these huge slides are visual manifestations of a changing climate. Scientists say they need to better study what occurs beneath the surface, because the ground may move slowly or catastrophically.",
+   "source": {
+    "name": "Science News",
+    "url": "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A newly identified landslide type and its mechanism",
+      "The history of wildfire management in northern Canada",
+      "The economic impact of landslides on local communities",
+      "The limitations of satellite technology in permafrost studies"
+     ],
+     "answer": 0,
+     "explain": "全文围绕新命名的 permafrost detachment slides 及其触发机制、分布和影响展开。A 项准确概括主旨；B 项野火管理仅为机制中的背景因素；C 项社区影响是结尾细节；D 项卫星技术是研究手段，非主题。",
+     "evidence": "An analysis published in Geophysical Research Letters now identifies the event as a new class of catastrophic landslides, termed permafrost detachment slides.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did field observations reveal about the two largest slides?",
+     "options": [
+      "They moved only a few meters before stopping.",
+      "They were triggered by earthquakes at great depth.",
+      "They began along flat surfaces about 20 meters underground.",
+      "They occurred in areas with thick, cold permafrost."
+     ],
+     "answer": 2,
+     "explain": "原文明确两次滑动沿地下约20米的平坦滑动面启动。A 项与“移动数百万立方米”矛盾；B 项地震未提及；C 项同义改写正确；D 项原文说薄而暖的冻土更易发生，方向相反。",
+     "evidence": "Field observations revealed that both the 2018 slide and a similar event in 2017 had initiated along flat sliding surfaces roughly 20 meters underground, at the base of the permafrost layer.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "How did researchers test their hypothesis about the slides?",
+     "options": [
+      "By comparing wildfire records from the past century",
+      "By drilling deep holes to extract frozen soil samples",
+      "By interviewing residents who witnessed the landslides",
+      "By tracking ground temperature and running computer simulations"
+     ],
+     "answer": 3,
+     "explain": "原文说研究者安装仪器追踪2020至2022年地温，并用计算机模拟。A 项野火记录仅为选址依据，非测试手段；B 项取芯未提；C 项采访居民未提；D 项概括准确。",
+     "evidence": "They then used computer simulations to estimate how the ground would have evolved after a fire.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the 150 other slides in the region?",
+     "options": [
+      "They may share the same detachment mechanism.",
+      "They have all been confirmed by field observations.",
+      "They occurred only in areas with recent wildfires.",
+      "They are unlikely to affect transportation links."
+     ],
+     "answer": 0,
+     "explain": "原文说这些滑坡“may also belong to this new category”，暗示可能同机制。A 项合理推断；B 项“全部经实地确认”过度；C 项“仅近期野火区”与原文“25年前野火”矛盾；D 项原文明确滑坡可切断交通，方向相反。",
+     "evidence": "More than 150 other slides in the region, identified via satellite observations, may also belong to this new category.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “mobilize” in the passage is closest in meaning to ______.",
+     "options": [
+      "set in motion",
+      "bring together",
+      "make ready for war",
+      "organize for a cause"
+     ],
+     "answer": 0,
+     "explain": "mobilize 在此指“使（大量土石）移动”，与 set in motion 同义。A 项正确；B 项“聚集”侧重集合而非移动；C 项军事动员为常见义但语境不符；D 项组织活动为引申义，均偷换概念。",
+     "evidence": "In 2018, a colossal landslide in Canada’s Northwest Territories moved a volume of earth comparable to seven Great Pyramids of Giza, leaving a barren scar in the forest.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "An analysis published in Geophysical Research Letters now identifies the event as a new class of catastrophic landslides, termed permafrost [1] slides. The mechanism appears to be set in motion decades before the actual collapse. Wildfires can burn away the insulating [2], allowing summer heat to penetrate deeper. As the frozen ground warms, it begins to creep, forming tension cracks. Water then seeps through these cracks and reaches beneath the permafrost layer, thawing it from below. Over time, the entire frozen slab loses its grip and [3] catastrophically.\n\nThis sequence challenges the traditional view that permafrost thaws only from the top down. Field observations revealed that both the 2018 slide and a similar event in 2017 had [4] along flat sliding surfaces roughly 20 meters underground, at the base of the permafrost layer. Satellite data showed that the ground at both sites had been gradually moving meters each year for decades.\n\nTo test their hypothesis, researchers installed instruments that tracked ground [5] from 2020 to 2022, focusing on spots with undisturbed forest or where [6] had burned about 25 years earlier. They then used computer simulations to [7] how the ground would have evolved after a fire. The results suggested that wildfire and extreme summer temperatures can warm and weaken the frozen ground surface, causing it to creep and form cracks.\n\nMore than 150 other slides in the region, identified via satellite observations, may also belong to this new category. According to Joseph Young, a permafrost [8], such slides could occur wherever there is a relatively thin and warm permafrost layer and a rapid warming event to set things in motion. This implies that the hazard is not [9] to a single valley but may be [10] across northern landscapes.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "awareness"
+    },
+    {
+     "label": "B",
+     "word": "confined"
+    },
+    {
+     "label": "C",
+     "word": "detaches"
+    },
+    {
+     "label": "D",
+     "word": "detachment"
+    },
+    {
+     "label": "E",
+     "word": "entrepreneur"
+    },
+    {
+     "label": "F",
+     "word": "estimate"
+    },
+    {
+     "label": "G",
+     "word": "exemplify"
+    },
+    {
+     "label": "H",
+     "word": "geologist"
+    },
+    {
+     "label": "I",
+     "word": "initiated"
+    },
+    {
+     "label": "J",
+     "word": "representation"
+    },
+    {
+     "label": "K",
+     "word": "rupture"
+    },
+    {
+     "label": "L",
+     "word": "temperature"
+    },
+    {
+     "label": "M",
+     "word": "vegetation"
+    },
+    {
+     "label": "N",
+     "word": "widespread"
+    },
+    {
+     "label": "O",
+     "word": "wildfire"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "detachment",
+     "lower": "detachment",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "D",
+     "gloss": "",
+     "context": "An analysis published in Geophysical Research Letters now identifies the event as a new class of catastrophic landslides, termed permafrost detachment slides."
+    },
+    {
+     "index": 2,
+     "word": "vegetation",
+     "lower": "vegetation",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "M",
+     "gloss": "植物， 草木",
+     "context": "Wildfires can burn away the insulating vegetation, allowing summer heat to penetrate deeper."
+    },
+    {
+     "index": 3,
+     "word": "detaches",
+     "lower": "detaches",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "分开；派遣（军队）",
+     "context": "Over time, the entire frozen slab loses its grip and detaches catastrophically."
+    },
+    {
+     "index": 4,
+     "word": "initiated",
+     "lower": "initiated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "开始，发起",
+     "context": "Field observations revealed that both the 2018 slide and a similar event in 2017 had initiated along flat sliding surfaces roughly 20 meters underground, at the base of the permafrost layer."
+    },
+    {
+     "index": 5,
+     "word": "temperature",
+     "lower": "temperature",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "To test their hypothesis, researchers installed instruments that tracked ground temperature from 2020 to 2022, focusing on spots with undisturbed forest or where [6] had burned about 25 years earlier."
+    },
+    {
+     "index": 6,
+     "word": "wildfire",
+     "lower": "wildfire",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "森林大火",
+     "context": "To test their hypothesis, researchers installed instruments that tracked ground [5] from 2020 to 2022, focusing on spots with undisturbed forest or where wildfire had burned about 25 years earlier."
+    },
+    {
+     "index": 7,
+     "word": "estimate",
+     "lower": "estimate",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "估计",
+     "context": "They then used computer simulations to estimate how the ground would have evolved after a fire."
+    },
+    {
+     "index": 8,
+     "word": "geologist",
+     "lower": "geologist",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "According to Joseph Young, a permafrost geologist, such slides could occur wherever there is a relatively thin and warm permafrost layer and a rapid warming event to set things in motion."
+    },
+    {
+     "index": 9,
+     "word": "confined",
+     "lower": "confined",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "限制；禁闭",
+     "context": "This implies that the hazard is not confined to a single valley but may be [10] across northern landscapes."
+    },
+    {
+     "index": 10,
+     "word": "widespread",
+     "lower": "widespread",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "普遍的，广泛的",
+     "context": "This implies that the hazard is not [9] to a single valley but may be widespread across northern landscapes."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Science News",
+  "url": "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide",
+  "long_sentences": [
+   {
+    "en": "Large landslides don’t normally mobilize so much still-frozen material, and when they do begin in thawing layers they usually move slowly, says Dmitry Nicolsky, a geophysicist studying permafrost at the University of Alaska Fairbanks who was not involved in the study.",
+    "words": 41
+   },
+   {
+    "en": "These were the 2018 slide, which mobilized 18 million cubic meters of earth and dammed the Redstone River, and another event in 2017 that moved 4.5 million cubic meters of material.",
+    "words": 31
+   },
+   {
+    "en": "That was surprising because they were in an area where the permafrost — ground that has been frozen for at least two consecutive years — shouldn’t have been thawing much.",
+    "words": 30
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-03T06:35:57",
+ "difficulty": {
+  "score": 80,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 317,
+    "asl": 11.7,
+    "flesch": 60.4,
+    "fkgl": 7.7,
+    "long_sent": 0.0,
+    "beyond": 0.12,
+    "in_band": true,
+    "score": 82
+   },
+   {
+    "type": "passage_listening",
+    "words": 307,
+    "asl": 17.1,
+    "flesch": 41.5,
+    "fkgl": 11.7,
+    "long_sent": 0.0,
+    "beyond": 0.098,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 395,
+    "asl": 18.0,
+    "flesch": 48.8,
+    "fkgl": 10.9,
+    "long_sent": 0.045,
+    "beyond": 0.101,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "banked_cloze",
+    "words": 283,
+    "asl": 18.9,
+    "flesch": 48.1,
+    "fkgl": 11.2,
+    "long_sent": 0.067,
+    "beyond": 0.095,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 80（接近六级），与六级区间有偏差。"
+}
