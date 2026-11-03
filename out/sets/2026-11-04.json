@@ -1,0 +1,510 @@
+{
+ "id": "2026-11-04",
+ "date": "2026-11-04",
+ "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 722,
+  "sentences": 39,
+  "avg_sentence_len": 18.5,
+  "flesch_ease": 46.6,
+  "flesch_grade": 11.4,
+  "hard_word_ratio": 0.107,
+  "long_sent_ratio": 0.128,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 95
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student and a career advisor discuss how to evaluate a company’s stability before accepting a job offer.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "I’ve got a final-round interview with a tech startup next week, but I’m a bit uneasy. The company launched a product two years ago, and I keep reading online that some customers are still waiting for their orders."
+    },
+    {
+     "sp": "M",
+     "en": "That’s a reasonable concern. Startups often struggle with logistics, but if the delays are widespread, it could signal deeper financial trouble. Have you checked whether the company has filed for any form of insolvency protection?"
+    },
+    {
+     "sp": "W",
+     "en": "I don’t even know where to look. Their website is all marketing language, and the press releases only mention funding rounds from three years ago."
+    },
+    {
+     "sp": "M",
+     "en": "Try the government’s business registry. In the UK, for instance, you can search for a company’s filing history and see whether administrators have been appointed. It’s public information, and it often reveals more than the company’s own site."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds useful. But suppose the company is financially healthy—how do I assess whether they treat their customers fairly? I don’t want to join a firm that ignores complaints."
+    },
+    {
+     "sp": "M",
+     "en": "Look at independent review platforms and social media groups. If customers repeatedly say they’ve received no response or refund, that’s a red flag. Also, during the interview, ask how the company handles after-sales support. The answer will tell you a lot about their priorities."
+    },
+    {
+     "sp": "W",
+     "en": "I’ll do that. One more thing: the role is in product management, and I’d be working closely with the founding team. Should I be worried if the founder has a reputation for being difficult?"
+    },
+    {
+     "sp": "M",
+     "en": "It depends. A visionary founder can be inspiring, but if former employees describe a culture that revolves around one person’s whims, you might find it exhausting. Try to speak with current or former staff before you decide."
+    },
+    {
+     "sp": "W",
+     "en": "That’s helpful. I’ll reach out to a few people on LinkedIn and check the registry tonight. Thanks for the guidance."
+    },
+    {
+     "sp": "M",
+     "en": "You’re welcome. Remember, a job offer is a two-way street—you’re evaluating them as much as they’re evaluating you."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman mainly concerned about?",
+     "options": [
+      "Whether the startup is financially and ethically sound",
+      "Whether she has the technical skills for the role",
+      "Whether the interview will be held online",
+      "Whether the company offers a competitive salary"
+     ],
+     "answer": 0,
+     "explain": "女士担心公司订单延迟、财务状况及对待客户的方式，故A正确。B项张冠李戴，她担心的是公司而非自身技能；C项无关信息，对话未提面试形式；D项过度推断，薪资未讨论。",
+     "evidence": "I’ve got a final-round interview with a tech startup next week, but I’m a bit uneasy. The company launched a product two years ago, and I keep reading online that some customers are still waiting for their orders."
+    },
+    {
+     "id": "l1_2",
+     "stem": "Where does the man suggest checking a company’s filing history?",
+     "options": [
+      "On the company’s official website",
+      "In the government’s business registry",
+      "Through the company’s press releases",
+      "On independent review platforms"
+     ],
+     "answer": 1,
+     "explain": "男士明确建议查政府商业登记处，故B正确。A项偷换概念，官网只有营销语言；C项张冠李戴，新闻稿只提旧融资；D项虽后文提及，但非查档案之处。",
+     "evidence": "Try the government’s business registry. In the UK, for instance, you can search for a company’s filing history and see whether administrators have been appointed."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the man’s view of a difficult founder?",
+     "options": [
+      "A difficult founder always ruins a company’s prospects.",
+      "A founder’s reputation should be ignored during job search.",
+      "A founder’s style may affect workplace culture significantly.",
+      "A visionary founder is unlikely to be difficult to work with."
+     ],
+     "answer": 2,
+     "explain": "男士说若前员工称文化围绕一人意志转，工作可能令人疲惫，可推知创始人风格影响文化，故C正确。A项绝对化，未说总是毁掉；B项与建议相悖；D项过度推断，未否认远见者可能难相处。",
+     "evidence": "A visionary founder can be inspiring, but if former employees describe a culture that revolves around one person’s whims, you might find it exhausting."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man’s attitude toward the woman’s job search?",
+     "options": [
+      "Supportive and practical",
+      "Indifferent and dismissive",
+      "Cautious to the point of discouraging",
+      "Confident that she will fail"
+     ],
+     "answer": 0,
+     "explain": "男士提供具体查证方法并鼓励她双向评估，态度支持且务实，故A正确。B项与对话不符；C项过度推断，他未劝阻；D项无中生有，未表达失败预期。",
+     "evidence": "You’re welcome. Remember, a job offer is a two-way street—you’re evaluating them as much as they’re evaluating you."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When a technology company collapses, the consequences often extend far beyond its employees and investors. Customers who have paid for products that never arrive, or who rely on software that may soon stop working, are often left with little recourse. This pattern has become familiar in the consumer electronics sector, where proprietary software and cloud services tie hardware to a company’s continued existence. Consider the case of a British music-technology firm that entered administration for the second time in its history. Although the company had once attracted celebrity investors and widespread praise, it had long faced complaints about communication. Customers reported orders delayed for months without explanation, and refunds were difficult to get. When the firm finally appointed administrators, it offered no public statement about outstanding orders. The problem is not merely financial. Many modern devices depend on companion apps and online accounts to function fully. If the company disappears, the hardware may continue to work for a while, but users fear that software support will eventually cease, rendering expensive equipment useless. This concern is particularly acute for products that cost hundreds or thousands of dollars. Legal protections for consumers vary by country. In some jurisdictions, buyers can file claims as creditors during insolvency proceedings, but the process is often slow and the recovery rate low. Consumer advocacy groups argue that companies should be needed to disclose their financial health more transparently and to ensure that software support outlives the hardware’s expected lifespan. For now, the lesson for buyers is caution. Before purchasing an expensive device that relies on proprietary software, consumers may want to research the company’s stability and read independent reviews. The collapse of a single firm can leave a community of users stranded, and the damage is not easily repaired."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The financial causes behind a music-technology firm’s failure",
+      "The wider consequences of corporate collapse for consumers",
+      "The legal rights of investors during insolvency proceedings",
+      "The role of celebrity investment in startup success"
+     ],
+     "answer": 1,
+     "explain": "全文讨论公司倒闭对消费者的广泛影响，故B正确。A项片面，只提一家公司；C项偷换概念，主体是消费者非投资者；D项无关信息，名人投资仅作背景。",
+     "evidence": "When a technology company collapses, the consequences often extend far beyond its employees and investors.",
+     "id": "l2_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did customers of the music-technology firm report?",
+     "options": [
+      "Orders delayed for months without explanation",
+      "Immediate refunds upon request",
+      "Clear public statements about their orders",
+      "Free software updates for life"
+     ],
+     "answer": 0,
+     "explain": "原文明确说顾客报告订单延迟数月且无解释，故A正确。B项与原文相反；C项与原文相反；D项无中生有。",
+     "evidence": "Customers reported orders delayed for months without explanation, and refunds were difficult to get.",
+     "id": "l2_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What does the passage suggest about software-dependent devices?",
+     "options": [
+      "They are always protected by consumer law.",
+      "Their hardware becomes useless immediately after a firm fails.",
+      "Their long-term value hinges on continued software support.",
+      "They are cheaper to maintain than non-connected devices."
+     ],
+     "answer": 2,
+     "explain": "原文说设备依赖配套应用，公司消失后软件支持可能停止，故C正确。A项绝对化；B项过度推断，硬件仍可工作一段时间；D项无中生有，未比较维护成本。",
+     "evidence": "If the company disappears, the hardware may continue to work for a while, but users fear that software support will eventually cease, rendering expensive equipment useless.",
+     "id": "l2_3"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "When Startups Fail, Customers Pay the Price",
+   "passage": "A technology company’s collapse rarely stays inside boardrooms and bankruptcy courts. Its effects often reach far beyond the money lost by investors and shareholders. When a firm sells hardware tied to its own software, customers can be left with few options. They may have paid for products or depend on continued support. But the devices they bought may need services the company can no longer maintain. This pattern has become more common in consumer electronics, and many devices depend on companion apps and cloud services to work fully. So the failure of one company can quickly affect a large group of users. A recent case in the British music-technology industry shows the problem clearly, and the company had once attracted celebrity investors and wide praise. It entered administration, the UK process for handling corporate insolvency, for the second time in its history. This left customers unsure about their orders and the future of their devices, and the firm had long faced complaints about communication. Yet it made no public statement about outstanding orders when administrators were appointed, and this deepened the frustration of buyers who had already paid. Customers who had paid hundreds or thousands of dollars for equipment reported delays of months or years. Many said they had received neither products nor refunds, despite repeated attempts to contact the company. The financial failure is only part of the story, however, and the technical consequences may prove even more damaging in the long run. Many modern instruments rely heavily on proprietary software launchers and companion apps, and these tools help users connect, map sounds, and configure settings. Without continued updates, they may gradually stop working on newer operating systems, and the hardware may keep working for a while. But users fear that a lack of software support will eventually make their gear useless. Expensive equipment could become little more than obsolete hardware, and this concern is especially acute for expensive devices whose value depends on long-term usability. Buyers usually expect such products to remain functional for many years after purchase. Legal protections for consumers vary by jurisdiction, and the remedies available are often limited in practice. In some countries, buyers can file claims as creditors during insolvency proceedings. But the process is often slow and the recovery rate low, and most customers recover only a small fraction of what they paid. Consumer advocacy groups argue that companies should be required to disclose their financial health more transparently. They also say firms should ensure that software support outlives the hardware’s expected lifespan. This would prevent buyers from being left with devices that cannot be used as intended. For now, the lesson for buyers is caution.",
+   "source": {
+    "name": "Wired",
+    "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The financial causes behind a music-tech firm’s collapse",
+      "The wide-ranging effects of corporate failure on consumers",
+      "The legal rights of investors during insolvency proceedings",
+      "The role of celebrity investment in technology startups"
+     ],
+     "answer": 1,
+     "explain": "文章开篇即指出公司倒闭的影响远超投资者损失，随后以音乐科技公司为例说明消费者在硬件、软件支持及法律救济等方面受到的广泛冲击，故B正确。A项将重点窄化为财务原因，属以偏概全；C项主体错位，文章聚焦消费者而非投资者；D项仅涉及名人投资这一背景细节，属无关信息。",
+     "evidence": "A technology company’s collapse rarely stays inside boardrooms and bankruptcy courts. Its effects often reach far beyond the money lost by investors and shareholders.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did customers of the music-technology firm report?",
+     "options": [
+      "They received free software updates for life.",
+      "They obtained immediate refunds upon request.",
+      "They got clear public statements about their orders.",
+      "They experienced order delays of months or years."
+     ],
+     "answer": 3,
+     "explain": "原文明确提到已付款顾客报告订单延迟数月甚至数年，且未收到产品或退款，故D正确。A项“终身免费更新”文中未提，属无中生有；B项与原文“未获退款”直接矛盾；C项与原文“未作公开声明”相反，属因果倒置。",
+     "evidence": "Customers who had paid hundreds or thousands of dollars for equipment reported delays of months or years.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what do consumer advocacy groups demand?",
+     "options": [
+      "That companies disclose financial health more transparently",
+      "That governments nationalize failing technology firms",
+      "That customers receive free replacements for broken devices",
+      "That insolvency proceedings be completed within a month"
+     ],
+     "answer": 0,
+     "explain": "原文指出消费者倡导团体要求公司更透明地披露财务状况，并确保软件支持寿命超过硬件预期使用期，故A正确。B项“国有化”文中无据，属无中生有；C项“免费更换”是对“软件支持”的偷换概念；D项“一个月内完成”属绝对化，原文只说程序缓慢。",
+     "evidence": "Consumer advocacy groups argue that companies should be required to disclose their financial health more transparently.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about software-dependent devices from the passage?",
+     "options": [
+      "They are always protected by consumer law.",
+      "Their hardware becomes useless immediately after a firm fails.",
+      "Their long-term value hinges on continued software support.",
+      "They are cheaper to maintain than non-connected devices."
+     ],
+     "answer": 2,
+     "explain": "原文指出设备依赖专有软件启动器和配套应用，缺乏更新会逐渐失效，且昂贵设备的价值取决于长期可用性，故C正确。A项“始终受法律保护”过于绝对，原文说法律保护因辖区而异且救济有限；B项“立即失效”属过度推断，原文说硬件可继续工作一段时间；D项维护成本比较文中未提，属无关信息。",
+     "evidence": "Without continued updates, they may gradually stop working on newer operating systems, and the hardware may keep working for a while.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “acute” in the passage is closest in meaning to ______.",
+     "options": [
+      "severe",
+      "temporary",
+      "unreasonable",
+      "widespread"
+     ],
+     "answer": 0,
+     "explain": "acute在此修饰担忧，表示“严重的、强烈的”，与severe同义，故A正确。B项“暂时的”与语境相反，原文强调长期困扰；C项“不合理的”偷换概念，担忧是合理的；D项“广泛的”侧重范围而非程度，与acute的程度义不符。",
+     "evidence": "Expensive equipment could become little more than obsolete hardware, and this concern is especially acute for expensive devices whose value depends on long-term usability.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "The collapse of a technology company rarely stays confined to boardrooms and bankruptcy courts. When a firm that sells hardware tied to proprietary software goes under, customers who have paid for products or rely on [1] support are often left with few options. This pattern has become increasingly common in the consumer electronics sector, where devices depend on companion apps and cloud services to function fully.\n\nA recent case in the British music-technology industry [2] the problem. The company, which had once attracted celebrity investors and widespread praise, entered [3]—the UK process for managing corporate insolvency—for the second time in its history. Although the firm had long faced [4] about communication, it offered no public statement about outstanding orders when administrators were [5]. Customers who had paid hundreds or thousands of dollars for equipment reported delays of months or years, and many said they had received neither products nor [6].\n\nThe financial failure is only part of the story. Many modern instruments rely heavily on proprietary software launchers and companion apps to connect, map sounds, and configure settings. While the hardware may continue to function for a while, users fear that a lack of software support will eventually render their gear [7]. This concern is particularly acute for expensive devices whose value depends on long-term usability.\n\nLegal protections for consumers vary by jurisdiction. In some countries, buyers can file claims as creditors during insolvency [8], but the process is often slow and the recovery rate low. Consumer advocacy groups argue that companies should be [9] to disclose their financial health more transparently and to ensure that software support outlives the hardware’s expected lifespan.\n\nFor now, the lesson for buyers is caution. Before purchasing an expensive device that relies on proprietary software, consumers may want to research the company’s stability and read [10] reviews.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "administration"
+    },
+    {
+     "label": "B",
+     "word": "appointed"
+    },
+    {
+     "label": "C",
+     "word": "coincide"
+    },
+    {
+     "label": "D",
+     "word": "complaints"
+    },
+    {
+     "label": "E",
+     "word": "continued"
+    },
+    {
+     "label": "F",
+     "word": "identification"
+    },
+    {
+     "label": "G",
+     "word": "illustrates"
+    },
+    {
+     "label": "H",
+     "word": "immigrant"
+    },
+    {
+     "label": "I",
+     "word": "independent"
+    },
+    {
+     "label": "J",
+     "word": "interrupt"
+    },
+    {
+     "label": "K",
+     "word": "proceedings"
+    },
+    {
+     "label": "L",
+     "word": "refunds"
+    },
+    {
+     "label": "M",
+     "word": "required"
+    },
+    {
+     "label": "N",
+     "word": "ridicule"
+    },
+    {
+     "label": "O",
+     "word": "useless"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "continued",
+     "lower": "continued",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "继续，连续；延伸",
+     "context": "When a firm that sells hardware tied to proprietary software goes under, customers who have paid for products or rely on continued support are often left with few options."
+    },
+    {
+     "index": 2,
+     "word": "illustrates",
+     "lower": "illustrates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "说明,阐明",
+     "context": "A recent case in the British music-technology industry illustrates the problem."
+    },
+    {
+     "index": 3,
+     "word": "administration",
+     "lower": "administration",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "管理，政府",
+     "context": "The company, which had once attracted celebrity investors and widespread praise, entered administration—the UK process for managing corporate insolvency—for the second time in its history."
+    },
+    {
+     "index": 4,
+     "word": "complaints",
+     "lower": "complaints",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "抱怨; 投诉",
+     "context": "Although the firm had long faced complaints about communication, it offered no public statement about outstanding orders when administrators were [5]."
+    },
+    {
+     "index": 5,
+     "word": "appointed",
+     "lower": "appointed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "任命，委派；约定，确定，指定",
+     "context": "Although the firm had long faced [4] about communication, it offered no public statement about outstanding orders when administrators were appointed."
+    },
+    {
+     "index": 6,
+     "word": "refunds",
+     "lower": "refunds",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "退款；vt  退还",
+     "context": "Customers who had paid hundreds or thousands of dollars for equipment reported delays of months or years, and many said they had received neither products nor refunds."
+    },
+    {
+     "index": 7,
+     "word": "useless",
+     "lower": "useless",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "While the hardware may continue to function for a while, users fear that a lack of software support will eventually render their gear useless."
+    },
+    {
+     "index": 8,
+     "word": "proceedings",
+     "lower": "proceedings",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "K",
+     "gloss": "程序，行动，事项",
+     "context": "In some countries, buyers can file claims as creditors during insolvency proceedings, but the process is often slow and the recovery rate low."
+    },
+    {
+     "index": 9,
+     "word": "required",
+     "lower": "required",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "要求，命令",
+     "context": "Consumer advocacy groups argue that companies should be required to disclose their financial health more transparently and to ensure that software support outlives the hardware’s expected lifespan."
+    },
+    {
+     "index": 10,
+     "word": "independent",
+     "lower": "independent",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "独立的；自主的",
+     "context": "Before purchasing an expensive device that relies on proprietary software, consumers may want to research the company’s stability and read independent reviews."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Wired",
+  "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+  "long_sentences": [
+   {
+    "en": "“There's always been too much secrecy about things, or then you'd realize, oh, there are these delays.” Former Roli employees—who spoke with WIRED but asked not to be named to avoid jeopardizing future employment opportunities—alleged a company culture that revolved around Lamb’s whims.",
+    "words": 43
+   },
+   {
+    "en": "“One of the problems they have had ever since I started with the Kickstarter is communication and explaining things—telling people what's going on,” Lluís Gerard, a YouTuber who has reviewed Roli products for years under the handle WasabiNoise , tells WIRED.",
+    "words": 41
+   },
+   {
+    "en": "You're buckled into his car—and he’s not going in the right direction.” In 2021, another former Roli employee, who also asked not to be identified, uploaded files on GitHub that include various notes chronicling Roli as a hostile workplace.",
+    "words": 39
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-04T06:35:45",
+ "difficulty": {
+  "score": 74,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 339,
+    "asl": 13.6,
+    "flesch": 64.1,
+    "fkgl": 7.7,
+    "long_sent": 0.0,
+    "beyond": 0.112,
+    "in_band": true,
+    "score": 91
+   },
+   {
+    "type": "passage_listening",
+    "words": 296,
+    "asl": 17.4,
+    "flesch": 36.5,
+    "fkgl": 12.5,
+    "long_sent": 0.0,
+    "beyond": 0.084,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 446,
+    "asl": 17.2,
+    "flesch": 47.0,
+    "fkgl": 11.0,
+    "long_sent": 0.0,
+    "beyond": 0.087,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "banked_cloze",
+    "words": 307,
+    "asl": 19.2,
+    "flesch": 35.0,
+    "fkgl": 13.1,
+    "long_sent": 0.0,
+    "beyond": 0.101,
+    "in_band": false,
+    "score": 58
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 74（接近六级），与六级区间有偏差。"
+}
