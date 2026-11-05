@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-05",
+ "date": "2026-11-05",
+ "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 529,
+  "sentences": 29,
+  "avg_sentence_len": 18.2,
+  "flesch_ease": 41.8,
+  "flesch_grade": 12.0,
+  "hard_word_ratio": 0.089,
+  "long_sent_ratio": 0.103,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 94
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and a career advisor discuss a UN internship application.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor Liu, I'm applying for that UN peacekeeping internship in New York, and I'm a bit unsure how to frame my thesis project in the personal statement."
+    },
+    {
+     "sp": "M",
+     "en": "Good timing. The UN is winding down several long-running missions, so they're likely looking for people who can think about transitions, not just patrols. What's your thesis on?"
+    },
+    {
+     "sp": "W",
+     "en": "It's about how local communities in conflict zones access humanitarian aid when international forces withdraw. I used two case studies, one in Africa and one in the Middle East."
+    },
+    {
+     "sp": "M",
+     "en": "That's directly relevant. Don't just describe the cases. Show what you found. Did the aid access improve or worsen when the blue helmets left?"
+    },
+    {
+     "sp": "W",
+     "en": "In one case it got worse because no neutral actor was left to escort convoys. In the other, local groups took over fairly smoothly, but only after a year of training."
+    },
+    {
+     "sp": "M",
+     "en": "There you go. The UN is worried about a security vacuum right now, so your evidence that transitions can work, given time and preparation, is exactly the kind of nuance they want."
+    },
+    {
+     "sp": "W",
+     "en": "But I don't want to sound like I'm criticizing the UN's withdrawal decisions. I know the Security Council is deadlocked."
+    },
+    {
+     "sp": "M",
+     "en": "You don't have to criticize. Frame it as risk assessment. Say that withdrawal without a follow-on arrangement creates humanitarian costs, and then show the conditions under which those costs can be reduced."
+    },
+    {
+     "sp": "W",
+     "en": "Should I mention the Western Sahara case? The mission there closed after thirty-five years without ever holding the referendum it was meant to organize."
+    },
+    {
+     "sp": "M",
+     "en": "Mention it briefly as a cautionary example, but keep the focus on your own findings. The committee reads hundreds of statements. A clear, evidence-based argument will stand out more than a broad survey."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. I'll restructure the statement around my two findings and keep the policy background to two sentences."
+    },
+    {
+     "sp": "M",
+     "en": "Perfect. And send me a draft by Friday. I'll check whether your claims are supported and whether the tone is appropriate for an international organization."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "Why the Security Council failed to renew a peacekeeping mandate",
+      "How to present research findings in an internship application",
+      "Which conflict zones are most suitable for case studies",
+      "How to apply for a permanent position at the United Nations"
+     ],
+     "answer": 1,
+     "explain": "对话围绕如何把论文发现写进联合国实习申请展开，导师建议以证据为基础。B 项是文中提及的背景，非主旨；C 项是细节；D 项将实习偷换为永久职位。",
+     "evidence": "I'm applying for that UN peacekeeping internship in New York, and I'm a bit unsure how to frame my thesis project in the personal statement."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What did the woman find in one of her case studies?",
+     "options": [
+      "International forces stayed longer than planned",
+      "Local groups refused to take over after training",
+      "Aid access declined when no neutral escort remained",
+      "The referendum was held earlier than expected"
+     ],
+     "answer": 2,
+     "explain": "女士明确说一个案例中援助变差，因为无中立行为体护送车队。B 项与原文相反；C 项文中未提；D 项将西撒哈拉公投张冠李戴到案例研究。",
+     "evidence": "In one case it got worse because no neutral actor was left to escort convoys."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about the UN's current needs?",
+     "options": [
+      "It values analysts who understand mission transitions",
+      "It prefers candidates with military patrol experience",
+      "It is no longer recruiting interns in New York",
+      "It wants applicants to avoid policy-related topics"
+     ],
+     "answer": 0,
+     "explain": "男士说联合国正结束多个长期任务，需要思考过渡而非仅巡逻的人，暗示重视分析过渡的人才。B 项与原文相反；C 项无依据；D 项与建议写政策背景矛盾。",
+     "evidence": "The UN is winding down several long-running missions, so they're likely looking for people who can think about transitions, not just patrols."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the woman's draft plan?",
+     "options": [
+      "Supportive but insistent on evidence",
+      "Doubtful about her academic background",
+      "Indifferent to the application deadline",
+      "Critical of her choice of case studies"
+     ],
+     "answer": 0,
+     "explain": "男士多次肯定并给出具体修改建议，最后要求周五交稿并核查论据，态度支持且强调证据。B 项无依据；C 项与约稿行为相反；D 项他称案例直接相关。",
+     "evidence": "And send me a draft by Friday. I'll check whether your claims are supported and whether the tone is appropriate for an international organization."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When a peacekeeping mission closes, the departure of uniformed personnel is only the most visible change. A less noticed but equally consequential shift occurs in the local economy and in the delivery of basic services, where the effects of withdrawal can be felt long after the blue helmets have gone. In many mission areas, UN personnel rent offices and accommodation, buy supplies and employ local staff, and their presence creates a small but steady demand that supports jobs and keeps money circulating in communities that may have few other sources of income. The humanitarian sector is also affected in ways that are often underestimated. Aid agencies often rely on the logistics and security arrangements that peacekeepers provide, and when those arrangements end, convoys may be delayed, and access to remote areas can become more expensive and more dangerous. These effects do not automatically justify keeping a mission in place indefinitely. Critics argue that missions can create dependencies and that host countries must eventually assume responsibility for their own security and services. The difficulty is the timing and the preparation. Where a transition has been planned, local institutions may gradually take over tasks such as escorting aid or monitoring ceasefires. Where it has not, the gap can be filled by armed groups or simply left empty, and civilians bear the cost. Analysts therefore suggest that withdrawal should be treated as a process rather than an event. Planning should begin well before the mandate ends, and it should include funding for local services, training for local partners and a clear political agreement among the parties involved. The lesson is simple to state and hard to apply, and A mission's end is not the end of international responsibility. It is a test of whether the international community can convert a military presence into a durable civilian arrangement."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The broader consequences of ending peacekeeping missions",
+      "The reasons why host countries oppose UN presence",
+      "The financial cost of maintaining blue helmets",
+      "The legal procedures for renewing a UN mandate"
+     ],
+     "answer": 0,
+     "explain": "全文讨论维和任务结束对经济、人道援助和过渡安排的影响，主旨是撤出的广泛后果。B 项文中未提东道国反对；C 项只涉及经济一点；D 项无依据。",
+     "evidence": "When a peacekeeping mission closes, the departure of uniformed personnel is only the most visible change."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What economic effect of UN personnel is mentioned?",
+     "options": [
+      "They generate steady local demand for goods and labor",
+      "They reduce the cost of imported humanitarian supplies",
+      "They replace local businesses with foreign companies",
+      "They lower rents in surrounding communities"
+     ],
+     "answer": 0,
+     "explain": "文中说联合国人员租房、采购、雇人，创造稳定需求并支持就业。B 项无依据；C 项与原文相反；D 项原文说租房，未提降低租金。",
+     "evidence": "In many mission areas, UN personnel rent offices and accommodation, buy supplies and employ local staff, and their presence creates a small but steady demand that supports jobs and keeps money circulating in communities that may have few other sources of income."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about poorly planned withdrawals?",
+     "options": [
+      "Civilians may face higher risks and costs",
+      "Local institutions always fill the gap quickly",
+      "Armed groups tend to withdraw from the area",
+      "Aid convoys become cheaper to operate"
+     ],
+     "answer": 0,
+     "explain": "文中说未规划时缺口可能被武装团体填补或留空，平民承担代价，可推知风险与成本上升。B 项与原文相反；C 项与武装团体填补矛盾；D 项与援助更贵更危险相反。",
+     "evidence": "Where it has not, the gap can be filled by armed groups or simply left empty, and civilians bear the cost."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Cost of Leaving: UN Peacekeeping Withdrawals",
+   "passage": "The UN's peacekeeping chief warned on Wednesday that the withdrawal of Blue Helmets from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them. The warning came as the organization prepares to lose some of its longest-standing military deployments.\n\nThe UN mission in Western Sahara closed on 31 October after 35 years. In Lebanon, the peacekeeping force that has patrolled the border with Israel since 1978 is due to cease operations at the end of the year. Around 7,500 peacekeepers are still serving with the UN Interim Force in Lebanon, acting as a go-between for the Lebanese and Israeli armies, monitoring violations and helping humanitarian aid get through.\n\nMr. Lacroix, the peacekeeping chief, has just returned from Lebanon. He said President Joseph Aoun and Prime Minister Nawaf Salam had told him they feared a security vacuum once the peacekeepers leave, with no one left to stop border incidents from turning into clashes. There is a humanitarian cost too. He offered a cautious estimate that about 10,000 people are still living between the Blue Line and the forward defence line Israel has set up inside Lebanese territory, and their access to aid depends heavily on the mission.\n\nUN Secretary-General António Guterres put forward options in June, but the Security Council has yet to agree on any follow-on arrangement. Mr. Lacroix urged council members to decide what form a future international presence could take. The same deadlock has already ended the UN's presence in Western Sahara. The UN Mission for the Referendum in Western Sahara shut down on 31 October after council members failed to agree on renewing its mandate.\n\nRussia vetoed a United States draft that would have reshaped the mission around a solution based on autonomy under Moroccan sovereignty. A rival Russian text calling for a one-year renewal fell short of the nine votes needed to pass. The mission was set up in 1991 to monitor a ceasefire between Morocco and the Polisario Front. It never held the self-determination referendum it was created to organize, and hostilities in the territory resumed in 2020. Mr. Lacroix confirmed that the mission was now in its liquidation phase.\n\nElsewhere, in the Golan, UN observers were receiving complaints from civilians about detentions, movement restrictions and property seizures linked to the Israeli military presence. In Abyei, the territory disputed by Sudan and South Sudan, recent drone attacks have highlighted another growing danger. Blue Helmets are having to adapt to technologies that put both their own personnel and the civilians they protect at risk. The UN is reviewing its military and technological capabilities, but Mr. Lacroix said the answer could not be purely technical. Above all, he said, it was a matter of political responsibility.",
+   "source": {
+    "name": "UN News",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168741"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The security and political fallout from ending UN missions",
+      "The historical background of UN peacekeeping missions",
+      "The technical challenges facing modern peacekeepers",
+      "The reasons behind Russia's veto of a US draft"
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文核心：维和任务结束带来的安全真空、人道代价与政治僵局。B项只涉及历史背景，偏离主旨；C项是末段细节，以偏概全；D项是西撒哈拉部分的局部信息，不能涵盖全文。",
+     "evidence": "The UN's peacekeeping chief warned on Wednesday that the withdrawal of Blue Helmets from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What is one current function of UNIFIL in Lebanon?",
+     "options": [
+      "Training local police forces to take over security",
+      "Organizing self-determination referendums",
+      "Serving as a mediator between two national armies",
+      "Monitoring a ceasefire between Morocco and Polisario"
+     ],
+     "answer": 2,
+     "explain": "原文指出UNIFIL充当黎以军队之间的中间人，即调解者。A项无中生有，原文未提培训警察；B项是西撒哈拉任务的目标，张冠李戴；D项将西撒哈拉的停火监督错接到黎巴嫩。",
+     "evidence": "Around 7,500 peacekeepers are still serving with the UN Interim Force in Lebanon, acting as a go-between for the Lebanese and Israeli armies, monitoring violations and helping humanitarian aid get through.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did the UN mission in Western Sahara shut down?",
+     "options": [
+      "Its mandate was not renewed due to council disagreement",
+      "It completed its goal of holding a referendum",
+      "Morocco and Polisario signed a final peace treaty",
+      "It ran out of funding for military observers"
+     ],
+     "answer": 0,
+     "explain": "原文明确任务关闭是因安理会成员未能就延长授权达成一致，正确项同义改写。B项与原文公投从未举行相反；C项无依据，双方未签和平条约；D项文中未提资金耗尽，属无关信息。",
+     "evidence": "The UN Mission for the Referendum in Western Sahara shut down on 31 October after council members failed to agree on renewing its mandate.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the Security Council's decision-making?",
+     "options": [
+      "It tends to postpone choices on follow-on arrangements",
+      "It has approved a new international presence in Lebanon",
+      "It unanimously backed the US draft on Western Sahara",
+      "It has assumed direct command of peacekeeping forces"
+     ],
+     "answer": 0,
+     "explain": "原文说安理会尚未就后续安排达成一致，且僵局已导致任务结束，可推知其决策拖延。B项与原文相反，尚未同意任何安排；C项俄罗斯否决了美国草案，并非一致支持；D项无依据，安理会未直接指挥维和部队。",
+     "evidence": "UN Secretary-General António Guterres put forward options in June, but the Security Council has yet to agree on any follow-on arrangement.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "What does \"deadlock\" most probably mean in the passage?",
+     "options": [
+      "A situation where no agreement can be reached",
+      "A final decision approved by all council members",
+      "A temporary pause in peacekeeping operations",
+      "A legal procedure for renewing a mandate"
+     ],
+     "answer": 1,
+     "explain": "deadlock指因分歧而无法达成一致，与下文“尚未就后续安排达成一致”呼应。A项与“分歧”相反；C项偷换为暂停，原文是僵局导致任务结束；D项是程序而非僵局，属偷换概念。",
+     "evidence": "The same deadlock has already ended the UN's presence in Western Sahara.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "The UN mission in Western Sahara closed on 31 October after 35 years. In Lebanon, the peacekeeping force that has [1] the border with Israel since 1978 is due to cease operations at the end of the year. Around 7,500 peacekeepers are still serving with the UN Interim Force in Lebanon, acting as a go-between for the Lebanese and Israeli armies, monitoring [2] and helping humanitarian aid get through.\n\nMr. Lacroix, the peacekeeping chief, has just returned from Lebanon. He said President Joseph Aoun and Prime Minister Nawaf Salam had told him they feared a security vacuum once the peacekeepers leave, with no one left to stop border [3] from turning into clashes. There is a humanitarian cost too. He offered a cautious [4] that about 10,000 people are still living between the Blue Line and the forward defence line Israel has set up inside Lebanese territory, and their access to aid [5] heavily on the mission.\n\nUN Secretary-General António Guterres put forward options in June, but the Security Council has yet to agree on any follow-on [6]. Mr. Lacroix urged council members to decide what form a future international presence could take.\n\nThe same deadlock has already ended the UN's presence in Western Sahara. The UN Mission for the Referendum in Western Sahara shut down on 31 October after council members failed to agree on renewing its mandate. Russia [7] a United States draft that would have reshaped the mission around a solution based on [8] under Moroccan sovereignty. A rival Russian text calling for a one-year [9] fell short of the nine votes needed to pass. The mission was set up in 1991 to [10] a ceasefire between Morocco and the Polisario Front.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "arrangement"
+    },
+    {
+     "label": "B",
+     "word": "autonomy"
+    },
+    {
+     "label": "C",
+     "word": "blossom"
+    },
+    {
+     "label": "D",
+     "word": "comprehension"
+    },
+    {
+     "label": "E",
+     "word": "depends"
+    },
+    {
+     "label": "F",
+     "word": "estimate"
+    },
+    {
+     "label": "G",
+     "word": "follow"
+    },
+    {
+     "label": "H",
+     "word": "illustrate"
+    },
+    {
+     "label": "I",
+     "word": "incidents"
+    },
+    {
+     "label": "J",
+     "word": "indication"
+    },
+    {
+     "label": "K",
+     "word": "monitor"
+    },
+    {
+     "label": "L",
+     "word": "patrolled"
+    },
+    {
+     "label": "M",
+     "word": "renewal"
+    },
+    {
+     "label": "N",
+     "word": "vetoed"
+    },
+    {
+     "label": "O",
+     "word": "violations"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "patrolled",
+     "lower": "patrolled",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "巡逻，巡查",
+     "context": "In Lebanon, the peacekeeping force that has patrolled the border with Israel since 1978 is due to cease operations at the end of the year."
+    },
+    {
+     "index": 2,
+     "word": "violations",
+     "lower": "violations",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "违反",
+     "context": "Around 7,500 peacekeepers are still serving with the UN Interim Force in Lebanon, acting as a go-between for the Lebanese and Israeli armies, monitoring violations and helping humanitarian aid get through."
+    },
+    {
+     "index": 3,
+     "word": "incidents",
+     "lower": "incidents",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "发生的事；事件",
+     "context": "He said President Joseph Aoun and Prime Minister Nawaf Salam had told him they feared a security vacuum once the peacekeepers leave, with no one left to stop border incidents from turning into clashes."
+    },
+    {
+     "index": 4,
+     "word": "estimate",
+     "lower": "estimate",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "估计",
+     "context": "He offered a cautious estimate that about 10,000 people are still living between the Blue Line and the forward defence line Israel has set up inside Lebanese territory, and their access to aid [5] heavily on the mission."
+    },
+    {
+     "index": 5,
+     "word": "depends",
+     "lower": "depends",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "依靠，依赖；相信",
+     "context": "He offered a cautious [4] that about 10,000 people are still living between the Blue Line and the forward defence line Israel has set up inside Lebanese territory, and their access to aid depends heavily on the mission."
+    },
+    {
+     "index": 6,
+     "word": "arrangement",
+     "lower": "arrangement",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "整理，排列；安排",
+     "context": "UN Secretary-General António Guterres put forward options in June, but the Security Council has yet to agree on any follow-on arrangement."
+    },
+    {
+     "index": 7,
+     "word": "vetoed",
+     "lower": "vetoed",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "N",
+     "gloss": "否决，否决权；禁止",
+     "context": "Russia vetoed a United States draft that would have reshaped the mission around a solution based on [8] under Moroccan sovereignty."
+    },
+    {
+     "index": 8,
+     "word": "autonomy",
+     "lower": "autonomy",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "自治， 自治权； 人身自由， 自主权",
+     "context": "Russia [7] a United States draft that would have reshaped the mission around a solution based on autonomy under Moroccan sovereignty."
+    },
+    {
+     "index": 9,
+     "word": "renewal",
+     "lower": "renewal",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "A rival Russian text calling for a one-year renewal fell short of the nine votes needed to pass."
+    },
+    {
+     "index": 10,
+     "word": "monitor",
+     "lower": "monitor",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "监控，监听",
+     "context": "Around 7,500 peacekeepers are still serving with the UN Interim Force in Lebanon, acting as a go-between for the Lebanese and Israeli armies, monitoring [2] and helping humanitarian aid get through."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "UN News",
+  "url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+  "long_sentences": [
+   {
+    "en": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+    "words": 37
+   },
+   {
+    "en": "Briefing journalists at UN Headquarters in New York, Mr. Lacroix said the organization was losing some of its longest-standing military deployments, with no guarantee that the countries concerned could maintain stability on their own.",
+    "words": 34
+   },
+   {
+    "en": "He said President Joseph Aoun and Prime Minister Nawaf Salam had told him they feared a “security vacuum” once the peacekeepers leave, with no one left to stop border incidents from turning into clashes.",
+    "words": 34
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-05T10:02:22",
+ "difficulty": {
+  "score": 88,
+  "level": "六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 324,
+    "asl": 12.0,
+    "flesch": 62.3,
+    "fkgl": 7.6,
+    "long_sent": 0.0,
+    "beyond": 0.086,
+    "in_band": true,
+    "score": 94
+   },
+   {
+    "type": "passage_listening",
+    "words": 304,
+    "asl": 21.7,
+    "flesch": 37.3,
+    "fkgl": 13.5,
+    "long_sent": 0.214,
+    "beyond": 0.039,
+    "in_band": false,
+    "score": 64
+   },
+   {
+    "type": "reading",
+    "words": 455,
+    "asl": 19.8,
+    "flesch": 39.7,
+    "fkgl": 12.6,
+    "long_sent": 0.174,
+    "beyond": 0.081,
+    "in_band": true,
+    "score": 96
+   },
+   {
+    "type": "banked_cloze",
+    "words": 279,
+    "asl": 19.9,
+    "flesch": 45.6,
+    "fkgl": 11.8,
+    "long_sent": 0.214,
+    "beyond": 0.09,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 88（六级），与六级区间有偏差。"
+}
