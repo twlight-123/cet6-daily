@@ -1,0 +1,265 @@
+{
+ "id": "2026-11-06",
+ "date": "2026-11-06",
+ "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+ "source": "auto",
+ "engine": "local",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 15,
+ "measure": {
+  "words": 479,
+  "sentences": 18,
+  "avg_sentence_len": 26.6,
+  "flesch_ease": 48.6,
+  "flesch_grade": 13.1,
+  "hard_word_ratio": 0.088,
+  "long_sent_ratio": 0.278,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 96
+ },
+ "sections": [
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano. Pope Leo XIV, right, and the singer and Nobel prize winner Bob Dylan, left, talk during a meeting in the Vatican on Wednesday, Nov. 4, 2026. Vatican Media/LaPresse/via AP hide [1] Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes. In an essay in L'Osservatore Romano, he [2] that the former Robert Prevost, who was born in Chicago in 1955, grew up [3] with Dylan's music. He also noted that Dylan was very familiar with St. Augustine of Hippo, the [4] of Leo's [5] and Augustinian religious order, penning \"I Dreamed I Saw St. Augustine\" for the 1967 album John Wesley Harding. Pope Leo XIV, right, and the singer and Nobel prize winner Bob Dylan, left, shake hands during a meeting in the Vatican on Wednesday, Nov. 4, 2026. Vatican Media/LaPresse/via AP hide caption Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie. Vatican photos of the [6] showed him with the hood over his head. Dylan, who [7] his name from Robert Zimmerman, was born to a Jewish family in Minnesota. He famously became a born-again Christian in 1979 and [8] some of his longtime fans with songs like \"Gotta Serve Somebody\" and \"Saved.\" In more recent years, Dylan has been more circumspect about his religious beliefs. In a 2022 interview with the Wall Street Journal, Dylan said that he was a \"religious person\" who reads the [9], [10] and prays. Dylan met with Leo in between concert dates in Italy.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "alienated"
+    },
+    {
+     "label": "B",
+     "word": "burden"
+    },
+    {
+     "label": "C",
+     "word": "caption"
+    },
+    {
+     "label": "D",
+     "word": "changed"
+    },
+    {
+     "label": "E",
+     "word": "definition"
+    },
+    {
+     "label": "F",
+     "word": "encounter"
+    },
+    {
+     "label": "G",
+     "word": "familiar"
+    },
+    {
+     "label": "H",
+     "word": "inspiration"
+    },
+    {
+     "label": "I",
+     "word": "intonation"
+    },
+    {
+     "label": "J",
+     "word": "meditates"
+    },
+    {
+     "label": "K",
+     "word": "recalled"
+    },
+    {
+     "label": "L",
+     "word": "saleable"
+    },
+    {
+     "label": "M",
+     "word": "scriptures"
+    },
+    {
+     "label": "N",
+     "word": "spirituality"
+    },
+    {
+     "label": "O",
+     "word": "underscore"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "caption",
+     "lower": "caption",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "C"
+    },
+    {
+     "index": 2,
+     "word": "recalled",
+     "lower": "recalled",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K"
+    },
+    {
+     "index": 3,
+     "word": "familiar",
+     "lower": "familiar",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G"
+    },
+    {
+     "index": 4,
+     "word": "inspiration",
+     "lower": "inspiration",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "H"
+    },
+    {
+     "index": 5,
+     "word": "spirituality",
+     "lower": "spirituality",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N"
+    },
+    {
+     "index": 6,
+     "word": "encounter",
+     "lower": "encounter",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F"
+    },
+    {
+     "index": 7,
+     "word": "changed",
+     "lower": "changed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D"
+    },
+    {
+     "index": 8,
+     "word": "alienated",
+     "lower": "alienated",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "A"
+    },
+    {
+     "index": 9,
+     "word": "scriptures",
+     "lower": "scriptures",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "M"
+    },
+    {
+     "index": 10,
+     "word": "meditates",
+     "lower": "meditates",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "J"
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "NPR World",
+  "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+  "long_sentences": [
+   {
+    "en": "In his most recent concert before the meeting with the pope, Dylan sang his 1997 song \"Tryin' to Get to Heaven\" that contains the lyric, \"I've been all around the world, boys/Now I'm trying to get to heaven before they close the door.\" NPR does not offer or accept money for coverage or interviews.",
+    "words": 54
+   },
+   {
+    "en": "4, 2026. Vatican Media/LaPresse/via AP hide caption VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy.",
+    "words": 43
+   },
+   {
+    "en": "Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev.",
+    "words": 41
+   }
+  ]
+ },
+ "reading_draft": {
+  "text": "4, 2026. Vatican Media/LaPresse/via AP hide caption VATICAN CITY — Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. Leo was warning against the race to rearm and the recourse to nuclear weapons and quoted the lyric, addressed to a hypothetical atomic bomb: \"I hate you cause yer man-made and man-owned, an' man-handled.\" Two Vatican officials accompanied Dylan: the Rev. Antonio Spadaro, a Vatican culture ministry official who also accompanied Patti Smith to a July audience with Leo; and Andrea Monda, the editor of the Vatican newspaper, L'Osservatore Romano. Pope Leo XIV, right, and the singer and Nobel prize winner Bob Dylan, left, talk during a meeting in the Vatican on Wednesday, Nov. 4, 2026. Vatican Media/LaPresse/via AP hide caption Spadaro said Dylan had wanted to speak with Leo, and the two met in private for a few minutes. In an essay in L'Osservatore Romano, he recalled that the former Robert Prevost, who was born in Chicago in 1955, grew up familiar with Dylan's music. He also noted that Dylan was very familiar with St. Augustine of Hippo, the inspiration of Leo's spirituality and Augustinian religious order, penning \"I Dreamed I Saw St. Augustine\" for the 1967 album John Wesley Harding. Pope Leo XIV, right, and the singer and Nobel prize winner Bob Dylan, left, shake hands during a meeting in the Vatican on Wednesday, Nov. 4, 2026. Vatican Media/LaPresse/via AP hide caption Dylan, who won the Nobel Prize for Literature in 2016, wore a black hoodie and a loose tie. Vatican photos of the encounter showed him with the hood over his head. Dylan, who changed his name from Robert Zimmerman, was born to a Jewish family in Minnesota. He famously became a born-again Christian in 1979 and alienated some of his longtime fans with songs like \"Gotta Serve Somebody\" and \"Saved.\" In more recent years, Dylan has been more circumspect about his religious beliefs. In a 2022 interview with the Wall Street Journal, Dylan said that he was a \"religious person\" who reads the scriptures, meditates and prays. Dylan met with Leo in between concert dates in Italy. He played in Milan on Monday and is playing Rome on Thursday. In his most recent concert before the meeting with the pope, Dylan sang his 1997 song \"Tryin' to Get to Heaven\" that contains the lyric, \"I've been all around the world, boys/Now I'm trying to get to heaven before they close the door.\" NPR does not offer or accept money for coverage or interviews.",
+  "words": 440,
+  "measure": {
+   "words": 434,
+   "sentences": 16,
+   "asl": 27.1,
+   "flesch": 46.8,
+   "fkgl": 13.5,
+   "long_sent": 0.312,
+   "beyond": 0.09,
+   "cet6_density": 0.021,
+   "word_len": 4.67,
+   "beyond_words": [
+    "an'",
+    "antonio",
+    "ap",
+    "became",
+    "born-again",
+    "circumspect",
+    "dylan's",
+    "hood",
+    "hoodie",
+    "hypothetical",
+    "i'm",
+    "i've"
+   ],
+   "cet6_words": [
+    "alienated",
+    "caption",
+    "coverage",
+    "meditates",
+    "scriptures",
+    "visited",
+    "warning"
+   ],
+   "score": 93,
+   "in_band": true,
+   "issues": [],
+   "notes": [
+    "平均句长 27.10 略高于舒适区 26.00"
+   ],
+   "kind": "reading"
+  },
+  "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+  "source": "NPR World",
+  "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican"
+ },
+ "generated_at": "2026-11-06T10:00:25",
+ "notice": "今日为本地算法引擎生成：仅「选词填空」可自动出题。配置大模型接口（设置页）后，可自动生成听力与阅读全套题目。",
+ "difficulty": {
+  "score": 100,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "banked_cloze",
+    "words": 285,
+    "asl": 23.8,
+    "flesch": 47.7,
+    "fkgl": 12.5,
+    "long_sent": 0.167,
+    "beyond": 0.067,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}
