@@ -1,0 +1,262 @@
+{
+ "id": "2026-11-07",
+ "date": "2026-11-07",
+ "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks",
+ "source": "auto",
+ "engine": "local",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 15,
+ "measure": {
+  "words": 432,
+  "sentences": 19,
+  "avg_sentence_len": 22.7,
+  "flesch_ease": 52.2,
+  "flesch_grade": 11.6,
+  "hard_word_ratio": 0.058,
+  "long_sent_ratio": 0.158,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "But long-duration space travel comes with serious risks to astronauts' health , including those resulting from cosmic radiation and the effects of [1] . A new study found that rats that were exposed to radiation similar to what [2] might encounter during a Mars mission developed more scar tissue around their hearts' small blood vessels compared with a control group. Although the findings haven't been validated in humans, the results [3] to growing concerns about the potential effects of long-haul space missions on astronauts' health. Given these new findings, Live Science asked its readers whether they'd travel to the Red Planet , despite these potential health risks. Over 240 readers [4] in, with 65% picking \"No, I don't think the risks are worth it.\" Interestingly enough, the comments reflect a slightly different trend. One reader wrote, \"Any [5] who travel to Mars will be facing the [6] of death and never coming back. Even if they make it back, there are any number of health issues that could come up. These risks have not stopped people from exploring throughout human history. The bigger question is who to send?\" Other commenters echoed this [7], with another reader posting, \"Explorers in the past have always been exposed to unusual risks; without the risk takers we would still believe the world is flat .\" Beyond the feelings that Mars will be [8] anyway, despite the health risks, other commenters highlighted the cost of these missions, with one reader stating, \"Sending flesh water balloons to Mars is [9]. For the cost of one human on Mars, we could literally probe the entire solar system and map/sample/rove every planet and every major Moon.\" Others highlighted the mental and [10] cost of a trip to Mars.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "astronauts"
+    },
+    {
+     "label": "B",
+     "word": "bemoan"
+    },
+    {
+     "label": "C",
+     "word": "circular"
+    },
+    {
+     "label": "D",
+     "word": "contribute"
+    },
+    {
+     "label": "E",
+     "word": "dedicate"
+    },
+    {
+     "label": "F",
+     "word": "elevate"
+    },
+    {
+     "label": "G",
+     "word": "emotional"
+    },
+    {
+     "label": "H",
+     "word": "explored"
+    },
+    {
+     "label": "I",
+     "word": "microgravity"
+    },
+    {
+     "label": "J",
+     "word": "pioneers"
+    },
+    {
+     "label": "K",
+     "word": "prospect"
+    },
+    {
+     "label": "L",
+     "word": "reference"
+    },
+    {
+     "label": "M",
+     "word": "ridiculous"
+    },
+    {
+     "label": "N",
+     "word": "sentiment"
+    },
+    {
+     "label": "O",
+     "word": "weighed"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "microgravity",
+     "lower": "microgravity",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "I"
+    },
+    {
+     "index": 2,
+     "word": "astronauts",
+     "lower": "astronauts",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A"
+    },
+    {
+     "index": 3,
+     "word": "contribute",
+     "lower": "contribute",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D"
+    },
+    {
+     "index": 4,
+     "word": "weighed",
+     "lower": "weighed",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "O"
+    },
+    {
+     "index": 5,
+     "word": "pioneers",
+     "lower": "pioneers",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J"
+    },
+    {
+     "index": 6,
+     "word": "prospect",
+     "lower": "prospect",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "K"
+    },
+    {
+     "index": 7,
+     "word": "sentiment",
+     "lower": "sentiment",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "N"
+    },
+    {
+     "index": 8,
+     "word": "explored",
+     "lower": "explored",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H"
+    },
+    {
+     "index": 9,
+     "word": "ridiculous",
+     "lower": "ridiculous",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "M"
+    },
+    {
+     "index": 10,
+     "word": "emotional",
+     "lower": "emotional",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G"
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Live Science",
+  "url": "https://www.livescience.com/space/mars/life-is-too-brief-to-leave-this-planet-live-science-readers-share-whether-theyd-go-to-mars-despite-health-risks",
+  "long_sentences": [
+   {
+    "en": "A new study found that rats that were exposed to radiation similar to what astronauts might encounter during a Mars mission developed more scar tissue around their hearts' small blood vessels compared with a control group.",
+    "words": 36
+   },
+   {
+    "en": "For the cost of one human on Mars, we could literally probe the entire solar system and map/sample/rove every planet and every major Moon.\" Others highlighted the mental and emotional cost of a trip to Mars.",
+    "words": 36
+   },
+   {
+    "en": "Over 240 readers weighed in, with 65% picking \"No, I don't think the risks are worth it.\" Interestingly enough, the comments reflect a slightly different trend.",
+    "words": 26
+   }
+  ]
+ },
+ "reading_draft": {
+  "text": "But long-duration space travel comes with serious risks to astronauts' health , including those resulting from cosmic radiation and the effects of microgravity . A new study found that rats that were exposed to radiation similar to what astronauts might encounter during a Mars mission developed more scar tissue around their hearts' small blood vessels compared with a control group. Although the findings haven't been validated in humans, the results contribute to growing concerns about the potential effects of long-haul space missions on astronauts' health. Given these new findings, Live Science asked its readers whether they'd travel to the Red Planet , despite these potential health risks. Over 240 readers weighed in, with 65% picking \"No, I don't think the risks are worth it.\" Interestingly enough, the comments reflect a slightly different trend. One reader wrote, \"Any pioneers who travel to Mars will be facing the prospect of death and never coming back. Even if they make it back, there are any number of health issues that could come up. These risks have not stopped people from exploring throughout human history. The bigger question is who to send?\" Other commenters echoed this sentiment, with another reader posting, \"Explorers in the past have always been exposed to unusual risks; without the risk takers we would still believe the world is flat .\" Beyond the feelings that Mars will be explored anyway, despite the health risks, other commenters highlighted the cost of these missions, with one reader stating, \"Sending flesh water balloons to Mars is ridiculous. For the cost of one human on Mars, we could literally probe the entire solar system and map/sample/rove every planet and every major Moon.\" Others highlighted the mental and emotional cost of a trip to Mars. \"As a devoted sci-fi fan for decades, I always wished I could go into space,\" another reader noted. \"Now that I am 77 years old, I realize I would miss the outdoors. The wind and trees, the birdsong and sweet grass under my feet would be a devastating loss. Let the brave explorers go instead. Life is too brief to leave this planet for the uncertainty and dangers of space travel.\" Kenna Hughes-Castleberry is the Content Manager at Live Science. Formerly, she was the Content Manager at Space.com and before that the Science Communicator at JILA, a physics research institute. Kenna is also a book author, with her upcoming book 'Octopus X' scheduled for release in spring of 2027. Her beats include physics, health, environmental science, technology, AI, animal intelligence, corvids, and cephalopods.",
+  "words": 423,
+  "measure": {
+   "words": 418,
+   "sentences": 18,
+   "asl": 23.2,
+   "flesch": 51.7,
+   "fkgl": 11.8,
+   "long_sent": 0.167,
+   "beyond": 0.06,
+   "cet6_density": 0.014,
+   "word_len": 5.02,
+   "beyond_words": [
+    "ai",
+    "birdsong",
+    "cephalopods",
+    "com",
+    "commenters",
+    "corvids",
+    "devastating",
+    "don't",
+    "feet",
+    "haven't",
+    "hughes-castleberry",
+    "jila"
+   ],
+   "cet6_words": [
+    "cosmic",
+    "environmental",
+    "literally",
+    "probe",
+    "scar",
+    "sentiment"
+   ],
+   "score": 100,
+   "in_band": true,
+   "issues": [],
+   "notes": [],
+   "kind": "reading"
+  },
+  "url": "https://www.livescience.com/space/mars/life-is-too-brief-to-leave-this-planet-live-science-readers-share-whether-theyd-go-to-mars-despite-health-risks",
+  "source": "Live Science",
+  "title": "'Life is too brief to leave this planet': Live Science readers share whether they'd go to Mars, despite health risks"
+ },
+ "generated_at": "2026-11-07T09:40:28",
+ "notice": "今日为本地算法引擎生成：仅「选词填空」可自动出题。配置大模型接口（设置页）后，可自动生成听力与阅读全套题目。 注意：今日自动题难度评分 70（偏易（四级水平）），与六级区间有偏差。",
+ "difficulty": {
+  "score": 70,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "banked_cloze",
+    "words": 286,
+    "asl": 28.6,
+    "flesch": 46.8,
+    "fkgl": 13.8,
+    "long_sent": 0.3,
+    "beyond": 0.038,
+    "in_band": false,
+    "score": 70
+   }
+  ]
+ }
+}
