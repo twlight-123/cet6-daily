@@ -1,0 +1,265 @@
+{
+ "id": "2026-11-08",
+ "date": "2026-11-08",
+ "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+ "source": "auto",
+ "engine": "local",
+ "topics": [
+  "时事新闻"
+ ],
+ "minutes": 15,
+ "measure": {
+  "words": 391,
+  "sentences": 15,
+  "avg_sentence_len": 26.1,
+  "flesch_ease": 41.0,
+  "flesch_grade": 14.0,
+  "hard_word_ratio": 0.056,
+  "long_sent_ratio": 0.467,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 93
+ },
+ "sections": [
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Vulnerable as they are, climate financing is failing to reach many communities at risk, the UN refugee agency, UNHCR , warned in a report published on Friday ahead of the COP31 climate change conference opening next week in Antalya, Türkiye. “Refugees face a double [1]. Forced to flee conflicts they did not cause, they are now on the frontlines of a climate crisis they have [2] least to,” said Antón Leis García, Assistant High Commissioner for Operations. “For millions, climate change is not a distant threat. It is destroying [3], undermining livelihoods and putting their hopes of rebuilding their lives at risk.” She fled El Fasher in wartorn Sudan’s Darfur region in June 2023 and now lives in a refugee [4] in eastern Chad where climate shocks are an ever-present risk, amid ongoing drought and persistent conflict. Weather-related [5] triggered hundreds of millions of internal displacements worldwide over the past decade, while severe flooding linked to El Niño is expected to force three million people across Somalia, Kenya, South Sudan and Uganda to flee their homes by the end of the year. Climate change is also making it harder to find lasting solutions for [6] people. More than two-thirds of refugees who returned home in the first half of 2026 went back to countries that are highly [7] to climate hazards. In Syria, meanwhile, nearly four million people have recently returned to the country, where declining groundwater and severe climate shocks are threatening recovery after more than a decade of war. Flooding along the Euphrates River in May [8] homes, displacing thousands once again. Meanwhile, nearly 90 per cent of [9] people worldwide live in countries that are highly [10] to climate hazards.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "approach"
+    },
+    {
+     "label": "B",
+     "word": "contributed"
+    },
+    {
+     "label": "C",
+     "word": "damaged"
+    },
+    {
+     "label": "D",
+     "word": "diligence"
+    },
+    {
+     "label": "E",
+     "word": "disasters"
+    },
+    {
+     "label": "F",
+     "word": "displaced"
+    },
+    {
+     "label": "G",
+     "word": "exposed"
+    },
+    {
+     "label": "H",
+     "word": "injustice"
+    },
+    {
+     "label": "I",
+     "word": "inventory"
+    },
+    {
+     "label": "J",
+     "word": "negotiate"
+    },
+    {
+     "label": "K",
+     "word": "paragraph"
+    },
+    {
+     "label": "L",
+     "word": "settlement"
+    },
+    {
+     "label": "M",
+     "word": "shelters"
+    },
+    {
+     "label": "N",
+     "word": "stateless"
+    },
+    {
+     "label": "O",
+     "word": "vulnerable"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "injustice",
+     "lower": "injustice",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "H"
+    },
+    {
+     "index": 2,
+     "word": "contributed",
+     "lower": "contributed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B"
+    },
+    {
+     "index": 3,
+     "word": "shelters",
+     "lower": "shelters",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M"
+    },
+    {
+     "index": 4,
+     "word": "settlement",
+     "lower": "settlement",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "L"
+    },
+    {
+     "index": 5,
+     "word": "disasters",
+     "lower": "disasters",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E"
+    },
+    {
+     "index": 6,
+     "word": "displaced",
+     "lower": "displaced",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "F"
+    },
+    {
+     "index": 7,
+     "word": "vulnerable",
+     "lower": "vulnerable",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "O"
+    },
+    {
+     "index": 8,
+     "word": "damaged",
+     "lower": "damaged",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C"
+    },
+    {
+     "index": 9,
+     "word": "stateless",
+     "lower": "stateless",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "N"
+    },
+    {
+     "index": 10,
+     "word": "exposed",
+     "lower": "exposed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G"
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "UN News",
+  "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+  "long_sentences": [
+   {
+    "en": "It is destroying shelters, undermining livelihoods and putting their hopes of rebuilding their lives at risk.” She fled El Fasher in wartorn Sudan’s Darfur region in June 2023 and now lives in a refugee settlement in eastern Chad where climate shocks are an ever-present risk, amid ongoing drought and persistent conflict.",
+    "words": 51
+   },
+   {
+    "en": "Weather-related disasters triggered hundreds of millions of internal displacements worldwide over the past decade, while severe flooding linked to El Niño is expected to force three million people across Somalia, Kenya, South Sudan and Uganda to flee their homes by the end of the year.",
+    "words": 45
+   },
+   {
+    "en": "Vulnerable as they are, climate financing is failing to reach many communities at risk, the UN refugee agency, UNHCR , warned in a report published on Friday ahead of the COP31 climate change conference opening next week in Antalya, Türkiye.",
+    "words": 40
+   }
+  ]
+ },
+ "reading_draft": {
+  "text": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat. Vulnerable as they are, climate financing is failing to reach many communities at risk, the UN refugee agency, UNHCR , warned in a report published on Friday ahead of the COP31 climate change conference opening next week in Antalya, Türkiye. “Refugees face a double injustice. Forced to flee conflicts they did not cause, they are now on the frontlines of a climate crisis they have contributed least to,” said Antón Leis García, Assistant High Commissioner for Operations. “For millions, climate change is not a distant threat. It is destroying shelters, undermining livelihoods and putting their hopes of rebuilding their lives at risk.” She fled El Fasher in wartorn Sudan’s Darfur region in June 2023 and now lives in a refugee settlement in eastern Chad where climate shocks are an ever-present risk, amid ongoing drought and persistent conflict. Weather-related disasters triggered hundreds of millions of internal displacements worldwide over the past decade, while severe flooding linked to El Niño is expected to force three million people across Somalia, Kenya, South Sudan and Uganda to flee their homes by the end of the year. Climate change is also making it harder to find lasting solutions for displaced people. More than two-thirds of refugees who returned home in the first half of 2026 went back to countries that are highly vulnerable to climate hazards. In Syria, meanwhile, nearly four million people have recently returned to the country, where declining groundwater and severe climate shocks are threatening recovery after more than a decade of war. Flooding along the Euphrates River in May damaged homes, displacing thousands once again. Meanwhile, nearly 90 per cent of stateless people worldwide live in countries that are highly exposed to climate hazards. When climate disasters strike, many struggle to access relief and support, because they lack legal recognition. The report also shows how refugees and host communities are developing innovative ways to respond to climate change, including solar-powered water systems in the Sahel, climate-resilient agriculture in Uganda and land and mangrove restoration in Colombia. “Refugees are on the frontlines of the climate crisis, but they are also part of the solution,” Mr. Leis García said.",
+  "words": 392,
+  "measure": {
+   "words": 391,
+   "sentences": 15,
+   "asl": 26.1,
+   "flesch": 41.0,
+   "fkgl": 14.0,
+   "long_sent": 0.467,
+   "beyond": 0.056,
+   "cet6_density": 0.023,
+   "word_len": 5.16,
+   "beyond_words": [
+    "climate-resilient",
+    "ever-present",
+    "fled",
+    "frontlines",
+    "groundwater",
+    "livelihoods",
+    "mangrove",
+    "n",
+    "o",
+    "restoration",
+    "rkiye",
+    "s"
+   ],
+   "cet6_words": [
+    "displaced",
+    "displacements",
+    "displacing",
+    "injustice",
+    "ongoing",
+    "strike",
+    "vulnerable",
+    "ways"
+   ],
+   "score": 93,
+   "in_band": true,
+   "issues": [],
+   "notes": [
+    "平均句长 26.10 略高于舒适区 26.00"
+   ],
+   "kind": "reading"
+  },
+  "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+  "source": "UN News",
+  "title": "‘No Escape’ for refugees on the frontlines of the climate crisis"
+ },
+ "generated_at": "2026-11-08T09:08:39",
+ "notice": "今日为本地算法引擎生成：仅「选词填空」可自动出题。配置大模型接口（设置页）后，可自动生成听力与阅读全套题目。",
+ "difficulty": {
+  "score": 89,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "banked_cloze",
+    "words": 284,
+    "asl": 25.8,
+    "flesch": 44.5,
+    "fkgl": 13.5,
+    "long_sent": 0.455,
+    "beyond": 0.06,
+    "in_band": true,
+    "score": 89
+   }
+  ]
+ }
+}
