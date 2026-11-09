@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-09",
+ "date": "2026-11-09",
+ "title": "Your writing was flagged as AI. What does that actually mean?",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 705,
+  "sentences": 32,
+  "avg_sentence_len": 22.0,
+  "flesch_ease": 47.1,
+  "flesch_grade": 12.2,
+  "hard_word_ratio": 0.106,
+  "long_sent_ratio": 0.188,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university writing center tutor and a graduate student discuss a submission flagged by an AI detector.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Hi, Professor Lin. Thanks for seeing me on such short notice. I'm really worried about my dissertation chapter."
+    },
+    {
+     "sp": "M",
+     "en": "Of course, Mei. Come in. What's happened? You look quite distressed."
+    },
+    {
+     "sp": "W",
+     "en": "Well, I submitted a draft to the journal you recommended, and yesterday I got an email saying their screening tool had flagged it as possibly AI-generated. I've never used AI for my writing. Not once."
+    },
+    {
+     "sp": "M",
+     "en": "I see. That must have been alarming. Did they reject it outright?"
+    },
+    {
+     "sp": "W",
+     "en": "Not exactly. The editor said the detector result wasn't the sole reason, but she asked me to explain how I'd written it, and she hinted that I might need to provide drafts or notes. I don't know what to send. I write directly on my laptop."
+    },
+    {
+     "sp": "M",
+     "en": "That's a common problem. These detectors analyze patterns—sentence rhythm, word choice, punctuation. They're not actually reading your mind. And they do produce false positives, especially for non-native speakers whose prose is very regular."
+    },
+    {
+     "sp": "W",
+     "en": "So it's not just me? I was starting to think I must have done something wrong without realizing it."
+    },
+    {
+     "sp": "M",
+     "en": "No, you're not alone. I read a study recently where researchers tested four detectors on academic papers. Even the best one missed some cases and misidentified others. The tools are useful for triage, but they shouldn't be treated as judges."
+    },
+    {
+     "sp": "W",
+     "en": "But what can I do now? The editor wants evidence. I can't prove a negative."
+    },
+    {
+     "sp": "M",
+     "en": "You can provide your earlier outlines, maybe your reading notes, and offer to discuss the argument in person. Also, ask the editor which tool was used and whether a human reviewed the result. Sometimes a conversation resolves it."
+    },
+    {
+     "sp": "W",
+     "en": "That's helpful. I do have outlines and some handwritten notes. I'll gather them today."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And don't let this make you second-guess your own voice. The burden shouldn't be on you to prove you're human, but until policies change, we have to work with what we have."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman's primary concern?",
+     "options": [
+      "Her writing was flagged as AI-generated and she lacks proof of authorship.",
+      "Her chapter was rejected because of poor academic quality.",
+      "Her professor refused to write a recommendation letter for her.",
+      "Her journal submission was delayed by technical problems."
+     ],
+     "answer": 0,
+     "explain": "女士开篇即说明文章被检测工具标记为AI生成，且不知如何提供写作证据，B项准确概括。A项张冠李戴，编辑并未以质量为由拒稿；C项无中生有，对话未提推荐信；D项偷换概念，问题是检测标记而非技术故障。",
+     "evidence": "I submitted a draft to the journal you recommended, and yesterday I got an email saying their screening tool had flagged it as possibly AI-generated."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the man say about AI detectors?",
+     "options": [
+      "They can accurately identify the author of any text.",
+      "They are banned in most academic journals.",
+      "They rely on patterns and may misjudge regular prose.",
+      "They are more reliable for non-native speakers."
+     ],
+     "answer": 2,
+     "explain": "男士指出检测器分析句式、用词等模式，且对行文规整的非母语者易误判，B项为同义改写。A项绝对化，检测器无法识别作者；C项无中生有，未提禁令；D项因果倒置，原文说非母语者更易被误判而非更可靠。",
+     "evidence": "These detectors analyze patterns—sentence rhythm, word choice, punctuation. They're not actually reading your mind."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the editor's request?",
+     "options": [
+      "The editor has already decided to reject the chapter.",
+      "The editor wants the author to clarify the writing process.",
+      "The editor suspects the author of plagiarism.",
+      "The editor plans to report the case to the university."
+     ],
+     "answer": 1,
+     "explain": "女士转述编辑要求她解释写作过程并提供草稿，说明编辑意在核实而非定罪，B项合理推断。A项过度推断，编辑明言检测结果非唯一原因；C项偷换概念，未提抄袭；D项无中生有，未涉及校方。",
+     "evidence": "The editor said the detector result wasn't the sole reason, but she asked me to explain how I'd written it, and she hinted that I might need to provide drafts or notes."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward current detection practices?",
+     "options": [
+      "Fully supportive of treating detectors as final judges.",
+      "Cautious, believing tools should assist but not condemn.",
+      "Indifferent, since false positives are rare.",
+      "Hostile, urging authors to refuse all journal screening."
+     ],
+     "answer": 1,
+     "explain": "男士称工具可用于初筛但不应充当法官，并建议作者提供材料沟通，态度审慎，B项正确。A项与原文相反；C项与‘false positives’普遍存在矛盾；D项绝对化，他并未号召抵制。",
+     "evidence": "The tools are useful for triage, but they shouldn't be treated as judges."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, as artificial intelligence writing tools have become widely accessible, publishers and editors have faced a rising tide of submissions. To cope, many have adopted automated detection software designed to distinguish human prose from machine output. These tools promise efficiency, but their limitations are becoming increasingly apparent. Detection systems typically analyze textual features such as sentence length, vocabulary diversity, and punctuation habits. They compare these patterns against models of how humans and machines are thought to write, and the problem is that human writing is enormously varied. A scholar who favors formal syntax, a journalist who uses em dashes, or a student whose first language is not English may all produce text that resembles machine output according to a detector's criteria. False positives—cases where human work is wrongly flagged—can have serious consequences. Writers may lose opportunities, face damaged reputations, or be forced to defend their integrity without knowing what triggered the alarm. Because detection algorithms are proprietary, accused authors often cannot examine the evidence against them. This asymmetry places a heavy burden on the accused, and some institutions have responded by requiring multiple layers of review. Rather than relying on a single score, editors may ask for drafts, notes, or an interview with the author. Others have chosen to abandon detection altogether, arguing that the technology is not yet reliable enough for high-stakes decisions. Meanwhile, researchers continue to improve the tools, though even developers acknowledge that no system is foolproof. The broader lesson may be that technology alone cannot resolve questions of authorship. Detection tools can help human judgment, but they cannot replace it. As long as institutions treat algorithmic scores as definitive proof, the risk of injustice will remain. A balanced approach—using detectors as one signal among many—seems more defensible than either blind trust or outright rejection."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The technical process of building AI writing tools.",
+      "The promise and pitfalls of AI detection in publishing.",
+      "The legal consequences of plagiarism in academia.",
+      "The decline of human authorship in modern media."
+     ],
+     "answer": 1,
+     "explain": "全文围绕AI检测工具在出版审稿中的效率承诺与误判风险展开，B项概括主旨。A项偏离，未讲工具构建；C项无中生有，未讨论抄袭法律后果；D项过度推断，未断言人类作者衰落。",
+     "evidence": "These tools promise efficiency, but their limitations are becoming increasingly apparent."
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, why do false positives occur?",
+     "options": [
+      "Detectors are trained only on academic papers.",
+      "Human writing styles vary and may resemble machine output.",
+      "Editors deliberately misuse detection software.",
+      "Writers often copy phrases from AI models."
+     ],
+     "answer": 1,
+     "explain": "第二段指出人类写作多样，某些规整文风易被检测器误判为机器生成，B项为同义改写。A项偷换概念，原文未说仅训练学术论文；C项无中生有，未提编辑故意滥用；D项因果倒置，误判并非因作者抄袭。",
+     "evidence": "A scholar who favors formal syntax, a journalist who uses em dashes, or a student whose first language is not English may all produce text that resembles machine output according to a detector's criteria."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What does the author imply about proprietary algorithms?",
+     "options": [
+      "They make it hard for accused writers to challenge results.",
+      "They are always more accurate than public tools.",
+      "They should be shared freely with all authors.",
+      "They eliminate the need for human review."
+     ],
+     "answer": 0,
+     "explain": "第三段指出算法不公开使被指控者无法审视证据，负担沉重，A项合理推断。B项绝对化，原文未比较公私工具；C项过度推断，作者未主张免费共享；D项与原文多层审查建议矛盾。",
+     "evidence": "Because detection algorithms are proprietary, accused authors often cannot examine the evidence against them."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "When AI Detectors Get It Wrong",
+   "passage": "Ghostwriter Sally McGraw hoped to land a job developing a book proposal for a client. After submitting a writing sample, she received an unexpected reply: an email stating that multiple AI detection tools had flagged her work as machine-generated. \"I was floored because I had not used AI,\" McGraw said. \"I'd written it all myself.\" The client later confirmed she had screened the sample for AI but said the results were not the determining factor in hiring another writer, citing experience and fit instead. McGraw believes the detector results cost her the opportunity. As editors struggle with a growing influx of AI-generated content, some turn to detection tools to sift through mounting submissions. But these tools are imperfect: they have falsely flagged human-written work as AI, leaving writers with little idea of what triggered the result or how to prove otherwise. In 2021, one publication received roughly 1,100 submissions a month. By February 2023, after AI agents such as ChatGPT became widely available, that number had doubled, forcing the outlet to temporarily close its submission portal. While AI detectors have grown more sophisticated, the companies behind them acknowledge the tools are not foolproof. Researchers have found that different detectors can reach dramatically different conclusions about the same piece of writing. In a June study in the International Journal for Educational Integrity, researchers compared four widely used detectors on 160 academic papers, including human-written texts and AI material rewritten by humans. Among the four, Pangram was most consistently accurate, correctly identifying AI use in 37 of 40 papers with combined text and in 37 of 40 papers where a human rewrote AI-generated text. \"Many AI detectors work by asking a large language model how predictable a passage is,\" Callison-Burch said. \"The catch is that the language models also tend to find text from their training data unusually predictable.\" That may explain what science blogger Janelle Shane encountered in late 2022 when she tested excerpts from her 2019 book about how AI works. One detector reported 98.7% confidence that a passage was machine-generated, and \"This is a clear, glaring, blinking-light false positive,\" Shane said. \"I had written this text myself.\" Detectors look for clues in word choice, punctuation and sentence structure. The word \"delve,\" frequent em dashes, and ideas grouped in threes can trigger an AI-positive result. So can opening sentences with adverbs such as \"notably\" or \"crucially,\" or posing a question immediately followed by answering it. Yet those are familiar habits for human writers. Callison-Burch notes that detectors weigh patterns across a whole piece, so an em dash or a particular word alone does not necessarily mean a bot was used. The Authors Guild, which advocates for writers' rights, said in May that the use of AI detectors \"creates an environment reminiscent of witch hunts,\" with writers worried about false accusations and how to defend themselves. \"A false positive can cost an author their publishing contract and reputation,\" the Guild wrote. Clarke, a sci-fi magazine publisher, occupies a middle ground.",
+   "source": {
+    "name": "NPR Science",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The technical evolution of large language models.",
+      "The legal disputes between authors and publishers.",
+      "The risks and limits of AI detection tools in publishing.",
+      "The decline of ghostwriting as a profession."
+     ],
+     "answer": 2,
+     "explain": "全文以多个误判案例说明AI检测工具在出版审稿中的风险与局限，C项概括主旨。A项偏离，未讨论模型技术演进；B项无中生有，未涉及法律纠纷；D项过度推断，未断言代写行业衰落。",
+     "evidence": "But these tools are imperfect: they have falsely flagged human-written work as AI, leaving writers with little idea of what triggered the result or how to prove otherwise.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the client say about the detector results?",
+     "options": [
+      "They were the sole reason for rejecting McGraw.",
+      "They were not the decisive factor in hiring another writer.",
+      "They proved that McGraw had used AI tools.",
+      "They were ignored entirely during the selection process."
+     ],
+     "answer": 1,
+     "explain": "第一段末指出客户称检测结果并非另聘他人的决定因素，B项为同义改写。A项与原文相反；C项张冠李戴，客户未证明使用AI；D项绝对化，客户确实进行了筛查。",
+     "evidence": "The client later confirmed she had screened the sample for AI but said the results were not the determining factor in hiring another writer, citing experience and fit instead.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the June study find about the four detectors?",
+     "options": [
+      "All four performed equally well on human-written papers.",
+      "Pangram was the most consistently accurate among them.",
+      "None could identify AI use in combined texts.",
+      "They were tested only on entirely AI-written papers."
+     ],
+     "answer": 1,
+     "explain": "第三段明确Pangram在四款工具中准确度最稳定，B项为原文同义改写。A项与‘dramatically different conclusions’矛盾；C项与37/40的数据相反；D项偷换概念，测试含四类文本而非仅AI文本。",
+     "evidence": "Among the four, Pangram was most consistently accurate, correctly identifying AI use in 37 of 40 papers with combined text and in 37 of 40 papers where a human rewrote AI-generated text.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred from Shane's experience?",
+     "options": [
+      "Detectors may flag text that resembles their training data.",
+      "Human writers should avoid using em dashes entirely.",
+      "AI detectors are reliable when confidence exceeds 98%.",
+      "Published books are rarely screened for AI use."
+     ],
+     "answer": 0,
+     "explain": "第四段解释检测器易将训练数据中可预测的文本判为机器生成，Shane的旧作被误判正说明此点，A项合理推断。B项绝对化，原文仅说em dash可能触发；C项与误判事实相反；D项无中生有。",
+     "evidence": "The catch is that the language models also tend to find text from their training data unusually predictable.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"foolproof\" in Paragraph 3 is closest in meaning to ______.",
+     "options": [
+      "completely reliable",
+      "easily operated",
+      "widely available",
+      "legally approved"
+     ],
+     "answer": 0,
+     "explain": "foolproof意为‘万无一失的’，与completely reliable同义，A项正确。B项偷换概念，指操作简便而非可靠；C项无关，指可获得性；D项无中生有，未涉及法律认可。",
+     "evidence": "While AI detectors have grown more sophisticated, the companies behind them acknowledge the tools are not foolproof.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Among the four, Pangram was the most consistently accurate, correctly identifying AI use in 37 of 40 papers with combined text and in 37 of 40 papers where a human rewrote AI-generated text. \"Many AI detectors work by asking a large language model how [1] a passage is,\" Callison-Burch said. \"The catch is that the language models also tend to find text from their training data unusually predictable.\"\n\nThat may explain what science [2] Janelle Shane encountered in late 2022 when she tested excerpts from her 2019 book about how AI works. One detector reported a 98.7% [3] that a passage was machine-generated. \"This is a clear, glaring, blinking-light false positive,\" Shane said. \"I had written this text myself.\"\n\nDetectors look for clues in word choice, punctuation and [4] structure. The word \"delve,\" frequent em dashes, and ideas grouped in lists of threes can trigger an AI-positive result. So can opening sentences with adverbs such as \"notably\" or \"crucially,\" or posing a question immediately followed by answering it. Yet those are [5] habits for human writers. Callison-Burch notes that detectors weigh patterns across a whole piece, so an em dash or a particular word alone does not necessarily mean a bot was used.\n\nThe Authors Guild, which [6] for writers' rights, said in May that the use of AI detectors \"[7] an environment reminiscent of witch hunts,\" with writers worried about false accusations and how to defend themselves. \"A false positive can cost an author their publishing contract and [8],\" the Guild wrote.\n\nClarke, a sci-fi magazine [9], occupies a middle ground. He does not personally use AI detectors to screen manuscripts, but he thinks certain tools could help [10] editors manage volume, provided they check the detector's findings. He cautions against turning suspicions into accusations that could damage a writer's reputation.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "additional"
+    },
+    {
+     "label": "B",
+     "word": "advocates"
+    },
+    {
+     "label": "C",
+     "word": "blogger"
+    },
+    {
+     "label": "D",
+     "word": "confidence"
+    },
+    {
+     "label": "E",
+     "word": "corpse"
+    },
+    {
+     "label": "F",
+     "word": "creates"
+    },
+    {
+     "label": "G",
+     "word": "familiar"
+    },
+    {
+     "label": "H",
+     "word": "literature"
+    },
+    {
+     "label": "I",
+     "word": "overwhelmed"
+    },
+    {
+     "label": "J",
+     "word": "portable"
+    },
+    {
+     "label": "K",
+     "word": "predictable"
+    },
+    {
+     "label": "L",
+     "word": "publisher"
+    },
+    {
+     "label": "M",
+     "word": "reputation"
+    },
+    {
+     "label": "N",
+     "word": "resident"
+    },
+    {
+     "label": "O",
+     "word": "sentence"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "predictable",
+     "lower": "predictable",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "可预料的",
+     "context": "\"Many AI detectors work by asking a large language model how predictable a passage is,\" Callison-Burch said."
+    },
+    {
+     "index": 2,
+     "word": "blogger",
+     "lower": "blogger",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "C",
+     "gloss": "",
+     "context": "\"The catch is that the language models also tend to find text from their training data unusually predictable.\" That may explain what science blogger Janelle Shane encountered in late 2022 when she tested excerpts from her 2019 book about how AI works."
+    },
+    {
+     "index": 3,
+     "word": "confidence",
+     "lower": "confidence",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "信心",
+     "context": "One detector reported a 98.7% confidence that a passage was machine-generated."
+    },
+    {
+     "index": 4,
+     "word": "sentence",
+     "lower": "sentence",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "& n 判决",
+     "context": "\"I had written this text myself.\" Detectors look for clues in word choice, punctuation and sentence structure."
+    },
+    {
+     "index": 5,
+     "word": "familiar",
+     "lower": "familiar",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "熟悉的",
+     "context": "Yet those are familiar habits for human writers."
+    },
+    {
+     "index": 6,
+     "word": "advocates",
+     "lower": "advocates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "& v 倡导",
+     "context": "The Authors Guild, which advocates for writers' rights, said in May that the use of AI detectors \"[7] an environment reminiscent of witch hunts,\" with writers worried about false accusations and how to defend themselves."
+    },
+    {
+     "index": 7,
+     "word": "creates",
+     "lower": "creates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "创造；引起，产生",
+     "context": "The Authors Guild, which [6] for writers' rights, said in May that the use of AI detectors \"creates an environment reminiscent of witch hunts,\" with writers worried about false accusations and how to defend themselves."
+    },
+    {
+     "index": 8,
+     "word": "reputation",
+     "lower": "reputation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "名气，名声，名誉",
+     "context": "\"A false positive can cost an author their publishing contract and reputation,\" the Guild wrote."
+    },
+    {
+     "index": 9,
+     "word": "publisher",
+     "lower": "publisher",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "公布；发表；出版",
+     "context": "Clarke, a sci-fi magazine publisher, occupies a middle ground."
+    },
+    {
+     "index": 10,
+     "word": "overwhelmed",
+     "lower": "overwhelmed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "压倒，战胜",
+     "context": "He does not personally use AI detectors to screen manuscripts, but he thinks certain tools could help overwhelmed editors manage volume, provided they check the detector's findings."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "NPR Science",
+  "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+  "long_sentences": [
+   {
+    "en": "\"The catch is that the language models also tend to find text from their training data unusually predictable.\" That could explain what science blogger Janelle Shane encountered in late 2022 when she tested excerpts from her 2019 book about how AI works, You Look Like a Thing and I Love You .",
+    "words": 52
+   },
+   {
+    "en": "\"A false positive can cost an author their publishing contract and reputation, and a false negative, when AI-generated work slips through reputable publishing undetected, can cause readers to lose their trust in authors and the industry,\" the Guild wrote .",
+    "words": 40
+   },
+   {
+    "en": "Among the four detectors, Pangram was the most consistently accurate, correctly identifying the use of AI in 37 of the 40 papers with the combined text and in 37 of the 40 papers where a human rewrote AI-generated text.",
+    "words": 39
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-09T09:30:36",
+ "difficulty": {
+  "score": 86,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 315,
+    "asl": 9.3,
+    "flesch": 75.2,
+    "fkgl": 5.1,
+    "long_sent": 0.029,
+    "beyond": 0.098,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "passage_listening",
+    "words": 304,
+    "asl": 17.9,
+    "flesch": 35.6,
+    "fkgl": 12.7,
+    "long_sent": 0.059,
+    "beyond": 0.079,
+    "in_band": false,
+    "score": 64
+   },
+   {
+    "type": "reading",
+    "words": 488,
+    "asl": 20.3,
+    "flesch": 44.2,
+    "fkgl": 12.1,
+    "long_sent": 0.125,
+    "beyond": 0.125,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 295,
+    "asl": 19.7,
+    "flesch": 47.8,
+    "fkgl": 11.5,
+    "long_sent": 0.133,
+    "beyond": 0.102,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 86（接近六级），与六级区间有偏差。"
+}

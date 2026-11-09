@@ -1,0 +1,51 @@
+{
+ "id": "daily-2026-11-09",
+ "kind": "news",
+ "source": "daily",
+ "date": "2026-11-09",
+ "source_label": "每日一文 · NPR Science",
+ "title_en": "Your writing was flagged as AI. What does that actually mean?",
+ "title_zh": "你的文字被标记为人工智能。这到底是什么意思？",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "Ghostwriter Sally McGraw was hoping to land a job developing a book proposal for a prospective client. But after submitting a writing sample, she got an unexpected response: an email telling her that multiple artificial intelligence detection tools had flagged her work as machine-generated.",
+   "zh": "代笔作家萨莉·麦格劳（Sally McGraw）曾希望为一位潜在客户撰写书籍提案，从而获得一份工作。但在提交写作样本后，她收到了一个意想不到的回复：一封电子邮件告知她，多款人工智能检测工具已将她的作品标记为机器生成。"
+  },
+  {
+   "en": "\"You know where you see a cartoon character going red from their chin all the way up to the crown of their head? I felt my ears starting to burn,\" she said. \"I thought, what is going on?\"",
+   "zh": "“你知道卡通人物从下巴一直红到头顶的样子吧？我感觉自己的耳朵开始发烫，”她说。“我当时想，这是怎么回事？”"
+  },
+  {
+   "en": "In an email to NPR, the client confirmed that she had screened McGraw's work for AI. But she said the results were not the determining factor in choosing to hire a different writer, instead citing experience and fit. McGraw says she was paid for her writing samples, but believes the detector results cost her the opportunity to write the full book proposal.",
+   "zh": "在给美国国家公共电台（NPR）的一封电子邮件中，该客户证实她曾对麦格劳的作品进行人工智能筛查。但她表示，检测结果并非她选择聘用另一位作家的决定因素，而是提到了经验和契合度。麦格劳说，她的写作样本获得了报酬，但她认为检测工具的结果让她失去了撰写完整书籍提案的机会。"
+  },
+  {
+   "en": "As editors struggle to keep up with a growing influx of AI-generated content, some are turning to detection tools to help sift through the mounting number of submissions. But these tools aren't perfect: They've been known to falsely flag human-written work as AI, which can leave writers with little idea of what triggered the result and how to prove otherwise.",
+   "zh": "随着编辑们努力跟上日益涌入的人工智能生成内容，一些人开始借助检测工具来筛选数量不断增加的投稿。但这些工具并非完美无缺：已知它们会将人类撰写的作品错误地标记为人工智能生成，这会让作者几乎无从得知是什么触发了这一结果，以及如何证明并非如此。"
+  },
+  {
+   "en": "In 2021, the publication received roughly 1,100 submissions a month. By February 2023, after AI agents like ChatGPT, Claude and Gemini started to become widely available, that number had doubled, forcing Clarke to temporarily close its submission portal. He estimates his own workload has increased by about 30%.",
+   "zh": "2021年，该刊物每月收到约1100份投稿。到2023年2月，在ChatGPT、Claude和Gemini等人工智能代理开始广泛可用之后，这一数字翻了一番，迫使克拉克（Clarke）暂时关闭了投稿门户。他估计自己的工作量增加了约30%。"
+  },
+  {
+   "en": "While AI detectors have gotten more sophisticated in recent years, the companies behind the detectors acknowledge that the tools aren't foolproof. Researchers have found that different AI detection tools can reach dramatically different conclusions about the same piece of writing.",
+   "zh": "尽管近年来人工智能检测工具变得更加精密，但这些工具背后的公司承认，它们并非万无一失。研究人员发现，不同的人工智能检测工具对同一篇作品可能得出截然不同的结论。"
+  },
+  {
+   "en": "In a study published in June , in the International Journal for Educational Integrity, researchers compared the accuracy of four widely used detectors. They tested 160 academic papers comprising four different categories: entirely human-written, entirely AI-written, a combination of the two, and AI material rewritten by a human.",
+   "zh": "在6月发表于《国际教育诚信杂志》（International Journal for Educational Integrity）的一项研究中，研究人员比较了四款广泛使用的检测工具的准确性。他们测试了160篇学术论文，涵盖四个不同类别：完全由人类撰写、完全由人工智能撰写、两者结合，以及由人类改写的人工智能材料。"
+  },
+  {
+   "en": "Among the four detectors, Pangram was the most consistently accurate, correctly identifying the use of AI in 37 of the 40 papers with the combined text and in 37 of the 40 papers where a human rewrote AI-generated text.",
+   "zh": "在这四款检测工具中，Pangram的准确率最为稳定，在40篇混合文本的论文中正确识别出37篇使用了人工智能，在40篇由人类改写人工智能生成文本的论文中正确识别出37篇。"
+  },
+  {
+   "en": "\"Many AI detectors work by asking a large language model how predictable a passage is,\" Callison-Burch said. \"The catch is that the language models also tend to find text from their training data unusually predictable.\"",
+   "zh": "“许多人工智能检测工具的工作原理是询问大型语言模型一段文字的可预测性有多高，”卡利森-伯奇（Callison-Burch）说。“问题在于，这些语言模型也往往觉得来自其训练数据的文本异常可预测。”"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram"
+}
