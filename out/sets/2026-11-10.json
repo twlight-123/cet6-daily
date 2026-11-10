@@ -1,0 +1,524 @@
+{
+ "id": "2026-11-10",
+ "date": "2026-11-10",
+ "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 739,
+  "sentences": 44,
+  "avg_sentence_len": 16.8,
+  "flesch_ease": 60.1,
+  "flesch_grade": 9.1,
+  "hard_word_ratio": 0.081,
+  "long_sent_ratio": 0.159,
+  "level": "六级",
+  "in_band": true,
+  "distance": 3.58,
+  "issues": [],
+  "score": 80
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student journalist interviews a community organizer about local resistance to a proposed industrial facility.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Thanks for meeting me, Mr. Alvarez. I'm writing a piece for the campus paper on how residents here are responding to the proposed logistics hub. Can you walk me through what got you involved?"
+    },
+    {
+     "sp": "M",
+     "en": "Sure. About two years ago, I read a notice in the local paper—almost missed it—about a zoning hearing for a massive warehouse complex on the old fairground site. It was going to cover nearly a hundred acres, with round-the-clock truck traffic."
+    },
+    {
+     "sp": "W",
+     "en": "And that was close to where you live?"
+    },
+    {
+     "sp": "M",
+     "en": "Less than half a mile. My kids walk to school past that site. So I went to the hearing, mostly to listen, and I was stunned. The developers presented these glossy renderings, but when residents asked about air quality and noise, the answers were vague."
+    },
+    {
+     "sp": "W",
+     "en": "So you started organizing?"
+    },
+    {
+     "sp": "M",
+     "en": "Gradually. First it was just a handful of neighbors meeting in my kitchen. We drafted a petition, went door to door. It took months, but we gathered about three thousand signatures. That got the council's attention."
+    },
+    {
+     "sp": "W",
+     "en": "Did the council respond?"
+    },
+    {
+     "sp": "M",
+     "en": "They imposed a temporary moratorium—six months—while they commissioned an independent impact study. That felt like a real victory. But then the developers came back with a revised proposal, slightly smaller, and some council members started wavering."
+    },
+    {
+     "sp": "W",
+     "en": "What was the turning point?"
+    },
+    {
+     "sp": "M",
+     "en": "Honestly, the study. It found that the site sits on a floodplain and that truck emissions would push particulate levels above federal limits near two elementary schools. Once that was public, the support for the project collapsed."
+    },
+    {
+     "sp": "W",
+     "en": "So the project is dead?"
+    },
+    {
+     "sp": "M",
+     "en": "Not officially. The developer withdrew the application, but they own the land. They could try again. That's why we're pushing for a permanent zoning change. We can't celebrate too early."
+    },
+    {
+     "sp": "W",
+     "en": "What would you say to students who feel these local fights don't matter?"
+    },
+    {
+     "sp": "M",
+     "en": "I'd say local decisions shape your daily life more than most national headlines. And you don't need to be a homeowner to have a stake. Renters breathe the same air."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The environmental hazards of a proposed logistics hub and the residents' campaign against it.",
+      "The legal dispute between a developer and a county council over land ownership.",
+      "The challenges student journalists face when covering local zoning hearings.",
+      "The economic benefits that a large warehouse complex could bring to a community."
+     ],
+     "answer": 0,
+     "explain": "对话围绕拟建物流中心的环境隐患及居民组织的反对运动展开，A项准确概括。B项将焦点误置于土地所有权纠纷；C项仅涉及学生记者采访的片段，非主旨；D项与对话中居民担忧的立场相反。",
+     "evidence": "It was going to cover nearly a hundred acres, with round-the-clock truck traffic."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What did the independent impact study reveal about the proposed site?",
+     "options": [
+      "It would generate more tax revenue than initially estimated.",
+      "It would require the relocation of two elementary schools.",
+      "It lies on a floodplain and would worsen air quality near schools.",
+      "It had already received approval from federal environmental agencies."
+     ],
+     "answer": 2,
+     "explain": "男士明确提到研究发现在洪泛区且卡车排放会使两所小学附近颗粒物超标，B项为同义改写。A项偷换概念，将影响研究结论换成税收；C项过度推断，原文只说靠近学校；D项无中生有，未提及联邦批准。",
+     "evidence": "It found that the site sits on a floodplain and that truck emissions would push particulate levels above federal limits near two elementary schools."
+    },
+    {
+     "id": "l1_3",
+     "stem": "Why does the man say the project is not officially dead?",
+     "options": [
+      "The council has scheduled a new vote on the revised proposal.",
+      "The developer still owns the land and may submit another application.",
+      "The impact study was rejected by the county planning board.",
+      "Residents have withdrawn their petition due to lack of funds."
+     ],
+     "answer": 1,
+     "explain": "男士说开发商撤回了申请但仍持有土地，可能再次尝试，B项为合理推断。A项将“可能再申请”曲解为已安排投票；C项与原文研究被公开后支持崩溃相反；D项张冠李戴，撤回的是开发商而非居民。",
+     "evidence": "The developer withdrew the application, but they own the land. They could try again."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward local civic engagement?",
+     "options": [
+      "Skeptical that individual efforts can influence zoning decisions.",
+      "Convinced that local actions have a direct impact on daily life.",
+      "Concerned that renters are excluded from community organizing.",
+      "Indifferent to whether students participate in local politics."
+     ],
+     "answer": 1,
+     "explain": "男士最后强调地方决策比全国头条更影响日常生活，且租户同样有发言权，B项符合其态度。A项与其实践成功相悖；C项曲解其“租户也呼吸同样空气”的包容立场；D项与鼓励学生参与相反。",
+     "evidence": "I'd say local decisions shape your daily life more than most national headlines."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Across the United States, a quiet but determined form of activism is reshaping local politics: residents are organizing against the rapid expansion of hyperscale data centers. These vast facilities, which power cloud computing and artificial intelligence, consume enormous amounts of electricity and water for cooling, and their growing presence has begun to alarm communities that were once expected to welcome them. While they promise tax revenue and jobs, they also bring noise, diesel emissions from backup generators, and strains on local infrastructure that residents say are rarely disclosed in advance. The response has been swift. According to one estimate, communities have secured roughly five hundred moratoriums on data center construction nationwide, a figure that reflects how quickly ordinary people have learned to navigate zoning boards and municipal hearings. Many of these campaigns are led by ordinary citizens with no prior organizing experience—renters, retirees, and parents concerned about air quality near schools. Their concerns are not merely aesthetic. A single hyperscale campus can demand as much electricity as a small city, and its water consumption can rival that of thousands of households, placing pressure on grids and aquifers already stressed by climate change. Yet the issue is not one-sided. Local governments facing budget shortfalls often view data centers as a reliable source of property tax revenue, and when projects are paused or blocked, some officials warn of cuts to public services. This tension has produced unusual alliances and heated debates at council meetings, where residents and officials clash over how to balance economic need with environmental health. What distinguishes this wave of activism is its demographic breadth. Organizers are increasingly connecting their local fights to broader questions of environmental justice, arguing that low-income and minority communities are disproportionately burdened by industrial development. As one activist put it, the right to clean air and water belongs to everyone. Whether these movements will permanently alter how data centers are sited remains uncertain, but they have already changed the conversation."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The technological advances that make hyperscale data centers more efficient.",
+      "The growing grassroots resistance to data center expansion and its implications.",
+      "The economic benefits that data centers bring to struggling local governments.",
+      "The legal challenges faced by companies building data centers in rural areas."
+     ],
+     "answer": 1,
+     "explain": "文章首尾呼应，聚焦居民反对数据中心扩张的草根运动及其影响，B项概括准确。A项将焦点误置于技术效率；C项仅提及经济收益这一对立面，非主旨；D项无中生有，未讨论法律挑战。",
+     "evidence": "Across the United States, a quiet but determined form of activism is reshaping local politics: residents are organizing against the rapid expansion of hyperscale data centers."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What environmental concern is mentioned about hyperscale data centers?",
+     "options": [
+      "They release large amounts of water vapor into the atmosphere.",
+      "They consume vast quantities of electricity and water for cooling.",
+      "They generate excessive noise that disrupts nearby wildlife.",
+      "They produce toxic waste that contaminates groundwater."
+     ],
+     "answer": 1,
+     "explain": "原文明确指出数据中心消耗大量电力和水用于冷却，B项为同义改写。A项偷换概念，将“用水冷却”改为“释放水蒸气”；C项将噪音列为环境问题，但原文噪音与柴油排放并列，非“破坏野生动物”；D项无中生有。",
+     "evidence": "These vast facilities, which power cloud computing and artificial intelligence, consume enormous amounts of electricity and water for cooling, and their growing presence has begun to alarm communities that were once expected to welcome them."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the debate over data centers?",
+     "options": [
+      "Most local officials oppose data center construction on environmental grounds.",
+      "The conflict involves balancing economic needs against environmental health.",
+      "Residents and officials have reached a consensus on siting criteria.",
+      "Data centers are unlikely to be built in areas with budget deficits."
+     ],
+     "answer": 1,
+     "explain": "原文指出地方政府视数据中心为税收来源，而居民担忧环境健康，双方在议会争论如何平衡，B项为合理推断。A项与“部分官员警告暂停项目会削减公共服务”相反；C项与“heated debates”矛盾；D项过度推断，无依据。",
+     "evidence": "This tension has produced unusual alliances and heated debates at council meetings, where residents and officials clash over how to balance economic need with environmental health."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "An Unlikely Activist Takes On a Data Center",
+   "passage": "When Taylor Frazier McCollum learned that a $5 billion data center was proposed for the site of a demolished mall less than a mile from her apartment, her reaction was immediate and blunt. The project, if built, would occupy more than 80 acres of vacant land in Prince George's County, Maryland. To her, the prospect of water-polluting, diesel-generating facilities operating beside homes, schools, and playgrounds defied common sense.\n\nFrazier McCollum is not a homeowner. In 2024, she and her young daughter were evicted from their apartment after her wages were cut. That personal upheaval might seem to place her outside the typical profile of a land-use activist, who usually fights to protect a cherished property. Yet it was precisely her precarious circumstances that propelled her into organizing. She launched a petition that ultimately gathered over 25,000 signatures, which in turn led to widely attended protests and multiple local moratoriums on data centers throughout the county. The campaign succeeded in blocking the project, which had been scheduled to break ground between 2026 and 2027.\n\nThe struggle thrust Frazier McCollum into the forefront of local politics. She attended county meetings, testified before Maryland legislators, and endorsed political candidates. She found herself in an unlikely coalition of socialists, environmentalists, residents angry about rising electric bills, and neighbors new to organizing. Her message has since traveled beyond Maryland; with grants and support, she has taken her campaign to Black communities fighting data center growth in Atlanta, Memphis, and even Zambia.\n\nYet the pause on data centers has generated unease in Prince George's County. Some officials worry about declining tax revenue. A local Six Flags theme park closed last year, the NFL's Washington Commanders announced plans to return to neighboring Washington, D.C., and thousands of federal workers have lost their jobs. The county now faces a budget deficit. In September, when Frazier McCollum appeared at a council meeting to advocate for a fund for roof repairs, Council member Wanika Fisher reminded her that the county needs development. Fisher acknowledged that a data center may not be the answer but insisted the hard conversation is worth having.\n\nWith the Landover project on hold, Frazier McCollum now seeks a full ban on that and other data center projects. She frames her fight in broader terms: the right to water, clean air, and a place to live. As her grandfather, Lacy McCollum Jr., puts it, people like Taylor jump out front so that those behind them can make progress. Whether her campaign will permanently alter how data centers are sited remains uncertain, but it has already changed the terms of the debate.",
+   "source": {
+    "name": "NPR Science",
+    "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A resident's campaign against a data center and its broader effects.",
+      "The environmental hazards posed by large-scale data centers.",
+      "The economic decline of a county after a theme park closure.",
+      "The political ambitions of a local council member in Maryland."
+     ],
+     "answer": 0,
+     "explain": "文章以Frazier McCollum反对数据中心为主线，兼及其影响与争议，A项概括准确。B项将焦点误置于技术危害，偏离人物主线；C项仅涉及末段背景，非主旨；D项张冠李戴，Council member Fisher仅为配角。",
+     "evidence": "When Taylor Frazier McCollum learned that a $5 billion data center was proposed for the site of a demolished mall less than a mile from her apartment, her reaction was immediate and blunt.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What initially motivated Frazier McCollum to oppose the data center?",
+     "options": [
+      "She feared that the project would lower her apartment's rent.",
+      "She wanted to protect her grandfather's house from demolition.",
+      "She was recruited by a coalition of environmentalists.",
+      "She believed the facility would pollute the local environment."
+     ],
+     "answer": 3,
+     "explain": "原文说她认为水污染、柴油发电的数据中心紧邻生活区不合常理，D项为同义改写。A项偷换概念，原文未提租金下降；B项张冠李戴，祖父房屋维修是后文诉求；C项因果倒置，她先组织后被coalition吸纳。",
+     "evidence": "To her, the prospect of water-polluting, diesel-generating facilities operating beside homes, schools, and playgrounds defied common sense.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What was the immediate result of Frazier McCollum's petition?",
+     "options": [
+      "The developer permanently abandoned the project.",
+      "The county imposed multiple moratoriums on data centers.",
+      "The state legislature passed a ban on new data centers.",
+      "The project was relocated to a neighboring county."
+     ],
+     "answer": 1,
+     "explain": "原文明确说请愿导致全县多个数据中心暂停令，B项为同义改写。A项绝对化，项目只是on hold；C项张冠李戴，州议会作证不等于通过禁令；D项无中生有，未提搬迁。",
+     "evidence": "She launched a petition that ultimately gathered over 25,000 signatures, which in turn led to widely attended protests and multiple local moratoriums on data centers throughout the county.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the county's attitude toward data centers?",
+     "options": [
+      "Officials unanimously reject data centers as environmentally harmful.",
+      "Some officials see data centers as a potential source of revenue.",
+      "Residents and officials have agreed on a permanent ban.",
+      "The county has decided to prioritize environmental health over tax revenue."
+     ],
+     "answer": 1,
+     "explain": "原文指出部分官员担忧税收下降，Fisher提醒县里需要发展，可推断他们视数据中心为潜在财源，B项合理。A项绝对化，与Fisher立场矛盾；C项与“hard conversation”不符；D项过度推断，县里尚未决定。",
+     "evidence": "Some officials worry about declining tax revenue.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"precarious\" in paragraph 2 is closest in meaning to ______.",
+     "options": [
+      "unstable",
+      "privileged",
+      "temporary",
+      "predictable"
+     ],
+     "answer": 0,
+     "explain": "precarious意为“不稳定的、危险的”，与unstable同义，指她被驱逐后处境不稳。B项privileged意为“享有特权的”，与语境相反；C项temporary侧重“暂时”，未体现危险；D项predictable意为“可预测的”，与文意相悖。",
+     "evidence": "Yet it was precisely her precarious circumstances that propelled her into organizing.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Yet it was precisely her precarious circumstances that propelled her into organizing. She launched a [1] that ultimately gathered over 25,000 signatures, which in turn led to widely attended protests and [2] local moratoriums on data centers throughout the county. The campaign [3] in blocking the project, which had been scheduled to break ground between 2026 and 2027.\n\nThe struggle thrust Frazier McCollum into the forefront of local politics. She attended county meetings, testified before Maryland legislators, and [4] political candidates. She found herself in an unlikely [5] of socialists, environmentalists, residents angry about rising [6] bills, and neighbors new to organizing. Her message has since traveled beyond Maryland; with grants and support, she has taken her campaign to Black [7] fighting data center growth in Atlanta, Memphis, and even Zambia.\n\nYet the pause on data centers has generated unease in Prince George's County. Some officials worry about declining tax revenue. A local Six Flags theme park closed last year, the NFL's Washington Commanders [8] plans to return to neighboring Washington, D.C., and thousands of federal workers have lost their jobs. The county now faces a budget deficit.\n\nIn September, when Frazier McCollum appeared at a council meeting to [9] for a fund for roof repairs, Council member Wanika Fisher reminded her that the county needs development. Fisher acknowledged that a data center may not be the answer but insisted the hard [10] is worth having.\n\nWith the Landover project on hold, Frazier McCollum now seeks a full ban on that and other data center projects. She frames her fight in broader terms: the right to water, clean air, and a place to live. As her grandfather, Lacy McCollum Jr., puts it, people like Taylor jump out front so that those behind them can make progress.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "abandon"
+    },
+    {
+     "label": "B",
+     "word": "advocate"
+    },
+    {
+     "label": "C",
+     "word": "announced"
+    },
+    {
+     "label": "D",
+     "word": "coalition"
+    },
+    {
+     "label": "E",
+     "word": "communities"
+    },
+    {
+     "label": "F",
+     "word": "conversation"
+    },
+    {
+     "label": "G",
+     "word": "electric"
+    },
+    {
+     "label": "H",
+     "word": "endorsed"
+    },
+    {
+     "label": "I",
+     "word": "exaggeration"
+    },
+    {
+     "label": "J",
+     "word": "multiple"
+    },
+    {
+     "label": "K",
+     "word": "overhear"
+    },
+    {
+     "label": "L",
+     "word": "petition"
+    },
+    {
+     "label": "M",
+     "word": "portable"
+    },
+    {
+     "label": "N",
+     "word": "succeeded"
+    },
+    {
+     "label": "O",
+     "word": "suicide"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "petition",
+     "lower": "petition",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "请愿；v 向…请愿",
+     "context": "She launched a petition that ultimately gathered over 25,000 signatures, which in turn led to widely attended protests and [2] local moratoriums on data centers throughout the county."
+    },
+    {
+     "index": 2,
+     "word": "multiple",
+     "lower": "multiple",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "复合的；并联的",
+     "context": "She launched a [1] that ultimately gathered over 25,000 signatures, which in turn led to widely attended protests and multiple local moratoriums on data centers throughout the county."
+    },
+    {
+     "index": 3,
+     "word": "succeeded",
+     "lower": "succeeded",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "The campaign succeeded in blocking the project, which had been scheduled to break ground between 2026 and 2027."
+    },
+    {
+     "index": 4,
+     "word": "endorsed",
+     "lower": "endorsed",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "She attended county meetings, testified before Maryland legislators, and endorsed political candidates."
+    },
+    {
+     "index": 5,
+     "word": "coalition",
+     "lower": "coalition",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "D",
+     "gloss": "结合体， 同盟； 结合， 联合",
+     "context": "She found herself in an unlikely coalition of socialists, environmentalists, residents angry about rising [6] bills, and neighbors new to organizing."
+    },
+    {
+     "index": 6,
+     "word": "electric",
+     "lower": "electric",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "电的，电动的",
+     "context": "She found herself in an unlikely [5] of socialists, environmentalists, residents angry about rising electric bills, and neighbors new to organizing."
+    },
+    {
+     "index": 7,
+     "word": "communities",
+     "lower": "communities",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "社区；社会；公社",
+     "context": "Her message has since traveled beyond Maryland; with grants and support, she has taken her campaign to Black communities fighting data center growth in Atlanta, Memphis, and even Zambia."
+    },
+    {
+     "index": 8,
+     "word": "announced",
+     "lower": "announced",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "宣布，声称",
+     "context": "A local Six Flags theme park closed last year, the NFL's Washington Commanders announced plans to return to neighboring Washington, D.C., and thousands of federal workers have lost their jobs."
+    },
+    {
+     "index": 9,
+     "word": "advocate",
+     "lower": "advocate",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "& v 倡导",
+     "context": "In September, when Frazier McCollum appeared at a council meeting to advocate for a fund for roof repairs, Council member Wanika Fisher reminded her that the county needs development."
+    },
+    {
+     "index": 10,
+     "word": "conversation",
+     "lower": "conversation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "会话，非正式会谈",
+     "context": "Fisher acknowledged that a data center may not be the answer but insisted the hard conversation is worth having."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "NPR Science",
+  "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+  "long_sentences": [
+   {
+    "en": "\"Not just for myself, but even across the country, to set precedent for other people that are fighting against hyperscale data centers.\" \"We're talking about the right to water, the right to clean air, the right to a place to live.",
+    "words": 41
+   },
+   {
+    "en": "It felt like something that wasn't ever going to end.\" Taylor Frazier McCollum in front of her grandfather's home, where she lived when she heard about the proposed data center site less than a mile away in Landover, Md.",
+    "words": 39
+   },
+   {
+    "en": "And I'm not saying that a data center is the answer, but I'm saying it's worth the hard discussion.\" With the Landover project on hold, Frazier McCollum now wants a full ban on that and other data center projects.",
+    "words": 39
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-10T12:00:25",
+ "difficulty": {
+  "score": 84,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 332,
+    "asl": 10.4,
+    "flesch": 72.2,
+    "fkgl": 5.8,
+    "long_sent": 0.031,
+    "beyond": 0.072,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "passage_listening",
+    "words": 327,
+    "asl": 21.8,
+    "flesch": 29.5,
+    "fkgl": 14.6,
+    "long_sent": 0.267,
+    "beyond": 0.055,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 429,
+    "asl": 18.7,
+    "flesch": 48.5,
+    "fkgl": 11.1,
+    "long_sent": 0.087,
+    "beyond": 0.068,
+    "in_band": true,
+    "score": 95
+   },
+   {
+    "type": "banked_cloze",
+    "words": 294,
+    "asl": 18.4,
+    "flesch": 47.5,
+    "fkgl": 11.2,
+    "long_sent": 0.062,
+    "beyond": 0.061,
+    "in_band": true,
+    "score": 98
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 84（接近六级），与六级区间有偏差。"
+}
