@@ -1,0 +1,512 @@
+{
+ "id": "2026-11-11",
+ "date": "2026-11-11",
+ "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 702,
+  "sentences": 29,
+  "avg_sentence_len": 24.2,
+  "flesch_ease": 50.7,
+  "flesch_grade": 12.2,
+  "hard_word_ratio": 0.075,
+  "long_sent_ratio": 0.31,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university student and her professor discuss a research paper on hereditary succession in authoritarian states.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been reading about how some authoritarian regimes manage power transitions, and I'm struck by how often family succession appears. Is that really a common pattern?"
+    },
+    {
+     "sp": "M",
+     "en": "It is more common than many people assume, though it takes different forms. In some cases, a ruling family prepares a child for leadership from an early age, introducing them at military events and state ceremonies. The idea is to signal continuity to elites and the public."
+    },
+    {
+     "sp": "W",
+     "en": "But doesn't that create resentment? I'd imagine ordinary citizens might question why one family should hold power indefinitely."
+    },
+    {
+     "sp": "M",
+     "en": "Resentment certainly exists, but it is rarely expressed openly. In highly controlled societies, public dissent is severely punished, so people often keep their views private. What we see instead is quiet adaptation—people finding ways to survive within the system."
+    },
+    {
+     "sp": "W",
+     "en": "So how do researchers study public opinion in such closed countries? Surveys would be unreliable, wouldn't they?"
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. That's why some scholars rely on interviews with defectors who still have contacts inside the country. It's not a perfect method—the sample is small and potentially biased—but it offers rare insight into private attitudes."
+    },
+    {
+     "sp": "W",
+     "en": "I see. And what about the role of gender? I noticed that in some cases a female heir is treated with skepticism."
+    },
+    {
+     "sp": "M",
+     "en": "That's an important point. Deeply patriarchal traditions can make a female successor appear less legitimate to some observers, even when official propaganda promotes her. But we should be careful not to assume that such attitudes are universal."
+    },
+    {
+     "sp": "W",
+     "en": "So for my paper, I should focus on how succession is signaled publicly rather than trying to measure private opinion directly?"
+    },
+    {
+     "sp": "M",
+     "en": "That would be a sensible approach. Analyze the ceremonies, the media language, and the protocols. Those observable signals can tell you a great deal about a regime's intentions, even if the public's true feelings remain hidden."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "Methods for studying leadership succession in closed regimes",
+      "The military's role in authoritarian power transitions",
+      "The influence of defector interviews on foreign policy",
+      "The economic consequences of hereditary rule"
+     ],
+     "answer": 0,
+     "explain": "对话围绕如何研究封闭政权中的权力交接展开，教授建议分析公开信号并提及脱北者访谈。A项概括主旨；B项军事只是举例；C项外交政策未提及；D项经济后果非重点。",
+     "evidence": "That would be a sensible approach. Analyze the ceremonies, the media language, and the protocols.",
+     "id": "l1_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the professor, why do regimes introduce a child at state events?",
+     "options": [
+      "To test the loyalty of senior military officers",
+      "To show elites and citizens that rule will continue",
+      "To distract citizens from economic hardship",
+      "To comply with international protocol requirements"
+     ],
+     "answer": 1,
+     "explain": "教授指出公开亮相意在向精英与公众传递延续性。B项用show...continue同义改写；A项测试忠诚属过度推断；C项转移注意力文中未提；D项国际礼仪属无关信息。",
+     "evidence": "The idea is to signal continuity to elites and the public.",
+     "id": "l1_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about public opinion in highly controlled societies?",
+     "options": [
+      "It is openly debated in state media.",
+      "It tends to favor female successors.",
+      "It is often concealed due to harsh punishment.",
+      "It is accurately measured by official surveys."
+     ],
+     "answer": 2,
+     "explain": "教授提到公开异议会受严惩，人们常保留看法，故可推知民意常被隐藏。C项为合理推断；A项与管控现实相反；B项无依据；D项教授明确说调查不可靠。",
+     "evidence": "In highly controlled societies, public dissent is severely punished, so people often keep their views private.",
+     "id": "l1_3"
+    },
+    {
+     "type": "attitude",
+     "stem": "What is the professor's attitude toward using defector interviews?",
+     "options": [
+      "Enthusiastic endorsement without reservation",
+      "Cautious acceptance despite limitations",
+      "Complete rejection as unreliable evidence",
+      "Indifference to the method's scholarly value"
+     ],
+     "answer": 1,
+     "explain": "教授称该方法不完美但提供难得洞见，属谨慎接受。B项准确；A项忽略其保留；C项过于绝对；D项与rare insight矛盾。",
+     "evidence": "It's not a perfect method—the sample is small and potentially biased—but it offers rare insight into private attitudes.",
+     "id": "l1_4"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For decades, scholars of authoritarian politics have debated how dictatorships manage the transfer of power, a question that remains central to understanding the durability of nondemocratic rule. Unlike democracies, where leadership changes are regulated by elections and constitutional rules, personalist regimes often lack clear procedures for deciding who will rule next. This uncertainty can make succession a moment of considerable risk, both for the ruling elite and for ordinary citizens, because any miscalculation may trigger instability or even violence. One strategy that some regimes adopt is to groom a family member as the designated heir, thereby keeping power within a trusted circle. By introducing the chosen successor at military parades, weapons tests, and national ceremonies, the leadership sends a visible message that the existing order will continue. Such appearances are carefully staged: the heir is placed beside the leader, greeted with exaggerated deference by senior officials, and described in state media with language normally reserved for the country's highest authority. Yet public displays of favor do not guarantee a smooth transition, since they may intensify rather than resolve underlying tensions. Analysts note that succession can provoke factional rivalry, particularly when the heir is young or inexperienced and therefore lacks an independent power base. also, in societies with strong patriarchal traditions, a female successor may face doubts about her legitimacy, even if official propaganda promotes her prominently. These doubts are rarely voiced openly, but they can influence how elites calculate their interests. Because such regimes restrict independent polling and punish dissent, researchers face serious obstacles in gauging popular sentiment. Some rely on interviews with defectors who maintain contacts inside the country, while others analyze observable signals such as media coverage and ceremonial protocol. Neither approach is flawless, but together they offer a partial window into a largely opaque political world. What emerges is a picture of succession as a process that is carefully managed in public yet deeply uncertain beneath the surface."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The role of elections in authoritarian regimes",
+      "How regimes manage and signal power succession",
+      "The economic costs of hereditary leadership",
+      "Why female leaders are more common in dictatorships"
+     ],
+     "answer": 1,
+     "explain": "全文讨论威权政权如何管理和释放权力交接信号。B项概括主旨；A项与原文对比相反；C项经济成本未展开；D项与‘女性继承人受质疑’矛盾。",
+     "evidence": "One strategy that some regimes adopt is to groom a family member as the designated heir, thereby keeping power within a trusted circle."
+    },
+    {
+     "id": "l2_2",
+     "stem": "How is a designated heir typically presented at public events?",
+     "options": [
+      "Standing beside the leader and receiving exaggerated deference",
+      "Delivering major policy speeches to assembled troops",
+      "Inspecting weapons facilities without the leader present",
+      "Meeting foreign diplomats in closed-door sessions"
+     ],
+     "answer": 0,
+     "explain": "原文描述继承人被安排在领导人身边，受高官夸张礼遇。A项为同义改写；B项发表演讲未提；C项单独视察与‘beside the leader’矛盾；D项会见外交官属无关信息。",
+     "evidence": "the heir is placed beside the leader, greeted with exaggerated deference by senior officials"
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about succession in personalist regimes?",
+     "options": [
+      "It is usually settled by transparent legal procedures.",
+      "It tends to reduce factional rivalry among elites.",
+      "It can be risky because clear procedures are lacking.",
+      "It rarely attracts scholarly attention."
+     ],
+     "answer": 2,
+     "explain": "原文指出个人化政权缺乏明确程序，使交接成为风险时刻。C项为合理推断；A项与‘lack clear procedures’相反；B项与‘provoke factional rivalry’矛盾；D项与学者长期辩论不符。",
+     "evidence": "This uncertainty can make succession a moment of considerable risk"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Politics of Succession in a Closed Regime",
+   "passage": "North Korea allows no dissent and harshly punishes attempts to flee the country. Established in 1948, the nation is nominally a socialist republic, but in reality it is an authoritarian dynasty, with three generations of the Kim family ruling in succession. There was no known public resistance during its previous two successions—from state founder Kim Il Sung to his son Kim Jong Il in 1994 and then from Kim Jong Il to his son Kim Jong Un in 2011. The question of who will become the next leader is crucial because that person will face a huge challenge: governing an impoverished, nuclear-armed nation whose 26 million people have little political freedom and live under strict state surveillance while being cut off from much of the outside world.\n\nSince late 2022, Kim Jong Un's daughter has made dozens of public appearances, all of them with her father at big events like weapons tests and military parades. State media has called her Kim's \"most beloved\" and \"respected\" child. Her status has been emphasized by images showing an elderly general kneeling before her and her standing in front of her father. South Korea's spy agency says she is Kim's likely heir. Eight of the 11 defectors interviewed by the Associated Press shared that view; the others disagreed, citing the North's deeply patriarchal culture.\n\n\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a successor, not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former minister at North Korea's Embassy in London who defected to South Korea in 2016. \"They are repeating the same protocol and treatment they provided for Kim Jong Un\" when he accompanied his father as his heir.\n\nMuch of the skepticism about Kim Ju Ae as a potential leader stems from her being female. South Korean officials believe she has a younger sibling whose gender hasn't been confirmed. Women in North Korea remain deeply underrepresented in senior posts. Only one of 17 department directors for the ruling Workers' Party is a woman. That woman is Kim Jong Un's influential younger sister, Kim Yo Jong, according to South Korea's Unification Ministry.\n\n\"My contacts in North Korea say it would be nonsensical to revere that little girl as their supreme leader,\" said Kim Jeong-Ah, a former North Korean army officer who resettled in South Korea in 2009. Such remarks illustrate how hereditary succession remains a subject of quiet contention, even as the regime stages elaborate ceremonies to signal continuity. The public choreography of power may suggest certainty, but beneath the surface, the question of who will rule next remains unsettled.",
+   "source": {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The history of North Korea's founding and its socialist system",
+      "The uncertain prospects of a hereditary power transfer in North Korea",
+      "The role of women in North Korea's ruling party",
+      "The economic challenges facing North Korea's next leader"
+     ],
+     "answer": 1,
+     "explain": "全文围绕金正恩女儿是否成为继承人及各方质疑展开。B项概括主旨；A项建国史仅为背景；C项女性角色是细节；D项经济挑战仅一句带过。",
+     "evidence": "The public choreography of power may suggest certainty, but beneath the surface, the question of who will rule next remains unsettled.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did South Korea's spy agency say about Kim Ju Ae?",
+     "options": [
+      "She is too young to be considered for leadership.",
+      "She is likely to become her father's successor.",
+      "She has already assumed military command duties.",
+      "She is opposed by most senior party officials."
+     ],
+     "answer": 1,
+     "explain": "原文明确韩国情报机构称她为‘likely heir’。B项为同义改写；A项年龄未提；C项军权未提；D项反对者比例被夸大。",
+     "evidence": "South Korea's spy agency says she is Kim's likely heir.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why do some defectors doubt Kim Ju Ae's succession?",
+     "options": [
+      "She lacks experience in missile launch sites.",
+      "She has never appeared at military parades.",
+      "North Korea's culture is deeply patriarchal.",
+      "She has a confirmed younger brother."
+     ],
+     "answer": 2,
+     "explain": "原文指出怀疑源于北韩深厚的父权文化。C项直接对应；A项与‘visits to missile launch sites’矛盾；B项与‘dozens of public appearances’矛盾；D项弟妹性别未确认。",
+     "evidence": "the others disagreed, citing the North's deeply patriarchal culture.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred from Tae Yongho's remarks?",
+     "options": [
+      "Senior officials treat Kim Ju Ae as a future successor.",
+      "Kim Ju Ae has formally assumed the title of heir.",
+      "Protocols for a daughter are identical to those for a successor.",
+      "Kim Jong Un's succession lacked any ceremonial protocol."
+     ],
+     "answer": 0,
+     "explain": "Tae称官员以对待继承人的礼遇对待她。A项为合理推断；B项‘正式头衔’属过度推断；C项与‘not the ones simply for a daughter’相反；D项与‘same protocol’矛盾。",
+     "evidence": "the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a successor",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"skepticism\" in the passage is closest in meaning to ______.",
+     "options": [
+      "doubt",
+      "enthusiasm",
+      "indifference",
+      "certainty"
+     ],
+     "answer": 0,
+     "explain": "skepticism意为怀疑，与doubt同义。A项正确；B项enthusiasm为反义；C项indifference指漠不关心；D项certainty与怀疑相反。",
+     "evidence": "Much of the skepticism about Kim Ju Ae as a potential leader stems from her being female.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Her status has been emphasized by images showing an elderly general kneeling before her and her standing in front of her father. South Korea's spy agency says she is Kim's likely heir. Eight of the 11 defectors interviewed by the Associated Press shared that view; the others disagreed, citing the North's deeply [1] culture.\n\n\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a [2], not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former [3] at North Korea's Embassy in London who [4] to South Korea in 2016. \"They are repeating the same protocol and treatment they provided for Kim Jong Un\" when he [5] his father as his heir.\n\nMuch of the [6] about Kim Ju Ae as a potential leader stems from her being female. South Korean officials believe she has a younger sibling whose gender hasn't been [7]. Women in North Korea remain deeply underrepresented in senior posts. Only one of 17 [8] directors for the ruling Workers' Party is a woman. That woman is Kim Jong Un's influential younger sister, Kim Yo Jong, according to South Korea's Unification Ministry.\n\n\"My contacts in North Korea say it would be [9] to revere that little girl as their supreme leader,\" said Kim Jeong-Ah, a former North Korean army officer who resettled in South Korea in 2009. Such remarks [10] how hereditary succession remains a subject of quiet contention, even as the regime stages elaborate ceremonies to signal continuity.\n\nThe public choreography of power may suggest certainty, but beneath the surface, the question of who will rule next remains unsettled.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "accompanied"
+    },
+    {
+     "label": "B",
+     "word": "confirmed"
+    },
+    {
+     "label": "C",
+     "word": "considerable"
+    },
+    {
+     "label": "D",
+     "word": "defected"
+    },
+    {
+     "label": "E",
+     "word": "department"
+    },
+    {
+     "label": "F",
+     "word": "illustrate"
+    },
+    {
+     "label": "G",
+     "word": "manifest"
+    },
+    {
+     "label": "H",
+     "word": "minister"
+    },
+    {
+     "label": "I",
+     "word": "nonsensical"
+    },
+    {
+     "label": "J",
+     "word": "patriarchal"
+    },
+    {
+     "label": "K",
+     "word": "periodical"
+    },
+    {
+     "label": "L",
+     "word": "skepticism"
+    },
+    {
+     "label": "M",
+     "word": "sparkle"
+    },
+    {
+     "label": "N",
+     "word": "successor"
+    },
+    {
+     "label": "O",
+     "word": "valuable"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "patriarchal",
+     "lower": "patriarchal",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "J",
+     "gloss": "",
+     "context": "Eight of the 11 defectors interviewed by the Associated Press shared that view; the others disagreed, citing the North's deeply patriarchal culture."
+    },
+    {
+     "index": 2,
+     "word": "successor",
+     "lower": "successor",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "N",
+     "gloss": "继承人，继任者",
+     "context": "\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a successor, not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former [3] at North Korea's Embassy in London who [4] to South Korea in 2016."
+    },
+    {
+     "index": 3,
+     "word": "minister",
+     "lower": "minister",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "部长，大臣；公使",
+     "context": "\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a [2], not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former minister at North Korea's Embassy in London who [4] to South Korea in 2016."
+    },
+    {
+     "index": 4,
+     "word": "defected",
+     "lower": "defected",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "缺点，缺陷，欠缺",
+     "context": "\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a [2], not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former [3] at North Korea's Embassy in London who defected to South Korea in 2016."
+    },
+    {
+     "index": 5,
+     "word": "accompanied",
+     "lower": "accompanied",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "陪伴",
+     "context": "\"They are repeating the same protocol and treatment they provided for Kim Jong Un\" when he accompanied his father as his heir."
+    },
+    {
+     "index": 6,
+     "word": "skepticism",
+     "lower": "skepticism",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "Much of the skepticism about Kim Ju Ae as a potential leader stems from her being female."
+    },
+    {
+     "index": 7,
+     "word": "confirmed",
+     "lower": "confirmed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "确认；证实；批准",
+     "context": "South Korean officials believe she has a younger sibling whose gender hasn't been confirmed."
+    },
+    {
+     "index": 8,
+     "word": "department",
+     "lower": "department",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "部门",
+     "context": "Only one of 17 department directors for the ruling Workers' Party is a woman."
+    },
+    {
+     "index": 9,
+     "word": "nonsensical",
+     "lower": "nonsensical",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "I",
+     "gloss": "",
+     "context": "\"My contacts in North Korea say it would be nonsensical to revere that little girl as their supreme leader,\" said Kim Jeong-Ah, a former North Korean army officer who resettled in South Korea in 2009."
+    },
+    {
+     "index": 10,
+     "word": "illustrate",
+     "lower": "illustrate",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "说明,阐明",
+     "context": "Such remarks illustrate how hereditary succession remains a subject of quiet contention, even as the regime stages elaborate ceremonies to signal continuity."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "NPR World",
+  "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+  "long_sentences": [
+   {
+    "en": "\"During her visits to missile launch sites and factories, the way senior North Korean officials treat Kim Ju Ae involves protocols reserved for a successor, not the ones simply for a daughter of Kim Jong Un,\" said Tae Yongho, a former minister at North Korea's Embassy in London who defected to South Korea in 2016.",
+    "words": 55
+   },
+   {
+    "en": "The question of who will become North Korea's next leader is crucial because that person will face a huge challenge — governing an impoverished, nuclear-armed nation whose 26 million people have little political freedom and live under strict state surveillance while being cut off from much of the outside world.",
+    "words": 50
+   },
+   {
+    "en": "22, 2026. Lee Jin-man/AP hide caption Kang Mi-Jin, a defector who runs a company analyzing North Korea's economy, said her contacts inside the North told her over smuggled phones that they think Kim Ju Ae is in line to succeed her father.",
+    "words": 42
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-11T09:45:45",
+ "difficulty": {
+  "score": 79,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 302,
+    "asl": 13.1,
+    "flesch": 48.4,
+    "fkgl": 9.8,
+    "long_sent": 0.0,
+    "beyond": 0.056,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "passage_listening",
+    "words": 321,
+    "asl": 22.9,
+    "flesch": 19.9,
+    "fkgl": 16.2,
+    "long_sent": 0.071,
+    "beyond": 0.059,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 440,
+    "asl": 23.2,
+    "flesch": 48.9,
+    "fkgl": 12.2,
+    "long_sent": 0.211,
+    "beyond": 0.059,
+    "in_band": true,
+    "score": 100
+   },
+   {
+    "type": "banked_cloze",
+    "words": 278,
+    "asl": 21.4,
+    "flesch": 47.3,
+    "fkgl": 12.0,
+    "long_sent": 0.154,
+    "beyond": 0.065,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 79（接近六级），与六级区间有偏差。"
+}
