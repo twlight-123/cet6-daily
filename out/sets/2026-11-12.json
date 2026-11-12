@@ -1,0 +1,507 @@
+{
+ "id": "2026-11-12",
+ "date": "2026-11-12",
+ "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 723,
+  "sentences": 31,
+  "avg_sentence_len": 23.3,
+  "flesch_ease": 40.1,
+  "flesch_grade": 13.5,
+  "hard_word_ratio": 0.107,
+  "long_sent_ratio": 0.194,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 98
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student discusses a fossil field trip with a professor.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, do you have a minute? I'm finalizing the logistics for our summer excavation in Guizhou, and I wanted to check a couple of details with you."
+    },
+    {
+     "sp": "M",
+     "en": "Of course. Sit down. How are things coming along with the permits?"
+    },
+    {
+     "sp": "W",
+     "en": "The provincial museum has approved our request, but they've asked us to submit a detailed plan of the sites we intend to dig. That's actually what I want to talk about. The fossil beds we discussed last semester are quite extensive, and I'm not sure how to prioritize them."
+    },
+    {
+     "sp": "M",
+     "en": "Right. The marine deposits there are famous for well-preserved skeletons, but we can't cover everything in one season. What criteria were you thinking of using?"
+    },
+    {
+     "sp": "W",
+     "en": "Well, I thought we should focus on the layers that have produced complete specimens in the past. That would give us the best chance of recovering something publishable."
+    },
+    {
+     "sp": "M",
+     "en": "That's reasonable, but don't overlook the less complete material. Sometimes fragmentary fossils tell us more about the ecosystem as a whole. A single spectacular skeleton is nice, but a collection of smaller finds can reveal how species interacted."
+    },
+    {
+     "sp": "W",
+     "en": "I see your point. So maybe we should split the team: one group works the rich layers, and another surveys the surrounding sediments."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. And make sure someone keeps a detailed record of the stratigraphy at every site. Without that context, even a beautiful fossil loses much of its scientific value."
+    },
+    {
+     "sp": "W",
+     "en": "Understood. I'll revise the plan to include a surveying component and a stratigraphy log. Should I send you the draft by Friday?"
+    },
+    {
+     "sp": "M",
+     "en": "Friday works. And one more thing—budget for extra plaster and packing materials. Those specimens are heavier than they look, and we don't want any damage on the journey back."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "How to organize a fossil excavation project",
+      "Why a museum rejected their permit application",
+      "How to publish a paper on marine fossils",
+      "Which students should join the field team"
+     ],
+     "answer": 0,
+     "explain": "对话围绕挖掘计划的优先级、团队分工和记录要求展开，故 A 正确。B 项与原文相反，博物馆已批准；C 项只是提及发表可能性，并非主旨；D 项未讨论学生人选。",
+     "evidence": "The provincial museum has approved our request, but they've asked us to submit a detailed plan of the sites we intend to dig."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the professor suggest about fragmentary fossils?",
+     "options": [
+      "They are usually too damaged to study",
+      "They can reveal broader ecosystem relationships",
+      "They should be discarded during excavation",
+      "They are more valuable than complete skeletons"
+     ],
+     "answer": 1,
+     "explain": "教授指出碎片化石能揭示物种如何互动，故 B 正确。A 项与教授观点相反；C 项原文未提丢弃；D 项过度推断，教授只说“有时更有信息量”，并未说比完整骨架更有价值。",
+     "evidence": "Sometimes fragmentary fossils tell us more about the ecosystem as a whole."
+    },
+    {
+     "id": "l1_3",
+     "stem": "Why does the professor emphasize stratigraphy records?",
+     "options": [
+      "They help determine the age of the museum",
+      "They are required by the provincial government",
+      "They provide essential context for interpreting fossils",
+      "They make packing specimens easier"
+     ],
+     "answer": 2,
+     "explain": "教授说没有地层背景，再好的化石也会失去科学价值，故 C 正确。A 项张冠李戴，与博物馆年龄无关；B 项原文未提政府要求；D 项与打包无关。",
+     "evidence": "Without that context, even a beautiful fossil loses much of its scientific value."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the professor's advice?",
+     "options": [
+      "She is skeptical and plans to ignore it",
+      "She is confused and asks for clarification",
+      "She accepts it and adjusts her plan",
+      "She is disappointed but hides her feelings"
+     ],
+     "answer": 2,
+     "explain": "女士回应“I see your point”并主动提出分组和修改计划，表明接受建议，故 C 正确。A 项与原文相反；B 项她并未表示困惑；D 项无失望情绪依据。",
+     "evidence": "I see your point. So maybe we should split the team: one group works the rich layers, and another surveys the surrounding sediments."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Scientists have long assumed that amphibians are creatures of freshwater. Of the more than eight thousand species alive today, none is known to spend its entire life in the sea, and fewer than two percent can tolerate salt at all. This makes a recent fossil discovery in China all the more striking. An international team has described an ancient amphibian, roughly the size of a giant salamander, that appears to have lived entirely in a marine environment. The animal, named Gerrothorax maritimus, had a broad, flattened body covered in bony armor. Its skull structure and heavy plating suggest it was an ambush predator, resting on the seafloor and sucking in prey that came within reach. Researchers compare its hunting style to that of the wobbegong, a carpet shark that uses suction to capture food near the bottom. The puzzle is how an amphibian could survive in salt water at all. Amphibian skin is permeable, allowing water and gases to pass through it; this is useful for breathing and hydration in freshwater, but it leaves the animals vulnerable to salt. The team proposes that the creature's bony armor limited water movement through the skin, while seawater taken in through the mouth was absorbed by the digestive tract and excess salt was removed by the gills. The evidence comes from two exceptionally complete skeletons, dating back nearly 237 million years. Their completeness is itself significant: carcasses that drift at sea usually lose limbs before sinking, but these animals retained their fingers, suggesting they died near where they lived. The finding expands our picture of what amphibians can do and raises new questions about how life adapts to extreme environments."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The feeding habits of modern giant salamanders",
+      "A fossil amphibian that apparently lived in the sea",
+      "Why most amphibians cannot tolerate salt water",
+      "How carpet sharks capture prey on the seafloor"
+     ],
+     "answer": 1,
+     "explain": "全文围绕一种可能完全海生的化石两栖动物展开，故 B 正确。A 项现代大鲵只是体型参照；C 项只是解释性细节；D 项鲨鱼仅为类比。",
+     "evidence": "An international team has described an ancient amphibian, roughly the size of a giant salamander, that appears to have lived entirely in a marine environment."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does the passage say about the animal's hunting method?",
+     "options": [
+      "It chased prey actively across the seafloor",
+      "It waited and sucked in prey that came near",
+      "It used its armor to crush shelled animals",
+      "It hunted only in freshwater rivers"
+     ],
+     "answer": 1,
+     "explain": "原文说它伏击并吸入靠近的猎物，故 B 正确。A 项与伏击相反；C 项原文未提压碎；D 项与海生环境矛盾。",
+     "evidence": "Its skull structure and heavy plating suggest it was an ambush predator, resting on the seafloor and sucking in prey that came within reach."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred from the preservation of the animals' fingers?",
+     "options": [
+      "They were buried by a sudden storm",
+      "They died close to their living area",
+      "They had been dead for a long time",
+      "They were transported by ocean currents"
+     ],
+     "answer": 1,
+     "explain": "原文指出海上尸体通常先失去肢体，而它们手指完整，说明死于栖息地附近，故 B 正确。A 项风暴无依据；C 项与完整保存矛盾；D 项与“未漂流”相反。",
+     "evidence": "Their completeness is itself significant: carcasses that drift at sea usually lose limbs before sinking, but these animals retained their fingers, suggesting they died near where they lived."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "An Amphibian That Made the Sea Its Home",
+   "passage": "A remarkable fossil discovery in China has revealed an ancient amphibian that appears to have lived entirely in the ocean, a lifestyle no amphibian alive today is known to adopt. The animal, named Gerrothorax maritimus, had a broad, flattened body protected by bony armor and was roughly the size of a giant salamander. Researchers believe it spent much of its life on the seafloor, waiting to ambush passing prey. The discovery comes from an international team at the University of California, Davis, Peking University, and the Geological Museum of Guizhou. Their findings, published in Nature Ecology & Evolution, are based on two exceptionally well-preserved skeletons dating back nearly 237 million years to the Late Triassic period. The completeness of the specimens is itself significant: carcasses that drift at sea usually lose limbs before sinking, but these animals retained their fingers, suggesting they died near where they lived. The finding is especially surprising because amphibians are generally unable to survive in seawater. Among the more than 8,000 amphibian species living today, none are known to spend their entire lives in marine environments, and fewer than 2% have any ability to tolerate salt. Mammals, reptiles, and birds, by comparison, all include species that can live entirely at sea without relying on land for food or fresh water. Until this discovery, scientists had never identified convincing fossil evidence of an amphibian with the same ability. Gerrothorax maritimus measured nearly three feet long, but its proportions were far different from those of a modern salamander. Rather than having a long, slender body, it was unusually broad and flattened, with a distinctive disc-shaped form. The structure of its skull, together with its heavy armor, suggests that this ancient amphibian was an ambush predator. Instead of actively chasing its meals, it likely rested on the seafloor until an unsuspecting animal came within reach. \"They would probably just wait at the bottom and then when prey comes around, they would just suck it in,\" said Ryosuke Motani, a professor at UC Davis, who noted that the hunting strategy resembles that of the wobbegong, a type of carpet shark that lives near the seafloor and captures prey using suction. The problem comes down largely to amphibian skin. Unlike the relatively waterproof skin of many other animals, amphibian skin allows water and gases to pass through it. This makes it useful for breathing and maintaining hydration, but also leaves amphibians especially vulnerable to the effects of salt water. As a result, modern amphibians generally depend on freshwater habitats or environments close to them. A few species have developed limited salt tolerance, including the crab-eating frog, but even these animals can lose weight when exposed to brackish water and must eventually return to freshwater to recover. Researchers suggest that its extensive bony armor restricted the movement of water through its skin. This protective covering may have reduced its dependence on absorbing water directly through the skin, allowing the animal to take in seawater through its mouth instead.",
+   "source": {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A fossil amphibian that apparently lived entirely in the sea",
+      "The evolutionary history of modern salamanders",
+      "The reasons why amphibians cannot tolerate salt water",
+      "How carpet sharks hunt near the seafloor"
+     ],
+     "answer": 0,
+     "explain": "全文围绕一种可能完全海生的化石两栖动物展开，故 A 正确。B 项现代大鲵只是体型参照；C 项是解释性细节；D 项鲨鱼仅为类比。",
+     "evidence": "A remarkable fossil discovery in China has revealed an ancient amphibian that appears to have lived entirely in the ocean, a lifestyle no amphibian alive today is known to adopt.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What does the passage say about the animal's body shape?",
+     "options": [
+      "It was long and slender like a salamander",
+      "It was smaller than a modern frog",
+      "It was broad, flattened and disc-shaped",
+      "It was covered in soft, permeable skin"
+     ],
+     "answer": 2,
+     "explain": "原文说它宽扁、呈盘状，故 C 正确。A 项与原文相反；B 项原文说约三英尺长，并非比青蛙小；D 项 armor 是骨甲而非软皮。",
+     "evidence": "Rather than having a long, slender body, it was unusually broad and flattened, with a distinctive disc-shaped form.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what limits modern amphibians in seawater?",
+     "options": [
+      "Their inability to breathe through the mouth",
+      "The permeable nature of their skin",
+      "Their lack of gills for salt removal",
+      "Their dependence on land for food"
+     ],
+     "answer": 1,
+     "explain": "原文指出皮肤渗透性使两栖动物易受盐害，故 B 正确。A 项原文说它们不通过嘴呼吸，但这不是海水限制的主因；C 项是化石种有鳃，现代种无鳃并非文中归因；D 项张冠李戴，是哺乳类等可完全海生。",
+     "evidence": "Unlike the relatively waterproof skin of many other animals, amphibian skin allows water and gases to pass through it.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the function of the animal's bony armor?",
+     "options": [
+      "It helped the animal float in deep water",
+      "It may have reduced water loss through the skin",
+      "It enabled the animal to chase prey faster",
+      "It protected the animal from freshwater predators"
+     ],
+     "answer": 1,
+     "explain": "原文推测骨甲限制水通过皮肤，从而减少对皮肤吸水的依赖，故 B 正确。A 项漂浮无依据；C 项与伏击策略矛盾；D 项环境是海水而非淡水。",
+     "evidence": "Researchers suggest that its extensive bony armor restricted the movement of water through its skin.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"brackish\" in the passage is closest in meaning to ______.",
+     "options": [
+      "slightly salty",
+      "extremely cold",
+      "heavily polluted",
+      "completely fresh"
+     ],
+     "answer": 0,
+     "explain": "brackish 指“微咸的”，与上下文 salt tolerance 呼应，故 A 正确。B 项温度无关；C 项污染无依据；D 项与 salt 相反。",
+     "evidence": "A few species have developed limited salt tolerance, including the crab-eating frog, but even these animals can lose weight when exposed to brackish water and must eventually return to freshwater to recover.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Rather than having a long, slender body, it was unusually broad and flattened, with a [1] disc-shaped form. The structure of its skull, together with its heavy armor, suggests that this ancient amphibian was an ambush predator. Instead of actively chasing its meals, it likely rested on the [2] until an unsuspecting animal came within reach. \"They would probably just wait at the bottom and then when prey comes around, they would just suck it in,\" said Ryosuke Motani, a [3] at UC Davis, who noted that the hunting strategy [4] that of the wobbegong, a type of carpet shark that lives near the seafloor and captures prey using suction.\n\nThe problem comes down largely to amphibian skin. Unlike the relatively waterproof skin of many other animals, amphibian skin allows water and gases to pass through it. This makes it [5] for breathing and maintaining hydration, but also leaves amphibians especially vulnerable to the effects of salt water. As a result, modern amphibians generally depend on [6] habitats or environments close to them. A few species have developed limited salt tolerance, including the crab-eating frog, but even these animals can lose weight when [7] to brackish water and must eventually return to freshwater to recover.\n\nResearchers suggest that its extensive bony armor restricted the movement of water through its skin. This protective covering may have reduced its [8] on absorbing water directly through the skin, allowing the animal to take in seawater through its mouth instead. Under this proposed mechanism, water would have been absorbed through the digestive tract, while the animal's gills could have helped [9] excess salt. Gills are known to have been present in members of the Gerrothorax genus, giving the researchers reason to suspect that this species possessed a more fishlike [10] to managing its salt balance.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "approach"
+    },
+    {
+     "label": "B",
+     "word": "concert"
+    },
+    {
+     "label": "C",
+     "word": "dependence"
+    },
+    {
+     "label": "D",
+     "word": "distinctive"
+    },
+    {
+     "label": "E",
+     "word": "eliminate"
+    },
+    {
+     "label": "F",
+     "word": "exposed"
+    },
+    {
+     "label": "G",
+     "word": "freshwater"
+    },
+    {
+     "label": "H",
+     "word": "interconnect"
+    },
+    {
+     "label": "I",
+     "word": "literal"
+    },
+    {
+     "label": "J",
+     "word": "location"
+    },
+    {
+     "label": "K",
+     "word": "professor"
+    },
+    {
+     "label": "L",
+     "word": "relevant"
+    },
+    {
+     "label": "M",
+     "word": "resembles"
+    },
+    {
+     "label": "N",
+     "word": "seafloor"
+    },
+    {
+     "label": "O",
+     "word": "useful"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "distinctive",
+     "lower": "distinctive",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "独特的，与众不同的",
+     "context": "Rather than having a long, slender body, it was unusually broad and flattened, with a distinctive disc-shaped form."
+    },
+    {
+     "index": 2,
+     "word": "seafloor",
+     "lower": "seafloor",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "Instead of actively chasing its meals, it likely rested on the seafloor until an unsuspecting animal came within reach."
+    },
+    {
+     "index": 3,
+     "word": "professor",
+     "lower": "professor",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "教授",
+     "context": "\"They would probably just wait at the bottom and then when prey comes around, they would just suck it in,\" said Ryosuke Motani, a professor at UC Davis, who noted that the hunting strategy [4] that of the wobbegong, a type of carpet shark that lives near the seafloor and captures prey using suction."
+    },
+    {
+     "index": 4,
+     "word": "resembles",
+     "lower": "resembles",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "像，相似",
+     "context": "\"They would probably just wait at the bottom and then when prey comes around, they would just suck it in,\" said Ryosuke Motani, a [3] at UC Davis, who noted that the hunting strategy resembles that of the wobbegong, a type of carpet shark that lives near the seafloor and captures prey using suction."
+    },
+    {
+     "index": 5,
+     "word": "useful",
+     "lower": "useful",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "This makes it useful for breathing and maintaining hydration, but also leaves amphibians especially vulnerable to the effects of salt water."
+    },
+    {
+     "index": 6,
+     "word": "freshwater",
+     "lower": "freshwater",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "G",
+     "gloss": "",
+     "context": "As a result, modern amphibians generally depend on freshwater habitats or environments close to them."
+    },
+    {
+     "index": 7,
+     "word": "exposed",
+     "lower": "exposed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "暴露",
+     "context": "A few species have developed limited salt tolerance, including the crab-eating frog, but even these animals can lose weight when exposed to brackish water and must eventually return to freshwater to recover."
+    },
+    {
+     "index": 8,
+     "word": "dependence",
+     "lower": "dependence",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "C",
+     "gloss": "",
+     "context": "This protective covering may have reduced its dependence on absorbing water directly through the skin, allowing the animal to take in seawater through its mouth instead."
+    },
+    {
+     "index": 9,
+     "word": "eliminate",
+     "lower": "eliminate",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "消除",
+     "context": "Under this proposed mechanism, water would have been absorbed through the digestive tract, while the animal's gills could have helped eliminate excess salt."
+    },
+    {
+     "index": 10,
+     "word": "approach",
+     "lower": "approach",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "靠近；n 接近，方法",
+     "context": "Gills are known to have been present in members of the Gerrothorax genus, giving the researchers reason to suspect that this species possessed a more fishlike approach to managing its salt balance."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+  "long_sentences": [
+   {
+    "en": "\"They would probably just wait at the bottom and then when prey comes around, they would just suck it in,\" said Motani, who noted that the hunting strategy resembles that of the wobbegong, a type of carpet shark that lives near the seafloor and captures prey using suction.",
+    "words": 48
+   },
+   {
+    "en": "\"It's probably, body mass-wise, about the same as the giant salamander, but what's different is that giant salamanders are elongated whereas this animal is really chunky.\" The structure of its skull, together with its heavy armor, suggests that this ancient amphibian was an ambush predator.",
+    "words": 45
+   },
+   {
+    "en": "\"We've been mostly studying marine reptiles and the fish from this place, but now we also have this amphibian, and it's a sort of very unusual member of the lineage.\" The finding is especially surprising because amphibians are generally unable to survive in seawater.",
+    "words": 44
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-12T10:44:38",
+ "difficulty": {
+  "score": 90,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 282,
+    "asl": 12.8,
+    "flesch": 63.6,
+    "fkgl": 7.6,
+    "long_sent": 0.0,
+    "beyond": 0.06,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "passage_listening",
+    "words": 276,
+    "asl": 21.2,
+    "flesch": 51.3,
+    "fkgl": 11.4,
+    "long_sent": 0.154,
+    "beyond": 0.112,
+    "in_band": true,
+    "score": 86
+   },
+   {
+    "type": "reading",
+    "words": 493,
+    "asl": 22.4,
+    "flesch": 36.7,
+    "fkgl": 13.7,
+    "long_sent": 0.182,
+    "beyond": 0.101,
+    "in_band": true,
+    "score": 86
+   },
+   {
+    "type": "banked_cloze",
+    "words": 301,
+    "asl": 23.2,
+    "flesch": 42.5,
+    "fkgl": 13.1,
+    "long_sent": 0.231,
+    "beyond": 0.12,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}
