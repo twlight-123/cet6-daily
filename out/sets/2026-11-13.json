@@ -1,0 +1,514 @@
+{
+ "id": "2026-11-13",
+ "date": "2026-11-13",
+ "title": "Fabric molds could bring material-saving concrete beams within reach",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 735,
+  "sentences": 31,
+  "avg_sentence_len": 23.7,
+  "flesch_ease": 50.9,
+  "flesch_grade": 12.1,
+  "hard_word_ratio": 0.093,
+  "long_sent_ratio": 0.355,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and his professor discuss a low-cost construction project for a developing region.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Come in, Daniel. You wanted to talk about your field project before the semester gets busy."
+    },
+    {
+     "sp": "M",
+     "en": "Yes, Professor. I’ve been assigned to a school-building project in a rural district where advanced equipment is basically unavailable. No 3D printers, no machine-carved molds. I’m worried the optimized beam designs we studied can’t be built there."
+    },
+    {
+     "sp": "W",
+     "en": "That’s a realistic concern. But remember the point of optimization isn’t to depend on expensive machinery. It’s to use less material. If the shape is simple enough, local workers can cast it with ordinary tools."
+    },
+    {
+     "sp": "M",
+     "en": "So I should simplify the geometry, even if that means giving up some material savings?"
+    },
+    {
+     "sp": "W",
+     "en": "Not necessarily giving up. You need to quantify the trade-off. A slightly less efficient shape that can be built on site may save more overall than a highly efficient one that never gets built."
+    },
+    {
+     "sp": "M",
+     "en": "That makes sense. I’ve also been thinking about fabric molds. They’re cheap and light, and you can sew them off site. But the fabric deforms when wet concrete is poured in, so the final shape is hard to control."
+    },
+    {
+     "sp": "W",
+     "en": "Right. That’s why the computational pattern design matters. If you can predict the deformation, you can compensate for it in the flat pattern before sewing. Have you looked at the automated pattern-making approach?"
+    },
+    {
+     "sp": "M",
+     "en": "I have, but it requires accurate material data. Our local partner can’t measure fabric properties precisely."
+    },
+    {
+     "sp": "W",
+     "en": "Then build in a safety margin. Use conservative estimates and test a small prototype first. Document what you learn; that’s valuable evidence for the next project."
+    },
+    {
+     "sp": "M",
+     "en": "Okay. I’ll prepare a plan with a simplified beam, a fabric mold, and a small-scale test. And I’ll include a cost comparison with the conventional design."
+    },
+    {
+     "sp": "W",
+     "en": "Good. Keep the report practical. The committee cares less about elegant theory than about whether the method can actually be used in the field."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the man’s main concern about the project?",
+     "options": [
+      "The local partner may refuse to share material data.",
+      "The optimized designs may be impractical to build locally.",
+      "The school building may exceed the available budget.",
+      "The committee may reject his theoretical framework."
+     ],
+     "answer": 1,
+     "explain": "男士明确担心优化梁设计在缺乏先进设备的农村地区无法建造，A项同义改写。B项把“无法精确测量材料属性”偷换为“拒绝共享数据”；C项预算问题原文未提；D项委员会关心实用性而非拒绝理论框架，属过度推断。",
+     "evidence": "I’m worried the optimized beam designs we studied can’t be built there."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say about the purpose of optimization?",
+     "options": [
+      "To produce geometrically complex shapes for research.",
+      "To replace local labor with automated pattern-making.",
+      "To reduce material use rather than rely on costly equipment.",
+      "To shorten the construction schedule in rural areas."
+     ],
+     "answer": 2,
+     "explain": "女士指出优化目的是少用材料，而非依赖昂贵机械，A项准确。B项把“不依赖设备”曲解为“取代人工”；C项与“形状应简单到本地可浇筑”相反；D项缩短工期原文未提。",
+     "evidence": "But remember the point of optimization isn’t to depend on expensive machinery. It’s to use less material."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the fabric mold approach?",
+     "options": [
+      "It can be adjusted computationally to offset deformation.",
+      "It removes the need for any material property data.",
+      "It guarantees the final shape without field testing.",
+      "It is more expensive than conventional rigid molds."
+     ],
+     "answer": 0,
+     "explain": "女士说若能在平面裁剪时预测并补偿变形，就可控制最终形状，A项为合理推断。B项“无需任何材料数据”绝对化；C项与“先做小比例试验”矛盾；D项与“便宜轻便”相反。",
+     "evidence": "If you can predict the deformation, you can compensate for it in the flat pattern before sewing."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman’s attitude toward the man’s plan?",
+     "options": [
+      "Supportive but insistent on practical evidence.",
+      "Doubtful that the project can ever succeed.",
+      "Indifferent to the project’s field application.",
+      "Critical of the man’s theoretical background."
+     ],
+     "answer": 0,
+     "explain": "女士肯定其思路并建议保守估计、先做试验、记录证据，态度是支持但强调实用证据，A项正确。B项“怀疑能否成功”过度；C项“漠不关心”与多次指导矛盾；D项她未批评其理论背景。",
+     "evidence": "Then build in a safety margin. Use conservative estimates and test a small prototype first."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When engineers design a concrete beam, they usually start with a rectangular shape because it is easy to build. But a rectangle is not always the most efficient use of material. Computer methods can generate far more economical shapes, yet those shapes are often too complex for conventional molds. As a result, many optimized designs never leave the laboratory. A recent project offers a practical alternative. Researchers used sewn fabric as a mold for a three-meter test beam. Compared with a conventional beam carrying the same load, the optimized version used about one-third as much concrete and half as much steel. Its measured performance was within about two percent of the computer prediction. The appeal of fabric is not only low cost. Fabric molds are light, can be sewn away from the site, and are easy to transport. The difficulty is that fabric bends under the weight of wet concrete, making the final shape hard to predict. The researchers turned this weakness into a design tool: by calculating how the fabric would deform, they adjusted the flat pattern so that the poured beam took the intended form. The team also had to solve a practical problem. Woven cotton lets water pass through, so a very wet mix loses water and presses too hard against the fabric. They chose a moderately wet, sand-rich mix with small stones, and compacted it by hand. The mold’s flexibility allowed workers to push concrete through narrow passages without a mechanical vibrator. The broader significance concerns climate. Cement production is carbon-intensive, so using less concrete is an important way to reduce construction’s environmental impact. Because most future building growth is expected in developing countries, the team focused on a method that is accessible and inexpensive. In that sense, the project is less about a single beam than about making efficient design usable where it is most needed."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A low-cost fabric-mold method for building efficient concrete beams.",
+      "The environmental damage caused by cement production worldwide.",
+      "The failure of computer optimization in practical construction.",
+      "A comparison of 3D printing and machine-carved molds."
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文核心：用缝制织物模具低成本建造高效混凝土梁。B项只是末段背景，非主旨；C项与原文“提供可行替代”相反；D项两种设备仅开头提及，非主旨。",
+     "evidence": "A recent project offers a practical alternative. Researchers used sewn fabric as a mold for a three-meter test beam.",
+     "id": "l2_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What was the measured performance of the optimized beam?",
+     "options": [
+      "It came within about two percent of the computer prediction.",
+      "It used half as much concrete as a conventional beam.",
+      "It carried twice the load of a conventional beam.",
+      "It required no steel reinforcement at all."
+     ],
+     "answer": 0,
+     "explain": "正确项同义改写原文“实测性能与计算机预测相差约2%以内”。B项张冠李戴，原文是混凝土用量约三分之一；C项“两倍荷载”无中生有；D项“完全不用钢筋”绝对化且与原文不符。",
+     "evidence": "Its measured performance was within about two percent of the computer prediction.",
+     "id": "l2_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the fabric mold’s flexibility?",
+     "options": [
+      "It can be exploited to compact concrete without a vibrator.",
+      "It makes the final shape impossible to control in practice.",
+      "It requires the use of specialized 3D printing equipment.",
+      "It increases the amount of cement needed for the beam."
+     ],
+     "answer": 0,
+     "explain": "正确项由原文“模具柔性让工人无需机械振捣器即可把混凝土推过窄通道”合理推断。B项“无法控制”与“计算变形并补偿”矛盾；C项与低成本可及方法相反；D项与减少水泥用量相悖。",
+     "evidence": "The mold’s flexibility allowed workers to push concrete through narrow passages without a mechanical vibrator.",
+     "id": "l2_3"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Fabric Molds Make Efficient Concrete Beams Accessible",
+   "passage": "Topology optimization is a computer design method that helps engineers reduce the concrete and steel in structural beams. Yet the intricate shapes it produces are often too complex or costly to pour into conventional rigid molds. The few optimized beams that have been built have mostly relied on specialized equipment, such as concrete 3D printers or machine-carved molds, which remain out of reach in regions where new construction is expected to grow fastest.\n\nNow, engineers at MIT have shown that highly efficient beams can be cast in something far more accessible: sewn fabric. In a study published in the Journal of Building Engineering, the team designed and built a three-meter test beam using fabric molds produced through an automated pattern-making process. Compared with a conventional beam designed to carry the same weight, the optimized beam used about one-third as much concrete and half as much steel reinforcement. When tested, its measured response was within about two percent of what the team’s computer model had predicted.\n\nFabric formwork, in which concrete is poured into a mold made of textile, has been explored for years to create beams that vary in depth rather than in the rectangular shapes common in construction. But because fabric deforms under the weight of wet concrete, that flexibility has made the final shape hard to predict. The researchers’ key realization was that this flexibility need not be merely a limitation to manage. With the right computational pattern design, it can become a way to produce optimized structural forms.\n\nFabric molds can also be inexpensive, lightweight, and fast compared with wood or steel molds. A formwork can be sewn off site, packed into a box, and brought to a job site with little effort. The team’s automated process translates a three-dimensional beam design into flat fabric pieces that can be cut and sewn into a mold, accounting for how the fabric will deform once concrete is poured in. A simple timber frame then supports the finished mold.\n\nThe project also addresses concrete’s climate footprint by reducing material demand. Cement production is highly carbon-intensive, so using less concrete is an important part of decarbonizing construction. Where new construction happens matters, too. The world’s number of buildings is expected to nearly double by 2050, with about 85 percent of that growth in developing countries, where access to advanced construction equipment is often limited. That is why the team focused on an accessible, cost-conscious fabrication approach.\n\nA practical challenge lay in the concrete mix. Woven cotton fabric lets water seep through, so a mix that is too runny loses water through the mold and presses harder against the fabric, pushing it away from the intended shape. The team used a moderately wet, sand-rich mix with only small stones, so the concrete could flow through the beam’s narrow, angled legs and thin bottom section without getting stuck. Workers then packed it in by hand, prodding each layer and tapping the fabric from the outside.",
+   "source": {
+    "name": "MIT News",
+    "url": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "A low-cost fabric-mold technique for casting efficient concrete beams.",
+      "The technical limits of topology optimization in computer design.",
+      "The environmental cost of cement production in developing countries.",
+      "A comparison of 3D printing with machine-carved molds."
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文核心：MIT团队用缝制织物模具低成本浇筑高效混凝土梁。B项“优化局限”仅为开头引子；C项“水泥生产环境成本”是末段背景；D项“3D打印与机器雕刻模具比较”只在首段提及，非主旨。",
+     "evidence": "Now, engineers at MIT have shown that highly efficient beams can be cast in something far more accessible: sewn fabric.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the optimized test beam achieve compared with a conventional beam?",
+     "options": [
+      "It eliminated the need for steel reinforcement entirely.",
+      "It doubled the load capacity while keeping the same weight.",
+      "It reduced construction time by about two percent.",
+      "It cut concrete use to about one-third and steel to half."
+     ],
+     "answer": 3,
+     "explain": "正确项同义改写原文：优化梁混凝土约为常规梁三分之一、钢筋减半。A项“完全不用钢筋”绝对化；B项“荷载翻倍”张冠李戴；C项把“预测误差2%”偷换为“工期缩短2%”。",
+     "evidence": "Compared with a conventional beam designed to carry the same weight, the optimized beam used about one-third as much concrete and half as much steel reinforcement.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did the team use a sand-rich mix with small stones?",
+     "options": [
+      "To reduce the carbon footprint of cement production.",
+      "To make the fabric mold easier to sew and transport.",
+      "To increase the beam’s resistance to water seepage.",
+      "To let concrete flow through narrow sections without clogging."
+     ],
+     "answer": 3,
+     "explain": "正确项同义改写原文：该混合料使混凝土能流过窄斜腿和薄底段而不堵塞。A项“减少碳足迹”是减量结果，非选料原因；B项“缝制运输”与混合料无关；C项原文是棉布透水导致问题，非增强抗渗。",
+     "evidence": "The team used a moderately wet, sand-rich mix with only small stones, so the concrete could flow through the beam’s narrow, angled legs and thin bottom section without getting stuck.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the fabric mold’s flexibility?",
+     "options": [
+      "It makes the final beam shape impossible to predict or control.",
+      "It requires the use of specialized 3D printing equipment.",
+      "It increases the amount of cement needed for the beam.",
+      "It can be turned into a construction advantage with proper design."
+     ],
+     "answer": 3,
+     "explain": "正确项合理推断：原文说柔性不必只是限制，配合计算图案设计可成为优化结构的手段。A项“无法预测控制”与“计算变形并补偿”矛盾；B项与低成本可及方法相反；C项与减少水泥用量相悖。",
+     "evidence": "With the right computational pattern design, it can become a way to produce optimized structural forms.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "What does the word \"intricate\" in the first paragraph most probably mean?",
+     "options": [
+      "Extremely expensive to produce.",
+      "Physically large in size.",
+      "Easy to pour into molds.",
+      "Highly complex in shape or detail."
+     ],
+     "answer": 3,
+     "explain": "intricate意为“复杂精细的”，与后文“太复杂或昂贵而难以用常规刚性模具浇筑”呼应。A项“昂贵”是另一并列原因；B项“尺寸大”原文未提；C项与原文“难以浇筑”相反。",
+     "evidence": "Yet the intricate shapes it produces are often too complex or costly to pour into conventional rigid molds.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Topology optimization is a computer design method that helps engineers reduce the concrete and steel in structural beams. Yet the [1] shapes it produces are often too complex or costly to pour into conventional rigid molds. The few optimized beams that have been built have mostly relied on specialized [2], such as concrete 3D printers or machine-carved molds, which remain out of reach in regions where new construction is expected to grow fastest.\n\nNow, [3] at MIT have shown that highly efficient beams can be cast in something far more accessible: sewn fabric. In a study [4] in the Journal of Building Engineering, the team designed and built a three-meter test beam using fabric molds produced through an [5] pattern-making process. Compared with a conventional beam designed to carry the same weight, the optimized beam used about one-third as much concrete and half as much steel [6]. When tested, its measured response was within about two percent of what the team’s computer model had [7].\n\nFabric formwork, in which concrete is poured into a mold made of textile, has been explored for years to create beams that vary in depth rather than in the [8] shapes common in construction. But because fabric [9] under the weight of wet concrete, that flexibility has made the final shape hard to predict.\n\nThe researchers’ key realization was that this flexibility need not be merely a [10] to manage. With the right computational pattern design, it can become a way to produce optimized structural forms.\n\nFabric molds can also be inexpensive, lightweight, and fast compared with wood or steel molds. A formwork can be sewn off site, packed into a box, and brought to a job site with little effort.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "automated"
+    },
+    {
+     "label": "B",
+     "word": "decrease"
+    },
+    {
+     "label": "C",
+     "word": "deforms"
+    },
+    {
+     "label": "D",
+     "word": "engineers"
+    },
+    {
+     "label": "E",
+     "word": "equipment"
+    },
+    {
+     "label": "F",
+     "word": "ginger"
+    },
+    {
+     "label": "G",
+     "word": "intricate"
+    },
+    {
+     "label": "H",
+     "word": "limitation"
+    },
+    {
+     "label": "I",
+     "word": "predicted"
+    },
+    {
+     "label": "J",
+     "word": "published"
+    },
+    {
+     "label": "K",
+     "word": "question"
+    },
+    {
+     "label": "L",
+     "word": "rectangular"
+    },
+    {
+     "label": "M",
+     "word": "reinforcement"
+    },
+    {
+     "label": "N",
+     "word": "reliance"
+    },
+    {
+     "label": "O",
+     "word": "watery"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "intricate",
+     "lower": "intricate",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "G",
+     "gloss": "错综复杂的， 复杂精细的",
+     "context": "Yet the intricate shapes it produces are often too complex or costly to pour into conventional rigid molds."
+    },
+    {
+     "index": 2,
+     "word": "equipment",
+     "lower": "equipment",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "装备，设备，配备",
+     "context": "The few optimized beams that have been built have mostly relied on specialized equipment, such as concrete 3D printers or machine-carved molds, which remain out of reach in regions where new construction is expected to grow fastest."
+    },
+    {
+     "index": 3,
+     "word": "engineers",
+     "lower": "engineers",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "工程师，技师",
+     "context": "Topology optimization is a computer design method that helps engineers reduce the concrete and steel in structural beams."
+    },
+    {
+     "index": 4,
+     "word": "published",
+     "lower": "published",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "公布；发表；出版",
+     "context": "In a study published in the Journal of Building Engineering, the team designed and built a three-meter test beam using fabric molds produced through an [5] pattern-making process."
+    },
+    {
+     "index": 5,
+     "word": "automated",
+     "lower": "automated",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "A",
+     "gloss": "使自动化",
+     "context": "In a study [4] in the Journal of Building Engineering, the team designed and built a three-meter test beam using fabric molds produced through an automated pattern-making process."
+    },
+    {
+     "index": 6,
+     "word": "reinforcement",
+     "lower": "reinforcement",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "Compared with a conventional beam designed to carry the same weight, the optimized beam used about one-third as much concrete and half as much steel reinforcement."
+    },
+    {
+     "index": 7,
+     "word": "predicted",
+     "lower": "predicted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "预言，预测，预告",
+     "context": "When tested, its measured response was within about two percent of what the team’s computer model had predicted."
+    },
+    {
+     "index": 8,
+     "word": "rectangular",
+     "lower": "rectangular",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "长方形的， 矩形的",
+     "context": "Fabric formwork, in which concrete is poured into a mold made of textile, has been explored for years to create beams that vary in depth rather than in the rectangular shapes common in construction."
+    },
+    {
+     "index": 9,
+     "word": "deforms",
+     "lower": "deforms",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "损坏…的形状",
+     "context": "But because fabric deforms under the weight of wet concrete, that flexibility has made the final shape hard to predict."
+    },
+    {
+     "index": 10,
+     "word": "limitation",
+     "lower": "limitation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "限制；限度，局限",
+     "context": "The researchers’ key realization was that this flexibility need not be merely a limitation to manage."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "MIT News",
+  "url": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
+  "long_sentences": [
+   {
+    "en": "“The key realization was that this flexibility is not just a limitation to manage; with the right computational pattern design, it can become a way to produce optimized structural forms,” says Josephine Carstensen, the Gilbert W.",
+    "words": 36
+   },
+   {
+    "en": "The few that have been built have mostly relied on specialized equipment, such as concrete 3D printers or machine-carved molds, equipment that is out of reach in regions where new construction is expected to grow.",
+    "words": 35
+   },
+   {
+    "en": "Topology optimization, which works more slowly but can place material freely, was used to determine where concrete was needed and where material could be removed from areas where it contributes little to the structural performance.",
+    "words": 35
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-13T10:28:33",
+ "difficulty": {
+  "score": 94,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 314,
+    "asl": 10.8,
+    "flesch": 63.8,
+    "fkgl": 7.0,
+    "long_sent": 0.0,
+    "beyond": 0.096,
+    "in_band": true,
+    "score": 88
+   },
+   {
+    "type": "passage_listening",
+    "words": 313,
+    "asl": 15.7,
+    "flesch": 55.3,
+    "fkgl": 9.4,
+    "long_sent": 0.05,
+    "beyond": 0.073,
+    "in_band": true,
+    "score": 95
+   },
+   {
+    "type": "reading",
+    "words": 495,
+    "asl": 20.6,
+    "flesch": 52.9,
+    "fkgl": 11.0,
+    "long_sent": 0.25,
+    "beyond": 0.093,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 287,
+    "asl": 22.1,
+    "flesch": 51.2,
+    "fkgl": 11.6,
+    "long_sent": 0.154,
+    "beyond": 0.091,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}

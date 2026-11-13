@@ -1,0 +1,43 @@
+{
+ "id": "daily-2026-11-13",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-13",
+ "source_label": "每日一文 · MIT News",
+ "title_en": "Fabric molds could bring material-saving concrete beams within reach",
+ "title_zh": "织物模具可以使节约材料的混凝土梁触手可及",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "Topology optimization is a computer design method that can help engineers design beams using reduced amounts of concrete and steel. But those intricate shapes produced from the tool are often too complex or expensive to pour into conventional rigid molds. The few that have been built have mostly relied on specialized equipment, such as concrete 3D printers or machine-carved molds, equipment that is out of reach in regions where new construction is expected to grow.",
+   "zh": "拓扑优化是一种计算机设计方法，可以帮助工程师在设计梁时减少混凝土和钢材的用量。但该工具生成的复杂形状往往过于繁复或成本过高，难以浇筑进传统的刚性模具。少数已建成的案例大多依赖专用设备，如混凝土3D打印机或机器雕刻模具，而这些设备在预计新建建筑将增长的地区往往难以获得。"
+  },
+  {
+   "en": "Now, MIT engineers have shown that highly efficient beams can be cast in something more accessible: sewn fabric. In a paper published in the Journal of Building Engineering , the team designed and built a 3-meter (about 10-foot) test beam using fabric molds created through an automated pattern-making process. Compared with a conventional beam designed to carry the same weight, the optimized beam used about one-third as much concrete and half as much steel reinforcement. When tested, its measured response was within about 2 percent of what the team's computer model predicted.",
+   "zh": "如今，麻省理工学院（MIT）的工程师们证明，高效梁可以浇筑在一种更容易获得的材料中：缝制织物。在《建筑工程杂志》发表的一篇论文中，团队利用自动化制模工艺制作的织物模具，设计并建造了一根3米（约10英尺）长的试验梁。与承载相同重量的传统梁相比，优化后的梁使用的混凝土约为三分之一，钢筋用量减半。测试时，其实测响应与团队计算机模型的预测值相差约2%以内。"
+  },
+  {
+   "en": "Fabric formwork, in which concrete is poured into a mold made of textile, has been explored for years to create beams that vary in depth, rather than in rectangular shapes common in construction. But because fabric deforms under the weight of wet concrete, that flexibility has made the final shape hard to predict.",
+   "zh": "织物模板——即将混凝土浇筑进由纺织品制成的模具——已被探索多年，用于制作深度变化的梁，而非建筑中常见的矩形截面。但由于织物在湿混凝土重量下会变形，这种柔性使得最终形状难以预测。"
+  },
+  {
+   "en": "“The key realization was that this flexibility is not just a limitation to manage; with the right computational pattern design, it can become a way to produce optimized structural forms,” says Josephine Carstensen, the Gilbert W. Winslow (1937) Career Development Professor in Civil Engineering and senior author of the study.",
+   "zh": "“关键认识在于，这种柔性不仅仅是一个需要加以控制的限制；通过正确的计算图案设计，它可以成为生产优化结构形式的一种途径，”该研究的资深作者、土木工程系Gilbert W. Winslow（1937）职业发展教授约瑟芬·卡斯滕森（Josephine Carstensen）说。"
+  },
+  {
+   "en": "Fabric molds can also be inexpensive, lightweight, and fast compared to wood or steel molds. “You could sew a formwork together off site, pack it into a box, and bring it to a job site very easily,” says Jackson Jewett PhD ’25, co-author of the study. “We joke that we are developing the H&M of the construction industry.”",
+   "zh": "与木模或钢模相比，织物模具还可以做到廉价、轻便且制作快速。“你可以在工地外把模板缝好，装进箱子，很容易地带到施工现场，”该研究的合著者、2025届博士杰克逊·朱伊特（Jackson Jewett）说。“我们开玩笑说，我们正在打造建筑行业的H&M。”"
+  },
+  {
+   "en": "Where new construction happens matters, too. The world’s number of buildings is expected to nearly double by 2050, with about 85 percent of that growth in developing countries, where access to advanced construction equipment is often limited. That is why, Carstensen says, the team focused on an accessible, cost-conscious fabrication approach.",
+   "zh": "新建建筑发生在哪里也很重要。到2050年，全球建筑数量预计将 nearly 翻一番，其中约85%的增长发生在发展中国家，而这些地区往往难以获得先进的施工设备。卡斯滕森说，这正是团队专注于一种易于获得、注重成本的建造方法的原因。"
+  },
+  {
+   "en": "Concrete is strong when compressed, but weak when pulled, so it’s reinforced with steel that can handle the pulling forces. The researchers first mapped a path for the steel reinforcement using a method called graphic statics, which can generate structural designs almost instantly. They used it to shape the steel bar so that it carries an equal share of the weight along its entire length to keep the reinforcement simple enough for builders to make. Topology optimization, which works more slowly but can place material freely, was used to determine where concrete was needed and where material could be removed from areas where it contributes little to the structural performance.",
+   "zh": "混凝土抗压强度高，但抗拉强度低，因此用钢筋来承受拉力。研究人员首先使用一种名为图解静力学的方法规划钢筋的走向，该方法几乎可以即时生成结构设计。他们用它来塑造钢筋形状，使其沿全长均匀分担荷载，从而让钢筋足够简单，便于施工人员制作。拓扑优化虽然运行较慢，但可以自由布置材料，被用来确定哪里需要混凝土，以及哪里可以从对结构性能贡献不大的区域去除材料。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106"
+}
