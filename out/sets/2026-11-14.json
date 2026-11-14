@@ -1,0 +1,524 @@
+{
+ "id": "2026-11-14",
+ "date": "2026-11-14",
+ "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 744,
+  "sentences": 30,
+  "avg_sentence_len": 24.8,
+  "flesch_ease": 43.4,
+  "flesch_grade": 13.4,
+  "hard_word_ratio": 0.102,
+  "long_sent_ratio": 0.333,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and her professor discuss a research project on election administration.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, do you have a minute? I'm working on my term paper about how state election boards interact with outside advocacy groups, and I've hit a wall."
+    },
+    {
+     "sp": "M",
+     "en": "Sure, come in. What's the problem? You've chosen a timely topic—there's been a lot of reporting on it lately."
+    },
+    {
+     "sp": "W",
+     "en": "That's just it. I found plenty of news articles, but they mostly describe what happened. I need scholarly analysis of whether these relationships compromise the independence of election officials."
+    },
+    {
+     "sp": "M",
+     "en": "Ah, you want to move from description to evaluation. That's the right instinct. Have you looked at the public administration literature on regulatory capture?"
+    },
+    {
+     "sp": "W",
+     "en": "I've seen the term, but I assumed it applied mainly to industries like banking or utilities. Does it work for election boards too?"
+    },
+    {
+     "sp": "M",
+     "en": "The core idea is adaptable. When an agency is supposed to oversee a process but develops close ties with a group it regulates, its decisions may start reflecting that group's preferences rather than the public interest. The key is to look for evidence of influence—not just meetings, but outcomes."
+    },
+    {
+     "sp": "W",
+     "en": "So I should trace whether the board's decisions changed after those meetings? Like, did they adopt tools or policies the group advocated?"
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. But be careful about causation. A correlation between meetings and policy shifts doesn't prove the group caused the shift. You'd need to rule out other explanations—public pressure, legal requirements, internal staff preferences."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds like a lot of work. Is it feasible for a ten-page paper?"
+    },
+    {
+     "sp": "M",
+     "en": "You don't need to prove causation definitively. You can present a plausible case and acknowledge limitations. Focus on one or two concrete decisions and examine the timeline and documented communications."
+    },
+    {
+     "sp": "W",
+     "en": "Okay. One more thing—should I interview people involved? I'm worried they won't talk to a student."
+    },
+    {
+     "sp": "M",
+     "en": "It's worth trying, but don't rely on it. Official records and recordings may be more reliable anyway. And remember, your paper should evaluate, not advocate. Keep the tone analytical."
+    },
+    {
+     "sp": "W",
+     "en": "Got it. I'll revise my outline to focus on two decisions and add a section on alternative explanations. Thanks—this really helps."
+    },
+    {
+     "sp": "M",
+     "en": "Good. Send me the revised outline by Friday, and we can talk again before you start writing."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "Why news reports on election boards tend to be unreliable",
+      "How to investigate whether outside groups improperly influence election boards",
+      "How to arrange interviews with state election officials",
+      "Why regulatory capture theory applies only to certain industries"
+     ],
+     "answer": 1,
+     "explain": "对话核心是教授指导学生从描述转向评估，用监管俘获理论分析外部团体是否不当影响选举委员会。B项过度推断，学生只说新闻多为描述；C项是细节；D项与教授观点相反。",
+     "evidence": "When an agency is supposed to oversee a process but develops close ties with a group it regulates, its decisions may start reflecting that group's preferences rather than the public interest."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the professor warn the student about regarding causation?",
+     "options": [
+      "Policy changes are usually caused by public pressure rather than groups.",
+      "Causation can be established only through interviews with officials.",
+      "A correlation between meetings and policy shifts does not prove causation.",
+      "It is impossible to study causation in a ten-page paper."
+     ],
+     "answer": 2,
+     "explain": "教授明确提醒会议与政策变化的相关性不等于因果，需排除其他解释。B项张冠李戴，访谈并非确立因果的方法；C项绝对化；D项曲解，教授说无需确证因果。",
+     "evidence": "A correlation between meetings and policy shifts doesn't prove the group caused the shift."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the student's original outline?",
+     "options": [
+      "It focused too much on describing events rather than evaluating them.",
+      "It relied entirely on interviews with election board members.",
+      "It argued that election boards are never influenced by outside groups.",
+      "It examined too many concrete decisions for a short paper."
+     ],
+     "answer": 0,
+     "explain": "学生说找到的新闻多为描述，需要学术评估，教授也肯定其“从描述转向评估”的直觉，可见原提纲偏描述。B项无依据；C项与文意相反；D项是修改后的建议，非原提纲问题。",
+     "evidence": "I found plenty of news articles, but they mostly describe what happened. I need scholarly analysis of whether these relationships compromise the independence of election officials."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the professor's attitude toward the student's project?",
+     "options": [
+      "Supportive but insistent on analytical rigor",
+      "Doubtful that the topic is suitable for a term paper",
+      "Concerned that the student lacks interest in the subject",
+      "Indifferent to the student's choice of methodology"
+     ],
+     "answer": 0,
+     "explain": "教授肯定选题及时、直觉正确，并给出具体修改建议，同时强调因果谨慎、语气分析性，体现支持但要求严谨。B项与“timely topic”矛盾；C项无依据；D项与教授详细指导矛盾。",
+     "evidence": "You don't need to prove causation definitively. You can present a plausible case and acknowledge limitations."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, state election boards across the United States have found themselves under scrutiny for their ties to outside advocacy groups. These boards are typically expected to operate independently, ensuring that elections are administered fairly and without partisan interference. However, reports from several states suggest that some board members and staff have developed close relationships with organizations that promote specific views on election integrity. Such relationships are not inherently improper. Election officials often meet with community groups, civil rights organizations, and political parties to gather input and build public trust. The concern arises when these interactions begin to shape official decisions in ways that favor the agenda of a particular group. Experts in public administration refer to this phenomenon as regulatory capture, where an agency meant to oversee a process becomes aligned with the interests it is supposed to regulate. One area where this risk is particularly visible is the use of software tools to verify voter rolls. Some advocacy groups have pushed for the adoption of certain programs that flag potentially ineligible voters. While such tools can help maintain accurate lists, they are also prone to error and may disproportionately affect minority communities. When election boards adopt these tools at the urging of outside groups without thorough independent evaluation, questions arise about whose interests are being served. Defenders of the current arrangements argue that collaboration with advocacy groups brings valuable expertise and energy. They note that election officials are public servants who welcome input from engaged citizens. also, they point out that board members are appointed through a political process, so some degree of political alignment is unavoidable. Still, the line between productive collaboration and undue influence can be thin. Transparency is often proposed as a safeguard: requiring boards to disclose meetings with outside groups and the origins of policy proposals. in the end, public confidence in elections depends on the perception that decisions are made for the common good, not for the benefit of any single faction."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The risk that election boards' ties to advocacy groups may undermine independence",
+      "The technical flaws of software used to verify voter rolls",
+      "The political appointment process for state election board members",
+      "The decline of public trust in election results across states"
+     ],
+     "answer": 0,
+     "explain": "全文围绕选举委员会与倡导团体关系过密可能损害独立性展开，讨论风险、表现与保障措施。B项是第三段细节；C项是第四段支持者观点；D项过度推断，文中只说公众信心取决于观感。",
+     "evidence": "The concern arises when these interactions begin to shape official decisions in ways that favor the agenda of a particular group."
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, what is a potential problem with voter-roll verification software?",
+     "options": [
+      "It may produce errors that disproportionately affect minority communities.",
+      "It is too expensive for most state election boards to adopt.",
+      "It has been banned by federal regulators in several states.",
+      "It is designed exclusively by political party organizations."
+     ],
+     "answer": 0,
+     "explain": "第三段明确指出此类工具易出错且可能不成比例地影响少数族裔社区。B项无依据；C项张冠李戴，文中无联邦禁令；D项绝对化且无依据。",
+     "evidence": "While such tools can help maintain accurate lists, they are also prone to error and may disproportionately affect minority communities."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the proposed transparency measures?",
+     "options": [
+      "They are intended to help distinguish collaboration from undue influence.",
+      "They would eliminate all political influence on election boards.",
+      "They are opposed by most election officials as unnecessary.",
+      "They have already been adopted nationwide with positive results."
+     ],
+     "answer": 0,
+     "explain": "末段说合作与不当影响界限模糊，透明被提为保障，要求披露会议与政策来源，可推知其目的是区分二者。B项绝对化；C项无依据；D项与“proposed”矛盾。",
+     "evidence": "Transparency is often proposed as a safeguard: requiring boards to disclose meetings with outside groups and the origins of policy proposals."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Election Boards and Outside Influence",
+   "passage": "In the months before the midterms, Georgia's State Election Board and much of its staff reportedly coordinated with an activist network led by a conservative attorney who had challenged the 2020 outcome. Recordings reviewed by journalists show current and former board members working with the Election Integrity Network and allies on shared priorities, including promoting a controversial, error-prone software tool to search voter rolls for purportedly suspicious voters. The board's vice chair and her predecessor both attended meetings of the network or an aligned group with overlapping membership and goals. The predecessor retired in June but remains active behind the scenes. At a fundraiser, the network's leader praised both officials, saying they had worked very hard together. At least three of the board's eight professional staff have attended network meetings, including those handling voter-fraud allegations and misconduct by election officials. The executive director has also worked closely with network members, sources say. Experts say these ties give the network extraordinary influence over how Georgia runs elections. The group has enlisted the board's help in getting counties to remove voters based on the software's information. A director at a voting advocacy nonprofit tracking the board said allies had captured it to sustain stolen-election claims and tilt Georgia toward one party, with the network as the behind-the-scenes driver. The board's leader said the more he looked, the more he realized the network had undue influence, which needed to cease. In response, a network leader urged followers on social media to inundate board members with messages defending the executive director and associated staffers. He warned that members might vote to terminate the executive director, investigators or staff, destroying the board as known, and said staff had made remarkable progress on election-corruption accountability and deserved raises, not termination threats. In interviews, the predecessor did not directly answer questions about her network ties. She said she was all about election integrity, wherever it came from, and acknowledged remaining involved after retirement because it gets in your blood. Two days later, she posted that the network's leader had the right ideas about running elections. The vice chair acknowledged discussing election matters with activists but said they did not influence her decisions. She saw no problem with network activists working for the board, though staff should be independent and nonpartisan; if they join organizations in private time, that is their choice. Told of staffers advancing network goals officially, she said she was unaware and it was the first she had heard. The network's leader did not respond directly but, after detailed inquiries, posted on social media celebrating the network's work with the election board. An election integrity group is working with election officials to oversee elections, the post read. Wow! What a discovery! Pulitzer anyone?",
+   "source": {
+    "name": "ProPublica",
+    "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The technical failures of a software tool used to verify voter rolls",
+      "The close coordination between Georgia's election board and an activist network",
+      "The legal challenges to the 2020 presidential election outcome",
+      "The appointment process for state election board members in Georgia"
+     ],
+     "answer": 1,
+     "explain": "全文围绕佐治亚州选举委员会与活动网络的密切协调及其影响展开。A项将软件工具的技术缺陷作为主题，属以偏概全；C项只是背景信息；D项文中未讨论任命程序。",
+     "evidence": "In the months before the midterms, Georgia's State Election Board and much of its staff reportedly coordinated with an activist network led by a conservative attorney who had challenged the 2020 outcome.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what did the network help the board do?",
+     "options": [
+      "Draft new legislation on election corruption accountability",
+      "Organize fundraisers for the board's professional staff",
+      "Persuade counties to remove voters from rolls based on software information",
+      "Train board members in the use of independent verification tools"
+     ],
+     "answer": 2,
+     "explain": "原文明确说该团体借助委员会促使各县依据软件信息移除选民。A项张冠李戴，立法并非网络帮助委员会所为；B项将募款会与网络活动混淆；D项与原文“error-prone software”相反。",
+     "evidence": "The group has enlisted the board's help in getting counties to remove voters based on the software's information.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "How did the vice chair respond to the reporter's account of staffers advancing network goals?",
+     "options": [
+      "She blamed the executive director for acting without authority.",
+      "She admitted that she had personally approved those actions.",
+      "She argued that such actions were required by state law.",
+      "She said she was hearing about it for the first time."
+     ],
+     "answer": 3,
+     "explain": "原文说副主席回应“这是她第一次听说”，即事先不知情。A项张冠李戴，她未指责执行主任；B项与否认知情矛盾；C项无依据，她未称法律要求。",
+     "evidence": "Told of staffers advancing network goals officially, she said she was unaware and it was the first she had heard.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the network leader's social media post?",
+     "options": [
+      "It mocked the idea that the coordination was newsworthy.",
+      "It apologized for the network's undue influence on the board.",
+      "It announced the resignation of the board's executive director.",
+      "It called for an independent investigation into election fraud."
+     ],
+     "answer": 0,
+     "explain": "帖子以“Wow! What a discovery! Pulitzer anyone?”讽刺媒体把正常合作当新闻。B项与庆祝语气相反；C项无依据，帖子未宣布辞职；D项张冠李戴，帖子未呼吁调查。",
+     "evidence": "An election integrity group is working with election officials to oversee elections, the post read. Wow! What a discovery! Pulitzer anyone?",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"inundate\" in the passage is closest in meaning to ______.",
+     "options": [
+      "overwhelm",
+      "inform",
+      "invite",
+      "instruct"
+     ],
+     "answer": 0,
+     "explain": "inundate意为“淹没、使应接不暇”，此处指用信息淹没委员，与overwhelm同义。B项“告知”程度过轻；C项“邀请”无关；D项“指示”偷换概念。",
+     "evidence": "In response, a network leader urged followers on social media to inundate board members with messages defending the executive director and associated staffers.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "A director at a voting advocacy nonprofit that has closely tracked the board's actions said that allies had captured the board to keep claims of a stolen election going and to tilt Georgia elections toward one party, and that the network was the behind-the-scenes driver of these changes.\n\nThe board's leader said in an interview that the more he looked into the matter, the more he [1] the network had been having an undue [2] on the board, and that this needed to cease.\n\nIn response, a network leader called on social media for followers to [3] board members with messages defending the executive director and other staffers associated with the group. He warned that there was a significant [4] that board members would vote to terminate the executive director, investigators or possibly even staff members, any of which would [5] the board as currently known. He added that the staff had made remarkable historical progress in accountability for election [6] and deserved raises for amazing performances, not threats of termination.\n\nIn interviews, the [7] did not directly answer questions about her relationship to the network. She said she was all about election [8], wherever it came from. She acknowledged she had remained [9] with board affairs after her retirement, saying it gets in your blood. Two days later, she posted on social media that the network's leader had the right ideas about how elections should be run.\n\nThe vice chair acknowledged she spoke about election matters with activists but said they did not influence her decisions. She also said she saw no problem with network activists working for the board, though the staff is supposed to be [10] and nonpartisan. As long as they are representing the board well, fine, she said.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "aspiration"
+    },
+    {
+     "label": "B",
+     "word": "corruption"
+    },
+    {
+     "label": "C",
+     "word": "destroy"
+    },
+    {
+     "label": "D",
+     "word": "energize"
+    },
+    {
+     "label": "E",
+     "word": "implication"
+    },
+    {
+     "label": "F",
+     "word": "independent"
+    },
+    {
+     "label": "G",
+     "word": "influence"
+    },
+    {
+     "label": "H",
+     "word": "integrity"
+    },
+    {
+     "label": "I",
+     "word": "inundate"
+    },
+    {
+     "label": "J",
+     "word": "involved"
+    },
+    {
+     "label": "K",
+     "word": "loosen"
+    },
+    {
+     "label": "L",
+     "word": "possibility"
+    },
+    {
+     "label": "M",
+     "word": "predecessor"
+    },
+    {
+     "label": "N",
+     "word": "realized"
+    },
+    {
+     "label": "O",
+     "word": "unlock"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "realized",
+     "lower": "realized",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "实现；认识到",
+     "context": "The board's leader said in an interview that the more he looked into the matter, the more he realized the network had been having an undue [2] on the board, and that this needed to cease."
+    },
+    {
+     "index": 2,
+     "word": "influence",
+     "lower": "influence",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "& n 影响",
+     "context": "The board's leader said in an interview that the more he looked into the matter, the more he [1] the network had been having an undue influence on the board, and that this needed to cease."
+    },
+    {
+     "index": 3,
+     "word": "inundate",
+     "lower": "inundate",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "I",
+     "gloss": "",
+     "context": "In response, a network leader called on social media for followers to inundate board members with messages defending the executive director and other staffers associated with the group."
+    },
+    {
+     "index": 4,
+     "word": "possibility",
+     "lower": "possibility",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "可能；可能的事",
+     "context": "He warned that there was a significant possibility that board members would vote to terminate the executive director, investigators or possibly even staff members, any of which would [5] the board as currently known."
+    },
+    {
+     "index": 5,
+     "word": "destroy",
+     "lower": "destroy",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "破坏；消灭；打破",
+     "context": "He warned that there was a significant [4] that board members would vote to terminate the executive director, investigators or possibly even staff members, any of which would destroy the board as currently known."
+    },
+    {
+     "index": 6,
+     "word": "corruption",
+     "lower": "corruption",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "腐败",
+     "context": "He added that the staff had made remarkable historical progress in accountability for election corruption and deserved raises for amazing performances, not threats of termination."
+    },
+    {
+     "index": 7,
+     "word": "predecessor",
+     "lower": "predecessor",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "M",
+     "gloss": "前辈，前任者",
+     "context": "In interviews, the predecessor did not directly answer questions about her relationship to the network."
+    },
+    {
+     "index": 8,
+     "word": "integrity",
+     "lower": "integrity",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "完整，综合",
+     "context": "She said she was all about election integrity, wherever it came from."
+    },
+    {
+     "index": 9,
+     "word": "involved",
+     "lower": "involved",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "卷入，包含",
+     "context": "She acknowledged she had remained involved with board affairs after her retirement, saying it gets in your blood."
+    },
+    {
+     "index": 10,
+     "word": "independent",
+     "lower": "independent",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "独立的；自主的",
+     "context": "She also said she saw no problem with network activists working for the board, though the staff is supposed to be independent and nonpartisan."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+  "long_sentences": [
+   {
+    "en": "“EIN was the behind-the-scenes driver spearheading these changes.” “The more I look into this, the more I’m realizing that the Election Integrity Network has been having an undue influence on the State Election Board, and that needs to cease,” he said in an interview, though he declined to go into specifics about personnel matters.",
+    "words": 54
+   },
+   {
+    "en": "In the run-up to the midterms, members of Georgia’s State Election Board and much of its professional staff were coordinating with an activist group led by Cleta Mitchell, the conservative attorney who worked with President Donald Trump to try to overturn his defeat in the 2020 election.",
+    "words": 47
+   },
+   {
+    "en": "“Trump allies captured the State Election Board to keep claims of a stolen 2020 election going and tilt Georgia elections toward Republicans,” said Max Flugrath, a director at Fair Fight Action, a voting advocacy nonprofit that has closely tracked the board’s and the network’s actions.",
+    "words": 45
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-14T10:01:03",
+ "difficulty": {
+  "score": 83,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 358,
+    "asl": 10.2,
+    "flesch": 58.7,
+    "fkgl": 7.6,
+    "long_sent": 0.029,
+    "beyond": 0.061,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "passage_listening",
+    "words": 330,
+    "asl": 19.4,
+    "flesch": 29.5,
+    "fkgl": 14.0,
+    "long_sent": 0.0,
+    "beyond": 0.067,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 457,
+    "asl": 19.9,
+    "flesch": 41.3,
+    "fkgl": 12.4,
+    "long_sent": 0.174,
+    "beyond": 0.085,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 293,
+    "asl": 24.4,
+    "flesch": 46.6,
+    "fkgl": 12.8,
+    "long_sent": 0.25,
+    "beyond": 0.048,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 83（接近六级），与六级区间有偏差。"
+}

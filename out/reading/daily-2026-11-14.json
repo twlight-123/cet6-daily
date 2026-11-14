@@ -1,0 +1,47 @@
+{
+ "id": "daily-2026-11-14",
+ "kind": "news",
+ "source": "daily",
+ "date": "2026-11-14",
+ "source_label": "每日一文 · ProPublica",
+ "title_en": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+ "title_zh": "格鲁吉亚选举委员会的成员一直在与克莱塔·米切尔的网络进行协调",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "In the run-up to the midterms, members of Georgia’s State Election Board and much of its professional staff were coordinating with an activist group led by Cleta Mitchell, the conservative attorney who worked with President Donald Trump to try to overturn his defeat in the 2020 election.",
+   "zh": "在中期选举前夕，佐治亚州选举委员会的成员及其大部分专业工作人员一直在与一个由克莱塔·米切尔（Cleta Mitchell）领导的活动组织协调行动。米切尔是一位保守派律师，曾与唐纳德·特朗普总统合作，试图推翻他在2020年大选中的败选结果。"
+  },
+  {
+   "en": "Recordings of private calls and events reviewed by ProPublica show current and former state board members working with the Election Integrity Network and allied organizations on shared priorities. Among them: advancing the use of a controversial, error-prone software tool known as ELLY to search voter rolls for purportedly suspicious voters.",
+   "zh": "ProPublica审阅的私人通话和活动录音显示，现任和前任州委员会成员与选举诚信网络（Election Integrity Network，简称EIN）及其盟友组织在共同优先事项上合作。其中包括：推动使用一款名为ELLY的有争议且容易出错的软件工具，在选民名册中搜寻所谓可疑选民。"
+  },
+  {
+   "en": "The state board’s current vice chair, Janelle King, and her predecessor, Janice Johnston, have both attended meetings of EIN or VoterGA, an aligned organization whose membership and goals significantly overlap with EIN. Johnston retired in June but still plays an active role in state election matters behind the scenes.",
+   "zh": "州委员会现任副主席贾内尔·金（Janelle King）和她的前任贾尼斯·约翰斯顿（Janice Johnston）都曾参加EIN或VoterGA的会议。VoterGA是一个与EIN结盟的组织，其成员构成和目标与EIN高度重叠。约翰斯顿于6月退休，但仍在幕后积极参与州选举事务。"
+  },
+  {
+   "en": "The board’s executive director, James Mills, likewise has worked closely with members of the EIN, according to five sources with knowledge of these interactions, board documents and EIN communications shared with ProPublica.",
+   "zh": "据五名了解这些互动情况的消息人士、委员会文件以及提供给ProPublica的EIN通讯记录，委员会执行主任詹姆斯·米尔斯（James Mills）同样与EIN成员密切合作。"
+  },
+  {
+   "en": "EIN’s close ties to the board and its staff have given it extraordinary influence over how elections are run in Georgia, experts said. In particular, the group has been able to enlist the board’s help in getting counties to remove voters from their rolls based on information from ELLY.",
+   "zh": "专家表示，EIN与委员会及其工作人员的密切关系使其对佐治亚州的选举运作方式产生了非同寻常的影响力。特别是，该组织能够借助委员会的力量，推动各县根据ELLY提供的信息将选民从名册中移除。"
+  },
+  {
+   "en": "“Trump allies captured the State Election Board to keep claims of a stolen 2020 election going and tilt Georgia elections toward Republicans,” said Max Flugrath, a director at Fair Fight Action, a voting advocacy nonprofit that has closely tracked the board’s and the network’s actions. “EIN was the behind-the-scenes driver spearheading these changes.”",
+   "zh": "“特朗普的盟友控制了州选举委员会，目的是让2020年选举被窃取的说法继续发酵，并使佐治亚州的选举偏向共和党，”投票权倡导非营利组织Fair Fight Action的主任马克斯·弗卢格拉特（Max Flugrath）说。该组织一直密切关注委员会和该网络的行动。“EIN是推动这些变化的幕后推手。”"
+  },
+  {
+   "en": "“The more I look into this, the more I’m realizing that the Election Integrity Network has been having an undue influence on the State Election Board, and that needs to cease,” he said in an interview, though he declined to go into specifics about personnel matters. “I’m looking forward to changes in how the election board operates.”",
+   "zh": "“我越深入调查，就越意识到选举诚信网络对州选举委员会施加了不当影响，这种情况必须停止，”他在一次采访中说，但拒绝透露人事问题的具体细节。“我期待选举委员会的运作方式发生变化。”"
+  },
+  {
+   "en": "In response, Garland Favorito, an EIN leader and head of VoterGA, called on social media for his followers to inundate state board members with messages defending Mills and other staffers associated with the group.",
+   "zh": "对此，EIN领导人兼VoterGA负责人加兰·法沃里托（Garland Favorito）在社交媒体上呼吁其追随者向州委员会成员大量发送信息，为米尔斯及与该组织有关联的其他工作人员辩护。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms"
+}
