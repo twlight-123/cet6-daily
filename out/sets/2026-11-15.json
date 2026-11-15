@@ -1,0 +1,508 @@
+{
+ "id": "2026-11-15",
+ "date": "2026-11-15",
+ "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 773,
+  "sentences": 27,
+  "avg_sentence_len": 28.6,
+  "flesch_ease": 53.6,
+  "flesch_grade": 12.9,
+  "hard_word_ratio": 0.135,
+  "long_sent_ratio": 0.296,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.64,
+  "issues": [],
+  "score": 87
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "Two colleagues discuss a news story about a tech CEO's fashion choices and its public-relations implications.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Did you see that article about Jensen Huang's leather jacket? It seems like everyone on social media is talking about it."
+    },
+    {
+     "sp": "M",
+     "en": "I did. It's strange how a single piece of clothing can trigger so much discussion. But I suppose when you're the CEO of a company worth over a trillion dollars, everything you do gets scrutinized."
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. The article suggested that his new look—those tight leather jackets—sends the wrong message. They quoted a stylist saying it makes him look like he's going through a midlife crisis."
+    },
+    {
+     "sp": "M",
+     "en": "I'm not sure I agree. I mean, isn't it his personal choice? Why should the public care what he wears?"
+    },
+    {
+     "sp": "W",
+     "en": "Well, the argument is that his image affects investor confidence. If he looks like he's not taking his role seriously, people might start to question his judgment."
+    },
+    {
+     "sp": "M",
+     "en": "That seems like a stretch. Investors care about profits, not fashion. But I do think the timing is unfortunate—he's been in the news for other reasons lately."
+    },
+    {
+     "sp": "W",
+     "en": "You mean the rumors about his personal life? The article didn't mention that, but it did say his wife actually picks out his clothes because he finds most fabrics uncomfortable."
+    },
+    {
+     "sp": "M",
+     "en": "That's interesting. So maybe he's not trying to make a fashion statement at all. He just wears what his wife tells him to. That changes the whole narrative."
+    },
+    {
+     "sp": "W",
+     "en": "Right. And the stylists they interviewed suggested he should switch to something more understated—like a simple Oxford shirt and a crewneck sweater. They think it would make him look more serious."
+    },
+    {
+     "sp": "M",
+     "en": "I can see that. But honestly, I think this whole discussion is a distraction. We should be focusing on the company's performance, not the CEO's wardrobe."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "The reasons behind a company's recent stock decline",
+      "The impact of a CEO's clothing on public perception",
+      "The influence of social media on fashion trends",
+      "The role of stylists in shaping corporate images"
+     ],
+     "answer": 1,
+     "explain": "对话围绕Jensen Huang的皮夹克引发的公众讨论及其对形象的影响展开，A项正确。B项公司股价下跌未提及；C项社交媒体对时尚趋势的影响是细节；D项造型师作用只是部分内容，非主旨。",
+     "evidence": "It's strange how a single piece of clothing can trigger so much discussion. But I suppose when you're the CEO of a company worth over a trillion dollars, everything you do gets scrutinized."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the woman, why might the CEO's image matter to investors?",
+     "options": [
+      "It could attract more media attention to the firm.",
+      "It might directly reduce the company's market value.",
+      "It could signal a lack of seriousness about his role.",
+      "It may influence the decisions of fashion brands."
+     ],
+     "answer": 2,
+     "explain": "女士提到如果CEO看起来不认真对待角色，人们会质疑其判断力，A项正确。B项直接降低市值是过度推断；C项吸引媒体关注是结果而非原因；D项时尚品牌决策与投资者无关。",
+     "evidence": "If he looks like he's not taking his role seriously, people might start to question his judgment."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the man's view of the fashion discussion?",
+     "options": [
+      "He believes it is largely irrelevant to the company's success.",
+      "He thinks the CEO should hire a professional stylist.",
+      "He agrees that the CEO's jacket sends a negative message.",
+      "He feels the media should cover personal lives more."
+     ],
+     "answer": 0,
+     "explain": "男士认为投资者关心利润而非时尚，最后说讨论是干扰，应关注公司表现，A项正确。B项未建议雇造型师；C项他并不认同负面信息；D项他反对关注个人生活。",
+     "evidence": "But honestly, I think this whole discussion is a distraction. We should be focusing on the company's performance, not the CEO's wardrobe."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the stylists' advice?",
+     "options": [
+      "She considers it a reasonable suggestion.",
+      "She finds it completely unconvincing.",
+      "She thinks it is too expensive to follow.",
+      "She believes it ignores the CEO's preferences."
+     ],
+     "answer": 0,
+     "explain": "女士转述造型师建议时用“Right”表示认同，并说这样会让他看起来更严肃，A项正确。B项与态度相反；C项成本未提及；D项她并未说建议忽视CEO偏好。",
+     "evidence": "Right. And the stylists they interviewed suggested he should switch to something more understated—like a simple Oxford shirt and a crewneck sweater. They think it would make him look more serious."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, the public image of technology executives has undergone a noticeable transformation. Once content to be seen in casual hoodies and jeans, many now embrace high-end fashion, hiring personal stylists and appearing at fashion shows. This shift is not merely personal; it reflects a broader effort to reshape the public's perception of the tech industry itself. According to fashion insiders, tech leaders are increasingly aware that their appearance can influence how they are perceived by investors, employees, and the general public. A polished look may convey competence and seriousness, while an overly casual or eccentric style could undermine credibility. As a result, some executives have turned to professional stylists for guidance. However, not everyone welcomes this trend. Critics argue that focusing on fashion distracts from more substantive issues, such as ethical concerns and corporate governance. They contend that the public should judge leaders by their actions and decisions, not by their clothing. also, excessive attention to appearance may reinforce superficial values in the business world. Interestingly, the debate over executive fashion often reveals deeper anxieties about the role of technology in society. When a tech leader adopts a dramatic new look, it can symbolize a break from the industry's traditional roots, raising questions about whether success has led to a loss of authenticity. The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity. in the end, whether one approves or disapproves, the scrutiny of tech executives' wardrobes shows no sign of fading. In an age where image is constantly curated and shared, the line between personal choice and public expectation remains blurred. What matters most, perhaps, is that the attention does not overshadow the real issues that technology companies and their leaders must address."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The growing attention to tech executives' fashion and its implications",
+      "The reasons why tech executives hire personal stylists",
+      "The negative effects of fashion on corporate governance",
+      "The changing trends in the technology industry"
+     ],
+     "answer": 0,
+     "explain": "文章讨论科技高管时尚转变及其引发的争议和深层含义，A项正确。B项只是部分原因；C项片面；D项范围过大且未聚焦时尚。",
+     "evidence": "In recent years, the public image of technology executives has undergone a noticeable transformation."
+    },
+    {
+     "id": "l2_2",
+     "stem": "Why do some tech leaders hire professional stylists?",
+     "options": [
+      "To appear more competent and credible to the public.",
+      "To compete with celebrities at fashion events.",
+      "To reduce the cost of their personal wardrobes.",
+      "To avoid criticism from fashion critics."
+     ],
+     "answer": 0,
+     "explain": "第二段指出高管意识到外表影响投资者等看法，得体形象传达能力与严肃，A项正确。B项与名人竞争未提；C项降低成本无依据；D项避免批评是结果而非原因。",
+     "evidence": "A polished look may convey competence and seriousness, while an overly casual or eccentric style could undermine credibility."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What does the author imply about the debate over executive fashion?",
+     "options": [
+      "It serves as a way to discuss broader social issues.",
+      "It will soon lose public interest as trends change.",
+      "It is primarily driven by fashion magazines.",
+      "It has little to do with the tech industry's image."
+     ],
+     "answer": 0,
+     "explain": "第四段指出服装讨论成为权力、责任等更广泛讨论的替代，A项正确。B项与最后一段“no sign of fading”矛盾；C项未提；D项与文章相反。",
+     "evidence": "The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Fashion Makeover of Tech Executives",
+   "passage": "In recent years, the public image of technology executives has undergone a striking transformation that few could have anticipated a decade ago. Once content to be seen in casual hoodies and jeans, many now embrace high-end fashion, hiring personal stylists and appearing at fashion shows alongside celebrities and designers. This shift is not merely personal; it reflects a broader effort to reshape the public's perception of the tech industry itself, which has increasingly come under scrutiny for its growing power and influence in society. According to fashion insiders, tech leaders are increasingly aware that their appearance can influence how they are perceived by investors, employees, and the general public. A polished look may convey competence and seriousness, while an overly casual or eccentric style could undermine credibility in settings where major financial decisions are made. As a result, some executives have turned to professional stylists for guidance on how to present themselves in public. For instance, a CEO's decision to wear a tailored suit instead of a hoodie can signal a new level of professionalism and a willingness to be taken seriously by traditional business partners. However, not everyone welcomes this trend, and some observers remain deeply skeptical of its implications. Critics argue that focusing on fashion distracts from more substantive issues, such as ethical concerns and corporate governance, which deserve far greater attention from both the media and the public. They contend that the public should judge leaders by their actions and decisions, not by their clothing, and that style should never become a substitute for substance. also, excessive attention to appearance may reinforce superficial values in the business world, where substance should matter more than style in shaping long-term reputations. Interestingly, the debate over executive fashion often reveals deeper anxieties about the role of technology in society and the people who lead it. When a tech leader adopts a dramatic new look, it can symbolize a break from the industry's traditional roots, raising questions about whether success has led to a loss of authenticity and a departure from the values that once defined the sector. The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity in an era of rapid technological change. in the end, whether one approves or disapproves, the scrutiny of tech executives' wardrobes shows no sign of fading in the foreseeable future. In an age where image is constantly curated and shared across social media platforms, the line between personal choice and public expectation remains blurred and increasingly difficult to define. What matters most, perhaps, is that the attention does not overshadow the real issues that technology companies and their leaders must address.",
+   "source": {
+    "name": "Wired",
+    "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The reasons behind tech executives' fashion choices",
+      "The growing attention to tech executives' fashion and its implications",
+      "The negative effects of fashion on corporate governance",
+      "The changing trends in the technology industry"
+     ],
+     "answer": 1,
+     "explain": "文章开篇即点明科技高管公众形象发生显著转变，随后讨论其时尚选择的原因、争议及深层含义，故B项正确。A项只涉及第二段的部分内容，以偏概全；C项仅对应批评者的观点，片面；D项范围过大，未聚焦时尚这一核心。",
+     "evidence": "In recent years, the public image of technology executives has undergone a striking transformation that few could have anticipated a decade ago.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why do some tech leaders hire professional stylists?",
+     "options": [
+      "To reduce the cost of their personal wardrobes.",
+      "To compete with celebrities at fashion events.",
+      "To appear more competent and credible to the public.",
+      "To avoid criticism from fashion critics."
+     ],
+     "answer": 2,
+     "explain": "第二段指出高管意识到外表影响他人看法，得体形象可传达能力与严肃，故C项正确。A项降低成本无依据；B项与名人竞争属过度推断；D项避免批评是结果而非原因，因果倒置。",
+     "evidence": "A polished look may convey competence and seriousness, while an overly casual or eccentric style could undermine credibility in settings where major financial decisions are made.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What do critics think about the focus on executive fashion?",
+     "options": [
+      "It has little impact on the business world.",
+      "It improves the public's trust in tech companies.",
+      "It encourages executives to be more authentic.",
+      "It diverts attention from ethical and governance issues."
+     ],
+     "answer": 3,
+     "explain": "第三段指出批评者认为关注时尚分散了对伦理和治理等实质问题的注意力，故D项正确。A项与批评者强调的负面影响矛盾；B项与批评者观点相反；C项原文未提及，属无关信息。",
+     "evidence": "Critics argue that focusing on fashion distracts from more substantive issues, such as ethical concerns and corporate governance, which deserve far greater attention from both the media and the public.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What does the author imply about the debate over executive fashion?",
+     "options": [
+      "It serves as a way to discuss broader social issues.",
+      "It will soon lose public interest as trends change.",
+      "It is primarily driven by fashion magazines.",
+      "It has little to do with the tech industry's image."
+     ],
+     "answer": 0,
+     "explain": "第四段指出服装讨论成为权力、责任等更广泛讨论的替代，故A项正确。B项与最后一段“no sign of fading”矛盾；C项原文未提及，属无关信息；D项与文章首段强调的形象重塑相反。",
+     "evidence": "The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity in an era of rapid technological change.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"proxy\" in the passage is closest in meaning to ______.",
+     "options": [
+      "substitute",
+      "barrier",
+      "result",
+      "signal"
+     ],
+     "answer": 0,
+     "explain": "proxy意为“替代物”，与substitute同义，故A项正确。B项barrier“障碍”不符语境；C项result“结果”因果倒置；D项signal“信号”不准确，未能体现替代关系。",
+     "evidence": "The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity in an era of rapid technological change.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "Once content to be seen in casual hoodies and jeans, many now embrace high-end fashion, hiring personal stylists and appearing at fashion shows. This shift is not merely personal; it reflects a broader effort to reshape the public's [1] of the tech industry itself. According to fashion insiders, tech leaders are increasingly aware that their appearance can influence how they are perceived by investors, employees, and the general public. A polished look may convey [2] and seriousness, while an overly casual or eccentric style could undermine credibility. As a result, some executives have turned to professional stylists for guidance. For instance, a CEO's decision to wear a tailored suit instead of a hoodie can signal a new level of [3].\n\nHowever, not everyone welcomes this trend. Critics argue that focusing on fashion distracts from more substantive issues, such as ethical concerns and corporate [4]. They contend that the public should judge leaders by their actions and decisions, not by their clothing. Moreover, excessive attention to appearance may reinforce [5] values in the business world, where substance should matter more than style.\n\nInterestingly, the debate over executive fashion often reveals deeper anxieties about the role of technology in society. When a tech leader adopts a [6] new look, it can symbolize a break from the industry's traditional roots, raising questions about whether success has led to a loss of authenticity. The conversation about clothing thus [7] a proxy for broader discussions about power, responsibility, and identity.\n\nUltimately, whether one approves or disapproves, the scrutiny of tech executives' wardrobes shows no sign of fading. In an age where image is constantly [8] and shared, the line between personal choice and public expectation remains [9]. What matters most, perhaps, is that the attention does not [10] the real issues that technology companies and their leaders must address.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "becomes"
+    },
+    {
+     "label": "B",
+     "word": "blurred"
+    },
+    {
+     "label": "C",
+     "word": "competence"
+    },
+    {
+     "label": "D",
+     "word": "contribution"
+    },
+    {
+     "label": "E",
+     "word": "curated"
+    },
+    {
+     "label": "F",
+     "word": "diversion"
+    },
+    {
+     "label": "G",
+     "word": "dramatic"
+    },
+    {
+     "label": "H",
+     "word": "governance"
+    },
+    {
+     "label": "I",
+     "word": "headquarters"
+    },
+    {
+     "label": "J",
+     "word": "indignant"
+    },
+    {
+     "label": "K",
+     "word": "likelihood"
+    },
+    {
+     "label": "L",
+     "word": "overshadow"
+    },
+    {
+     "label": "M",
+     "word": "perception"
+    },
+    {
+     "label": "N",
+     "word": "professionalism"
+    },
+    {
+     "label": "O",
+     "word": "superficial"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "perception",
+     "lower": "perception",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "感知",
+     "context": "This shift is not merely personal; it reflects a broader effort to reshape the public's perception of the tech industry itself."
+    },
+    {
+     "index": 2,
+     "word": "competence",
+     "lower": "competence",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "能力",
+     "context": "A polished look may convey competence and seriousness, while an overly casual or eccentric style could undermine credibility."
+    },
+    {
+     "index": 3,
+     "word": "professionalism",
+     "lower": "professionalism",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "For instance, a CEO's decision to wear a tailored suit instead of a hoodie can signal a new level of professionalism."
+    },
+    {
+     "index": 4,
+     "word": "governance",
+     "lower": "governance",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "Critics argue that focusing on fashion distracts from more substantive issues, such as ethical concerns and corporate governance."
+    },
+    {
+     "index": 5,
+     "word": "superficial",
+     "lower": "superficial",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "肤浅的",
+     "context": "Moreover, excessive attention to appearance may reinforce superficial values in the business world, where substance should matter more than style."
+    },
+    {
+     "index": 6,
+     "word": "dramatic",
+     "lower": "dramatic",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "引人注目的，戏剧的",
+     "context": "When a tech leader adopts a dramatic new look, it can symbolize a break from the industry's traditional roots, raising questions about whether success has led to a loss of authenticity."
+    },
+    {
+     "index": 7,
+     "word": "becomes",
+     "lower": "becomes",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "变成；成为，变得",
+     "context": "The conversation about clothing thus becomes a proxy for broader discussions about power, responsibility, and identity."
+    },
+    {
+     "index": 8,
+     "word": "curated",
+     "lower": "curated",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "E",
+     "gloss": "",
+     "context": "In an age where image is constantly curated and shared, the line between personal choice and public expectation remains [9]."
+    },
+    {
+     "index": 9,
+     "word": "blurred",
+     "lower": "blurred",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "变模糊；n 模糊，模糊的东西",
+     "context": "In an age where image is constantly [8] and shared, the line between personal choice and public expectation remains blurred."
+    },
+    {
+     "index": 10,
+     "word": "overshadow",
+     "lower": "overshadow",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "What matters most, perhaps, is that the attention does not overshadow the real issues that technology companies and their leaders must address."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Wired",
+  "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+  "long_sentences": [
+   {
+    "en": "As Emma Childs wonderfully observed in The Cut, “a $9,000 leather moto is not the outerwear of a man faithfully going home to his wife and kids after a long day of architecting the AI revolution.” And since Huang’s tomfoolery has managed to spank more than $1 trillion in less than a month, something has to be done.",
+    "words": 58
+   },
+   {
+    "en": "The message needs to be ‘I’m a serious person, and I’m leaving that tragic try-hard boomer dad wardrobe behind along with my despicable behavior.’” Clarkson agrees, saying that while the term “unapologetic” is often used in fashion, in this instance, Huang needs a more apologetic dress code, moving away from anything too flashy.",
+    "words": 53
+   },
+   {
+    "en": "So out go the overtly sexual Tom Ford leathers—which Jensen can handily sell off for $1 million a pop to his Huang-boys to offset any alimony outlays that may, or may not, be coming his way—and in come understated and neutral tones.",
+    "words": 42
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-15T09:33:41",
+ "difficulty": {
+  "score": 75,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 279,
+    "asl": 11.6,
+    "flesch": 72.5,
+    "fkgl": 6.0,
+    "long_sent": 0.0,
+    "beyond": 0.097,
+    "in_band": true,
+    "score": 85
+   },
+   {
+    "type": "passage_listening",
+    "words": 292,
+    "asl": 18.2,
+    "flesch": 35.0,
+    "fkgl": 12.9,
+    "long_sent": 0.062,
+    "beyond": 0.082,
+    "in_band": false,
+    "score": 64
+   },
+   {
+    "type": "reading",
+    "words": 444,
+    "asl": 26.1,
+    "flesch": 30.0,
+    "fkgl": 15.6,
+    "long_sent": 0.235,
+    "beyond": 0.074,
+    "in_band": false,
+    "score": 63
+   },
+   {
+    "type": "banked_cloze",
+    "words": 304,
+    "asl": 19.0,
+    "flesch": 36.2,
+    "fkgl": 12.9,
+    "long_sent": 0.062,
+    "beyond": 0.086,
+    "in_band": true,
+    "score": 87
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 75（接近六级），与六级区间有偏差。"
+}
