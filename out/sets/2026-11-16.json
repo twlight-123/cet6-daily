@@ -1,0 +1,515 @@
+{
+ "id": "2026-11-16",
+ "date": "2026-11-16",
+ "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 579,
+  "sentences": 28,
+  "avg_sentence_len": 20.7,
+  "flesch_ease": 50.8,
+  "flesch_grade": 11.3,
+  "hard_word_ratio": 0.107,
+  "long_sent_ratio": 0.214,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student journalist interviews a campaign volunteer about a recent local election.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Hi, Daniel. Thanks for agreeing to talk. I'm covering the student paper's election special, and I heard you volunteered on the Carter campaign for city council."
+    },
+    {
+     "sp": "M",
+     "en": "That's right. I spent most of October knocking on doors and making phone calls. It was exhausting, but I learned a lot about how local politics actually works."
+    },
+    {
+     "sp": "W",
+     "en": "What surprised you most? I mean, we read about national races all the time, but city council feels different."
+    },
+    {
+     "sp": "M",
+     "en": "Definitely. The issues are so concrete. People asked about bus routes, potholes, and whether the new library would stay open on weekends. Nobody mentioned the big national debates you see on TV."
+    },
+    {
+     "sp": "W",
+     "en": "So did the campaign focus on those practical concerns?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, almost entirely. Our candidate had a detailed plan for street repairs, and we handed out flyers with a map showing which roads would be fixed first. Voters really responded to that."
+    },
+    {
+     "sp": "W",
+     "en": "I noticed turnout was higher than expected. Do you think your efforts made a difference?"
+    },
+    {
+     "sp": "M",
+     "en": "I'd like to think so, but honestly, the margin was only about three hundred votes. The other side also worked hard. What probably helped us most was that our candidate had lived in the neighborhood for twenty years."
+    },
+    {
+     "sp": "W",
+     "en": "That's interesting. Some analysts say local elections are becoming more nationalized. Did you see any sign of that?"
+    },
+    {
+     "sp": "M",
+     "en": "A little. A few people asked about the mayor's ties to a national party, but it wasn't the main thing. Most voters cared about whether their street would get fixed."
+    },
+    {
+     "sp": "W",
+     "en": "What advice would you give to students who want to get involved next year?"
+    },
+    {
+     "sp": "M",
+     "en": "Start early and talk to people face to face. Don't just rely on social media. And be ready to listen more than you speak. That's what I'll do differently next time."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "A volunteer's experience in a city council race",
+      "The nationalization of local elections",
+      "The influence of social media on young voters",
+      "The funding sources of a student newspaper"
+     ],
+     "answer": 0,
+     "explain": "对话围绕 Daniel 参与市议会竞选的志愿经历展开，包括敲门拉票、选民关注的具体议题及建议，故 B 正确。A 项只是末尾提及的次要话题；C 项社交媒体的作用在建议部分一笔带过；D 项学生报纸的经费来源完全未提。",
+     "evidence": "I spent most of October knocking on doors and making phone calls. It was exhausting, but I learned a lot about how local politics actually works."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to Daniel, what did voters care about most?",
+     "options": [
+      "The candidate's position on national debates",
+      "The mayor's connection to a national party",
+      "Practical issues such as street repairs",
+      "The expansion of the city's bus network"
+     ],
+     "answer": 2,
+     "explain": "Daniel 明确说选民关心公交线路、坑洼路面和图书馆周末开放等具体问题，故 C 正确。A 项与原文相反，选民几乎不提全国性辩论；B 项只是少数人问及；D 项公交线路只是列举之一，并非“最关心”的概括。",
+     "evidence": "People asked about bus routes, potholes, and whether the new library would stay open on weekends."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the election result?",
+     "options": [
+      "The Carter campaign won by a large margin",
+      "The outcome was decided by a narrow margin",
+      "The opposing campaign barely campaigned",
+      "National issues played no role at all"
+     ],
+     "answer": 1,
+     "explain": "Daniel 说票差仅约三百票，说明胜负差距很小，故 B 正确。A 项与“三百票”矛盾；C 项原文说对方也很努力；D 项绝对化，原文说少数人问及全国党派关系，并非“完全没有”。",
+     "evidence": "I'd like to think so, but honestly, the margin was only about three hundred votes."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is Daniel's attitude toward face-to-face campaigning?",
+     "options": [
+      "He considers it outdated but necessary",
+      "He regards it as more effective than social media",
+      "He believes it is too time-consuming to continue",
+      "He thinks it matters only in national races"
+     ],
+     "answer": 1,
+     "explain": "Daniel 建议“不要只依赖社交媒体”，并强调当面交谈，表明他认为面对面拉票更有效，故 B 正确。A 项“过时”无依据；C 项他虽觉疲惫但仍愿再做；D 项与地方选举语境相反。",
+     "evidence": "Start early and talk to people face to face. Don't just rely on social media."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, more young people than ever have run for local office in the United States. This trend has drawn much attention from political scientists and party organizers. One survey found that nearly one third of city council members elected in 2024 were under forty. That is a sharp rise from a decade earlier. It also shows a broader change in how voters see political representation. Supporters say younger candidates bring fresh views and a stronger grasp of issues like housing costs and digital privacy. They also tend to be more open to voters who feel ignored by established politicians. In some cities, young council members have pushed through reforms that older officials had long delayed. This shows that energy and new ideas can lead to real policy changes. Critics warn, however, that enthusiasm alone is not enough. Local government involves complex budgets, legal procedures, and long-term planning, and these tasks need experience that newcomers often lack. Some young officials have struggled to manage staff or negotiate with unions. This has led to frustration on both sides and questions about whether they are ready for office. Yet the debate may miss a larger point. The real obstacle for young candidates is not ability but resources, and campaigns cost money. Most young people have neither personal wealth nor access to established donor networks. This limits who can realistically compete. Until campaign finance rules change, the trend toward younger representation may stay limited to wealthy or well-connected people who can afford to run. Still, the shift is important. Even if progress is slow, the growing presence of young people in local politics suggests that voters are rethinking who is qualified to govern. That change in expectations may last longer than any single election result."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The financial barriers facing young political candidates",
+      "The rising trend of young people in local politics",
+      "The failure of young officials to manage budgets",
+      "The decline of established political parties"
+     ],
+     "answer": 1,
+     "explain": "全文围绕年轻人参选地方公职的趋势展开，涵盖支持者观点、批评者担忧及资源障碍，故 B 正确。A 项只是第四段的核心，不能概括全文；C 项是批评者观点的一部分；D 项政党衰落未提及。",
+     "evidence": "In recent years, more young people than ever have run for local office in the United States."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What do supporters say about younger candidates?",
+     "options": [
+      "They are more likely to win national elections",
+      "They bring fresh views on housing and privacy",
+      "They have stronger ties to established donors",
+      "They prefer long-term planning to quick reforms"
+     ],
+     "answer": 1,
+     "explain": "第二段指出支持者认为年轻候选人带来新视角，更懂住房成本和数字隐私等问题，故 B 正确。A 项全国选举未提；C 项与第四段“缺乏捐赠网络”相反；D 项偷换概念，原文说他们推动改革而非偏好长期规划。",
+     "evidence": "Supporters say younger candidates bring fresh views and a stronger grasp of issues like housing costs and digital privacy."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What does the author imply about campaign finance rules?",
+     "options": [
+      "They currently favor candidates with wealth or connections",
+      "They have already been reformed in most cities",
+      "They are the main reason young people lose elections",
+      "They matter less than a candidate's competence"
+     ],
+     "answer": 0,
+     "explain": "第四段说竞选花费金钱，多数年轻人既无个人财富也无捐赠网络，并称除非规则改变，趋势可能限于富裕或有关系者，故 A 正确。B 项与“until rules change”相反；C 项过度推断，原文只说资源是真正障碍；D 项与原文“真正障碍不是能力而是资源”相反。",
+     "evidence": "Until campaign finance rules change, the trend toward younger representation may stay limited to wealthy or well-connected people who can afford to run."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A New Face in the Senate",
+   "passage": "The election of Scott Colom to the U.S. Senate from Mississippi has drawn national attention not only because of his victory but also because of what it represents. Colom, a Democrat, defeated Republican incumbent Cindy Hyde-Smith by a margin of just a few thousand votes. In doing so, he became the first Black senator from Mississippi in nearly 150 years, a fact that carries heavy historical weight in a state long associated with racial exclusion.\n\nColom's win also alters the balance of power in Washington. His seat expands the Democratic majority in the new Congress to 55, giving the party a slightly wider cushion for advancing legislation. The Alaska race remains undecided, and its outcome could further shape the chamber's composition. For Democrats, the Mississippi result is both a symbolic breakthrough and a practical gain.\n\nThe victory did not occur in isolation. Across the country, several candidates from historically underrepresented groups have won seats in Congress this cycle. Abdul El-Sayed, a 42-year-old progressive from Michigan, became the first Muslim elected to the Senate. He has already called for new Democratic leadership and urged President Trump to work on practical solutions. Such victories suggest that voters are increasingly willing to support candidates who do not fit the traditional profile.\n\nYet the broader political environment remains tense. The White House has warned Democrats that planned investigations into administration officials could cross into \"blatant criminality.\" White House Counsel Will Scharf wrote to Representative Robert Garcia, who is expected to lead the House Oversight Committee, saying the administration is monitoring what it calls \"abusive and capricious threats.\" Garcia responded that Democrats will not be deterred by such warnings. The exchange signals that conflicts over congressional oversight are likely to intensify.\n\nMeanwhile, foreign policy developments continue to unfold. Russia and Ukraine agreed to a significant prisoner swap after two days of U.S.-mediated talks in Abu Dhabi. Trump's envoys, Jared Kushner and Steve Witkoff, are in Moscow to meet with President Vladimir Putin and seek further progress toward ending the war. These efforts, though separate from domestic politics, will inevitably affect how the administration is judged.\n\nTaken together, these developments paint a picture of a political system in flux. New faces are entering Congress, old battles over oversight are heating up, and diplomatic initiatives are moving forward. What remains unclear is whether these changes will produce lasting shifts in governance or prove to be temporary adjustments. For now, the Senate's newest member stands as a reminder that American politics is capable of surprising even its closest observers.",
+   "source": {
+    "name": "NPR World",
+    "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The historical significance of Mississippi's Senate election",
+      "The conflict between the White House and Congress",
+      "Recent political developments and their broader implications",
+      "The role of U.S. envoys in ending the war in Ukraine"
+     ],
+     "answer": 2,
+     "explain": "全文从Colom胜选谈起，依次涉及国会席位变化、多元候选人当选、白宫与民主党对峙及外交进展，最后收束于政治变动，故C正确。A项只覆盖第一段；B项只对应第四段；D项只对应第五段，均以偏概全。",
+     "evidence": "Taken together, these developments paint a picture of a political system in flux.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What effect does Colom's victory have on Congress?",
+     "options": [
+      "It reduces the Republican majority in the Senate",
+      "It gives Democrats a filibuster-proof majority",
+      "It decides the outcome of the Alaska race",
+      "It expands the Democratic majority to 55 seats"
+     ],
+     "answer": 3,
+     "explain": "第二段明确说他的席位使民主党在新国会中的多数扩大到55席，故D正确。A项张冠李戴，原文说的是民主党多数扩大；B项“filibuster-proof”是El-Sayed部分提到的、尚差几席的状态，属偷换概念；C项阿拉斯加选举仍未定。",
+     "evidence": "His seat expands the Democratic majority in the new Congress to 55, giving the party a slightly wider cushion for advancing legislation.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What did White House Counsel Will Scharf say in his letter?",
+     "options": [
+      "The administration would welcome congressional investigations",
+      "The administration would not be intimidated by unlawful process",
+      "Democrats had already committed blatant criminality",
+      "The Justice Department would prosecute Representative Garcia"
+     ],
+     "answer": 1,
+     "explain": "第四段引述信件称政府“不会被非法程序吓倒”，故B正确。A项与警告语气相反；C项将“可能越界”绝对化为“已经犯罪”；D项起诉Garcia属无中生有，原文只说Garcia不会被司法部威胁吓倒。",
+     "evidence": "The White House has warned Democrats that planned investigations into administration officials could cross into \"blatant criminality.\" White House Counsel Will Scharf wrote to Representative Robert Garcia, who is expected to lead the House Oversight Committee, saying the administration is monitoring what it calls \"abusive and capricious threats.\" Garcia responded that Democrats will not be deterred by such warnings.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the new members of Congress?",
+     "options": [
+      "They all belong to the Democratic Party",
+      "They are more diverse than in previous years",
+      "They have already changed the filibuster rules",
+      "They oppose any cooperation with Republicans"
+     ],
+     "answer": 1,
+     "explain": "第三段指出多位来自历史上代表性不足群体的候选人当选，包括首位穆斯林参议员，可见国会成员较以往更多元，故B正确。A项绝对化，原文未说全部为民主党；C项无依据；D项与El-Sayed愿与共和党同事合作相反。",
+     "evidence": "Such victories suggest that voters are increasingly willing to support candidates who do not fit the traditional profile.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"flux\" in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "a state of constant change",
+      "a period of economic decline",
+      "a condition of strict control",
+      "a feeling of public distrust"
+     ],
+     "answer": 0,
+     "explain": "flux意为“不断变动”，与末段列举的新面孔、旧争斗、外交进展等变化相呼应，故A正确。B项经济衰退、C项严格控制、D项公众不信任均与上下文不符，属偷换概念。",
+     "evidence": "Taken together, these developments paint a picture of a political system in flux.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "In doing so, he became the first Black senator from Mississippi in nearly 150 years, a fact that carries heavy historical weight in a state long associated with racial [1]. Colom's win also alters the balance of power in Washington. His seat expands the Democratic [2] in the new Congress to 55, giving the party a slightly wider cushion for advancing legislation. The Alaska race remains undecided, and its outcome could further shape the chamber's composition.\n\nFor Democrats, the Mississippi result is both a [3] breakthrough and a practical gain. The victory did not occur in [4]. Across the country, several candidates from historically underrepresented groups have won seats in Congress this cycle. Abdul El-Sayed, a 42-year-old progressive from Michigan, became the first Muslim [5] to the Senate. He has already called for new Democratic leadership and urged President Trump to work on practical [6]. Such victories suggest that voters are increasingly willing to support candidates who do not fit the traditional profile.\n\nYet the broader political environment remains tense. The White House has warned Democrats that planned investigations into administration officials could cross into \"blatant criminality.\" White House Counsel Will Scharf wrote to Representative Robert Garcia, who is expected to lead the House Oversight Committee, saying the administration is monitoring what it calls \"[7] and capricious threats.\" Garcia responded that Democrats will not be [8] by such warnings. The exchange signals that conflicts over congressional oversight are likely to [9].\n\nMeanwhile, foreign policy developments continue to unfold. Russia and Ukraine agreed to a significant prisoner swap after two days of U.S.-[10] talks in Abu Dhabi. Trump's envoys, Jared Kushner and Steve Witkoff, are in Moscow to meet with President Vladimir Putin and seek further progress toward ending the war.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "abusive"
+    },
+    {
+     "label": "B",
+     "word": "deterred"
+    },
+    {
+     "label": "C",
+     "word": "disturbance"
+    },
+    {
+     "label": "D",
+     "word": "elected"
+    },
+    {
+     "label": "E",
+     "word": "exclusion"
+    },
+    {
+     "label": "F",
+     "word": "intensify"
+    },
+    {
+     "label": "G",
+     "word": "introduce"
+    },
+    {
+     "label": "H",
+     "word": "isolation"
+    },
+    {
+     "label": "I",
+     "word": "majority"
+    },
+    {
+     "label": "J",
+     "word": "mediated"
+    },
+    {
+     "label": "K",
+     "word": "permissible"
+    },
+    {
+     "label": "L",
+     "word": "prototype"
+    },
+    {
+     "label": "M",
+     "word": "solutions"
+    },
+    {
+     "label": "N",
+     "word": "symbolic"
+    },
+    {
+     "label": "O",
+     "word": "vision"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "exclusion",
+     "lower": "exclusion",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "E",
+     "gloss": "",
+     "context": "In doing so, he became the first Black senator from Mississippi in nearly 150 years, a fact that carries heavy historical weight in a state long associated with racial exclusion."
+    },
+    {
+     "index": 2,
+     "word": "majority",
+     "lower": "majority",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "多数",
+     "context": "His seat expands the Democratic majority in the new Congress to 55, giving the party a slightly wider cushion for advancing legislation."
+    },
+    {
+     "index": 3,
+     "word": "symbolic",
+     "lower": "symbolic",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "N",
+     "gloss": "符号的； 象征性的",
+     "context": "For Democrats, the Mississippi result is both a symbolic breakthrough and a practical gain."
+    },
+    {
+     "index": 4,
+     "word": "isolation",
+     "lower": "isolation",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "H",
+     "gloss": "隔绝，隔离",
+     "context": "The victory did not occur in isolation."
+    },
+    {
+     "index": 5,
+     "word": "elected",
+     "lower": "elected",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "选举，推选；选择",
+     "context": "Abdul El-Sayed, a 42-year-old progressive from Michigan, became the first Muslim elected to the Senate."
+    },
+    {
+     "index": 6,
+     "word": "solutions",
+     "lower": "solutions",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "解决，解答，解决办法",
+     "context": "He has already called for new Democratic leadership and urged President Trump to work on practical solutions."
+    },
+    {
+     "index": 7,
+     "word": "abusive",
+     "lower": "abusive",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "A",
+     "gloss": "",
+     "context": "The White House has warned Democrats that planned investigations into administration officials could cross into \"blatant criminality.\" White House Counsel Will Scharf wrote to Representative Robert Garcia, who is expected to lead the House Oversight Committee, saying the administration is monitoring what it calls \"abusive and capricious threats.\" Garcia responded that Democrats will not be [8] by such warnings."
+    },
+    {
+     "index": 8,
+     "word": "deterred",
+     "lower": "deterred",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "The White House has warned Democrats that planned investigations into administration officials could cross into \"blatant criminality.\" White House Counsel Will Scharf wrote to Representative Robert Garcia, who is expected to lead the House Oversight Committee, saying the administration is monitoring what it calls \"[7] and capricious threats.\" Garcia responded that Democrats will not be deterred by such warnings."
+    },
+    {
+     "index": 9,
+     "word": "intensify",
+     "lower": "intensify",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "F",
+     "gloss": "增强， 加剧",
+     "context": "The exchange signals that conflicts over congressional oversight are likely to intensify."
+    },
+    {
+     "index": 10,
+     "word": "mediated",
+     "lower": "mediated",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "J",
+     "gloss": "调解，斡旋；vt  经调解解决； 经斡旋促成",
+     "context": "Russia and Ukraine agreed to a significant prisoner swap after two days of U.S.-mediated talks in Abu Dhabi."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "NPR World",
+  "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+  "long_sentences": [
+   {
+    "en": "The letter concludes by saying that \"the administration will not be extorted and will not be cowed by unlawful process, motivated by animus, pettiness, hatred or any other unlawful motive to intimidate, penalize or interfere with the lawful functioning of government.\" Garcia said Democrats will not be deterred by threats from the Department of Justice or Trump's lawyers.",
+    "words": 58
+   },
+   {
+    "en": "Sarah Warnock/AP hide caption The White House is warning Democrats that their planned investigations into administration officials could cross the line into \"blatant criminality.\" White House Counsel Will Scharf said in a letter to Rep.",
+    "words": 35
+   },
+   {
+    "en": "As the senator-elect comes into the new role, he is advocating for new Democratic leadership in Congress, an end to the war in Iran, the passage of \"Medicare for All\" and the abolishment of ICE.",
+    "words": 35
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-16T09:37:29",
+ "difficulty": {
+  "score": 81,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 292,
+    "asl": 10.8,
+    "flesch": 73.3,
+    "fkgl": 5.7,
+    "long_sent": 0.0,
+    "beyond": 0.062,
+    "in_band": true,
+    "score": 79
+   },
+   {
+    "type": "passage_listening",
+    "words": 292,
+    "asl": 13.9,
+    "flesch": 57.7,
+    "fkgl": 8.7,
+    "long_sent": 0.0,
+    "beyond": 0.048,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "reading",
+    "words": 422,
+    "asl": 18.3,
+    "flesch": 35.7,
+    "fkgl": 12.8,
+    "long_sent": 0.043,
+    "beyond": 0.081,
+    "in_band": true,
+    "score": 75
+   },
+   {
+    "type": "banked_cloze",
+    "words": 290,
+    "asl": 18.1,
+    "flesch": 35.9,
+    "fkgl": 12.8,
+    "long_sent": 0.062,
+    "beyond": 0.083,
+    "in_band": true,
+    "score": 84
+   }
+  ]
+ }
+}
