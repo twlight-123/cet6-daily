@@ -1,0 +1,511 @@
+{
+ "id": "2026-11-17",
+ "date": "2026-11-17",
+ "title": "Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 696,
+  "sentences": 29,
+  "avg_sentence_len": 24.0,
+  "flesch_ease": 51.9,
+  "flesch_grade": 12.0,
+  "hard_word_ratio": 0.086,
+  "long_sent_ratio": 0.345,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 94
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student journalist interviews a campus security officer about a new policy on throwing gifts at visiting speakers.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Officer Daniels, thanks for agreeing to talk to the campus paper. I heard the university is tightening rules on what people can throw at guest speakers. Is that true?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, it is. After the incident last month when a water bottle nearly hit a visiting politician, the administration asked us to draft a stricter policy. Starting next term, spectators will be asked to place any gifts or tokens in designated bins before entering the hall."
+    },
+    {
+     "sp": "W",
+     "en": "But throwing things like flowers or small gifts has always been a way for students to show appreciation. Won't people feel that a tradition is being taken away?"
+    },
+    {
+     "sp": "M",
+     "en": "I understand the concern. We are not banning gifts altogether. The idea is to create a safe zone: items can be handed over at the entrance and then presented to the speaker afterwards. What we want to avoid is objects flying through the air and hitting someone in the face, which is exactly what happened last month."
+    },
+    {
+     "sp": "W",
+     "en": "I see. So the bins are more about safety than about stopping people from expressing affection. How will the policy be enforced?"
+    },
+    {
+     "sp": "M",
+     "en": "We will have staff at the doors and some signs. Initially, we plan to remind people rather than punish them. Only if someone deliberately throws something after being warned will we consider disciplinary action. The last thing we want is to create tension at events that are supposed to be celebratory."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds reasonable. Do you expect resistance from students?"
+    },
+    {
+     "sp": "M",
+     "en": "There may be some grumbling, but once students see that the policy protects both the speakers and themselves, I think they will cooperate. We also plan to hold a short briefing with student leaders next week to explain the rationale."
+    },
+    {
+     "sp": "W",
+     "en": "One more question: will this policy apply to all events, including sports games?"
+    },
+    {
+     "sp": "M",
+     "en": "No, it is limited to indoor lecture halls and ceremonial events where a speaker is the focus. Sports games already have their own rules. Our aim is simply to make sure that the distance between a well-meaning gesture and a potential injury is eliminated."
+    },
+    {
+     "sp": "W",
+     "en": "Thank you, Officer Daniels. I think our readers will appreciate the clarification."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the main purpose of the new policy?",
+     "options": [
+      "To prevent injuries caused by objects thrown at speakers",
+      "To ban all forms of gift-giving at campus events",
+      "To punish students who show affection to guests",
+      "To reduce the number of guest speakers on campus"
+     ],
+     "answer": 0,
+     "explain": "对话中警官明确说新政策旨在避免物体飞掷伤人，正确项 A 是对该目的的概括。B 项绝对化，政策并未禁止礼物；C 项偷换概念，惩罚不是目的；D 项无关信息，对话未提及减少演讲者数量。",
+     "evidence": "What we want to avoid is objects flying through the air and hitting someone in the face, which is exactly what happened last month."
+    },
+    {
+     "id": "l1_2",
+     "stem": "How will the policy be enforced at first?",
+     "options": [
+      "By stationing police officers at every entrance",
+      "By confiscating all gifts at the door",
+      "By reminding people rather than punishing them",
+      "By closing events to outside visitors"
+     ],
+     "answer": 2,
+     "explain": "警官说初期以提醒为主而非惩罚，B 项同义改写。A 项张冠李戴，是工作人员而非警察；C 项过度推断，礼物是存放而非没收；D 项无中生有。",
+     "evidence": "Initially, we plan to remind people rather than punish them."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the officer's attitude toward student reactions?",
+     "options": [
+      "He expects students to protest violently.",
+      "He believes students will eventually accept the policy.",
+      "He thinks students will ignore the policy completely.",
+      "He fears the policy will be impossible to enforce."
+     ],
+     "answer": 1,
+     "explain": "警官说学生看到政策保护双方后就会合作，可推断他预期学生最终接受，B 项正确。A 项绝对化，未提暴力；C 项与原文相反；D 项过度推断，他并未说无法执行。",
+     "evidence": "once students see that the policy protects both the speakers and themselves, I think they will cooperate."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the new policy?",
+     "options": [
+      "Strongly opposed",
+      "Cautiously supportive",
+      "Completely indifferent",
+      "Openly hostile"
+     ],
+     "answer": 1,
+     "explain": "女士先质疑传统被取消，听完解释后说“听起来合理”，态度是谨慎支持，B 项正确。A、D 项程度过重；C 项与她的提问和回应不符。",
+     "evidence": "That sounds reasonable. Do you expect resistance from students?"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When a famous person visits a crowded square, the gap between love and danger can be very small. The line between real affection and possible harm is often thinner than most people think. Last week, a small object was thrown by an excited fan at a farewell ceremony in a South American capital. It hit a visiting leader in the face. The injury was minor, but the incident has started a heated debate about how crowds should show affection at public events. Traditionally, people throw flowers, rosaries, or sports jerseys. These acts have long been seen as natural signs of warmth and devotion. They are a simple way for ordinary citizens to show thanks to those they admire. For security teams, however, such objects are a real problem. They cannot be checked in advance, and they fly through the air at high speed. And they can easily hide much more dangerous items under a harmless look. Bodyguards often say the greatest threat at outdoor events is not a well-planned attack. It is an unpredictable object thrown by an overexcited supporter. Some organizers now suggest special drop-off points, and gifts can be left there before the event. Later, they can be given to the public figure in a controlled way. Critics say this makes formal what should stay natural. It takes the raw emotion out of the moment. It turns a heartfelt act into a bureaucratic step. Supporters of the idea, however, point out that a short delay hardly weakens the feeling behind the gift. At the same time, it sharply cuts the risk of injury to everyone involved. The deeper issue is balance, and public figures need to stay accessible. If they are not, they lose the very connection that makes their presence meaningful. Yet their safety cannot be left to chance, and the answer may not be to ban such gestures. It may be to redesign the space so that enthusiasm can be expressed without becoming a hazard. In that sense, the recent incident reminds us that even the most innocent traditions may need a second look."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The history of gift-throwing at public ceremonies",
+      "The challenge of balancing public affection and safety",
+      "The declining popularity of visiting dignitaries",
+      "The strict security measures at indoor events"
+     ],
+     "answer": 1,
+     "explain": "全文围绕表达热情与保障安全之间的平衡展开，B 项概括主旨。A 项只是细节；C 项无中生有；D 项偷换概念，文中讨论的是户外活动。",
+     "evidence": "The deeper issue is balance, and public figures need to stay accessible."
+    },
+    {
+     "id": "l2_2",
+     "stem": "Why do security teams dislike thrown objects?",
+     "options": [
+      "They are often too expensive to replace.",
+      "They can hide more dangerous items.",
+      "They are usually thrown by trained attackers.",
+      "They slow down the ceremony considerably."
+     ],
+     "answer": 1,
+     "explain": "短文提到投掷物可能藏匿更危险的物品，B 项正确。A 项无关；C 项张冠李戴，投掷者多为支持者；D 项未提及。",
+     "evidence": "And they can easily hide much more dangerous items under a harmless look."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the proposed drop-off points?",
+     "options": [
+      "They will completely eliminate spontaneous affection.",
+      "They may reduce risk without destroying sentiment.",
+      "They have been rejected by all event organizers.",
+      "They are intended only for indoor ceremonies."
+     ],
+     "answer": 1,
+     "explain": "支持者认为短暂延迟不会减损情感却能降低风险，可推断 B 项。A 项绝对化；C 项与原文相反；D 项无依据。",
+     "evidence": "Supporters of the idea, however, point out that a short delay hardly weakens the feeling behind the gift."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A Pope's Farewell and the Limits of Public Affection",
+   "passage": "When Pope Leo XIV ended his twelve-day South American tour in Peru, he did so with a Spanish phrase that suggested a temporary goodbye rather than a final one. The trip, his first major international journey after lung cancer surgery, was widely seen as a test of his physical resilience. Yet the most memorable moment came not from a speech but from a small object thrown by a well-wisher: an apparent rosary that struck the pope in the face during the traditional popemobile ride. He winced, touched his temple, and continued with the Mass, which the Vatican said drew some 1.5 million people.\n\nThe incident highlighted a tension that has long accompanied public appearances by popular figures. The faithful often toss rosaries, stuffed animals, and sports jerseys toward the popemobile, and Leo has frequently delighted crowds by catching them with quick reflexes. His bodyguards, however, have repeatedly identified such projectiles as a principal concern. The objects are unpredictable, they travel fast, and they can conceal more dangerous items. What is an expression of affection for the crowd is a security headache for those responsible for protection.\n\nFor Leo, the visit was also an emotional homecoming. Born in Chicago, he spent two decades in Peru as a missionary priest and bishop, and he has credited the country with teaching him how to be a shepherd. Upon arrival, he called Peru his “patria” and sang the national anthem alongside President Keiko Fujimori. He holds both American and Peruvian citizenship, and his ease with the local culture was evident throughout the journey.\n\nIn modeling his ministry, Leo has pointed to St. Turibius of Mogrovejo, the first archbishop of Lima, who lived from 1538 to 1606. Mogrovejo is revered for denouncing abuses against Indigenous and enslaved people by Spanish colonizers, and for traveling his vast diocese on foot and horseback to minister to his flock. He learned Quechua and Aymara to preach more effectively and oversaw the translation of church teachings so that Indigenous members could understand them. Following this example, Leo traveled to places where the Catholic hierarchy rarely goes, from the high Andes to the Amazon rainforest, enduring exhausting changes of climate and altitude.\n\nThe journey also served as a response to skeptics, including some in the Vatican who had questioned whether Leo would have to alter the course of his pontificate after his diagnosis. By completing the tour, he demonstrated that his stamina remained intact and that his commitment to the periphery was not merely rhetorical. The Peru stop capped a visit that began in Uruguay and continued to Argentina, the homeland of his predecessor.\n\nUltimately, the thrown rosary and the pope's calm reaction captured a broader truth: public affection and public safety are not easily reconciled. The impulse to toss a gift is spontaneous and sincere, but it places an unpredictable object in the air. The challenge for organizers is to preserve the sincerity while removing the hazard, a task that may require redesigning the space rather than banning the gesture.",
+   "source": {
+    "name": "ABC News",
+    "url": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The pope's tour as a display of recovery and pastoral dedication.",
+      "The pope's journey as a political protest against the Vatican.",
+      "The rosary incident as the sole focus of the pope's entire tour.",
+      "The pope's dual citizenship as the key factor in his route."
+     ],
+     "answer": 0,
+     "explain": "文章主旨是教皇通过旅行展示身体恢复与牧灵承诺，A项正确。B项过度推断，文中未提政治抗议；C项绝对化，事件只是引子；D项因果倒置，公民身份并非行程决定因素。",
+     "evidence": "By completing the tour, he demonstrated that his stamina remained intact and that his commitment to the periphery was not merely rhetorical.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why do bodyguards view thrown objects as a major concern?",
+     "options": [
+      "They are often too heavy to be caught safely.",
+      "They are usually thrown by organized attackers.",
+      "They may hide more dangerous items inside.",
+      "They are strictly banned by the Vatican."
+     ],
+     "answer": 2,
+     "explain": "第二段指出投掷物可能藏匿更危险物品，C项同义改写正确。A项无中生有，未提重量；B项张冠李戴，投掷者多为信徒；D项无中生有，文中未说梵蒂冈禁止。",
+     "evidence": "The objects are unpredictable, they travel fast, and they can conceal more dangerous items.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What did Leo do to follow Mogrovejo's example?",
+     "options": [
+      "He learned Quechua and Aymara to preach.",
+      "He traveled to remote areas rarely visited by the hierarchy.",
+      "He denounced Spanish colonizers in a public speech.",
+      "He translated church teachings into Indigenous languages."
+     ],
+     "answer": 1,
+     "explain": "第四段说Leo效仿Mogrovejo前往教会高层少去之地，B项正确。A、D项是Mogrovejo本人的行为，张冠李戴；C项未提及Leo公开谴责。",
+     "evidence": "Following this example, Leo traveled to places where the Catholic hierarchy rarely goes, from the high Andes to the Amazon rainforest, enduring exhausting changes of climate and altitude.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the Vatican skeptics?",
+     "options": [
+      "They doubted whether Leo could maintain his schedule after surgery.",
+      "They opposed Leo's plan to visit Argentina.",
+      "They demanded that Leo cancel the entire tour.",
+      "They believed the rosary incident was a security failure."
+     ],
+     "answer": 0,
+     "explain": "第五段说怀疑者质疑Leo是否需改变行程，可推断他们怀疑其术后体力，A项正确。B、C项过度推断；D项张冠李戴，文中未将事件归因于怀疑者。",
+     "evidence": "including some in the Vatican who had questioned whether Leo would have to alter the course of his pontificate after his diagnosis.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “periphery” in paragraph 5 is closest in meaning to ______.",
+     "options": [
+      "central institutions",
+      "remote or marginal areas",
+      "political headquarters",
+      "ceremonial spaces"
+     ],
+     "answer": 1,
+     "explain": "periphery在语境中指远离中心的边缘地区，与remote or marginal areas同义，B项正确。A项是反义；C、D项偷换概念，与上下文不符。",
+     "evidence": "his commitment to the periphery was not merely rhetorical.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "When Pope Leo XIV ended his twelve-day South American tour in Peru, he did so with a Spanish phrase that suggested a [1] goodbye rather than a final one. The trip, his first major international journey after lung cancer surgery, was widely seen as a test of his physical [2]. Yet the most memorable moment came not from a speech but from a small object thrown by a well-wisher: an apparent rosary that [3] the pope in the face during the traditional popemobile ride. He winced, [4] his temple, and continued with the Mass, which the Vatican said drew some 1.5 million people.\n\nThe incident [5] a tension that has long accompanied public appearances by popular figures. The faithful often toss rosaries, stuffed animals, and sports jerseys toward the popemobile, and Leo has frequently [6] crowds by catching them with quick reflexes. His bodyguards, however, have repeatedly identified such projectiles as a [7] concern. The objects are unpredictable, they travel fast, and they can conceal more dangerous items. What is an [8] of affection for the crowd is a security headache for those responsible for protection.\n\nFor Leo, the visit was also an emotional homecoming. Born in Chicago, he spent two decades in Peru as a [9] priest and bishop, and he has credited the country with teaching him how to be a [10]. Upon arrival, he called Peru his “patria” and sang the national anthem alongside President Keiko Fujimori. He holds both American and Peruvian citizenship, and his ease with the local culture was evident throughout the journey. In modeling his ministry, Leo has pointed to St. Turibius of Mogrovejo, the first archbishop of Lima, who lived from 1538 to 1606.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "appliance"
+    },
+    {
+     "label": "B",
+     "word": "competition"
+    },
+    {
+     "label": "C",
+     "word": "cruise"
+    },
+    {
+     "label": "D",
+     "word": "delighted"
+    },
+    {
+     "label": "E",
+     "word": "dissipate"
+    },
+    {
+     "label": "F",
+     "word": "expression"
+    },
+    {
+     "label": "G",
+     "word": "highlighted"
+    },
+    {
+     "label": "H",
+     "word": "missionary"
+    },
+    {
+     "label": "I",
+     "word": "principal"
+    },
+    {
+     "label": "J",
+     "word": "resilience"
+    },
+    {
+     "label": "K",
+     "word": "shepherd"
+    },
+    {
+     "label": "L",
+     "word": "struck"
+    },
+    {
+     "label": "M",
+     "word": "temporary"
+    },
+    {
+     "label": "N",
+     "word": "touched"
+    },
+    {
+     "label": "O",
+     "word": "undecided"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "temporary",
+     "lower": "temporary",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "暂时的，临时的",
+     "context": "When Pope Leo XIV ended his twelve-day South American tour in Peru, he did so with a Spanish phrase that suggested a temporary goodbye rather than a final one."
+    },
+    {
+     "index": 2,
+     "word": "resilience",
+     "lower": "resilience",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "J",
+     "gloss": "",
+     "context": "The trip, his first major international journey after lung cancer surgery, was widely seen as a test of his physical resilience."
+    },
+    {
+     "index": 3,
+     "word": "struck",
+     "lower": "struck",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "罢工",
+     "context": "Yet the most memorable moment came not from a speech but from a small object thrown by a well-wisher: an apparent rosary that struck the pope in the face during the traditional popemobile ride."
+    },
+    {
+     "index": 4,
+     "word": "touched",
+     "lower": "touched",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "触摸；触动；感动；n 触",
+     "context": "He winced, touched his temple, and continued with the Mass, which the Vatican said drew some 1.5 million people."
+    },
+    {
+     "index": 5,
+     "word": "highlighted",
+     "lower": "highlighted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "& n 照亮；突出；强调",
+     "context": "The incident highlighted a tension that has long accompanied public appearances by popular figures."
+    },
+    {
+     "index": 6,
+     "word": "delighted",
+     "lower": "delighted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "高兴",
+     "context": "The faithful often toss rosaries, stuffed animals, and sports jerseys toward the popemobile, and Leo has frequently delighted crowds by catching them with quick reflexes."
+    },
+    {
+     "index": 7,
+     "word": "principal",
+     "lower": "principal",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "主要的；n 负责人",
+     "context": "His bodyguards, however, have repeatedly identified such projectiles as a principal concern."
+    },
+    {
+     "index": 8,
+     "word": "expression",
+     "lower": "expression",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "词句；表达；表情",
+     "context": "What is an expression of affection for the crowd is a security headache for those responsible for protection."
+    },
+    {
+     "index": 9,
+     "word": "missionary",
+     "lower": "missionary",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "H",
+     "gloss": "传教士",
+     "context": "Born in Chicago, he spent two decades in Peru as a missionary priest and bishop, and he has credited the country with teaching him how to be a [10]."
+    },
+    {
+     "index": 10,
+     "word": "shepherd",
+     "lower": "shepherd",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "K",
+     "gloss": "引导，带领",
+     "context": "Born in Chicago, he spent two decades in Peru as a [9] priest and bishop, and he has credited the country with teaching him how to be a shepherd."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ABC News",
+  "url": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866",
+  "long_sentences": [
+   {
+    "en": "The climatic and altitude changes alone were exhausting — from hot, humid Chiclayo to chilly and rainy Cusco (at an oxygen-challenging altitude of 3,400 meters or about 11,150 feet) to the steaming heat of the Pucallpa rainforest and back to the gray humidity of Lima.",
+    "words": 45
+   },
+   {
+    "en": "Callao Mayor César Pérez told The Associated Press that Father Roberto, as he is known to the Peruvian people, would drive approximately 12 hours from Chiclayo in northern Peru to Callao during the pandemic because he wanted to ensure the well-being of older residents.",
+    "words": 44
+   },
+   {
+    "en": "On his final full day in Peru on Sunday, Leo went from his former diocese of Chiclayo on the north Pacific coast to the southeastern Andean city of Cusco, to the northeastern Amazonian city of Pucallpa and back to Lima on the coast.",
+    "words": 43
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-17T12:22:37",
+ "difficulty": {
+  "score": 92,
+  "level": "六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 351,
+    "asl": 12.5,
+    "flesch": 64.4,
+    "fkgl": 7.4,
+    "long_sent": 0.0,
+    "beyond": 0.037,
+    "in_band": true,
+    "score": 94
+   },
+   {
+    "type": "passage_listening",
+    "words": 348,
+    "asl": 13.9,
+    "flesch": 65.8,
+    "fkgl": 7.5,
+    "long_sent": 0.0,
+    "beyond": 0.046,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "reading",
+    "words": 498,
+    "asl": 21.7,
+    "flesch": 40.8,
+    "fkgl": 12.9,
+    "long_sent": 0.087,
+    "beyond": 0.078,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 279,
+    "asl": 19.9,
+    "flesch": 45.3,
+    "fkgl": 11.9,
+    "long_sent": 0.071,
+    "beyond": 0.072,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}
