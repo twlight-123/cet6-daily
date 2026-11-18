@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-18",
+ "date": "2026-11-18",
+ "title": "The Man Who Saw Cats in Human Faces",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 713,
+  "sentences": 33,
+  "avg_sentence_len": 21.6,
+  "flesch_ease": 54.0,
+  "flesch_grade": 11.1,
+  "hard_word_ratio": 0.087,
+  "long_sent_ratio": 0.242,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student visits a campus neurologist to discuss unusual visual symptoms after a minor head injury.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Dr. Patel, thanks for seeing me on such short notice. I’m a second-year grad student in cognitive science, and I’ve been having these strange visual experiences for about three weeks now."
+    },
+    {
+     "sp": "M",
+     "en": "Of course. Tell me more about what you’ve been noticing. Are these experiences constant, or do they come and go?"
+    },
+    {
+     "sp": "W",
+     "en": "They come and go. After I look at something for a while—say, a pattern on a computer screen or a poster on the wall—the image seems to linger even after I look away. It’s like a ghost image floating over whatever I look at next."
+    },
+    {
+     "sp": "M",
+     "en": "That sounds like palinopsia, where a visual image persists after the stimulus is removed. Have you had any head trauma recently?"
+    },
+    {
+     "sp": "W",
+     "en": "I did fall off my bike about a month ago and hit my head. I didn’t lose consciousness, but I had a bad headache for a couple of days."
+    },
+    {
+     "sp": "M",
+     "en": "That could be relevant. Palinopsia can sometimes occur after minor head injuries, though it’s rare. Have you noticed any other distortions—like faces looking strange or objects appearing larger or smaller than they are?"
+    },
+    {
+     "sp": "W",
+     "en": "Actually, yes. Sometimes when I’m in a crowd, people’s faces seem slightly distorted—like their eyes are too far apart or their mouths are twisted. It’s subtle, but it’s unsettling."
+    },
+    {
+     "sp": "M",
+     "en": "That’s an important detail. There’s a condition called prosopometamorphopsia, where faces appear distorted. It can co-occur with palinopsia, especially when the temporal lobe is involved. I’d like to refer you for an MRI to rule out any structural issues."
+    },
+    {
+     "sp": "W",
+     "en": "Is this something that could be permanent? I’m worried it might affect my research—I spend hours looking at faces in my experiments."
+    },
+    {
+     "sp": "M",
+     "en": "In many cases, these symptoms improve over time, particularly if there’s no underlying lesion. But we need to monitor you closely. In the meantime, try to reduce visual fatigue and avoid prolonged staring at high-contrast patterns."
+    },
+    {
+     "sp": "W",
+     "en": "I’ll do that. Should I keep a diary of when these episodes happen?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, that would be very helpful. Note the time, what you were looking at, and how long the afterimage lasted. That will give us a clearer picture of what’s going on."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman’s main concern?",
+     "options": [
+      "She worries that her visual symptoms may affect her research work.",
+      "She fears that she has developed a permanent brain lesion.",
+      "She is unsure whether her headaches require immediate surgery.",
+      "She wants to know how to avoid falling off her bike again."
+     ],
+     "answer": 0,
+     "explain": "女士明确说“I’m worried it might affect my research”，故 A 正确。B 项将“担心症状影响研究”偷换为“担心永久性脑损伤”，且医生仅说需排除结构问题；C 项张冠李戴，手术并非对话内容；D 项过度推断，骑车摔倒只是诱因，非主要关切。",
+     "evidence": "I’m worried it might affect my research—I spend hours looking at faces in my experiments."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say about her visual experiences?",
+     "options": [
+      "They occur continuously throughout the day.",
+      "They appear only when she is under stress.",
+      "They happen intermittently after she looks at something.",
+      "They are limited to computer screens and posters."
+     ],
+     "answer": 2,
+     "explain": "女士说“They come and go”以及“After I look at something for a while... the image seems to linger”，说明症状是间歇性的、在注视后出现，C 正确。A 项与“come and go”矛盾；B 项无中生有，未提压力；D 项绝对化，她只是举例，并非仅限于此。",
+     "evidence": "They come and go. After I look at something for a while—say, a pattern on a computer screen or a poster on the wall—the image seems to linger even after I look away."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the doctor’s view of the woman’s condition?",
+     "options": [
+      "He believes her symptoms are purely psychological.",
+      "He thinks her condition is likely to improve without treatment.",
+      "He is confident that her symptoms will disappear within a week.",
+      "He considers her symptoms serious enough to require further testing."
+     ],
+     "answer": 3,
+     "explain": "医生建议做 MRI 以排除结构性问题，并要求记录日记密切监测，说明他认为症状需要进一步检查，D 正确。A 项无依据，医生未提心理因素；B 项过度推断，医生只说“many cases improve”，并非针对她本人；C 项绝对化，医生未给出具体时间。",
+     "evidence": "I’d like to refer you for an MRI to rule out any structural issues."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the doctor’s attitude toward the woman’s symptoms?",
+     "options": [
+      "Cautiously attentive",
+      "Openly dismissive",
+      "Highly alarmed",
+      "Somewhat indifferent"
+     ],
+     "answer": 0,
+     "explain": "医生仔细询问细节、建议 MRI 并让病人记录日记，体现谨慎关注的态度，A 正确。B 项与医生认真对待的态度相反；C 项过度，医生语气平静；D 项与医生主动安排检查不符。",
+     "evidence": "That’s an important detail. There’s a condition called prosopometamorphopsia, where faces appear distorted."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When we think of visual perception, we often assume that what we see is a direct reflection of the world around us. But research in cognitive neuroscience reveals that perception is far more constructive than we imagine. Our brains actively interpret sensory input, filling in gaps and making predictions based on past experience. Occasionally, this constructive process goes awry, producing striking perceptual distortions. One such phenomenon is palinopsia, in which an image persists in the visual field after the original stimulus has disappeared. Patients describe seeing a ghostly afterimage that lingers for seconds or even minutes, overlaying whatever they look at next. This condition is relatively rare and often associated with damage to the posterior visual pathways, particularly in the temporal or parietal lobes. While it can be distressing, many patients learn to adapt to these persistent images over time. Another unusual condition is prosopometamorphopsia, a disorder in which faces appear distorted. Patients may see features stretched, compressed, or displaced. In some cases, the distortion is so severe that familiar faces become unrecognizable. Like palinopsia, prosopometamorphopsia is linked to abnormalities in the temporal lobe, especially the fusiform gyrus, a region critical for face processing. Interestingly, some patients report that the distortions affect only human faces, leaving objects and animals unaffected, which supports the idea that the brain has specialized mechanisms for face perception. These conditions, though rare, offer valuable insights into how the brain constructs our visual world. They remind us that perception is not a passive recording but an active, dynamic process—one that can break down in fascinating and sometimes unsettling ways. For researchers, such cases provide a window into the neural architecture of vision, helping to map the complex pathways that allow us to recognize faces and navigate our environment."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The causes and treatments of common visual impairments.",
+      "How the brain constructs perception and what happens when it fails.",
+      "The role of the fusiform gyrus in recognizing familiar faces.",
+      "Why some patients recover from brain injuries more quickly than others."
+     ],
+     "answer": 1,
+     "explain": "文章首段提出感知是建构性的，随后介绍两种感知扭曲现象及其神经机制，末段总结这些现象揭示大脑如何建构视觉世界，B 正确。A 项偷换概念，文章聚焦罕见扭曲而非常见视觉损伤；C 项以偏概全，只是其中一个细节；D 项无中生有，未讨论恢复速度。",
+     "evidence": "These conditions, though rare, offer valuable insights into how the brain constructs our visual world."
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, what is a characteristic of palinopsia?",
+     "options": [
+      "It causes faces to appear distorted and unrecognizable.",
+      "It results from damage to the fusiform gyrus exclusively.",
+      "It makes an image persist after the stimulus is removed.",
+      "It affects only objects and not human faces."
+     ],
+     "answer": 2,
+     "explain": "文中明确说 palinopsia 是“an image persists in the visual field after the original stimulus has disappeared”，C 正确。A 项是 prosopometamorphopsia 的特征；B 项绝对化，原文说与后视觉通路损伤有关，不限于 fusiform gyrus；D 项张冠李戴，是某些 prosopometamorphopsia 患者的表现。",
+     "evidence": "One such phenomenon is palinopsia, in which an image persists in the visual field after the original stimulus has disappeared."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the fusiform gyrus from the passage?",
+     "options": [
+      "It is responsible for all types of visual perception.",
+      "It is more active when looking at objects than at faces.",
+      "It plays a specialized role in processing human faces.",
+      "It is the only brain region linked to face distortions."
+     ],
+     "answer": 2,
+     "explain": "文中说 fusiform gyrus 是“a region critical for face processing”，且某些患者只有人脸受影响，说明该区域对人脸有专门作用，C 正确。A 项绝对化，原文只说对脸加工关键；B 项与原文相反；D 项绝对化，原文只说 especially，未说唯一。",
+     "evidence": "Like palinopsia, prosopometamorphopsia is linked to abnormalities in the temporal lobe, especially the fusiform gyrus, a region critical for face processing."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "When Faces Turn into Cats: A Rare Visual Disorder",
+   "passage": "Imagine seeing feline features superimposed on every human face you encounter throughout the day. For most people, this sounds like a scene from a fantasy novel. Yet for a 28-year-old man named Karl, it is a daily reality. Karl sees the eyes and stripes of his pet cat, Luna, flickering over the faces of people he meets, both in person and online. His experience offers a rare window into how the brain processes faces and what happens when those processes go awry.\n\nKarl’s unusual visions began after surgery to remove abnormally connected blood vessels from his right posterior temporal lobe, a region critical for recognizing identity and reading facial expressions. Since the operation two years ago, he has experienced a combination of two rare neurological conditions: palinopsia, in which an image persists in the visual field after the stimulus is removed, and prosopometamorphopsia, in which faces appear distorted. In Karl’s case, the distortion takes an atypical form—face substitution, where one face is replaced by another.\n\nThe substitution works both ways. If Karl sees Luna first thing in the morning, her eyes and silver stripes appear on every human face he later encounters. Conversely, if the first face he sees is human, that person’s pupils and eye shape are superimposed on every other face, including Luna’s. These superimpositions are seamless: the faces otherwise appear normal and coherent. “Karl finds the transfers between cat and human faces very strange,” writes Brad Duchaine, a psychologist at Dartmouth University who has studied prosopometamorphopsia for years. “He has had problems with face perception for some time, though, so he has adapted to them and takes them in stride.”\n\nFace substitution is an unusual expression of prosopometamorphopsia. Ordinarily, people with this condition see alterations in the shape or position of facial features or in the color or texture of skin. Some see eyes and mouths stretched into “demonic” shapes, or features drooping, swelling, or twisting. One of the earliest documented cases of face substitution, published in Cortex in 1986, involved a woman who, about nine months after a stroke, saw a poodle’s face on fellow bus passengers for about 30 minutes. At the time, the case suggested that the brain processes faces differently from other visual stimuli—an idea now widely accepted.\n\nThe cases of Karl and the 1986 patient differ in at least two ways. First, the woman saw the poodle’s whole face on passengers, whereas Karl sees only parts carried over, mainly the eyes and pupils. Second, the 1986 transfer went one way, from dog to human; Karl’s goes both ways. These distinctions highlight the variability of prosopometamorphopsia and the importance of studying individual cases. For researchers, such cases provide valuable clues about the neural architecture of face perception, helping to map the complex pathways that allow us to recognize faces and navigate our social world.",
+   "source": {
+    "name": "Nautilus",
+    "url": "https://nautil.us/the-man-who-saw-cats-in-human-faces-1286726/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The surgical removal of abnormal blood vessels in the brain.",
+      "A rare face-substitution condition and its research value.",
+      "The historical development of face-perception studies.",
+      "The link between pet ownership and visual hallucinations."
+     ],
+     "answer": 1,
+     "explain": "文章以 Karl 的脸替代现象为主线，介绍其表现、成因及对脸加工研究的启示，B 项概括准确。A 项以偏概全，手术仅为背景；C 项偷换概念，1986 年案例只是对比细节；D 项无中生有，未提养宠物与幻觉的关联。",
+     "evidence": "His experience offers a rare window into how the brain processes faces and what happens when those processes go awry.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What caused Karl’s unusual visions?",
+     "options": [
+      "A stroke that damaged his fusiform gyrus.",
+      "A congenital defect in his temporal lobe.",
+      "An operation to remove abnormally connected blood vessels.",
+      "Long-term exposure to his pet cat Luna."
+     ],
+     "answer": 2,
+     "explain": "文中明确说症状始于切除异常血管的手术后，C 项同义改写正确。A 项张冠李戴，中风是 1986 年患者；B 项偷换概念，异常血管并非先天缺陷；D 项因果倒置，猫是症状表现对象而非原因。",
+     "evidence": "Karl’s unusual visions began after surgery to remove abnormally connected blood vessels from his right posterior temporal lobe, a region critical for recognizing identity and reading facial expressions.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "How does Karl’s case differ from the 1986 patient’s?",
+     "options": [
+      "Karl sees whole faces, while the woman saw only parts.",
+      "Karl’s substitution works both ways, while the woman’s was one-way.",
+      "Karl’s distortions lasted 30 minutes, while the woman’s persisted.",
+      "Karl saw a poodle’s face, while the woman saw a cat’s face."
+     ],
+     "answer": 1,
+     "explain": "文中说 1986 年患者的转移是单向的，而 Karl 的是双向的，B 项正确。A 项颠倒事实，Karl 只看到部分；C 项张冠李戴，30 分钟是 1986 年患者；D 项偷换概念，Karl 看到的是猫，对方看到的是贵宾犬。",
+     "evidence": "Second, the 1986 transfer went one way, from dog to human; Karl’s goes both ways.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about Duchaine’s view of Karl’s condition?",
+     "options": [
+      "He doubts that Karl’s case is scientifically valuable.",
+      "He believes Karl has adjusted to his perceptual problems.",
+      "He is convinced that Karl’s surgery was unnecessary.",
+      "He suspects that Karl is exaggerating his symptoms."
+     ],
+     "answer": 1,
+     "explain": "Duchaine 写道 Karl 已适应并从容应对，说明他认为 Karl 已调整，B 项正确。A 项与 Duchaine 长期研究该病的态度相反；C 项无中生有，未评价手术必要性；D 项无依据，Duchaine 认真记录病例。",
+     "evidence": "He has had problems with face perception for some time, though, so he has adapted to them and takes them in stride.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “seamless” in the third paragraph is closest in meaning to ______.",
+     "options": [
+      "free from visible interruption",
+      "extremely colorful",
+      "temporary and unstable",
+      "difficult to perceive"
+     ],
+     "answer": 0,
+     "explain": "“seamless”意为无缝的、连贯的，后文“正常且连贯”也提示叠加没有明显痕迹，A 项正确。B 项望文生义，与“无缝”无关；C 项与“正常连贯”矛盾；D 项偷换概念，无缝不等于难以察觉。",
+     "evidence": "These superimpositions are seamless: the faces otherwise appear normal and coherent.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "If Karl sees Luna first thing in the morning, her eyes and silver stripes appear on every human face he later [1]. Conversely, if the first face he sees is human, that person’s pupils and eye shape are [2] on every other face, including Luna’s. These superimpositions are seamless: the faces otherwise appear normal and [3]. “Karl finds the transfers between cat and human faces very strange,” writes Brad Duchaine, a psychologist at Dartmouth University who has studied prosopometamorphopsia for years. “He has had problems with face [4] for some time, though, so he has adapted to them and takes them in stride.”\n\nFace substitution is an unusual expression of prosopometamorphopsia. Ordinarily, people with this condition see [5] in the shape or position of facial features or in the color or [6] of skin. Some see eyes and mouths stretched into “[7]” shapes, or features drooping, swelling, or twisting. One of the earliest [8] cases of face substitution, published in Cortex in 1986, involved a woman who, about nine months after a stroke, saw a poodle’s face on fellow bus [9] for about 30 minutes. At the time, the case suggested that the brain processes faces differently from other visual stimuli—an idea now widely accepted.\n\nThe cases of Karl and the 1986 patient differ in at least two ways. First, the woman saw the poodle’s whole face on passengers, whereas Karl sees only parts carried over, mainly the eyes and pupils. Second, the 1986 transfer went one way, from dog to human; Karl’s goes both ways.\n\nThese distinctions highlight the variability of prosopometamorphopsia and the importance of studying individual cases. For researchers, such cases provide valuable clues about the neural architecture of face perception, helping to map the complex pathways that allow us to recognize faces and [10] our social world.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "alterations"
+    },
+    {
+     "label": "B",
+     "word": "ambassador"
+    },
+    {
+     "label": "C",
+     "word": "coherent"
+    },
+    {
+     "label": "D",
+     "word": "demonic"
+    },
+    {
+     "label": "E",
+     "word": "documented"
+    },
+    {
+     "label": "F",
+     "word": "encounters"
+    },
+    {
+     "label": "G",
+     "word": "inaugurate"
+    },
+    {
+     "label": "H",
+     "word": "navigate"
+    },
+    {
+     "label": "I",
+     "word": "passengers"
+    },
+    {
+     "label": "J",
+     "word": "perception"
+    },
+    {
+     "label": "K",
+     "word": "prudent"
+    },
+    {
+     "label": "L",
+     "word": "reptile"
+    },
+    {
+     "label": "M",
+     "word": "superimposed"
+    },
+    {
+     "label": "N",
+     "word": "testify"
+    },
+    {
+     "label": "O",
+     "word": "texture"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "encounters",
+     "lower": "encounters",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "遭遇，遇到；n 遭遇",
+     "context": "If Karl sees Luna first thing in the morning, her eyes and silver stripes appear on every human face he later encounters."
+    },
+    {
+     "index": 2,
+     "word": "superimposed",
+     "lower": "superimposed",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "Conversely, if the first face he sees is human, that person’s pupils and eye shape are superimposed on every other face, including Luna’s."
+    },
+    {
+     "index": 3,
+     "word": "coherent",
+     "lower": "coherent",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "（文章、观点等）连贯的，有条理的，一致的",
+     "context": "These superimpositions are seamless: the faces otherwise appear normal and coherent."
+    },
+    {
+     "index": 4,
+     "word": "perception",
+     "lower": "perception",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "感知",
+     "context": "“He has had problems with face perception for some time, though, so he has adapted to them and takes them in stride.” Face substitution is an unusual expression of prosopometamorphopsia."
+    },
+    {
+     "index": 5,
+     "word": "alterations",
+     "lower": "alterations",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "A",
+     "gloss": "变更，改变",
+     "context": "Ordinarily, people with this condition see alterations in the shape or position of facial features or in the color or [6] of skin."
+    },
+    {
+     "index": 6,
+     "word": "texture",
+     "lower": "texture",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "质地",
+     "context": "Ordinarily, people with this condition see [5] in the shape or position of facial features or in the color or texture of skin."
+    },
+    {
+     "index": 7,
+     "word": "demonic",
+     "lower": "demonic",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "D",
+     "gloss": "",
+     "context": "Some see eyes and mouths stretched into “demonic” shapes, or features drooping, swelling, or twisting."
+    },
+    {
+     "index": 8,
+     "word": "documented",
+     "lower": "documented",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "文件",
+     "context": "One of the earliest documented cases of face substitution, published in Cortex in 1986, involved a woman who, about nine months after a stroke, saw a poodle’s face on fellow bus [9] for about 30 minutes."
+    },
+    {
+     "index": 9,
+     "word": "passengers",
+     "lower": "passengers",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "乘客，旅客，过路人",
+     "context": "One of the earliest [8] cases of face substitution, published in Cortex in 1986, involved a woman who, about nine months after a stroke, saw a poodle’s face on fellow bus passengers for about 30 minutes."
+    },
+    {
+     "index": 10,
+     "word": "navigate",
+     "lower": "navigate",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "H",
+     "gloss": "航行，驾驶",
+     "context": "For researchers, such cases provide valuable clues about the neural architecture of face perception, helping to map the complex pathways that allow us to recognize faces and navigate our social world."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Nautilus",
+  "url": "https://nautil.us/the-man-who-saw-cats-in-human-faces-1286726/",
+  "long_sentences": [
+   {
+    "en": "The reverse is also true: If the first face he sees in the morning is a human one, he will see that person’s pupils and eye shape superimposed on every other face he sees that day, including the furry mug of his pet cat.",
+    "words": 44
+   },
+   {
+    "en": "According to a case study published in Cortex in 1986, a woman known as “patient 2” was riding a bus about 9 months after a stroke when she saw a poodle in the lap of another passenger.",
+    "words": 37
+   },
+   {
+    "en": "When Karl wakes in the morning, his gray tabby Luna is often the first being he greets, and Luna’s face, the first he gazes upon: the whiskers, the almond eyes, the pink nose, the stripes.",
+    "words": 35
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-18T11:23:54",
+ "difficulty": {
+  "score": 87,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 371,
+    "asl": 12.4,
+    "flesch": 71.1,
+    "fkgl": 6.4,
+    "long_sent": 0.033,
+    "beyond": 0.092,
+    "in_band": true,
+    "score": 98
+   },
+   {
+    "type": "passage_listening",
+    "words": 293,
+    "asl": 18.3,
+    "flesch": 32.6,
+    "fkgl": 13.3,
+    "long_sent": 0.0,
+    "beyond": 0.089,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 476,
+    "asl": 20.7,
+    "flesch": 46.8,
+    "fkgl": 11.9,
+    "long_sent": 0.174,
+    "beyond": 0.09,
+    "in_band": true,
+    "score": 92
+   },
+   {
+    "type": "banked_cloze",
+    "words": 303,
+    "asl": 21.6,
+    "flesch": 47.2,
+    "fkgl": 12.1,
+    "long_sent": 0.214,
+    "beyond": 0.086,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 87（接近六级），与六级区间有偏差。"
+}
