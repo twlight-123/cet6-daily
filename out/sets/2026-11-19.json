@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-19",
+ "date": "2026-11-19",
+ "title": "The Country's Oldest Operating Lighthouse Predates the American Revolution and Still Shines on New York Harbor After More Than 260 Years",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 716,
+  "sentences": 27,
+  "avg_sentence_len": 26.5,
+  "flesch_ease": 43.1,
+  "flesch_grade": 13.8,
+  "hard_word_ratio": 0.119,
+  "long_sent_ratio": 0.333,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 97
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A student and a librarian discuss preserving local historical records for a class project.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Hi, Professor Martinez suggested I come to you. I'm doing a project on the history of our town's harbor, and I need to find primary sources from the eighteenth and nineteenth centuries."
+    },
+    {
+     "sp": "M",
+     "en": "That sounds like a fascinating topic. We have a special collections room with old maps, shipping records, and some diaries from local merchants. But those materials don't circulate—you'll have to use them here in the library."
+    },
+    {
+     "sp": "W",
+     "en": "That's fine. I'm mostly interested in how the harbor's economy changed over time. Do you have anything about the lighthouses that used to guide ships in?"
+    },
+    {
+     "sp": "M",
+     "en": "Actually, we do. We have a ledger from the lighthouse keeper's family, and some photographs from the early twentieth century. But I should warn you—many of the documents are fragile, so you'll need to wear gloves and handle them carefully."
+    },
+    {
+     "sp": "W",
+     "en": "Of course. I've worked with old documents before. Is there a catalog I can search to see what's available?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, our online catalog lists everything, but the descriptions are quite brief. I'd recommend making an appointment with me so I can pull the most relevant items for you. That way you won't waste time."
+    },
+    {
+     "sp": "W",
+     "en": "That would be great. I'm particularly curious about how the lighthouse keepers lived—their daily routines, the challenges they faced."
+    },
+    {
+     "sp": "M",
+     "en": "The ledger should help with that. It records weather conditions, ship arrivals, and even some personal notes. It's a rare glimpse into their lives. Just keep in mind that the handwriting can be difficult to read."
+    },
+    {
+     "sp": "W",
+     "en": "I'll manage. I'm also wondering if there are any oral histories from people whose families worked at the lighthouse."
+    },
+    {
+     "sp": "M",
+     "en": "We have a few recorded interviews from the 1970s with descendants of lighthouse keepers. They're on cassette tapes, though, so you'd need to use our listening station. I can set that up for you when you come in."
+    },
+    {
+     "sp": "W",
+     "en": "Perfect. So should I email you to schedule a time?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, send me a message with your project details and a few possible times. I'll reserve the materials and have them ready. And bring a notebook—you won't be able to use a pen near the documents."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the main purpose of the conversation?",
+     "options": [
+      "To complain about the poor condition of library documents",
+      "To arrange access to historical materials for a research project",
+      "To request a change in the library's circulation policy",
+      "To discuss the history of lighthouses in the region"
+     ],
+     "answer": 1,
+     "explain": "对话中女生说明项目需要原始资料，男生介绍特藏并建议预约，最终约定邮件联系，核心是安排查阅历史资料。A项正确概括。B项无抱怨；C项未要求改变借阅政策；D项只是话题之一，非主要目的。",
+     "evidence": "I'm doing a project on the history of our town's harbor, and I need to find primary sources from the eighteenth and nineteenth centuries."
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the man say about the lighthouse keeper's ledger?",
+     "options": [
+      "It was donated by a local merchant family",
+      "It is available for borrowing overnight",
+      "It contains detailed weather and shipping records",
+      "It has been digitized for online access"
+     ],
+     "answer": 2,
+     "explain": "男生明确说账本记录天气、船只到港和个人笔记。A项同义概括。B项与“不外借”矛盾；C项张冠李戴，账本来自守塔人家庭；D项未提数字化。",
+     "evidence": "It records weather conditions, ship arrivals, and even some personal notes."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the oral history recordings?",
+     "options": [
+      "They require special equipment to listen to",
+      "They are too fragile to be used by students",
+      "They have been transcribed into written form",
+      "They focus mainly on the lighthouse's construction"
+     ],
+     "answer": 0,
+     "explain": "男生说录音在盒式磁带上，需用听力站，可推断需特殊设备。A项正确。B项脆弱的是文件而非录音；C项未提转录；D项内容为守塔人后代访谈，非建造。",
+     "evidence": "They're on cassette tapes, though, so you'd need to use our listening station."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the woman's project?",
+     "options": [
+      "Supportive and helpful",
+      "Indifferent and dismissive",
+      "Cautious but encouraging",
+      "Skeptical about its feasibility"
+     ],
+     "answer": 0,
+     "explain": "男生主动推荐资料、建议预约、提出准备材料，态度支持且乐于帮助。A项正确。B项漠不关心不符；C项“谨慎”有之但“鼓励”更突出，且整体积极；D项怀疑不符合。",
+     "evidence": "I'd recommend making an appointment with me so I can pull the most relevant items for you."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Lighthouses have long captured the public imagination, but their role in modern navigation has changed dramatically over the past century. For centuries, these coastal beacons served as essential guides for ships navigating treacherous waters, warning sailors of hidden reefs and rocky shorelines. Keepers maintained the lights through violent storms and long periods of isolation, often living on remote sites for years at a time. However, the twentieth century brought a series of technologies that gradually reduced their importance in everyday maritime operations. Radio communication allowed ships to determine their position and receive warnings without relying on visual signals from the shore. Radar enabled vessels to detect hazards even in fog or darkness, greatly improving safety at sea. Later, the development of satellite-based positioning systems, originally designed for military use, made precise navigation available to all. As a result, the number of operational lighthouses has declined steadily. Today, only about half of the roughly 800 lighthouses standing in the United States remain active. Many have been abandoned or transferred to local organizations for preservation. Some have become museums or tourist attractions, drawing visitors interested in maritime history, and yet the transition has not been without controversy. Preservationists argue that these structures are irreplaceable cultural landmarks that tell the story of the nation's maritime past. They point out that once a lighthouse is lost to neglect or erosion, it cannot be rebuilt. Others emphasize the high cost of maintenance and question whether public funds should be spent on structures no longer needed for navigation. Despite the debate, many communities have rallied to save their local lighthouses, raising money and organizing volunteer efforts. The story of lighthouses thus reflects a broader question: how should society balance the preservation of historical heritage against the demands of modern technology and limited resources?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The decline of lighthouses and the debate over their preservation",
+      "The technical evolution of maritime navigation systems",
+      "The daily life of lighthouse keepers in remote areas",
+      "The economic impact of tourism on coastal communities"
+     ],
+     "answer": 0,
+     "explain": "短文先述灯塔作用下降，再谈保护争议与社区努力，主旨为灯塔衰落及保存之争。A项正确。B项技术演变只是背景；C项守塔人生活一笔带过；D项旅游影响非重点。",
+     "evidence": "The story of lighthouses thus reflects a broader question: how should society balance the preservation of historical heritage against the demands of modern technology and limited resources?"
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, what has happened to many U.S. lighthouses?",
+     "options": [
+      "They have been abandoned or given to local groups",
+      "They have been converted into military facilities",
+      "They have been rebuilt with modern materials",
+      "They have been sold to private shipping companies"
+     ],
+     "answer": 0,
+     "explain": "原文明确说许多灯塔被废弃或转交地方组织保存。A项同义。B项军事设施无据；C项重建与“不可重建”矛盾；D项出售给航运公司未提。",
+     "evidence": "Many have been abandoned or transferred to local organizations for preservation."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about preservationists' view of lighthouses?",
+     "options": [
+      "They regard lighthouses as unique cultural assets",
+      "They believe lighthouses should be modernized for navigation",
+      "They think tourism can fully cover maintenance costs",
+      "They oppose any government involvement in preservation"
+     ],
+     "answer": 0,
+     "explain": "保存者称灯塔为不可替代的文化地标，可推断其视为独特文化资产。A项正确。B项与保存者立场相反；C项未提旅游覆盖成本；D项未反对政府参与。",
+     "evidence": "Preservationists argue that these structures are irreplaceable cultural landmarks that tell the story of the nation's maritime past."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Lighthouse That Helped Build a Nation",
+   "passage": "Until the 20th century, the only safe maritime route into New York Harbor wound between shallow shoals, with a particularly dangerous point where the shipping lane curved around the northern tip of the Sandy Hook peninsula. After devastating shipwrecks in 1761, New York's merchants petitioned the Colonial Assembly to build a navigational aid. Using £750 raised by lottery, the Assembly purchased four acres near the peninsula's tip. On June 11, 1764, the fifth lighthouse in the Colonies was lit atop a solid, tapered octagon of whitewashed rubblestone, 103 feet high. When the Revolutionary War began, rebel troops tried to dismantle the lantern to keep British ships from navigating into the harbor. Their efforts included an April 1776 escapade in which a New Jersey troupe trapped British soldiers in the upper room by removing the lower stairs. But Sandy Hook soon fell under British control, and several other attacks failed to destroy the structure or wrest it from the royalists. The walls, more than six feet thick at the base, were simply too strong. When the British finally withdrew from their last American strongholds, they blasted and burned the Boston Light in 1776 and the Beavertail Light in Rhode Island in 1779, two of the Colonies' oldest beacons. By the end of the century, two other lighthouses predating Sandy Hook had succumbed to age, fire and battering seas. Today, Sandy Hook is the oldest continuously operational lighthouse in the United States and a remarkably rich emblem for a pivotal moment in American statecraft. Before the 1789 Lighthouse Act, which made the country's 12 surviving lighthouses national property, the federal state was merely a state of mind, writes Allen S. Miller, a longtime intelligence and risk-management analyst. Predating the act that formally created the Department of the Treasury and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a pointillist network of federal infrastructure, unifying a fledgling maritime economy and helping invent a durable and coherent United States. The Sandy Hook tower also served as a model for the first lighthouses the U.S. built after independence, through the extraordinary surge in construction in the 19th century. In 1820, there were 55 lighthouses in the United States; by 1910, nearly 1,400. These beacons served a booming maritime shipping economy. Between 1834 and 1860 alone, the number of vessels entering New York Harbor from the Atlantic doubled—and because cargo ships were getting bigger and more efficient, the estimated collective weight of their cargo increased fourfold. But there were early signs that the light wouldn't burn forever: as early as the Civil War, drifting sand deposits extended the coastline and eroded the lighthouse's commercial significance. Where in 1764 the lighthouse stood just 500 feet from the tip of the peninsula, by 1864 the distance had increased to 4,000 feet. Now it's nearly a mile and a half. Technological transformations in the 20th century, like radio, radar and the position-fixing system known as LORAN-C, gradually pushed lighthouse keepers, and eventually lighthouses themselves, into obsolescence.",
+   "source": {
+    "name": "Smithsonian History",
+    "url": "https://www.smithsonianmag.com/history/countrys-oldest-operating-lightouse-predates-american-revolution-still-shines-new-york-harbor-after-260-years-180989832/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The Sandy Hook lighthouse as a symbol of federal infrastructure",
+      "The British destruction of colonial lighthouses in wartime",
+      "The role of lighthouse keepers in rescuing shipwrecked sailors",
+      "The complete obsolescence of lighthouses due to technology"
+     ],
+     "answer": 0,
+     "explain": "文章以桑迪胡克灯塔为主线，讲述其建立、在联邦基础设施形成中的象征意义及后来因技术发展而衰落。B项张冠李戴，英军毁的是波士顿灯等；C项守塔人非重点；D项“所有”绝对化。",
+     "evidence": "Today, Sandy Hook is the oldest continuously operational lighthouse in the United States and a remarkably rich emblem for a pivotal moment in American statecraft.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "Why did New York's merchants petition the Colonial Assembly in 1761?",
+     "options": [
+      "To protest against British control of the harbor",
+      "To demand compensation for lost cargo ships",
+      "To request the construction of a navigational aid",
+      "To fund a lottery for local infrastructure"
+     ],
+     "answer": 2,
+     "explain": "原文说1761年一系列海难后，商人请愿建造助航设施。A项抗议英国控制无据；B项索赔未提；D项抽彩是筹款方式，非请愿目的。",
+     "evidence": "After devastating shipwrecks in 1761, New York's merchants petitioned the Colonial Assembly to build a navigational aid.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What does the passage say about the Lighthouse Act of 1789?",
+     "options": [
+      "It provided funding for the construction of new lighthouses",
+      "It created the Department of the Treasury",
+      "It was signed after the act creating the Department of War",
+      "It made the surviving lighthouses national property"
+     ],
+     "answer": 3,
+     "explain": "原文明确说该法案使12座幸存灯塔成为国家财产。A项未提为新灯塔提供资金；B项张冠李戴，法案早于财政部法案；C项因果倒置，同日签署。",
+     "evidence": "Before the 1789 Lighthouse Act, which made the country's 12 surviving lighthouses national property, the federal state was merely a state of mind, writes Allen S.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the Sandy Hook lighthouse's location over time?",
+     "options": [
+      "It became increasingly distant from the shoreline due to sand deposits",
+      "It was moved inland to protect it from coastal erosion",
+      "It was rebuilt closer to the tip of the peninsula in 1864",
+      "It remained exactly 500 feet from the tip of the peninsula"
+     ],
+     "answer": 0,
+     "explain": "原文说沙积使海岸线延伸，灯塔与半岛尖端的距离从500英尺增至4000英尺，现约1.5英里，可推断其离岸越来越远。B项未提搬迁；C项与事实相反；D项数字错误。",
+     "evidence": "Where in 1764 the lighthouse stood just 500 feet from the tip of the peninsula, by 1864 the distance had increased to 4,000 feet.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “obsolescence” in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "the state of being no longer useful",
+      "the process of being repaired",
+      "the condition of being protected",
+      "the act of being relocated"
+     ],
+     "answer": 0,
+     "explain": "obsolescence 意为“过时、废弃”，结合上下文技术使灯塔不再必要，A项“不再有用”最接近。B项修理、C项保护、D项搬迁均与词义无关。",
+     "evidence": "Technological transformations in the 20th century, like radio, radar and the position-fixing system known as LORAN-C, gradually pushed lighthouse keepers, and eventually lighthouses themselves, into obsolescence.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "By the end of the century, two other lighthouses that predated Sandy Hook had succumbed to age, fire and battering seas. Today, Sandy Hook is the oldest continuously [1] lighthouse in the United States. It is also a remarkably rich emblem for a [2] moment in American statecraft.\n\nBefore the 1789 Lighthouse Act, which made the country's 12 surviving lighthouses national property, the federal state was merely a state of mind, writes Allen S. Miller, a longtime [3] and risk-management analyst. Predating the act that formally [4] the Department of the Treasury, and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a [5] network of federal infrastructure, unifying a fledgling maritime economy and, in the process, helping invent a durable and [6] United States.\n\nThe Sandy Hook tower also served as a model for the first lighthouses that the U.S. built after [7], through the extraordinary surge in construction in the 19th century. In 1820, there were 55 lighthouses in the United States; by 1910, there were nearly 1,400. These beacons served a booming maritime shipping economy. Between just 1834 and 1860, the number of vessels entering New York Harbor from the Atlantic doubled—and because cargo ships were getting bigger and more efficient, the estimated [8] weight of their cargo increased fourfold.\n\nBut there were early signs that the light wouldn't burn forever: as early as the Civil War, drifting sand [9] extended the coastline—and eroded the lighthouse's commercial significance. Where in 1764 the lighthouse stood just 500 feet from the tip of the [10], by 1864, the distance had increased to 4,000 feet. Now it's nearly a mile and a half.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "citation"
+    },
+    {
+     "label": "B",
+     "word": "coherent"
+    },
+    {
+     "label": "C",
+     "word": "collective"
+    },
+    {
+     "label": "D",
+     "word": "created"
+    },
+    {
+     "label": "E",
+     "word": "deposits"
+    },
+    {
+     "label": "F",
+     "word": "emergency"
+    },
+    {
+     "label": "G",
+     "word": "independence"
+    },
+    {
+     "label": "H",
+     "word": "infect"
+    },
+    {
+     "label": "I",
+     "word": "intelligence"
+    },
+    {
+     "label": "J",
+     "word": "operational"
+    },
+    {
+     "label": "K",
+     "word": "ornamental"
+    },
+    {
+     "label": "L",
+     "word": "peninsula"
+    },
+    {
+     "label": "M",
+     "word": "pivotal"
+    },
+    {
+     "label": "N",
+     "word": "pointillist"
+    },
+    {
+     "label": "O",
+     "word": "solitary"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "operational",
+     "lower": "operational",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "操作上的；可使用的",
+     "context": "Today, Sandy Hook is the oldest continuously operational lighthouse in the United States."
+    },
+    {
+     "index": 2,
+     "word": "pivotal",
+     "lower": "pivotal",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "M",
+     "gloss": "",
+     "context": "It is also a remarkably rich emblem for a pivotal moment in American statecraft."
+    },
+    {
+     "index": 3,
+     "word": "intelligence",
+     "lower": "intelligence",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "智力，智慧，理解力",
+     "context": "Miller, a longtime intelligence and risk-management analyst."
+    },
+    {
+     "index": 4,
+     "word": "created",
+     "lower": "created",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "创造；引起，产生",
+     "context": "Predating the act that formally created the Department of the Treasury, and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a [5] network of federal infrastructure, unifying a fledgling maritime economy and, in the process, helping invent a durable and [6] United States."
+    },
+    {
+     "index": 5,
+     "word": "pointillist",
+     "lower": "pointillist",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "Predating the act that formally [4] the Department of the Treasury, and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a pointillist network of federal infrastructure, unifying a fledgling maritime economy and, in the process, helping invent a durable and [6] United States."
+    },
+    {
+     "index": 6,
+     "word": "coherent",
+     "lower": "coherent",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "B",
+     "gloss": "（文章、观点等）连贯的，有条理的，一致的",
+     "context": "Predating the act that formally [4] the Department of the Treasury, and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a [5] network of federal infrastructure, unifying a fledgling maritime economy and, in the process, helping invent a durable and coherent United States."
+    },
+    {
+     "index": 7,
+     "word": "independence",
+     "lower": "independence",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "独立，自主，自立",
+     "context": "The Sandy Hook tower also served as a model for the first lighthouses that the U.S. built after independence, through the extraordinary surge in construction in the 19th century."
+    },
+    {
+     "index": 8,
+     "word": "collective",
+     "lower": "collective",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "集体的；集合性的",
+     "context": "Between just 1834 and 1860, the number of vessels entering New York Harbor from the Atlantic doubled—and because cargo ships were getting bigger and more efficient, the estimated collective weight of their cargo increased fourfold."
+    },
+    {
+     "index": 9,
+     "word": "deposits",
+     "lower": "deposits",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "使沉淀；存放",
+     "context": "But there were early signs that the light wouldn't burn forever: as early as the Civil War, drifting sand deposits extended the coastline—and eroded the lighthouse's commercial significance."
+    },
+    {
+     "index": 10,
+     "word": "peninsula",
+     "lower": "peninsula",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "L",
+     "gloss": "半岛",
+     "context": "Where in 1764 the lighthouse stood just 500 feet from the tip of the peninsula, by 1864, the distance had increased to 4,000 feet."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Smithsonian History",
+  "url": "https://www.smithsonianmag.com/history/countrys-oldest-operating-lightouse-predates-american-revolution-still-shines-new-york-harbor-after-260-years-180989832/",
+  "long_sentences": [
+   {
+    "en": "His last words, it’s said, were: “Mind the lights, Katie.” According to the U.S. Coast Guard, Walker “not only kept the light burning but by her own account may have saved as many as 50 people.” Technological transformations in the 20th century, like radio, radar and the position-fixing system known as LORAN-C (plus earlier inventions like electric batteries and lanterns), gradually pushed lighthouse keepers, and eventually lighthouses themselves, into obsolescence.",
+    "words": 70
+   },
+   {
+    "en": "At one particularly treacherous point, the shipping lane bent around the northern tip of the Sandy Hook peninsula, which the English politician Thomas Pownall described in 1755 as “a neck of low sandy hills covered with cedars and holly, ending in a low sandy point.” After a devastating series of shipwrecks in 1761, New York’s merchants petitioned the Colonial Assembly to build a navigational aid.",
+    "words": 65
+   },
+   {
+    "en": "Predating the act that formally created the Department of Treasury, and signed the same day as the act creating the Department of War, the Lighthouse Act turned those isolated beacons into a pointillist network of federal infrastructure, unifying a fledgling maritime economy and, in the process, helping invent a durable and coherent United States.",
+    "words": 54
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-19T10:59:15",
+ "difficulty": {
+  "score": 86,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 350,
+    "asl": 12.1,
+    "flesch": 71.6,
+    "fkgl": 6.3,
+    "long_sent": 0.0,
+    "beyond": 0.103,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "passage_listening",
+    "words": 296,
+    "asl": 18.5,
+    "flesch": 31.4,
+    "fkgl": 13.5,
+    "long_sent": 0.0,
+    "beyond": 0.084,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 491,
+    "asl": 22.3,
+    "flesch": 44.1,
+    "fkgl": 12.7,
+    "long_sent": 0.182,
+    "beyond": 0.126,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 275,
+    "asl": 21.2,
+    "flesch": 46.9,
+    "fkgl": 12.0,
+    "long_sent": 0.231,
+    "beyond": 0.124,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 86（接近六级），与六级区间有偏差。"
+}
