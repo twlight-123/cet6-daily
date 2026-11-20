@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-20",
+ "date": "2026-11-20",
+ "title": "Learning the language of machine learning",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 765,
+  "sentences": 31,
+  "avg_sentence_len": 24.7,
+  "flesch_ease": 41.6,
+  "flesch_grade": 13.6,
+  "hard_word_ratio": 0.075,
+  "long_sent_ratio": 0.258,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and her advisor discuss how to make an AI model's decision-making more transparent.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been working on the deep learning model for medical image classification, and it performs well on the test set, but I'm worried that we can't really explain why it makes certain predictions."
+    },
+    {
+     "sp": "M",
+     "en": "That's a common concern, especially in high-stakes domains. Have you looked into the interpretability techniques we discussed last semester?"
+    },
+    {
+     "sp": "W",
+     "en": "I have, but most of them seem to focus on visualizing attention maps. They tell us where the model is looking, not why it reaches a particular conclusion."
+    },
+    {
+     "sp": "M",
+     "en": "Right. Visualization is a start, but it doesn't give you a verbal explanation. What if we trained the model to generate natural language descriptions of its own reasoning process?"
+    },
+    {
+     "sp": "W",
+     "en": "You mean like a self-explanation? I've read a couple of papers on that, but the explanations often sound plausible yet are not faithful to the actual computation."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. Faithfulness is the key challenge. If the explanation is just another learned pattern that happens to correlate with the output, it's not trustworthy. We need to design training objectives that reward accurate self-reporting."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds promising, but how do we evaluate whether an explanation is faithful? We can't read the model's mind."
+    },
+    {
+     "sp": "M",
+     "en": "We can run counterfactual tests. For instance, if the model says it relies on a particular feature, we can remove that feature and see if the prediction changes accordingly. If it doesn't, the explanation is likely unfaithful."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. So the idea is to use behavioral tests to validate the model's own descriptions."
+    },
+    {
+     "sp": "M",
+     "en": "Precisely. And that's what I'd like you to explore for your thesis project. Start by reviewing the recent work on self-explanatory models, and then we can design a set of counterfactual experiments."
+    },
+    {
+     "sp": "W",
+     "en": "I'll do that. I'm excited about this direction—it feels like we're teaching the model to communicate, not just to predict."
+    },
+    {
+     "sp": "M",
+     "en": "That's the spirit. Let's meet next week to discuss your experimental design."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "How to make an AI model's reasoning transparent to humans",
+      "How to improve the accuracy of a medical image model",
+      "How to design counterfactual experiments for medical research",
+      "How to compare different visualization techniques"
+     ],
+     "answer": 0,
+     "explain": "对话围绕如何让深度学习模型的决策过程可解释展开，女士提出可视化不足，男士建议训练模型用自然语言解释自身推理，并讨论忠实性评估。A项是模型性能提升，非对话重点；C项 counterfactual 只是评估手段之一，非主旨；D项 visualization 仅为对话提到的现有方法，非核心议题。",
+     "evidence": "What if we trained the model to generate natural language descriptions of its own reasoning process?"
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman say about attention maps?",
+     "options": [
+      "They provide faithful verbal explanations.",
+      "They show where the model focuses but not why.",
+      "They are the only interpretability technique available.",
+      "They are too complex for medical applications."
+     ],
+     "answer": 1,
+     "explain": "女士明确说 attention maps 只告诉我们模型在看哪里，而非为何得出特定结论。A项与原文相反，她认为可视化不提供语言解释；C项绝对化，原文只说多数技术聚焦于此；D项无中生有，未提医学应用复杂性。",
+     "evidence": "They tell us where the model is looking, not why it reaches a particular conclusion."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about a faithful explanation?",
+     "options": [
+      "It should sound plausible to human experts.",
+      "It must correlate with the model's output.",
+      "It should accurately reflect the model's actual computation.",
+      "It can be generated without additional training."
+     ],
+     "answer": 2,
+     "explain": "男士强调忠实性是关键挑战，若解释只是与输出相关的学习模式则不可信，需奖励准确自我报告，可推知忠实解释应真实反映模型计算。A项 plausible 恰是原文批评的不可靠特征；B项 correlation 不等于忠实；D项与需设计训练目标矛盾。",
+     "evidence": "If the explanation is just another learned pattern that happens to correlate with the output, it's not trustworthy."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the proposed research direction?",
+     "options": [
+      "Skeptical about its feasibility",
+      "Enthusiastic about its potential",
+      "Indifferent to its outcomes",
+      "Concerned about its ethical risks"
+     ],
+     "answer": 1,
+     "explain": "女士最后说“I'm excited about this direction—it feels like we're teaching the model to communicate”，表明积极热情。A项 skeptical 与 excited 矛盾；C项 indifferent 无依据；D项 ethical risks 对话未提及。",
+     "evidence": "I'm excited about this direction—it feels like we're teaching the model to communicate, not just to predict."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "In recent years, artificial intelligence has moved rapidly from research laboratories into everyday applications, ranging from recommendation systems that shape what we read and watch to medical diagnosis tools that help doctors in clinical decision-making. As these systems become increasingly powerful and pervasive, however, a critical question arises: can we trust them to explain their own decisions in ways that ordinary users can understand? A team of researchers at a major university has been tackling this challenge by developing what they call \"self-explanatory\" AI models. Rather than relying on external tools to interpret a model's behavior after the fact, the team trains the model itself to generate accurate natural language descriptions of its internal reasoning. The approach is grounded in the belief that a model can be taught to communicate what it has learned from data in a way that humans can readily understand. The researchers argue that this is especially important in high-stakes settings, such as healthcare or finance, where a wrong decision can have serious consequences for people and institutions alike. To ensure that the explanations are trustworthy, the team uses counterfactual testing: they modify the input to see whether the model's explanation correctly predicts how its output will change. If the explanation fails to match the actual behavior, it is considered unfaithful and the model is retrained. Early results are promising, but the researchers caution that the work is still in its infancy. They note that generating faithful explanations is computationally demanding and that current models sometimes produce plausible but misleading descriptions. but, they believe that teaching machines to talk about themselves is a crucial step toward building AI systems that humans can genuinely collaborate with and trust."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The growing use of AI in medical diagnosis",
+      "A method for training AI models to explain themselves",
+      "The limitations of counterfactual testing in AI",
+      "The ethical concerns of self-explanatory models"
+     ],
+     "answer": 1,
+     "explain": "短文介绍研究团队训练AI模型用自然语言准确描述自身推理的方法，并讨论其重要性与挑战。A项只是开头背景；C项 counterfactual testing 是评估手段，非主题；D项 ethical concerns 未展开。",
+     "evidence": "A team of researchers at a major university has been tackling this challenge by developing what they call \"self-explanatory\" AI models."
+    },
+    {
+     "id": "l2_2",
+     "stem": "According to the passage, why is self-explanation important in high-stakes settings?",
+     "options": [
+      "Because wrong decisions can have serious consequences.",
+      "Because external tools are unavailable there.",
+      "Because regulations require full transparency.",
+      "Because models in those settings are less accurate."
+     ],
+     "answer": 0,
+     "explain": "原文明确指出在医疗或金融等高风险场景，错误决策后果严重，故自我解释重要。B项 external tools 未提不可用；C项 regulations 无中生有；D项模型准确性未比较。",
+     "evidence": "The researchers argue that this is especially important in high-stakes settings, such as healthcare or finance, where a wrong decision can have serious consequences for people and institutions alike."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about current self-explanatory models?",
+     "options": [
+      "They always provide faithful explanations.",
+      "They are ready for widespread deployment.",
+      "They may sometimes give misleading explanations.",
+      "They require no computational resources."
+     ],
+     "answer": 2,
+     "explain": "原文指出当前模型有时产生看似合理却误导的描述，可推知C。A项 always 绝对化，与 sometimes misleading 矛盾；B项与 work still in its infancy 矛盾；D项与 computationally demanding 相反。",
+     "evidence": "They note that generating faithful explanations is computationally demanding and that current models sometimes produce plausible but misleading descriptions."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Teaching Machines to Explain Themselves",
+   "passage": "When deploying deep learning models in high-stakes scenarios, researchers want to understand how they work. Today, this requires unraveling an enormously complex network of internal processing nodes to understand what the model knows and how it will likely behave in practice. The newly tenured associate professor develops techniques that enable AI models to communicate accurately about what they learned from training data, in language humans can understand. “Rather than needing to use all these external tools to try and understand what is going on under the hood, maybe we can train models to talk about themselves in a way that is accurate,” says Andreas, an associate professor in the Department of Electrical Engineering and Computer Science (EECS) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). By studying how machines come to understand language, Andreas and his group work toward building intelligent systems that can learn about the world from human guidance and communicate effectively with human collaborators. They develop methods to make the training process more natural and efficient, so AI models learn in a way that is more like human learning. “We used to debug systems just by looking at their parameters and figuring out whether they make sense or not. Now, we need ‘mind-reading tools’ that can take this really complicated neural computation and translate it for us because it is just not in a language that we, as humans, know how to speak,” he says. Andreas’ fascination with language blossomed at a young age. As a child growing up in the San Francisco Bay Area, he was a voracious reader of any book he could get his hands on. That piqued his interest in computers. A few years later, his father brought home a simple BASIC Engine that Andreas could run on their home computer, and he started immersing himself in the world of computer programming. “I just blast emailed everyone in the computer science department who was working on anything vaguely AI-related, and the natural language processing faculty got back to me first. That is how I wound up in the field where I am now,” he says. Working in the lab of Michael Collins, the Vikram S. Pandit Professor of Computer Science at Columbia University, Andreas completed an undergraduate thesis project on machine translation. His project involved adapting existing statistical techniques for representing the meaning of language into more powerful AI systems that could translate passages of text. “I always felt like these deeper questions about how thought works or how to model the world were closer to the surface in language processing problems than in the other tasks that AI people were working on at the time,” he recalls. Before starting his PhD studies, he spent a year earning a master’s degree at Cambridge University in England. In that historic environment, he was inspired to contemplate the nature of language learning as he worked on computational translation problems. Andreas began his studies at the time when neural networks were starting to take off. The field of natural language processing was making a seismic shift from statistical methods to this new world of deep learning. Statistical methods utilize transparent, mathematical formulas to analyze text, while deep learning techniques use opaque algorithms to automatically learn complex meanings from massive amounts of text data.",
+   "source": {
+    "name": "MIT News",
+    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "Andreas's career and his research on interpretable AI",
+      "The history of statistical methods in machine translation",
+      "The advantages of neural networks over statistical methods",
+      "The challenges of building vision-language models"
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文：Andreas 的学术经历及团队让 AI 用人类语言解释自身推理的研究。B 项 statistical methods 仅为末段背景；C 项 neural networks 优势是局部内容；D 项 vision-language models 文中未提，属无关信息。",
+     "evidence": "The newly tenured associate professor develops techniques that enable AI models to communicate accurately about what they learned from training data, in language humans can understand.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What does Andreas say about debugging AI systems today?",
+     "options": [
+      "It can be done by examining model parameters.",
+      "It is no longer necessary for deep learning models.",
+      "It relies on external statistical formulas.",
+      "It requires tools that translate neural computation into human language."
+     ],
+     "answer": 3,
+     "explain": "正确项对应 Andreas 所说现在需要“mind-reading tools”把复杂神经计算翻译成人类语言。A 项是过去做法，原文用 used to；B 项绝对化，文中未说不再需要；C 项 statistical formulas 是旧方法，属张冠李戴。",
+     "evidence": "Now, we need ‘mind-reading tools’ that can take this really complicated neural computation and translate it for us because it is just not in a language that we, as humans, know how to speak,” he says.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What was the focus of Andreas's undergraduate thesis?",
+     "options": [
+      "Neural module networks for logical reasoning",
+      "Machine translation using adapted statistical techniques",
+      "Natural language descriptions of internal states",
+      "Vision-language collaboration in AI systems"
+     ],
+     "answer": 1,
+     "explain": "正确项同义改写原文：本科论文关于机器翻译，将现有统计技术用于更强大的翻译系统。A 项 neural module networks 是博士论文，属张冠李戴；C 项是后来在 MIT 的推测性项目；D 项是博士期间合作方向，均非本科论文。",
+     "evidence": "Andreas completed an undergraduate thesis project on machine translation.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about Andreas's early interest in language?",
+     "options": [
+      "It was sparked by formal training in linguistics.",
+      "It led him directly to a career in computer vision.",
+      "It grew from extensive childhood reading.",
+      "It was discouraged by his father's gift."
+     ],
+     "answer": 2,
+     "explain": "正确项由原文“voracious reader”推知：童年大量阅读激发语言兴趣。A 项 formal training 文中未提；B 项 computer vision 是后来合作方向，属过度推断；D 项父亲赠 BASIC Engine 激发计算机兴趣，非 discouraged，因果倒置。",
+     "evidence": "As a child growing up in the San Francisco Bay Area, he was a voracious reader of any book he could get his hands on.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"opaque\" in the passage is closest in meaning to ______.",
+     "options": [
+      "transparent",
+      "difficult to understand",
+      "mathematically precise",
+      "widely available"
+     ],
+     "answer": 1,
+     "explain": "正确项“difficult to understand”与 opaque 同义，指深度学习算法不透明、难理解，与后文 automatically learn 形成对比。A 项 transparent 是反义；C 项 mathematically precise 是统计方法特征，属张冠李戴；D 项 widely available 无关。",
+     "evidence": "Statistical methods utilize transparent, mathematical formulas to analyze text, while deep learning techniques use opaque algorithms to automatically learn complex meanings from massive amounts of text data.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "As a child growing up in the San Francisco Bay Area, he was a voracious reader of any book he could get his hands on. That piqued his interest in computers. A few years later, his father [1] home a simple BASIC Engine that Andreas could run on their home computer, and he started immersing himself in the world of computer programming.\n\n“I just blast emailed everyone in the computer science [2] who was working on anything vaguely AI-related, and the natural language processing faculty got back to me first. That is how I wound up in the field where I am now,” he says.\n\nWorking in the lab of Michael Collins, the Vikram S. Pandit Professor of Computer Science at Columbia University, Andreas completed an undergraduate thesis project on machine [3]. His project involved adapting existing statistical techniques for representing the meaning of language into more powerful AI systems that could [4] passages of text. “I always felt like these deeper questions about how thought works or how to model the world were closer to the surface in language processing problems than in the other tasks that AI people were working on at the time,” he [5].\n\nBefore starting his PhD studies, he spent a year earning a master’s degree at Cambridge University in England. In that historic environment, he was inspired to [6] the nature of language learning as he worked on [7] translation problems.\n\nAndreas began his studies at the time when neural networks were starting to take off. The field of natural language processing was making a [8] shift from statistical methods to this new world of deep learning. Statistical methods utilize transparent, mathematical [9] to analyze text, while deep learning techniques use [10] algorithms to automatically learn complex meanings from massive amounts of text data.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "brought"
+    },
+    {
+     "label": "B",
+     "word": "computational"
+    },
+    {
+     "label": "C",
+     "word": "contemplate"
+    },
+    {
+     "label": "D",
+     "word": "department"
+    },
+    {
+     "label": "E",
+     "word": "formulas"
+    },
+    {
+     "label": "F",
+     "word": "opaque"
+    },
+    {
+     "label": "G",
+     "word": "outlive"
+    },
+    {
+     "label": "H",
+     "word": "quench"
+    },
+    {
+     "label": "I",
+     "word": "recalls"
+    },
+    {
+     "label": "J",
+     "word": "seismic"
+    },
+    {
+     "label": "K",
+     "word": "settle"
+    },
+    {
+     "label": "L",
+     "word": "translate"
+    },
+    {
+     "label": "M",
+     "word": "translation"
+    },
+    {
+     "label": "N",
+     "word": "utilization"
+    },
+    {
+     "label": "O",
+     "word": "vicinity"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "brought",
+     "lower": "brought",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "带来；引出；促使",
+     "context": "A few years later, his father brought home a simple BASIC Engine that Andreas could run on their home computer, and he started immersing himself in the world of computer programming."
+    },
+    {
+     "index": 2,
+     "word": "department",
+     "lower": "department",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "部门",
+     "context": "“I just blast emailed everyone in the computer science department who was working on anything vaguely AI-related, and the natural language processing faculty got back to me first."
+    },
+    {
+     "index": 3,
+     "word": "translation",
+     "lower": "translation",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "翻译； 译文， 译本",
+     "context": "Pandit Professor of Computer Science at Columbia University, Andreas completed an undergraduate thesis project on machine translation."
+    },
+    {
+     "index": 4,
+     "word": "translate",
+     "lower": "translate",
+     "pos": "v",
+     "tier": "beyond",
+     "label": "L",
+     "gloss": "",
+     "context": "His project involved adapting existing statistical techniques for representing the meaning of language into more powerful AI systems that could translate passages of text."
+    },
+    {
+     "index": 5,
+     "word": "recalls",
+     "lower": "recalls",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "回想；叫回；收回",
+     "context": "“I always felt like these deeper questions about how thought works or how to model the world were closer to the surface in language processing problems than in the other tasks that AI people were working on at the time,” he recalls."
+    },
+    {
+     "index": 6,
+     "word": "contemplate",
+     "lower": "contemplate",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "C",
+     "gloss": "盘算， 计议； 思量， 对…周密考虑； 注视， 凝视",
+     "context": "In that historic environment, he was inspired to contemplate the nature of language learning as he worked on [7] translation problems."
+    },
+    {
+     "index": 7,
+     "word": "computational",
+     "lower": "computational",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "In that historic environment, he was inspired to [6] the nature of language learning as he worked on computational translation problems."
+    },
+    {
+     "index": 8,
+     "word": "seismic",
+     "lower": "seismic",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "J",
+     "gloss": "",
+     "context": "The field of natural language processing was making a seismic shift from statistical methods to this new world of deep learning."
+    },
+    {
+     "index": 9,
+     "word": "formulas",
+     "lower": "formulas",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "公式，式",
+     "context": "Statistical methods utilize transparent, mathematical formulas to analyze text, while deep learning techniques use [10] algorithms to automatically learn complex meanings from massive amounts of text data."
+    },
+    {
+     "index": 10,
+     "word": "opaque",
+     "lower": "opaque",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "F",
+     "gloss": "不透明的",
+     "context": "Statistical methods utilize transparent, mathematical [9] to analyze text, while deep learning techniques use opaque algorithms to automatically learn complex meanings from massive amounts of text data."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "MIT News",
+  "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+  "long_sentences": [
+   {
+    "en": "“Rather than needing to use all these external tools to try and understand what is going on under the hood, maybe we can train models to talk about themselves in a way that is accurate,” says Andreas, an associate professor in the Department of Electrical Engineering and Computer Science (EECS) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+    "words": 62
+   },
+   {
+    "en": "“I always felt like these deeper questions about how thought works or how to model the world were closer to the surface in language processing problems than in the other tasks that AI people were working on at the time,” he recalls.",
+    "words": 42
+   },
+   {
+    "en": "A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\" When deploying deep learning models in high-stakes scenarios, researchers would like to understand how they work.",
+    "words": 36
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-20T10:53:57",
+ "difficulty": {
+  "score": 70,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 309,
+    "asl": 12.4,
+    "flesch": 56.0,
+    "fkgl": 8.5,
+    "long_sent": 0.04,
+    "beyond": 0.084,
+    "in_band": false,
+    "score": 64
+   },
+   {
+    "type": "passage_listening",
+    "words": 281,
+    "asl": 25.5,
+    "flesch": 28.9,
+    "fkgl": 15.6,
+    "long_sent": 0.182,
+    "beyond": 0.078,
+    "in_band": false,
+    "score": 45
+   },
+   {
+    "type": "reading",
+    "words": 552,
+    "asl": 24.0,
+    "flesch": 42.9,
+    "fkgl": 13.2,
+    "long_sent": 0.217,
+    "beyond": 0.067,
+    "in_band": false,
+    "score": 70
+   },
+   {
+    "type": "banked_cloze",
+    "words": 301,
+    "asl": 21.5,
+    "flesch": 46.2,
+    "fkgl": 12.2,
+    "long_sent": 0.143,
+    "beyond": 0.056,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 70（偏易（四级水平）），与六级区间有偏差。"
+}

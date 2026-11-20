@@ -1,0 +1,51 @@
+{
+ "id": "daily-2026-11-20",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-20",
+ "source_label": "每日一文 · MIT News",
+ "title_en": "Learning the language of machine learning",
+ "title_zh": "学习机器学习的语言",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a \n Creative Commons Attribution Non-Commercial No Derivatives license .\n You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided \n below, credit the images to \"MIT.\"",
+   "zh": "麻省理工学院新闻办公室网站上供下载的图像，依据知识共享署名-非商业性使用-禁止演绎许可协议，向非商业实体、新闻界和公众开放。除可裁剪至合适尺寸外，不得对所提供的图像进行任何修改。复制图像时必须注明出处；如下方未提供出处，请将图像归功于“MIT”。"
+  },
+  {
+   "en": "When deploying deep learning models in high-stakes scenarios, researchers would like to understand how they work. Today, this requires unraveling an enormously complex network of internal processing nodes to understand what the model knows and how it will likely behave in practice.",
+   "zh": "在将深度学习模型部署于高风险场景时，研究人员希望了解这些模型的工作原理。如今，这需要厘清一个极其复杂的内部处理节点网络，才能理解模型掌握了什么知识，以及它在实际中可能如何表现。"
+  },
+  {
+   "en": "“Rather than needing to use all these external tools to try and understand what is going on under the hood, maybe we can train models to talk about themselves in a way that is accurate,” says Andreas, an associate professor in the Department of Electrical Engineering and Computer Science (EECS) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+   "zh": "“与其借助所有这些外部工具去设法理解模型内部究竟发生了什么，也许我们可以训练模型以准确的方式谈论自身，”电气工程与计算机科学系（EECS）副教授、计算机科学与人工智能实验室（CSAIL）成员安德烈亚斯（Andreas）说。"
+  },
+  {
+   "en": "By studying how machines come to understand language, Andreas and his group work toward building intelligent systems that can learn about the world from human guidance and communicate effectively with human collaborators. They develop methods to make the training process more natural and efficient, so AI models learn in a way that is more like human learning.",
+   "zh": "通过研究机器如何理解语言，安德烈亚斯及其团队致力于构建智能系统，使其能够从人类指导中学习世界知识，并与人类协作者有效沟通。他们开发方法让训练过程更自然、更高效，从而使AI模型的学习方式更接近人类学习。"
+  },
+  {
+   "en": "“We used to debug systems just by looking at their parameters and figuring out whether they make sense or not. Now, we need ‘mind-reading tools’ that can take this really complicated neural computation and translate it for us because it is just not in a language that we, as humans, know how to speak,” he says.",
+   "zh": "“过去我们调试系统，只需查看其参数，判断它们是否合理。现在，我们需要‘读心工具’，能够接收这种极其复杂的神经计算并为我们翻译出来，因为它所用的语言根本不是我们人类懂得如何说的语言，”他说。"
+  },
+  {
+   "en": "Andreas’ fascination with language blossomed at a young age. As a child growing up in the San Francisco Bay Area, he was a voracious reader of any book he could get his hands on.",
+   "zh": "安德烈亚斯对语言的痴迷始于幼年。在旧金山湾区长大的他，小时候是个如饥似渴的读者，凡是能拿到手的书都读。"
+  },
+  {
+   "en": "That piqued his interest in computers. A few years later, his father brought home a simple BASIC Engine that Andreas could run on their home computer, and he started immersing himself in the world of computer programming.",
+   "zh": "这激发了他对计算机的兴趣。几年后，父亲带回家一台简单的BASIC Engine，安德烈亚斯可以在家里的电脑上运行它，从此他开始沉浸在计算机编程的世界中。"
+  },
+  {
+   "en": "“I just blast emailed everyone in the computer science department who was working on anything vaguely AI-related, and the natural language processing faculty got back to me first. That is how I wound up in the field where I am now,” he says.",
+   "zh": "“我给计算机科学系所有从事哪怕稍微与AI相关研究的人群发了邮件，自然语言处理方向的教员最先回复了我。我就这样进入了如今所在的领域，”他说。"
+  },
+  {
+   "en": "Working in the lab of Michael Collins, the Vikram S. Pandit Professor of Computer Science at Columbia University, Andreas completed an undergraduate thesis project on machine translation. His project involved adapting existing statistical techniques for representing the meaning of language into more powerful AI systems that could translate passages of text.",
+   "zh": "安德烈亚斯在哥伦比亚大学维克拉姆·S·潘迪特计算机科学讲席教授迈克尔·柯林斯（Michael Collins）的实验室工作，完成了关于机器翻译的本科毕业论文项目。他的项目将现有的用于表示语言含义的统计技术，改造为更强大的AI系统，使其能够翻译文本段落。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117"
+}
