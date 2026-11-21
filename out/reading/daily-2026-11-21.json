@@ -1,0 +1,39 @@
+{
+ "id": "daily-2026-11-21",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-21",
+ "source_label": "每日一文 · MIT News",
+ "title_en": "Q&A: Enabling more human-like interactions and understanding in multimodal foundatio",
+ "title_zh": "问答：在多模态基础上实现更多类似人类的交互和理解",
+ "minutes": 4,
+ "paragraphs": [
+  {
+   "en": "Humans experience and interact with the world through sensory information. This could mean learning correspondences between the sound of bird chirps and the word “robin,” or being able to visually identify and follow your friend “Sarah” in a crowd of people. In many cases, people are able to draw on their latent “multimodal” knowledge — information across multiple data types, from audio to video to text or spoken word — to perform these tasks without many, or sometimes even any, examples.",
+   "zh": "人类通过感官信息来体验世界并与世界互动。这可能意味着要学会鸟鸣声与“知更鸟”一词之间的对应关系，或者能够在人群中用视觉识别并跟随你的朋友“萨拉”。在许多情况下，人们能够利用其潜在的“多模态”知识——从音频到视频再到文本或口语的多种数据类型的信息——在很少甚至有时没有任何示例的情况下完成这些任务。"
+  },
+  {
+   "en": "Multimodal foundation models of artificial intelligence are increasingly gaining capabilities that mimic this. However, their apparent multimodal fluency often belies their actual understanding. An MIT-IBM Computing Research Lab team, co-led by Jim Glass, senior research scientist in the MIT Computer Science and Artificial Intelligence Laboratory, has been investigating critical failures of state-of-the-art multimodal models and developing benchmarks and data-efficient methods to overcome these performance gaps with limited supervision. He speaks about this work in the following interview.",
+   "zh": "人工智能的多模态基础模型正日益获得模仿这种能力的本领。然而，它们表面上的多模态流畅性往往掩盖了其实际的理解能力。由麻省理工学院计算机科学与人工智能实验室（MIT Computer Science and Artificial Intelligence Laboratory）高级研究科学家吉姆·格拉斯（Jim Glass）共同领导的一个MIT-IBM计算研究实验室团队，一直在研究最先进多模态模型的关键失败之处，并开发基准和数据高效方法，以在有限监督下克服这些性能差距。他在以下采访中谈到了这项工作。"
+  },
+  {
+   "en": "A: This project has been going on for many years now, with roughly the same MIT-IBM team of speech and vision experts. We've wanted to explore the relationship between perception (things that you see and hear) and language, largely speaking: We have all of this absorbed knowledge and language skills, text-based, in the form of a large language model, so we wanted to know how you can relate them without using a whole bunch of annotated training data. Sometimes the models have seen certain phenomena, a latent representation of something that they have internally, but maybe due to subsequent fine-tuning or something, it disappears, so, developing techniques to try to make this capability re-emerge is a useful thing.",
+   "zh": "答：这个项目已经进行了很多年，基本上还是同一个由语音和视觉专家组成的MIT-IBM团队。我们一直想探索感知（你看到和听到的东西）与语言之间的关系，大体上来说：我们以大型语言模型的形式吸收了所有这些基于文本的知识和语言技能，所以我们想知道如何在不使用大量标注训练数据的情况下将它们联系起来。有时模型已经见过某些现象，其内部有某种事物的潜在表征，但也许由于后续的微调或其他原因，这种表征消失了，因此，开发技术来尝试让这种能力重新显现是一件有用的事情。"
+  },
+  {
+   "en": "As you study these publicly available models, you can see weaknesses even in big ones, so I think it's important to try to address these limitations. If you had an unlimited budget, you could go out and create the annotations that you need, but it's also good to be able to try to get these models to learn more on their own. We’ve done that by creating novel benchmarks that we can evaluate against, then developing techniques that perform better on these benchmarks, and getting these models to learn on their own. Throughout our research collaboration — and this has very much been a strong collaboration between MIT and IBM — we have continued to release public benchmarks for people to use, and that's a lasting artifact.",
+   "zh": "当你研究这些公开可用的模型时，即使在大模型中也能看到弱点，所以我认为尝试解决这些局限很重要。如果你有无限的预算，你可以出去创建你需要的标注，但能够尝试让这些模型更多地自行学习也是很好的。我们通过创建新的基准来做到这一点，我们可以据此进行评估，然后开发在这些基准上表现更好的技术，并让这些模型自行学习。在我们的整个研究合作过程中——这非常是MIT和IBM之间的紧密合作——我们一直持续发布供人们使用的公开基准，这是一项持久的成果。"
+  },
+  {
+   "en": "I think the overriding themes are multimodalities with language models, trying to address the shortcomings of these models, and trying to develop techniques that do not require a lot of annotated data to complete tasks better.",
+   "zh": "我认为最主要的主题是语言模型的多模态性，试图解决这些模型的缺点，并试图开发不需要大量标注数据就能更好地完成任务的技术。"
+  },
+  {
+   "en": "A: When we first started this project, we were trying to build models that could learn correspondences automatically, not telling the machine anything more than, “This audio caption goes with this picture,” sort of like reading a picture book to a child who's learning language. We would just show it these matching examples, and we'd show it mismatching examples. They could learn that the sequence of sounds that says “lighthouse” corresponds to a picture of a lighthouse, without any text being involved.",
+   "zh": "答：当我们刚开始这个项目时，我们试图构建能够自动学习对应关系的模型，除了告诉机器“这段音频说明与这张图片相配”之外，不告诉它任何更多的东西，有点像给学习语言的孩子读图画书。我们只是给它看这些匹配的例子，也给它看不匹配的例子。它们可以学会说“灯塔”的声音序列对应一张灯塔的图片，而无需涉及任何文本。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120"
+}
