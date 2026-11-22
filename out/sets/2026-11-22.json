@@ -1,0 +1,520 @@
+{
+ "id": "2026-11-22",
+ "date": "2026-11-22",
+ "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 476,
+  "sentences": 23,
+  "avg_sentence_len": 20.7,
+  "flesch_ease": 38.1,
+  "flesch_grade": 13.1,
+  "hard_word_ratio": 0.097,
+  "long_sent_ratio": 0.217,
+  "level": "六级",
+  "in_band": true,
+  "distance": 1.9,
+  "issues": [],
+  "score": 93
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student consults a career adviser about a job offer from a foreign-owned firm.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor Lane, thanks for seeing me on such short notice. I have a job offer from a Chinese-owned technology company, and I am not sure whether to accept it."
+    },
+    {
+     "sp": "M",
+     "en": "That is a big decision. What concerns you most about the offer?"
+    },
+    {
+     "sp": "W",
+     "en": "The salary is attractive, and the projects are exactly in my field. But some friends keep telling me that working for a foreign firm could expose me to political pressure or even legal trouble if relations between the two countries worsen."
+    },
+    {
+     "sp": "M",
+     "en": "Those worries are not groundless, but they are often exaggerated. Many students I advise have worked for foreign companies for years without any difficulty. The key is to examine the company’s record and its connections with the government."
+    },
+    {
+     "sp": "W",
+     "en": "How would I do that? I do not have access to much information."
+    },
+    {
+     "sp": "M",
+     "en": "Start with public records: court cases, media reports, and the company’s own statements about compliance. Also talk to former employees. If a firm has a history of being used as a tool of state policy, that is a warning sign."
+    },
+    {
+     "sp": "W",
+     "en": "I see. But is it fair to judge an entire company by the actions of its government? Many of my Chinese classmates are just as uneasy about politics as I am."
+    },
+    {
+     "sp": "M",
+     "en": "You are right. The distinction between a government and its citizens matters. However, in industries that are strategically sensitive, such as semiconductors or data services, the line between commercial and political activity can blur."
+    },
+    {
+     "sp": "W",
+     "en": "My offer is in artificial intelligence research. That sounds like one of those sensitive areas."
+    },
+    {
+     "sp": "M",
+     "en": "It is. That does not mean you should refuse, but you should ask specific questions: Will your work be published openly? Who owns the intellectual property? Could your research be redirected to military uses?"
+    },
+    {
+     "sp": "W",
+     "en": "I had not thought about the publication issue. I will ask the company for written answers before I decide."
+    },
+    {
+     "sp": "M",
+     "en": "Good. And remember, accepting a job is not a lifetime commitment. You can gain experience and leave if the situation changes. The worst outcome is not a wrong choice but a choice made without enough information."
+    },
+    {
+     "sp": "W",
+     "en": "That makes me feel better. I will do more research and then decide. Thank you for your time."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the woman mainly seeking from the man?",
+     "options": [
+      "Information about scholarship opportunities in artificial intelligence",
+      "Advice on whether to accept a job at a foreign technology firm",
+      "Help in finding a lawyer for a legal dispute with an employer",
+      "Suggestions on how to improve her relations with Chinese classmates"
+     ],
+     "answer": 1,
+     "explain": "女士开场即说明收到中资科技公司录用通知并犹豫是否接受，随后请教如何评估风险，故 A 正确。B 项奖学金、C 项法律纠纷、D 项与同学关系均属无关信息，对话未涉及。",
+     "evidence": "I have a job offer from a Chinese-owned technology company, and I am not sure whether to accept it."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the man, what should the woman do first to assess the company?",
+     "options": [
+      "Request a higher salary to offset potential risks",
+      "Ask the government for an official security review",
+      "Consult public records and former employees",
+      "Interview her Chinese classmates about their views"
+     ],
+     "answer": 2,
+     "explain": "男士建议从公开记录、媒体报道、合规声明以及前员工入手，故 A 正确。B 项政府安全审查、C 项加薪、D 项采访同学均非其建议，属张冠李戴或无关信息。",
+     "evidence": "Start with public records: court cases, media reports, and the company’s own statements about compliance. Also talk to former employees."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about strategically sensitive industries?",
+     "options": [
+      "Commercial and political activities may become hard to separate",
+      "Foreign employees are always barred from such industries",
+      "Companies in these fields rarely hire international students",
+      "Governments should nationalize all sensitive technology firms"
+     ],
+     "answer": 0,
+     "explain": "男士指出在半导体、数据服务等敏感行业，商业与政治活动的界限可能模糊，故 A 正确。B 项“总是禁止”、C 项“很少雇用”属绝对化；D 项国有化属过度推断，原文未提。",
+     "evidence": "However, in industries that are strategically sensitive, such as semiconductors or data services, the line between commercial and political activity can blur."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man’s attitude toward the woman’s job offer?",
+     "options": [
+      "Cautiously supportive rather than dismissive",
+      "Strongly opposed on moral grounds",
+      "Indifferent because he lacks expertise",
+      "Enthusiastic and free of any reservation"
+     ],
+     "answer": 0,
+     "explain": "男士认为担忧并非无据但常被夸大，建议审慎调查而非拒绝，态度是谨慎支持，故 A 正确。B 项强烈反对、C 项漠不关心、D 项毫无保留均与其平衡建议不符。",
+     "evidence": "Those worries are not groundless, but they are often exaggerated."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "When countries become deeply economically intertwined, the relationship can serve as a foundation for peace, but it can also become a source of leverage. Recent debates over trade and technology have brought this tension into sharp focus. Governments increasingly treat supply chains, critical minerals, and data flows not merely as commercial matters but as instruments of national strategy. For middle powers, the challenge is especially acute. They often lack the market size to dictate terms to larger economies, yet they depend on those economies for exports, energy, and advanced components. Diversifying trade partners is a common response, but diversification takes time and money. Building new ports, signing new agreements, and certifying new suppliers can take years, during which vulnerabilities remain. Some analysts argue that the solution lies in multilateral rules, such as those enforced by the World Trade Organization. Others are skeptical, noting that major powers have repeatedly bypassed or weakened such rules when their security interests are at stake. The result is a patchwork system in which legal commitments coexist with political pressure. For individual firms, the practical question is how to assess risk. A company that relies on a single foreign supplier for a key input may be vulnerable not only to tariffs but also to sudden regulatory changes or export controls. Firms that map their exposure and develop alternatives are better prepared, even if complete independence is unrealistic. The goal is not isolation but resilience, and in the end, economic interdependence is neither inherently good nor inherently bad. Its effects depend on the institutions that manage it and on the choices of the governments and firms involved. Recognizing this complexity is the first step toward policies that protect national interests without sacrificing the benefits of open trade."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The dual nature of economic interdependence and how to manage its risks",
+      "The history of the World Trade Organization since its founding",
+      "Why middle powers should abandon trade with major economies",
+      "How firms can achieve complete independence from foreign suppliers"
+     ],
+     "answer": 0,
+     "explain": "全文围绕经济相互依赖既是和平基础又可成为杠杆的双重性，以及国家与企业的应对策略，故 A 正确。B 项 WTO 历史仅为细节；C 项“放弃贸易”属绝对化；D 项“完全独立”与原文“unrealistic”矛盾。",
+     "evidence": "The goal is not isolation but resilience, and in the end, economic interdependence is neither inherently good nor inherently bad."
+    },
+    {
+     "id": "l2_2",
+     "stem": "Why is diversification difficult for middle powers?",
+     "options": [
+      "It requires considerable time and financial resources",
+      "It is prohibited by existing international trade rules",
+      "It inevitably reduces their domestic living standards",
+      "It depends on approval from larger economies"
+     ],
+     "answer": 0,
+     "explain": "原文指出多元化需要时间和金钱，建设港口、签署协议、认证供应商耗时数年，故 A 正确。B 项禁止、C 项必然降低生活水平、D 项需大国批准均属无中生有或绝对化。",
+     "evidence": "Diversifying trade partners is a common response, but diversification takes time and money."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about multilateral trade rules from the passage?",
+     "options": [
+      "They are often set aside when major powers face security concerns",
+      "They have completely eliminated economic coercion among states",
+      "They are enforced equally regardless of a country’s size",
+      "They are irrelevant to firms assessing supply-chain risk"
+     ],
+     "answer": 0,
+     "explain": "原文指出大国在安全利益受威胁时屡屡绕过或削弱规则，故 A 正确。B 项“完全消除”与事实相反；C 项“平等执行”与 bypassed 矛盾；D 项“无关”属偷换概念，规则影响企业风险评估。",
+     "evidence": "Others are skeptical, noting that major powers have repeatedly bypassed or weakened such rules when their security interests are at stake."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "When Interdependence Becomes Leverage",
+   "passage": "Taiwan’s deputy foreign minister warned on Saturday that Canada risks exposing itself to economic coercion by deepening trade ties with China, saying that Taiwan has learned through painful experience that dependence on Beijing carries consequences that can be difficult to foresee and even harder to reverse. The warning came during an interview at the Halifax International Security Forum, where the official urged Ottawa to weigh the lessons of recent history and to consider carefully how economic partnerships can create political vulnerabilities over time. The caution stands in contrast to Prime Minister Mark Carney’s recent diplomatic efforts. Carney has argued that major powers are using economic integration as a weapon, citing U.S. tariffs and China’s restrictions on critical minerals, and he has urged middle powers to diversify their trade relationships so that no single partner can hold them hostage. Yet he has also met with Chinese President Xi Jinping and agreed to more tariff reductions as Canada seeks alternatives amid a U.S. trade war that has unsettled traditional alliances and forced Ottawa to rethink its economic strategy. Chen Ming-chi, the Taiwanese official, pointed to the detention of two Canadian citizens from 2018 to 2021 as evidence of the risks involved. The two men were arrested shortly after Canada detained a Huawei executive on a U.S. extradition request and were released the same day she returned to China. Beijing denied that the detentions were politically motivated, but the episode left a lasting impression on Canadian public opinion and raised serious questions about the dangers of relying on a partner that can act decisively when it chooses. Carney has defended his approach by distinguishing Canada’s trade relationship with China from Washington’s more complicated ties with Beijing. Canada mainly exports agricultural products, energy and other commodities rather than sensitive technologies such as advanced semiconductors, he said. Even so, he acknowledged that China is “very good at weaponizing interdependence” and at leveraging dependence to reach political goals that may have little to do with trade. Taiwan’s own experience offers a case study in reducing exposure. The share of its outbound investment going to China fell from more than 80% in 2010 to 3.8% last year, and its exports to China and Hong Kong dropped from nearly 44% of total exports in 2020 to about 27% last year. Chen also accused Beijing of intensifying military operations around Taiwan and warned that Chinese vessels could be rehearsing for a maritime quarantine. in the end, the debate reflects a broader dilemma for middle powers: economic openness brings benefits, but it can also create vulnerabilities that are difficult to reverse quickly. Recognizing this tension is the first step toward policies that protect national interests without sacrificing the gains from trade.",
+   "source": {
+    "name": "ABC News",
+    "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The hazards and trade-offs of closer economic ties with a strategic rival",
+      "The total breakdown of Canada’s trade negotiations with Washington",
+      "The steady growth of Taiwan’s semiconductor sales since 2010",
+      "The case for ending all Canadian farm exports to China"
+     ],
+     "answer": 0,
+     "explain": "全文由台湾官员的警告引出，讨论加拿大深化对华贸易的风险以及中等强国面临的两难，末段明确点出这一主题，故A项正确。B项“完全破裂”属绝对化；C项半导体销售增长与原文无关；D项“停止所有农产品出口”属过度推断。",
+     "evidence": "in the end, the debate reflects a broader dilemma for middle powers: economic openness brings benefits, but it can also create vulnerabilities that are difficult to reverse quickly.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did Chen cite as evidence of the risks of dependence on Beijing?",
+     "options": [
+      "The decline of Taiwan’s exports to Hong Kong last year",
+      "The imposition of heavy tariffs on Canadian vehicles",
+      "The detention of two Canadians between 2018 and 2021",
+      "The meeting between Carney and Xi in Halifax"
+     ],
+     "answer": 2,
+     "explain": "原文明确说陈明祺以两名加拿大人2018至2021年被拘留作为风险证据，故C项正确。A项张冠李戴，台湾出口数据并非陈所引加拿大案例；B项无中生有，文中未提对加拿大汽车加征关税；D项偷换概念，会晤是外交接触而非风险证据。",
+     "evidence": "Chen Ming-chi, the Taiwanese official, pointed to the detention of two Canadian citizens from 2018 to 2021 as evidence of the risks involved.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "How does Carney distinguish Canada’s trade with China from Washington’s?",
+     "options": [
+      "Canada has already removed all tariffs on Chinese goods",
+      "Canada exports mainly commodities rather than sensitive technologies",
+      "Canada has no strategic industries that China could target",
+      "Canada imports more advanced semiconductors than the U.S. does"
+     ],
+     "answer": 1,
+     "explain": "原文指出卡尼强调加拿大主要出口农产品、能源等商品，而非先进半导体等敏感技术，故B项正确。A项无中生有，文中未说已取消全部关税；C项绝对化，加拿大并非没有战略产业；D项与原文相反，加拿大出口的是商品而非半导体。",
+     "evidence": "Canada mainly exports agricultural products, energy and other commodities rather than sensitive technologies such as advanced semiconductors, he said.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about Taiwan’s economic strategy from the figures in the last paragraph?",
+     "options": [
+      "It has completely stopped investing in the Chinese mainland",
+      "It now exports more to China than to all other markets combined",
+      "It has shifted its investment entirely to Hong Kong",
+      "It has substantially reduced its economic exposure to China"
+     ],
+     "answer": 3,
+     "explain": "对华投资占比从80%以上降至3.8%，对大陆和香港出口占比从近44%降至约27%，说明台湾大幅降低对华经济暴露，故D项正确。A项“完全停止”与3.8%矛盾；B项与27%矛盾；C项“全部转向香港”无依据，属过度推断。",
+     "evidence": "The share of its outbound investment going to China fell from more than 80% in 2010 to 3.8% last year, and its exports to China and Hong Kong dropped from nearly 44% of total exports in 2020 to about 27% last year.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “weaponizing” in the passage is closest in meaning to ______.",
+     "options": [
+      "using something as a means of coercion",
+      "eliminating something through negotiation",
+      "measuring something with great precision",
+      "promoting something through public campaigns"
+     ],
+     "answer": 0,
+     "explain": "weaponizing interdependence指把相互依赖当作胁迫工具，与“using something as a means of coercion”同义，故A项正确。B项“通过谈判消除”与语境相反；C项“精确测量”属偷换概念；D项“公开宣传推广”与利用依赖施压的含义不符。",
+     "evidence": "Even so, he acknowledged that China is “very good at weaponizing interdependence” and at leveraging dependence to reach political goals that may have little to do with trade.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "The warning came during an interview at the Halifax International Security Forum, where the official urged Ottawa to weigh the lessons of recent history. The caution stands in [1] to Prime Minister Mark Carney’s recent diplomatic efforts. Carney has argued that major powers are using economic [2] as a weapon, citing U.S. tariffs and China’s [3] on critical minerals, and he has urged middle powers to diversify their trade relationships. Yet he has also met with Chinese President Xi Jinping and agreed to additional tariff reductions as Canada seeks [4] amid a U.S. trade war.\n\nChen Ming-chi, the Taiwanese official, pointed to the detention of two Canadian citizens from 2018 to 2021 as evidence of the risks [5]. The two men were arrested shortly after Canada detained a Huawei executive on a U.S. extradition request and were released the same day she returned to China. Beijing denied that the detentions were politically motivated, but the episode left a lasting impression on Canadian public opinion.\n\nCarney has [6] his approach by distinguishing Canada’s trade relationship with China from Washington’s more [7] ties with Beijing. Canada primarily exports agricultural products, energy and other commodities rather than [8] technologies such as advanced semiconductors, he said. Even so, he [9] that China is “very good at weaponizing interdependence” and at leveraging dependence to reach political goals.\n\nTaiwan’s own experience offers a case study in reducing exposure. The share of its outbound investment going to China fell from more than 80% in 2010 to 3.8% last year, and its exports to China and Hong Kong dropped from nearly 44% of total exports in 2020 to about 27% last year. Chen also [10] Beijing of intensifying military operations around Taiwan and warned that Chinese vessels could be rehearsing for a maritime quarantine.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "accused"
+    },
+    {
+     "label": "B",
+     "word": "acknowledged"
+    },
+    {
+     "label": "C",
+     "word": "alternatives"
+    },
+    {
+     "label": "D",
+     "word": "anniversary"
+    },
+    {
+     "label": "E",
+     "word": "commute"
+    },
+    {
+     "label": "F",
+     "word": "complicated"
+    },
+    {
+     "label": "G",
+     "word": "contrast"
+    },
+    {
+     "label": "H",
+     "word": "defended"
+    },
+    {
+     "label": "I",
+     "word": "integration"
+    },
+    {
+     "label": "J",
+     "word": "involved"
+    },
+    {
+     "label": "K",
+     "word": "pedestrian"
+    },
+    {
+     "label": "L",
+     "word": "restrictions"
+    },
+    {
+     "label": "M",
+     "word": "satisfaction"
+    },
+    {
+     "label": "N",
+     "word": "section"
+    },
+    {
+     "label": "O",
+     "word": "sensitive"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "contrast",
+     "lower": "contrast",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "对比，反差；v 对比",
+     "context": "The caution stands in contrast to Prime Minister Mark Carney’s recent diplomatic efforts."
+    },
+    {
+     "index": 2,
+     "word": "integration",
+     "lower": "integration",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "综合",
+     "context": "Carney has argued that major powers are using economic integration as a weapon, citing U.S. tariffs and China’s [3] on critical minerals, and he has urged middle powers to diversify their trade relationships."
+    },
+    {
+     "index": 3,
+     "word": "restrictions",
+     "lower": "restrictions",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "限制，限定",
+     "context": "Carney has argued that major powers are using economic [2] as a weapon, citing U.S. tariffs and China’s restrictions on critical minerals, and he has urged middle powers to diversify their trade relationships."
+    },
+    {
+     "index": 4,
+     "word": "alternatives",
+     "lower": "alternatives",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "代替品",
+     "context": "Yet he has also met with Chinese President Xi Jinping and agreed to additional tariff reductions as Canada seeks alternatives amid a U.S. trade war."
+    },
+    {
+     "index": 5,
+     "word": "involved",
+     "lower": "involved",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "卷入，包含",
+     "context": "Chen Ming-chi, the Taiwanese official, pointed to the detention of two Canadian citizens from 2018 to 2021 as evidence of the risks involved."
+    },
+    {
+     "index": 6,
+     "word": "defended",
+     "lower": "defended",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "保卫，防守",
+     "context": "Carney has defended his approach by distinguishing Canada’s trade relationship with China from Washington’s more [7] ties with Beijing."
+    },
+    {
+     "index": 7,
+     "word": "complicated",
+     "lower": "complicated",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "复杂的，难懂的",
+     "context": "Carney has [6] his approach by distinguishing Canada’s trade relationship with China from Washington’s more complicated ties with Beijing."
+    },
+    {
+     "index": 8,
+     "word": "sensitive",
+     "lower": "sensitive",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "敏感的",
+     "context": "Canada primarily exports agricultural products, energy and other commodities rather than sensitive technologies such as advanced semiconductors, he said."
+    },
+    {
+     "index": 9,
+     "word": "acknowledged",
+     "lower": "acknowledged",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "承认(…的权威)",
+     "context": "Even so, he acknowledged that China is “very good at weaponizing interdependence” and at leveraging dependence to reach political goals."
+    },
+    {
+     "index": 10,
+     "word": "accused",
+     "lower": "accused",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "指责；归咎于",
+     "context": "Chen also accused Beijing of intensifying military operations around Taiwan and warned that Chinese vessels could be rehearsing for a maritime quarantine."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ABC News",
+  "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
+  "long_sentences": [
+   {
+    "en": "HALIFAX, Nova Scotia -- Taiwan’s deputy foreign minister warned on Saturday that Prime Minister Mark Carney risks exposing Canada to the very economic coercion he has cautioned against by deepening trade ties with China, saying that Taiwan has learned the hard way that dependence on Beijing comes with consequences.",
+    "words": 49
+   },
+   {
+    "en": "“They are very good at leveraging our dependence to reach political goals.” Taiwan reduced the share of its outbound investment going to China from more than 80% in 2010 to 3.8% last year, Chen said.",
+    "words": 35
+   },
+   {
+    "en": "Chen also accused Beijing of exploiting a striking photograph from this week’s summit in Shenzhen showing Xi seated prominently between Trump and Russian President Vladimir Putin to project China as the world’s leading power.",
+    "words": 34
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-22T09:57:32",
+ "difficulty": {
+  "score": 69,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 362,
+    "asl": 11.3,
+    "flesch": 64.5,
+    "fkgl": 7.1,
+    "long_sent": 0.0,
+    "beyond": 0.019,
+    "in_band": true,
+    "score": 90
+   },
+   {
+    "type": "passage_listening",
+    "words": 290,
+    "asl": 18.1,
+    "flesch": 35.0,
+    "fkgl": 12.9,
+    "long_sent": 0.0,
+    "beyond": 0.045,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 452,
+    "asl": 28.2,
+    "flesch": 26.9,
+    "fkgl": 16.5,
+    "long_sent": 0.375,
+    "beyond": 0.091,
+    "in_band": false,
+    "score": 57
+   },
+   {
+    "type": "banked_cloze",
+    "words": 296,
+    "asl": 22.8,
+    "flesch": 31.7,
+    "fkgl": 14.5,
+    "long_sent": 0.154,
+    "beyond": 0.101,
+    "in_band": false,
+    "score": 70
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 69（偏易（四级水平）），与六级区间有偏差。"
+}
