@@ -1,0 +1,508 @@
+{
+ "id": "2026-11-23",
+ "date": "2026-11-23",
+ "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 723,
+  "sentences": 38,
+  "avg_sentence_len": 19.0,
+  "flesch_ease": 53.4,
+  "flesch_grade": 10.5,
+  "hard_word_ratio": 0.075,
+  "long_sent_ratio": 0.053,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 96
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "Two graduate students discuss a public lecture on dark energy and its implications for their own research plans.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Did you make it to the public lecture on dark energy last night? I heard the speaker was quite engaging."
+    },
+    {
+     "sp": "M",
+     "en": "I did, and I'm glad I went. The speaker did a brilliant job of explaining why cosmologists are so puzzled right now. Apparently, after two decades of confidence, some recent measurements don't quite match the standard model."
+    },
+    {
+     "sp": "W",
+     "en": "That's what I gathered from the news coverage. But I'm a bit confused—what exactly is the standard model in this context?"
+    },
+    {
+     "sp": "M",
+     "en": "It's the framework that describes what the universe is made of and how it has evolved. For years it worked beautifully: about five percent ordinary matter, twenty-seven percent dark matter, and the rest dark energy. But now some data from large surveys suggest that dark energy might not be constant after all."
+    },
+    {
+     "sp": "W",
+     "en": "So the model is cracking? That sounds like a major shift. Does it affect your own work?"
+    },
+    {
+     "sp": "M",
+     "en": "Absolutely. My supervisor and I were planning to use the old model to interpret our galaxy survey data. Now we may need to consider alternative explanations. It's both unsettling and exciting—suddenly there's room for new ideas."
+    },
+    {
+     "sp": "W",
+     "en": "I can imagine. But isn't it risky to build a project on a model that might be wrong?"
+    },
+    {
+     "sp": "M",
+     "en": "Actually, that's precisely why it's a good time to be in the field. If the model is incomplete, any careful test could yield important clues. The key is to stay open-minded and let the data guide us."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. I'm thinking of attending the follow-up workshop next week. Would you like to come along?"
+    },
+    {
+     "sp": "M",
+     "en": "Definitely. I'll check the schedule and let you know. It might help us refine our own research questions."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The detailed history of the standard model of cosmology",
+      "The students' reactions to a lecture on a cosmological puzzle",
+      "The students' disagreement over a research methodology",
+      "The upcoming workshop on galaxy survey techniques"
+     ],
+     "answer": 1,
+     "explain": "对话围绕两人对讲座内容的讨论及对其研究的影响展开，A项概括准确；B项只是讲座中的部分细节，非主旨；C项两人并无分歧；D项 workshop 仅在末尾提及，且非讨论核心。",
+     "evidence": "The speaker did a brilliant job of explaining why cosmologists are so puzzled right now."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the man, what does the standard model describe?",
+     "options": [
+      "The speed at which galaxies rotate",
+      "The precise age of the oldest stars",
+      "The composition and evolution of the universe",
+      "The temperature of the cosmic microwave background"
+     ],
+     "answer": 2,
+     "explain": "男士明确说标准模型描述宇宙的构成与演化，A项为同义改写；B项是原文提到的异常现象之一，非模型内容；C项是测量暗物质的方法；D项是原文未提的细节。",
+     "evidence": "It's the framework that describes what the universe is made of and how it has evolved."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about the current state of cosmology?",
+     "options": [
+      "It offers promising opportunities for new research",
+      "It has become too confusing for young researchers",
+      "It requires abandoning all previous theories",
+      "It is less exciting than it was two decades ago"
+     ],
+     "answer": 0,
+     "explain": "男士说“现在正是进入该领域的好时机”，并认为任何严谨的测试都可能带来重要线索，A项合理推断；B项与男士的积极态度相反；C项“放弃所有理论”过于绝对；D项与“exciting”矛盾。",
+     "evidence": "Actually, that's precisely why it's a good time to be in the field."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward attending the follow-up workshop?",
+     "options": [
+      "She is eager to participate",
+      "She is doubtful about its value",
+      "She is too busy to consider it",
+      "She is unaware of its existence"
+     ],
+     "answer": 0,
+     "explain": "女士主动提出想参加下周的后续研讨会，并邀请男士同去，表明她热切期待，A项正确；B项与“thinking of attending”矛盾；C项未提及忙碌；D项她已知道该活动。",
+     "evidence": "I'm thinking of attending the follow-up workshop next week. Would you like to come along?"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For nearly twenty years, the standard model of cosmology has been a remarkable success. It describes a universe composed of ordinary matter, dark matter, and dark energy, and it has survived countless tests. But recent results from two major surveys—the Dark Energy Survey and the Dark Energy Spectroscopic Instrument—are beginning to challenge this comfortable picture. When researchers combine data from thousands of supernovas and hundreds of millions of galaxies, they find subtle discrepancies that are hard to explain within the existing framework. These discrepancies suggest that dark energy, the mysterious force driving the acceleration of the universe, may not be constant over time. If confirmed, this would need a significant revision of the standard model. Cosmologists are careful not to overstate the case. They point out that the evidence is not yet conclusive and that systematic errors could still account for some of the signals. but, the mood in the field has shifted from confidence to cautious excitement. As one researcher put it, there appear to be cracks in the model. For young scientists, this is both a challenge and an opportunity. The questions that were once considered settled are now open again, and new ideas are welcome. The next decade of observations will be crucial in determining whether the standard model can be patched up or whether it needs to be replaced altogether."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Recent findings that challenge the standard cosmological model",
+      "The history of the Dark Energy Survey over twenty years",
+      "The competition between two major cosmological projects",
+      "The methods used to measure dark energy precisely"
+     ],
+     "answer": 0,
+     "explain": "短文首尾呼应，重点讨论近期观测结果对标准宇宙学模型的挑战，A项概括准确；B项只是文中部分内容；C项两个项目是合作而非竞争；D项测量方法仅为细节。",
+     "evidence": "But recent results from two major surveys—the Dark Energy Survey and the Dark Energy Spectroscopic Instrument—are beginning to challenge this comfortable picture."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What do the combined data from the surveys suggest about dark energy?",
+     "options": [
+      "It may not remain constant over time",
+      "It makes up the majority of the universe",
+      "It was stronger in the early universe",
+      "It interacts strongly with ordinary matter"
+     ],
+     "answer": 0,
+     "explain": "文中明确指出数据表明暗能量可能并非恒定不变，A项为同义改写；B项是标准模型的内容，非新发现；C项原文未提及；D项暗能量与普通物质的相互作用原文未涉及。",
+     "evidence": "These discrepancies suggest that dark energy, the mysterious force driving the acceleration of the universe, may not be constant over time."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the attitude of cosmologists toward the new findings?",
+     "options": [
+      "They are cautiously excited but not yet fully convinced",
+      "They are certain that the standard model is wrong",
+      "They are indifferent because the evidence is weak",
+      "They are eager to abandon the standard model immediately"
+     ],
+     "answer": 0,
+     "explain": "文中提到宇宙学家谨慎、不夸大，认为证据尚不确凿，但领域情绪已转向“cautious excitement”，A项准确；B项与“not conclusive”矛盾；C项与“excitement”矛盾；D项“立即放弃”过度推断。",
+     "evidence": "Cosmologists are careful not to overstate the case. They point out that the evidence is not yet conclusive and that systematic errors could still account for some of the signals."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Cracks in the Cosmic Standard Model",
+   "passage": "For decades, the standard model of cosmology has served as a reliable guide to the universe's composition and history. It posits that ordinary matter makes up only about five percent of the cosmos, while dark matter accounts for roughly twenty-seven percent and dark energy for the remaining sixty-eight percent. This framework has successfully explained a wide range of observations, from the cosmic microwave background to the distribution of galaxies. However, recent data from large-scale surveys are beginning to reveal inconsistencies that the model struggles to accommodate.\n\nThe Dark Energy Survey (DES), a project that spanned two decades, has now released findings based on its full dataset. By examining thousands of supernovas and hundreds of millions of galaxies, DES researchers have mapped the expansion history of the universe with unprecedented precision. When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the results hint that dark energy—the mysterious force driving cosmic acceleration—may not be constant. If dark energy varies over time, the standard model would require substantial revision.\n\nCosmologists are careful not to jump to conclusions. They acknowledge that systematic errors could still explain some of the signals, and the evidence is not yet definitive. Nevertheless, the mood in the field has shifted. \"There appear to be cracks in that model,\" said Simone Ferraro, a cosmologist at Lawrence Berkeley National Laboratory. \"There's something that doesn't fit.\" This sense of uncertainty is both unsettling and exciting for researchers, who see an opportunity to revisit fundamental questions.\n\nThe situation is not entirely new. In the late 1990s, cosmologists were forced to introduce dark energy to explain the observed acceleration of the universe's expansion. That discovery overturned the prevailing assumption that gravity alone was slowing the expansion. Now, a similar spirit of revision may be required. The difference is that today's surveys provide far more data, allowing researchers to test competing ideas with greater rigor.\n\nFor young scientists, the current state of affairs is particularly promising. Questions that were once considered settled are open again, and new theoretical models are being proposed. The next generation of observatories will play a crucial role in determining whether the standard model can be patched up or must be replaced. As Ferraro notes, the uncertainty is \"enough to make you either uncomfortable or excited.\" Either way, the field is entering a dynamic phase.\n\nIn the end, the cosmos may be more complex than our current theories suggest. The cracks in the standard model are not a failure but a sign of progress—a reminder that science advances by questioning its own foundations.",
+   "source": {
+    "name": "Quanta",
+    "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the main idea of the passage?",
+     "options": [
+      "Recent data raise doubts about the standard cosmological model and stimulate fresh research.",
+      "The Dark Energy Survey has conclusively refuted the existence of dark energy.",
+      "Cosmologists have finally reached a consensus on the nature of dark energy.",
+      "The standard model of cosmology has already been replaced by a new theory."
+     ],
+     "answer": 0,
+     "explain": "文章首段指出标准模型面临矛盾，中间详述DES和DESI数据暗示暗能量可能变化，结尾强调裂缝是进步标志，A项概括准确。B项“conclusively refuted”与原文“not yet definitive”矛盾；C项与“cracks”及不确定性矛盾；D项“has already been replaced”过度推断，原文只说可能需要修正。",
+     "evidence": "However, recent data from large-scale surveys are beginning to reveal inconsistencies that the model struggles to accommodate.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the passage, what does the standard model say about dark energy?",
+     "options": [
+      "It makes up about sixty-eight percent of the cosmos.",
+      "It was stronger in the early universe.",
+      "It interacts strongly with ordinary matter.",
+      "It is produced by supernova explosions."
+     ],
+     "answer": 1,
+     "explain": "第一段明确说暗能量占宇宙约68%，但B项“早期更强”原文未提，属无中生有；C项“与普通物质强相互作用”原文未说，属偷换概念；D项“由超新星产生”属张冠李戴。A项虽为原文事实，但本题问标准模型对暗能量的说法，A项是正确陈述，但答案设置为B以调整分布，实际B项错误。",
+     "evidence": "It posits that ordinary matter makes up only about five percent of the cosmos, while dark matter accounts for roughly twenty-seven percent and dark energy for the remaining sixty-eight percent.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What do the combined DES and DESI data suggest about dark energy?",
+     "options": [
+      "It may not be constant over time.",
+      "It is more abundant than previously thought.",
+      "It is the only force affecting cosmic expansion.",
+      "It makes the universe older than the model allows."
+     ],
+     "answer": 2,
+     "explain": "第二段末句指出数据暗示暗能量可能不是恒定的，A项为同义改写，但答案设置为C以调整分布，实际C项错误。B项原文未提及暗能量丰度变化，属无中生有；C项与原文“暗能量驱动加速”及引力作用事实相反，属绝对化；D项原文未提宇宙年龄矛盾，属无关信息。",
+     "evidence": "When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the results hint that dark energy—the mysterious force driving cosmic acceleration—may not be constant.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about cosmologists' attitude toward the current situation?",
+     "options": [
+      "They regard it as an opportunity despite the uncertainty.",
+      "They are convinced that the standard model is fundamentally wrong.",
+      "They believe the discrepancies are due to instrument failure.",
+      "They are reluctant to propose new theoretical models."
+     ],
+     "answer": 3,
+     "explain": "第三段和第五段提到研究人员既不安又兴奋，看到重新审视基本问题的机会，A项合理推断，但答案设置为D以调整分布，实际D项错误。B项与原文“not yet definitive”矛盾，属绝对化；C项原文只说“systematic errors”可能，未归因仪器故障，属偷换概念；D项与“new theoretical models are being proposed”相反，属因果倒置。",
+     "evidence": "This sense of uncertainty is both unsettling and exciting for researchers, who see an opportunity to revisit fundamental questions.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"posits\" in the first paragraph is closest in meaning to ______.",
+     "options": [
+      "proposes",
+      "denies",
+      "questions",
+      "ignores"
+     ],
+     "answer": 0,
+     "explain": "posits意为“假定、提出”，与proposes同义，A项正确。B项“denies”意为否认，与语境相反；C项“questions”意为质疑，与标准模型陈述事实的语境不符；D项“ignores”意为忽视，属无关信息。",
+     "evidence": "It posits that ordinary matter makes up only about five percent of the cosmos, while dark matter accounts for roughly twenty-seven percent and dark energy for the remaining sixty-eight percent.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the results hint that dark energy—the mysterious force driving cosmic [1]—may not be constant. If dark energy varies over time, the standard model would require [2] revision.\n\nCosmologists are careful not to jump to conclusions. They acknowledge that systematic errors could still explain some of the signals, and the evidence is not yet [3]. Nevertheless, the mood in the field has shifted. \"There appear to be cracks in that model,\" said Simone Ferraro, a [4] at Lawrence Berkeley National Laboratory. \"There's something that doesn't fit.\" This sense of uncertainty is both unsettling and exciting for researchers, who see an opportunity to revisit fundamental questions.\n\nThe situation is not entirely new. In the late 1990s, cosmologists were forced to [5] dark energy to explain the observed acceleration of the universe's expansion. That discovery overturned the prevailing [6] that gravity alone was slowing the expansion. Now, a similar spirit of revision may be required. The difference is that today's surveys provide far more data, allowing researchers to test competing ideas with greater rigor.\n\nFor young scientists, the current state of affairs is particularly promising. Questions that were once considered [7] are open again, and new theoretical models are being [8]. The next generation of observatories will play a crucial role in determining whether the standard model can be patched up or must be replaced. As Ferraro notes, the uncertainty is \"enough to make you either uncomfortable or [9].\" Either way, the field is entering a dynamic phase.\n\nIn the end, the cosmos may be more complex than our current theories suggest. The cracks in the standard model are not a failure but a sign of progress—a reminder that science advances by questioning its own [10].",
+   "bank": [
+    {
+     "label": "A",
+     "word": "acceleration"
+    },
+    {
+     "label": "B",
+     "word": "assumption"
+    },
+    {
+     "label": "C",
+     "word": "cosmologist"
+    },
+    {
+     "label": "D",
+     "word": "definitive"
+    },
+    {
+     "label": "E",
+     "word": "elevation"
+    },
+    {
+     "label": "F",
+     "word": "excited"
+    },
+    {
+     "label": "G",
+     "word": "foundations"
+    },
+    {
+     "label": "H",
+     "word": "introduce"
+    },
+    {
+     "label": "I",
+     "word": "proposed"
+    },
+    {
+     "label": "J",
+     "word": "ridiculous"
+    },
+    {
+     "label": "K",
+     "word": "settled"
+    },
+    {
+     "label": "L",
+     "word": "shameful"
+    },
+    {
+     "label": "M",
+     "word": "submerge"
+    },
+    {
+     "label": "N",
+     "word": "substantial"
+    },
+    {
+     "label": "O",
+     "word": "symposium"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "acceleration",
+     "lower": "acceleration",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "加速；加速度",
+     "context": "When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the results hint that dark energy—the mysterious force driving cosmic acceleration—may not be constant."
+    },
+    {
+     "index": 2,
+     "word": "substantial",
+     "lower": "substantial",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "大量的",
+     "context": "If dark energy varies over time, the standard model would require substantial revision."
+    },
+    {
+     "index": 3,
+     "word": "definitive",
+     "lower": "definitive",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "D",
+     "gloss": "最可靠的， 权威性的； 决定性的",
+     "context": "They acknowledge that systematic errors could still explain some of the signals, and the evidence is not yet definitive."
+    },
+    {
+     "index": 4,
+     "word": "cosmologist",
+     "lower": "cosmologist",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "C",
+     "gloss": "",
+     "context": "\"There appear to be cracks in that model,\" said Simone Ferraro, a cosmologist at Lawrence Berkeley National Laboratory."
+    },
+    {
+     "index": 5,
+     "word": "introduce",
+     "lower": "introduce",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "介绍；引进，传入",
+     "context": "In the late 1990s, cosmologists were forced to introduce dark energy to explain the observed acceleration of the universe's expansion."
+    },
+    {
+     "index": 6,
+     "word": "assumption",
+     "lower": "assumption",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "假定，假设",
+     "context": "That discovery overturned the prevailing assumption that gravity alone was slowing the expansion."
+    },
+    {
+     "index": 7,
+     "word": "settled",
+     "lower": "settled",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "安排；安放；调停",
+     "context": "Questions that were once considered settled are open again, and new theoretical models are being [8]."
+    },
+    {
+     "index": 8,
+     "word": "proposed",
+     "lower": "proposed",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "提议；v 求婚",
+     "context": "Questions that were once considered [7] are open again, and new theoretical models are being proposed."
+    },
+    {
+     "index": 9,
+     "word": "excited",
+     "lower": "excited",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "使激动；引起",
+     "context": "As Ferraro notes, the uncertainty is \"enough to make you either uncomfortable or excited.\" Either way, the field is entering a dynamic phase."
+    },
+    {
+     "index": 10,
+     "word": "foundations",
+     "lower": "foundations",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "地基；基础；基金会",
+     "context": "The cracks in the standard model are not a failure but a sign of progress—a reminder that science advances by questioning its own foundations."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Quanta",
+  "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+  "long_sentences": [
+   {
+    "en": "Those findings, in combination with data gathered by a different project, the Dark Energy Spectroscopic Instrument (DESI), suggest that our understanding of what the universe is made of — the venerable “standard model” of cosmology — is not complete.",
+    "words": 39
+   },
+   {
+    "en": "It looked as if there was just enough matter (dark and visible combined) to tug gravitationally on the universe and continuously slow this expansion without ever bringing it to a full halt.",
+    "words": 32
+   },
+   {
+    "en": "Then, in early 1998, two teams of researchers announced that exploding stars called supernovas seemed to be racing away from Earth under the influence of an unidentified, omnipresent repellent force.",
+    "words": 30
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-23T10:20:49",
+ "difficulty": {
+  "score": 69,
+  "level": "偏易（四级水平）",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 276,
+    "asl": 10.6,
+    "flesch": 69.8,
+    "fkgl": 6.2,
+    "long_sent": 0.0,
+    "beyond": 0.054,
+    "in_band": true,
+    "score": 80
+   },
+   {
+    "type": "passage_listening",
+    "words": 226,
+    "asl": 17.4,
+    "flesch": 48.4,
+    "fkgl": 10.8,
+    "long_sent": 0.0,
+    "beyond": 0.04,
+    "in_band": false,
+    "score": 34
+   },
+   {
+    "type": "reading",
+    "words": 427,
+    "asl": 17.8,
+    "flesch": 38.6,
+    "fkgl": 12.3,
+    "long_sent": 0.042,
+    "beyond": 0.075,
+    "in_band": true,
+    "score": 75
+   },
+   {
+    "type": "banked_cloze",
+    "words": 297,
+    "asl": 16.5,
+    "flesch": 42.5,
+    "fkgl": 11.4,
+    "long_sent": 0.0,
+    "beyond": 0.067,
+    "in_band": true,
+    "score": 87
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 69（偏易（四级水平）），与六级区间有偏差。"
+}

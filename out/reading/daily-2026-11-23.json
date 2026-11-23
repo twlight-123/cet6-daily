@@ -1,0 +1,39 @@
+{
+ "id": "daily-2026-11-23",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-23",
+ "source_label": "每日一文 · Quanta",
+ "title_en": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+ "title_zh": "是什么构成了宇宙？一项为期20年的调查表明，有些东西不见了。",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "J oshua Frieman remembers when the world found out that the universe was made of much more than just matter. For a few years, the scientist had been studying the possibility that the cosmos needed something else — a “missing energy” — to make sense. But it was a niche idea. When he and a colleague started to plan a workshop on the topic in 1997, at first only a few dozen people signed up. Then, in early 1998, two teams of researchers announced that exploding stars called supernovas seemed to be racing away from Earth under the influence of an unidentified, omnipresent repellent force. The observations implied the existence of exactly the sort of missing energy that Frieman and his colleagues planned to talk about.",
+   "zh": "乔舒亚·弗里曼（Joshua Frieman）至今记得世界发现宇宙远不止由物质构成的那一天。此前几年，这位科学家一直在研究一种可能性：宇宙需要某种别的东西——一种“缺失的能量”——才能自洽。但这只是个冷门想法。1997年，他和一位同事开始筹划以此为主题的研讨会时，起初只有几十人报名。然而到了1998年初，两个研究团队宣布，被称为超新星的爆炸恒星似乎正受到一种未知的、无处不在的排斥力的影响，飞速远离地球。这些观测暗示，恰恰存在弗里曼及其同事计划讨论的那种缺失的能量。"
+  },
+  {
+   "en": "Within a few years, cosmologists had arrived at a whole new view of reality. The missing energy, given the name “dark energy” for its invisible nature, was pushing galaxies apart. The energy seemed embedded in space itself. It made up roughly two-thirds of creation (with matter — visible and dark — making up the remainder). Frieman embarked on what would become a two-decade mission to learn about dark energy by watching how it influences all that we can see: the Dark Energy Survey (DES).",
+   "zh": "短短几年内，宇宙学家便对现实形成了全新的认识。这种缺失的能量因其不可见的性质被命名为“暗能量”，它正在把星系彼此推开。这种能量似乎内嵌于空间本身之中。它约占宇宙总量的三分之二（其余部分由物质构成——包括可见物质和暗物质）。弗里曼由此踏上了一项后来持续二十年的使命：通过观察暗能量如何影响我们所能看到的一切来了解它，这便是“暗能量巡天”（Dark Energy Survey, DES）。"
+  },
+  {
+   "en": "Now that project has come to a close. In May 2026, DES shared findings based on its full dataset of thousands of supernovas and hundreds of millions of galaxies spanning billions of years of cosmic history. Those findings, in combination with data gathered by a different project, the Dark Energy Spectroscopic Instrument (DESI), suggest that our understanding of what the universe is made of — the venerable “standard model” of cosmology — is not complete. “There appear to be cracks in that model,” said Simone Ferraro , a cosmologist at Lawrence Berkeley National Laboratory. “There’s something that doesn’t fit.”",
+   "zh": "如今，该项目已告结束。2026年5月，DES公布了基于其完整数据集的发现，这些数据涵盖数千颗超新星和数亿个星系，跨越数十亿年的宇宙历史。这些发现与另一项目“暗能量光谱仪”（Dark Energy Spectroscopic Instrument, DESI）收集的数据相结合，表明我们对宇宙由什么构成的理解——即久负盛名的宇宙学“标准模型”——并不完整。“那个模型似乎出现了裂缝，”劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）的宇宙学家西蒙娜·费拉罗（Simone Ferraro）说，“有些东西对不上。”"
+  },
+  {
+   "en": "Cosmologists can’t yet say what that something is. What they can say is that after 20 years of stability, their field is returning to a state of confusion. “It’s certainly enough to make you either uncomfortable or excited,” Ferraro said.",
+   "zh": "宇宙学家目前还说不清那“有些东西”究竟是什么。他们能说的是，在经历了20年的稳定之后，他们的领域正重新回到一种困惑状态。“这足以让人要么不安，要么兴奋，”费拉罗说。"
+  },
+  {
+   "en": "Experimental cosmology is a piecemeal endeavor. It’s a bit like trying to reconstruct a person’s life from a dossier of data about them: report cards, utility bills, cholesterol tests, and so on. You come up with a story that weaves all the data together, go find new data, and use it to refine the story. Frieman and other cosmologists started to speculate about a missing form of energy in the mid-1990s because the story they were telling didn’t seem quite right.",
+   "zh": "实验宇宙学是一项零敲碎打的事业。它有点像试图根据一个人的一堆数据档案来重构其生平：成绩单、水电费账单、胆固醇化验单等等。你编出一个能把所有数据串联起来的故事，再去寻找新数据，并用它来完善这个故事。弗里曼和其他宇宙学家在20世纪90年代中期开始推测存在某种缺失的能量形式，因为他们所讲的故事似乎不太对劲。"
+  },
+  {
+   "en": "In previous decades, they had peered at the sky and inferred roughly how much stuff was out there. They saw a smattering of galaxies lighting up the void — visible matter. Based on how fast the galaxies were spinning, astronomers deduced that a preponderance of invisible matter must surround each bright speck, holding it together — dark matter.",
+   "zh": "在此前的几十年里，他们凝视天空，大致推断出那里有多少东西。他们看到零星星系点亮了虚空——这是可见物质。根据星系自转的速度，天文学家推断，每个明亮光点周围必定环绕着大量不可见物质，将其维系在一起——这就是暗物质。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
+}
