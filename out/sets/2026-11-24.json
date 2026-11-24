@@ -1,0 +1,526 @@
+{
+ "id": "2026-11-24",
+ "date": "2026-11-24",
+ "title": "A mysterious gap hints at black holes born from stars that never exploded",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 721,
+  "sentences": 34,
+  "avg_sentence_len": 21.2,
+  "flesch_ease": 37.9,
+  "flesch_grade": 13.2,
+  "hard_word_ratio": 0.069,
+  "long_sent_ratio": 0.176,
+  "level": "六级",
+  "in_band": true,
+  "distance": 2.1,
+  "issues": [],
+  "score": 87
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "Two students discuss a public lecture on black holes and the nature of scientific evidence.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Did you make it to the astrophysics talk last night? I heard the speaker was quite good."
+    },
+    {
+     "sp": "M",
+     "en": "I did, and it was actually more interesting than I expected. The topic was how black holes form, and she spent a lot of time on this idea of stars that collapse without exploding."
+    },
+    {
+     "sp": "W",
+     "en": "Wait, stars can just disappear without a supernova? I thought every massive star went out with a bang."
+    },
+    {
+     "sp": "M",
+     "en": "That's what I assumed too, but apparently the theory has been around for decades. The problem is that no one has ever directly confirmed a single case."
+    },
+    {
+     "sp": "W",
+     "en": "So how do they study something they can't observe directly?"
+    },
+    {
+     "sp": "M",
+     "en": "That's the clever part. They use gravitational wave data from detectors like LIGO. When black holes merge, the waves carry information about their masses and spins."
+    },
+    {
+     "sp": "W",
+     "en": "And that tells them how the black holes were born?"
+    },
+    {
+     "sp": "M",
+     "en": "Not exactly, but it gives them clues. She said there's a striking cluster of black holes around ten solar masses, and a strange shortage between twelve and sixteen. That pattern fits the failed-supernova theory."
+    },
+    {
+     "sp": "W",
+     "en": "But she can't prove it, right? It sounds like circumstantial evidence."
+    },
+    {
+     "sp": "M",
+     "en": "She was very honest about that. She said the findings don't confirm the theory, but they match the predictions so closely that it's hard to ignore."
+    },
+    {
+     "sp": "W",
+     "en": "I like that attitude. Some speakers oversell their results."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. She kept emphasizing that this is a connection between observation and theory, not a final answer. Honestly, it made me want to look into the research myself."
+    },
+    {
+     "sp": "W",
+     "en": "Maybe we should form a study group. I'm taking the astronomy elective next term, and I could use some help with the physics."
+    },
+    {
+     "sp": "M",
+     "en": "I'd be up for that. Let's grab coffee tomorrow and figure out a schedule."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the main topic of the conversation?",
+     "options": [
+      "A debate about whether gravitational waves really exist",
+      "A lecture on a possible alternative path of black hole formation",
+      "A plan to build a new gravitational wave detector",
+      "A disagreement over the value of astronomy electives"
+     ],
+     "answer": 1,
+     "explain": "对话围绕讲座内容展开，核心是恒星不爆炸直接塌缩形成黑洞的可能性。B 项张冠李戴，对话未争论引力波是否存在；C 项无关信息，未提及建造探测器；D 项偷换概念，两人并未争论选修课价值。",
+     "evidence": "The topic was how black holes form, and she spent a lot of time on this idea of stars that collapse without exploding."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the man, what pattern supports the failed-supernova theory?",
+     "options": [
+      "An even distribution of black holes across all masses",
+      "A steady rise in black hole mass over the past decade",
+      "A cluster near ten solar masses and a shortage at twelve to sixteen",
+      "A sudden drop in mergers involving neutron stars"
+     ],
+     "answer": 2,
+     "explain": "男士明确提到十太阳质量附近的聚集和十二到十六之间的短缺。B 项过度推断，对话未提质量随时间上升；C 项与原文相反，分布并不均匀；D 项张冠李戴，中子星合并并非讨论重点。",
+     "evidence": "She said there's a striking cluster of black holes around ten solar masses, and a strange shortage between twelve and sixteen."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the speaker's presentation style?",
+     "options": [
+      "She avoided claiming more than the evidence supports",
+      "She dismissed the failed-supernova theory as speculation",
+      "She focused mainly on her own recent discoveries",
+      "She refused to answer questions from the audience"
+     ],
+     "answer": 0,
+     "explain": "男士说演讲者坦诚结果并未证实理论，女士也称赞她不夸大。B 项因果倒置，她并未否定理论；C 项无中生有，未提她只讲自己的发现；D 项无关信息，对话未涉及问答环节。",
+     "evidence": "She was very honest about that. She said the findings don't confirm the theory, but they match the predictions so closely that it's hard to ignore."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the woman's attitude toward the lecture?",
+     "options": [
+      "Favorable and curious to learn more",
+      "Skeptical and dismissive of the findings",
+      "Indifferent and eager to change the subject",
+      "Confused and unable to follow the argument"
+     ],
+     "answer": 0,
+     "explain": "女士说喜欢这种态度并提议组学习小组，表明她认可讲座且想深入了解。B 项与原文相反，她并未轻视；C 项无中生有，她主动延续话题；D 项过度推断，她理解对话内容。",
+     "evidence": "I like that attitude. Some speakers oversell their results."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For decades, astronomers have used light to study the universe, and now a new era of astronomy is listening instead. Gravitational waves are tiny ripples in spacetime, and they were first detected in 2015. These waves now give a powerful way to study objects that give off no light, such as black holes. A recent study led by Caltech researchers used this new tool. It looked into a long-standing mystery: how black holes are born, and most massive stars die in bright supernova explosions. Yet theory suggests some may collapse straight into black holes without any explosion. They would vanish quietly, and the team examined black hole masses from 257 mergers. These were recorded by the LIGO, Virgo and KAGRA detector network. They found that black holes about ten times the Sun's mass were very common. They appeared in about three-quarters of the sample. More surprisingly, there was a clear shortage of black holes between twelve and sixteen solar masses. The researchers also studied how fast the black holes spin. Spin rates can keep clues about the conditions in which they formed. Black holes near ten solar masses tended to have spins in a narrower range than the wider population. Taken together, three things point to a distinct group with a shared history. These are the unusual mass concentration, the scarcity in the twelve-to-sixteen range, and the similar spins. One possible explanation is that many formed from stars that collapsed without exploding. The findings do not confirm the failed-supernova theory, and no such event has ever been directly observed. But the match between data and prediction is striking. It shows how gravitational wave astronomy is starting to link observations with the astrophysics behind them."
+    }
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Gravitational wave data hinting at a silent path of black hole birth",
+      "The historical development of the LIGO detector network",
+      "The competition among major gravitational wave observatories",
+      "Why supernova explosions appear brighter than predicted"
+     ],
+     "answer": 0,
+     "explain": "正确项概括全文：引力波数据为黑洞'安静'形成路径提供线索。B 项张冠李戴，LIGO 历史仅为背景；C 项无关信息，未提台站竞争；D 项偷换概念，未讨论超新星亮度。",
+     "evidence": "It shows how gravitational wave astronomy is starting to link observations with the astrophysics behind them.",
+     "id": "l2_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the team find about black holes around ten solar masses?",
+     "options": [
+      "They made up roughly three-quarters of the merger sample",
+      "They spun faster than any other black holes observed",
+      "They were completely absent from the recorded mergers",
+      "They formed exclusively through supernova explosions"
+     ],
+     "answer": 0,
+     "explain": "正确项同义改写原文'约占样本四分之三'。B 项偷换概念，原文说自旋范围更窄而非更快；C 项与原文相反，它们很常见；D 项张冠李戴，超新星形成并非该组结论。",
+     "evidence": "They found that black holes about ten times the Sun's mass were very common.",
+     "id": "l2_2"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the failed-supernova theory?",
+     "options": [
+      "It remains unconfirmed but agrees with current data",
+      "It has been proven by direct observation of an event",
+      "It has been rejected because data contradict predictions",
+      "It applies only to black holes above sixteen solar masses"
+     ],
+     "answer": 0,
+     "explain": "正确项概括原文'理论未被证实但数据与预测高度吻合'。B 项与原文相反，从未直接观测到；C 项因果倒置，数据并不矛盾；D 项过度推断，理论并未限于更重黑洞。",
+     "evidence": "The findings do not confirm the failed-supernova theory, and no such event has ever been directly observed.",
+     "id": "l2_3"
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A Mysterious Gap in Black Hole Masses",
+   "passage": "The most massive stars in the universe usually end their lives in spectacular explosions known as supernovae, blasting huge quantities of material into space. Their leftover cores then collapse under gravity, producing neutron stars or, in some cases, black holes. Yet scientists have long suspected that some massive stars meet a very different fate. Rather than exploding, they may collapse directly into neutron stars or black holes, effectively disappearing without a bang.\n\nNew research led by Caltech has uncovered intriguing evidence that this quieter form of stellar death may help explain the origins of many black holes. Using gravitational wave observations from the LIGO, Virgo and KAGRA detector network, researchers identified patterns suggesting that a distinct population of black holes could have formed from stars that never went supernova. Although the findings do not directly confirm the existence of these failed supernovae, they closely match theoretical predictions about how such black holes should be distributed.\n\nThe discoveries build on a decade of gravitational wave astronomy. In 2015, LIGO made history by directly detecting gravitational waves for the first time. These tiny disturbances in spacetime were generated by two black holes colliding. Since then, the network has recorded more than 300 black hole collisions. A vast majority of the merging black holes in the universe are about 10 times the mass of our Sun, and the data suggest that this group may share a common origin.\n\nTo investigate, the scientists examined the masses of black holes involved in 257 mergers detected during the past decade. A striking pattern emerged. Black holes weighing roughly 10 times the mass of the Sun were exceptionally common, appearing in about three-quarters of the merger sample. Even more surprisingly, the researchers identified a noticeable shortage of black holes weighing between 12 and 16 solar masses. This was the first time such a distinct gap had been found in the mass distribution, raising new questions about what determines the sizes of black holes when they form.\n\nThe researchers also examined how quickly the black holes rotate, since their spin rates can preserve clues about the conditions under which they formed. They found that black holes near 10 solar masses tended to have spin rates concentrated within a smaller range than those of the broader black hole population. The spins are also influenced by how the black holes formed, so the similarities in rotation offer an additional line of evidence.\n\nTaken together, the unusual concentration of black hole masses, the scarcity of objects in the 12 to 16 solar mass range, and the similarities in their rotation suggest that these black holes may belong to a distinct population with a shared formation history. One possible explanation is that many originated when massive stars collapsed directly into black holes without producing supernova explosions. The findings do not confirm the theory, but they closely match predictions, showing how gravitational wave astronomy connects observation with underlying astrophysics.",
+   "source": {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the main idea of the passage?",
+     "options": [
+      "Gravitational wave data point to a quiet route to black hole formation",
+      "Supernova explosions are now confirmed as the only source of black holes",
+      "Gravitational wave detectors have fully taken the place of optical telescopes",
+      "Black holes heavier than sixteen solar masses are shown to be the leading type"
+     ],
+     "answer": 0,
+     "explain": "正确项依据首段及全文：引力波数据为黑洞“安静”形成方式提供线索。B项与原文相反，研究恰恰挑战超新星唯一来源说；C项绝对化，原文只说引力波天文学连接观测与天体物理，未说取代望远镜；D项与原文相反，约十太阳质量的黑洞才最常见。",
+     "evidence": "New research led by Caltech has uncovered intriguing evidence that this quieter form of stellar death may help explain the origins of many black holes.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What did the researchers find about black holes of about 10 solar masses?",
+     "options": [
+      "They rotated more slowly than the wider black hole population",
+      "They were rarely recorded during the past decade of detections",
+      "They made up roughly three-quarters of the merger sample",
+      "They formed only from stars that ended in supernova explosions"
+     ],
+     "answer": 2,
+     "explain": "正确项依据第四段：约十太阳质量的黑洞约占合并样本四分之三。A项偷换概念，原文说自旋范围更集中而非更慢；B项与原文相反，它们异常常见；D项张冠李戴，超新星爆发恰是研究试图排除的形成途径。",
+     "evidence": "Black holes weighing roughly 10 times the mass of the Sun were exceptionally common, appearing in about three-quarters of the merger sample.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What gap in the mass distribution did the team identify?",
+     "options": [
+      "A rise in mergers that involve neutron stars",
+      "A lack of black holes below 10 solar masses",
+      "A surplus of black holes above 30 solar masses",
+      "A shortage of black holes between 12 and 16 solar masses"
+     ],
+     "answer": 3,
+     "explain": "正确项依据第四段：研究人员发现12至16太阳质量区间存在明显短缺。A项张冠李戴，中子星合并非该发现；B项无中生有，原文未提10以下缺失；C项无关信息，原文未讨论30以上黑洞的数量。",
+     "evidence": "Even more surprisingly, the researchers identified a noticeable shortage of black holes weighing between 12 and 16 solar masses.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the failed-supernova theory?",
+     "options": [
+      "Data patterns fit it, yet direct confirmation is still lacking",
+      "It has been proven by a direct observation of a failed supernova",
+      "It has been discarded because the data contradict its predictions",
+      "It holds true only for black holes heavier than sixteen solar masses"
+     ],
+     "answer": 0,
+     "explain": "正确项依据第二段末句：发现未直接证实失败超新星，但与理论预测高度吻合。B项与原文相反，从未直接观测到；C项因果倒置，数据并不矛盾而是吻合；D项过度推断，理论并未限定于更重的黑洞。",
+     "evidence": "Although the findings do not directly confirm the existence of these failed supernovae, they closely match theoretical predictions about how such black holes should be distributed.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"emerged\" in the passage is closest in meaning to ______.",
+     "options": [
+      "came into view",
+      "faded away",
+      "was predicted",
+      "was questioned"
+     ],
+     "answer": 0,
+     "explain": "正确项依据第四段：emerge意为“显现、出现”，与came into view同义。B项faded away意为“消失”，与原文相反；C项was predicted偷换概念，模式是从数据中显现而非被预测；D项was questioned无中生有，原文未提质疑。",
+     "evidence": "A striking pattern emerged.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "These tiny disturbances in spacetime were generated by two black holes colliding. Since then, the network has recorded more than 300 black hole [1]. A vast majority of the merging black holes in the [2] are about 10 times the mass of our Sun, and the data suggest that this group may share a common origin.\n\nTo investigate, the scientists [3] the masses of black holes involved in 257 mergers detected during the past decade. A striking pattern emerged. Black holes weighing roughly 10 times the mass of the Sun were exceptionally common, appearing in about three-quarters of the merger sample. Even more surprisingly, the researchers identified a [4] shortage of black holes weighing between 12 and 16 solar masses. This was the first time such a [5] gap had been found in the mass [6], raising new questions about what determines the sizes of black holes when they form.\n\nThe researchers also examined how quickly the black holes rotate, since their spin rates can [7] clues about the conditions under which they formed. They found that black holes near 10 solar masses tended to have spin rates [8] within a smaller range than those of the broader black hole population. The spins are also influenced by how the black holes formed, so the [9] in rotation offer an additional line of evidence.\n\nTaken together, the unusual concentration of black hole masses, the scarcity of objects in the 12 to 16 solar mass range, and the similarities in their rotation suggest that these black holes may belong to a distinct population with a shared formation history. One possible explanation is that many [10] when massive stars collapsed directly into black holes without producing supernova explosions.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "collisions"
+    },
+    {
+     "label": "B",
+     "word": "concentrated"
+    },
+    {
+     "label": "C",
+     "word": "distinct"
+    },
+    {
+     "label": "D",
+     "word": "distribution"
+    },
+    {
+     "label": "E",
+     "word": "elemental"
+    },
+    {
+     "label": "F",
+     "word": "examined"
+    },
+    {
+     "label": "G",
+     "word": "exposition"
+    },
+    {
+     "label": "H",
+     "word": "insufficient"
+    },
+    {
+     "label": "I",
+     "word": "noticeable"
+    },
+    {
+     "label": "J",
+     "word": "orchestra"
+    },
+    {
+     "label": "K",
+     "word": "originated"
+    },
+    {
+     "label": "L",
+     "word": "preserve"
+    },
+    {
+     "label": "M",
+     "word": "similarities"
+    },
+    {
+     "label": "N",
+     "word": "tackle"
+    },
+    {
+     "label": "O",
+     "word": "universe"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "collisions",
+     "lower": "collisions",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "撞击；冲突",
+     "context": "Since then, the network has recorded more than 300 black hole collisions."
+    },
+    {
+     "index": 2,
+     "word": "universe",
+     "lower": "universe",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "宇宙， 世界； 领域， 范围",
+     "context": "A vast majority of the merging black holes in the universe are about 10 times the mass of our Sun, and the data suggest that this group may share a common origin."
+    },
+    {
+     "index": 3,
+     "word": "examined",
+     "lower": "examined",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "检查，仔细观察",
+     "context": "To investigate, the scientists examined the masses of black holes involved in 257 mergers detected during the past decade."
+    },
+    {
+     "index": 4,
+     "word": "noticeable",
+     "lower": "noticeable",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "显而易见的；重要的",
+     "context": "Even more surprisingly, the researchers identified a noticeable shortage of black holes weighing between 12 and 16 solar masses."
+    },
+    {
+     "index": 5,
+     "word": "distinct",
+     "lower": "distinct",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "明显的；有区别的",
+     "context": "This was the first time such a distinct gap had been found in the mass [6], raising new questions about what determines the sizes of black holes when they form."
+    },
+    {
+     "index": 6,
+     "word": "distribution",
+     "lower": "distribution",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "分发，分配；分布",
+     "context": "This was the first time such a [5] gap had been found in the mass distribution, raising new questions about what determines the sizes of black holes when they form."
+    },
+    {
+     "index": 7,
+     "word": "preserve",
+     "lower": "preserve",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "保护",
+     "context": "The researchers also examined how quickly the black holes rotate, since their spin rates can preserve clues about the conditions under which they formed."
+    },
+    {
+     "index": 8,
+     "word": "concentrated",
+     "lower": "concentrated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "集中；聚集；浓缩",
+     "context": "They found that black holes near 10 solar masses tended to have spin rates concentrated within a smaller range than those of the broader black hole population."
+    },
+    {
+     "index": 9,
+     "word": "similarities",
+     "lower": "similarities",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "M",
+     "gloss": "类似，相似；类似点",
+     "context": "The spins are also influenced by how the black holes formed, so the similarities in rotation offer an additional line of evidence."
+    },
+    {
+     "index": 10,
+     "word": "originated",
+     "lower": "originated",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "开始",
+     "context": "One possible explanation is that many originated when massive stars collapsed directly into black holes without producing supernova explosions."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+  "long_sentences": [
+   {
+    "en": "The gap we see in the distribution of masses indicates there may be a special cocktail of internal physics that goes into forming the abundance of 10 solar-mass black holes.\" The researchers also examined how quickly the black holes rotate, since their spin rates can preserve clues about the conditions under which they formed.",
+    "words": 54
+   },
+   {
+    "en": "Taken together, the unusual concentration of black hole masses, the scarcity of objects in the 12 to 16 solar mass range, and the similarities in their rotation suggest that these black holes may belong to a distinct population with a shared formation history.",
+    "words": 43
+   },
+   {
+    "en": "They found that black holes near 10 solar masses tended to have spin rates concentrated within a smaller range than those of the broader black hole population (the spins are also influenced by how the black holes formed).",
+    "words": 38
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-24T13:47:10",
+ "difficulty": {
+  "score": 84,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 287,
+    "asl": 10.2,
+    "flesch": 72.6,
+    "fkgl": 5.7,
+    "long_sent": 0.0,
+    "beyond": 0.056,
+    "in_band": true,
+    "score": 75
+   },
+   {
+    "type": "passage_listening",
+    "words": 282,
+    "asl": 14.1,
+    "flesch": 59.6,
+    "fkgl": 8.4,
+    "long_sent": 0.0,
+    "beyond": 0.071,
+    "in_band": true,
+    "score": 77
+   },
+   {
+    "type": "reading",
+    "words": 476,
+    "asl": 20.7,
+    "flesch": 40.3,
+    "fkgl": 12.8,
+    "long_sent": 0.174,
+    "beyond": 0.05,
+    "in_band": true,
+    "score": 85
+   },
+   {
+    "type": "banked_cloze",
+    "words": 276,
+    "asl": 21.2,
+    "flesch": 46.4,
+    "fkgl": 12.1,
+    "long_sent": 0.231,
+    "beyond": 0.036,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}
