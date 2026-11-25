@@ -1,0 +1,516 @@
+{
+ "id": "2026-11-25",
+ "date": "2026-11-25",
+ "title": "How SNAP Theft Happens — and What to Do if It Happens to You",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 762,
+  "sentences": 38,
+  "avg_sentence_len": 20.1,
+  "flesch_ease": 56.4,
+  "flesch_grade": 10.4,
+  "hard_word_ratio": 0.079,
+  "long_sent_ratio": 0.184,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 90
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university financial aid adviser and a student discuss a stolen meal-card balance and how to prevent further loss.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Come in, Jason. You said on the phone that your meal-card balance disappeared overnight. That's the second case I've heard this week."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. I checked the app last night before bed and had about three hundred dollars left. This morning it showed zero, and there were purchases at a convenience store two miles off campus that I've never been to."
+    },
+    {
+     "sp": "W",
+     "en": "That pattern is consistent with what campus security has been reporting. Someone likely attached a small reading device to the card reader at the dining hall entrance. When you tapped your card, it copied your account information."
+    },
+    {
+     "sp": "M",
+     "en": "So the machine at the door was compromised? I thought those readers were supposed to be secure."
+    },
+    {
+     "sp": "W",
+     "en": "They are, in theory. But the older models rely on magnetic strips, and those can be copied in seconds. The university has been slow to upgrade because the newer chip-enabled readers cost more and require replacing hundreds of units across campus."
+    },
+    {
+     "sp": "M",
+     "en": "That's frustrating. So what do I do now? Is the money just gone?"
+    },
+    {
+     "sp": "W",
+     "en": "You need to file a formal report with the card office today. Under the new policy, if the theft is verified within five business days, you can be reimbursed up to the full amount. But you must also freeze the card immediately through the mobile app."
+    },
+    {
+     "sp": "M",
+     "en": "I didn't know the app had a freeze function. I only use it to check my balance."
+    },
+    {
+     "sp": "W",
+     "en": "It does, and it's the single most effective step. You can also set up alerts for any transaction over twenty dollars. That way, if someone tries to use your card again, you'll know within minutes rather than hours."
+    },
+    {
+     "sp": "M",
+     "en": "I'll do that right away. But honestly, shouldn't the university be responsible for securing the readers in the first place? Why should students have to monitor every purchase?"
+    },
+    {
+     "sp": "W",
+     "en": "I understand the frustration, and many students have raised the same point. The administration is reviewing the issue, but until the hardware is replaced, individual vigilance remains the most reliable safeguard. I'll email you the reimbursement form and a guide to the app's security settings."
+    },
+    {
+     "sp": "M",
+     "en": "Thanks. I appreciate the help, even if the system itself seems backwards."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the conversation mainly about?",
+     "options": [
+      "The process of applying for a new university meal card.",
+      "The reasons behind a campus meal-card theft and the steps to address it.",
+      "The advantages of upgrading dining hall payment technology.",
+      "The financial difficulties faced by students living off campus."
+     ],
+     "answer": 1,
+     "explain": "对话围绕学生餐卡余额被盗展开，顾问解释盗刷原理并给出冻结、申报等补救措施，A项概括准确。B项“申请新卡”未涉及；C项“升级技术的好处”只是对话中提及的细节，非主旨；D项“校外学生经济困难”属无关信息。",
+     "evidence": "You need to file a formal report with the card office today. Under the new policy, if the theft is verified within five business days, you can be reimbursed up to the full amount."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the woman, how did the theft most likely occur?",
+     "options": [
+      "A university employee sold the card information to criminals.",
+      "The student shared his account password with a friend.",
+      "A reading device copied the card data at the dining hall entrance.",
+      "The student lost his card and someone found it on the street."
+     ],
+     "answer": 2,
+     "explain": "女士明确说有人可能在食堂入口读卡器上装了读取设备，复制了账户信息，A项同义改写。B项“分享密码”无中生有；C项“大学员工出售信息”是原文其他案件，属张冠李戴；D项“丢卡被捡”未提及。",
+     "evidence": "Someone likely attached a small reading device to the card reader at the dining hall entrance. When you tapped your card, it copied your account information."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the university's card readers?",
+     "options": [
+      "They have not been widely updated because of cost and scale.",
+      "They are completely immune to all forms of digital theft.",
+      "They were designed by the same company that makes the mobile app.",
+      "They are being replaced by the end of the current semester."
+     ],
+     "answer": 0,
+     "explain": "女士说新芯片读卡器更贵且需更换数百台，学校升级缓慢，可推知因成本和规模未广泛更新，A项正确。B项“完全免疫”绝对化；C项“同一公司设计”无依据；D项“学期末前更换完毕”过度推断。",
+     "evidence": "The university has been slow to upgrade because the newer chip-enabled readers cost more and require replacing hundreds of units across campus."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward the university's security measures?",
+     "options": [
+      "He questions why students must bear the burden of monitoring.",
+      "He is confident that the current system is entirely adequate.",
+      "He believes the card office is deliberately withholding information.",
+      "He is indifferent to whether the stolen money is returned."
+     ],
+     "answer": 0,
+     "explain": "男士反问“为什么学生要监控每笔消费”，并说系统似乎本末倒置，表明他质疑责任分配，A项正确。B项“确信系统充分”与态度相反；C项“故意隐瞒信息”过度推断；D项“漠不关心”与积极追问矛盾。",
+     "evidence": "But honestly, shouldn't the university be responsible for securing the readers in the first place? Why should students have to monitor every purchase?"
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Electronic benefit cards were introduced decades ago as a convenient replacement for paper food stamps. Today, they serve millions of households, yet the technology behind them has remained surprisingly outdated. Unlike modern credit cards, which use microchips and tap-to-pay features to protect transactions, most benefit cards still rely on magnetic strips that can be copied with inexpensive devices. This gap has created an opening for criminal organizations, and skimming devices, often installed on card readers at grocery stores, capture account data and personal identification numbers. The information is then used to drain benefits, sometimes within hours. In one recent year, nearly half a billion dollars was stolen from recipients, affecting close to a million households. Victims often face a confusing recovery process. While some states have begun to offer reimbursement, the rules vary widely, and many recipients are unaware of deadlines or needed paperwork. Advocates argue that the burden should not fall on people who have already been harmed. They point out that banks have largely solved similar problems for credit card users through chip technology and automatic fraud alerts. Why, then, has the upgrade been so slow? Officials cite the cost of replacing millions of cards and the complexity of coordinating across federal and state agencies. Some also note that benefit programs are designed to prioritize quick delivery of aid, not long-term security. As a result, recipients are often advised to lock their cards, change passwords often, and monitor accounts—measures that are difficult for elderly or disabled users. The debate in the end concerns responsibility, and if the government provides a payment system, should it also guarantee its security? For now, the answer remains unclear, and millions of vulnerable households continue to bear the risk."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The outdated technology behind benefit cards and the resulting security burden.",
+      "The history of paper food stamps in the United States.",
+      "The advantages of using mobile apps to manage benefits.",
+      "The reasons why banks have abandoned magnetic strips."
+     ],
+     "answer": 0,
+     "explain": "短文从福利卡技术落后切入，说明盗刷成因、追偿困难及责任争议，A项概括全面。B项“纸质券历史”仅为开头背景；C项“手机应用优势”是细节；D项“银行弃用磁条”是类比论据，非主题。",
+     "evidence": "Today, they serve millions of households, yet the technology behind them has remained surprisingly outdated."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does the passage say about skimming devices?",
+     "options": [
+      "They capture card data and PINs at store readers.",
+      "They are only used against credit card holders.",
+      "They require highly sophisticated technical skills.",
+      "They have been completely eliminated in recent years."
+     ],
+     "answer": 0,
+     "explain": "原文说撇卡装置装在杂货店读卡器上，捕获账户数据和个人识别码，A项同义改写。B项“只针对信用卡”与原文福利卡对象矛盾；C项“需高超技术”与“inexpensive devices”相反；D项“已被根除”与事实相反。",
+     "evidence": "This gap has created an opening for criminal organizations, and skimming devices, often installed on card readers at grocery stores, capture account data and personal identification numbers."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the reimbursement process for victims?",
+     "options": [
+      "It is inconsistent and often difficult for recipients to navigate.",
+      "It is uniformly generous across all states.",
+      "It automatically restores funds within twenty-four hours.",
+      "It places the primary responsibility on grocery stores."
+     ],
+     "answer": 0,
+     "explain": "原文说各州规则差异大，许多受助者不了解截止日期或所需文件，可推知流程不一致且难操作，A项正确。B项“各州统一慷慨”与“vary widely”矛盾；C项“24小时自动恢复”无依据；D项“主要由杂货店负责”未提及。",
+     "evidence": "While some states have begun to offer reimbursement, the rules vary widely, and many recipients are unaware of deadlines or needed paperwork."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Stolen Benefits, Stalled Solutions",
+   "passage": "When Kelly Joly tried to buy groceries for herself and her teenage son at a Kroger in Beaumont, Texas, this August, her electronic benefits transfer card was declined. She had received her monthly $530 in Supplemental Nutrition Assistance Program benefits the day before, but her account now showed transactions at stores in Illinois, Minnesota and California. A representative at the Texas agency overseeing SNAP told her there was nothing they could do to replace the funds. Joly's experience is far from isolated: last year alone, more than $470 million was stolen from SNAP recipients by card scammers, affecting about 990,000 households.\n\nMuch of this crime is the work of low-level street operatives for transnational criminal organizations who install \"skimming\" devices on card readers at local grocery stores and bodegas. When a recipient swipes a card, these devices capture data from the magnetic strip on the back, as well as the personal identification number. That data is either picked up later or transmitted via Bluetooth to thieves waiting nearby. Skimming is largely preventable through microchips and tap-to-pay technology, which have greatly reduced fraud in credit and debit card transactions for over a decade. But efforts to install these chips in EBT cards have moved much more slowly.\n\nIn recent years, criminals have also used random number generators, phishing calls and spam texts to steal card information, and they will call state hotlines to try to check a recipient's SNAP balance and deposit date. In other instances, corner store owners themselves are in cahoots with scammers, ringing up fake grocery purchases in exchange for cash. And in at least one prominent case, a federal SNAP employee gave sensitive data to criminals for them to be able to steal benefits.\n\nUnfortunately, due to the government's inaction, the burden of protecting benefits has largely been left to individual recipients. Phone apps such as ebtEdge or Propel allow users to track card balances, monitor transaction history for suspicious purchases and lock cards when they are not in use. These apps may also permit users to change PINs and block out-of-state or online transactions. But these are not always practical solutions. Remembering new PINs constantly, for example, is not easy, especially for older beneficiaries.\n\nCynthia Clark, a 63-year-old retired special education teacher in Jackson, Tennessee, said she has several health conditions that affect the dexterity of her hands, her vision and at times her speech. After her SNAP benefits were stolen in May, she was advised to lock her card every time she was not using it. But she said her disabilities make using a cellphone incredibly difficult. On more than one occasion, she has locked herself out of her SNAP account trying to access her benefits.\n\nThe debate ultimately concerns responsibility. If the government provides a payment system, should it also guarantee its security? For now, the answer remains unclear, and millions of vulnerable households continue to bear the risk.",
+   "source": {
+    "name": "ProPublica",
+    "url": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What does the passage mainly discuss?",
+     "options": [
+      "The evolution of the SNAP payment system.",
+      "The causes of SNAP theft and the inadequate response to it.",
+      "The benefits of mobile apps for SNAP recipients.",
+      "The role of grocery stores in card fraud."
+     ],
+     "answer": 1,
+     "explain": "文章由个案切入，分析盗刷手段、技术滞后、追偿困难及责任归属，B项概括全面。A项“支付系统演变”仅为局部背景；C项“手机应用好处”是第四段细节；D项“商店作用”以偏概全，装置多为罪犯安装。",
+     "evidence": "For now, the answer remains unclear, and millions of vulnerable households continue to bear the risk.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "How do skimming devices steal card information?",
+     "options": [
+      "By capturing magnetic strip data and the PIN.",
+      "By hacking into state hotline databases.",
+      "By intercepting online banking passwords.",
+      "By bribing clerks for printed receipts."
+     ],
+     "answer": 0,
+     "explain": "原文明确说装置读取磁条数据和个人识别码，A项为同义改写。B项“入侵州热线数据库”属过度推断；C项“拦截网银密码”文中未提；D项“贿赂店员获取收据”是张冠李戴，原文为店主合谋虚记购买。",
+     "evidence": "When a recipient swipes a card, these devices capture data from the magnetic strip on the back, as well as the personal identification number.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What can phone apps like ebtEdge and Propel do for users?",
+     "options": [
+      "Automatically refund all stolen benefits.",
+      "Replace the need to change PINs entirely.",
+      "Lock cards and flag suspicious purchases.",
+      "Serve younger users more effectively."
+     ],
+     "answer": 2,
+     "explain": "原文说应用可追踪余额、监控可疑交易并在不使用时锁卡，C项正确。A项“自动全额退款”无依据；B项“完全取代改密码”属绝对化；D项“更好服务年轻用户”与原文对老年人不便的表述相反。",
+     "evidence": "Phone apps such as ebtEdge or Propel allow users to track card balances, monitor transaction history for suspicious purchases and lock cards when they are not in use.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred from Cynthia Clark's experience?",
+     "options": [
+      "Security advice may be impractical for disabled recipients.",
+      "She refused to use any app to protect her benefits.",
+      "She recovered her stolen benefits within days.",
+      "She found locking her card a simple routine."
+     ],
+     "answer": 0,
+     "explain": "克拉克因残疾难以操作手机，多次把自己锁在账户外，可推知安全建议对残障者不切实际，A项正确。B项“拒绝使用任何应用”属过度推断；C项“几天内追回”文中无据；D项“觉得锁卡简单”与原文相反。",
+     "evidence": "But she said her disabilities make using a cellphone incredibly difficult. On more than one occasion, she has locked herself out of her SNAP account trying to access her benefits.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The phrase \"in cahoots\" in Paragraph 3 is closest in meaning to ______.",
+     "options": [
+      "secretly cooperating",
+      "openly competing",
+      "legally disputing",
+      "accidentally overlapping"
+     ],
+     "answer": 1,
+     "explain": "in cahoots 意为“合谋、勾结”，与 secretly cooperating 同义，B项正确。A项“公开竞争”为反义；C项“合法争议”与语境无关；D项“偶然重叠”属偷换概念，原文指店主与骗子串通虚记购买。",
+     "evidence": "In other instances, corner store owners themselves are in cahoots with scammers, ringing up fake grocery purchases in exchange for cash.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "When a recipient swipes a card, these devices capture data from the magnetic strip on the back, as well as the personal [1] number. That data is either picked up later or [2] via Bluetooth to thieves waiting nearby. Skimming is largely preventable through microchips and tap-to-pay technology, which have greatly reduced fraud in credit and debit card [3] for over a decade. But efforts to [4] these chips in EBT cards have moved much more slowly.\n\nIn recent years, criminals have also used [5] number generators, phishing calls and spam texts to steal card information, and they will call state hotlines to try to check a recipient's SNAP balance and deposit date. In other [6], corner store owners themselves are in cahoots with scammers, ringing up fake grocery purchases in exchange for cash. And in at least one prominent case, a federal SNAP employee gave [7] data to criminals for them to be able to steal benefits.\n\nUnfortunately, due to the government's inaction, the burden of protecting benefits has largely been left to individual recipients. Phone apps such as ebtEdge or Propel allow users to track card balances, monitor transaction history for [8] purchases and lock cards when they are not in use. These apps may also permit users to change PINs and block out-of-state or online transactions.\n\nBut these are not always practical solutions. Remembering new PINs constantly, for example, is not easy, especially for older beneficiaries. Cynthia Clark, a 63-year-old [9] special education teacher in Jackson, Tennessee, said she has several health conditions that affect the dexterity of her hands, her vision and at times her speech. After her SNAP benefits were stolen in May, she was [10] to lock her card every time she was not using it. But she said her disabilities make using a cellphone incredibly difficult.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "advised"
+    },
+    {
+     "label": "B",
+     "word": "costume"
+    },
+    {
+     "label": "C",
+     "word": "fulfill"
+    },
+    {
+     "label": "D",
+     "word": "identification"
+    },
+    {
+     "label": "E",
+     "word": "inheritance"
+    },
+    {
+     "label": "F",
+     "word": "install"
+    },
+    {
+     "label": "G",
+     "word": "instances"
+    },
+    {
+     "label": "H",
+     "word": "overhang"
+    },
+    {
+     "label": "I",
+     "word": "random"
+    },
+    {
+     "label": "J",
+     "word": "replacement"
+    },
+    {
+     "label": "K",
+     "word": "retired"
+    },
+    {
+     "label": "L",
+     "word": "sensitive"
+    },
+    {
+     "label": "M",
+     "word": "suspicious"
+    },
+    {
+     "label": "N",
+     "word": "transactions"
+    },
+    {
+     "label": "O",
+     "word": "transmitted"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "identification",
+     "lower": "identification",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "鉴定，识别；认同；身份证明",
+     "context": "When a recipient swipes a card, these devices capture data from the magnetic strip on the back, as well as the personal identification number."
+    },
+    {
+     "index": 2,
+     "word": "transmitted",
+     "lower": "transmitted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "O",
+     "gloss": "传送，传达；发射",
+     "context": "That data is either picked up later or transmitted via Bluetooth to thieves waiting nearby."
+    },
+    {
+     "index": 3,
+     "word": "transactions",
+     "lower": "transactions",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "N",
+     "gloss": "交易，业务，事务",
+     "context": "Skimming is largely preventable through microchips and tap-to-pay technology, which have greatly reduced fraud in credit and debit card transactions for over a decade."
+    },
+    {
+     "index": 4,
+     "word": "install",
+     "lower": "install",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "安装",
+     "context": "But efforts to install these chips in EBT cards have moved much more slowly."
+    },
+    {
+     "index": 5,
+     "word": "random",
+     "lower": "random",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "I",
+     "gloss": "随机；adj 随机的",
+     "context": "In recent years, criminals have also used random number generators, phishing calls and spam texts to steal card information, and they will call state hotlines to try to check a recipient's SNAP balance and deposit date."
+    },
+    {
+     "index": 6,
+     "word": "instances",
+     "lower": "instances",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "情况，例子",
+     "context": "In other instances, corner store owners themselves are in cahoots with scammers, ringing up fake grocery purchases in exchange for cash."
+    },
+    {
+     "index": 7,
+     "word": "sensitive",
+     "lower": "sensitive",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "敏感的",
+     "context": "And in at least one prominent case, a federal SNAP employee gave sensitive data to criminals for them to be able to steal benefits."
+    },
+    {
+     "index": 8,
+     "word": "suspicious",
+     "lower": "suspicious",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "怀疑的；可疑的",
+     "context": "Phone apps such as ebtEdge or Propel allow users to track card balances, monitor transaction history for suspicious purchases and lock cards when they are not in use."
+    },
+    {
+     "index": 9,
+     "word": "retired",
+     "lower": "retired",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "退下；引退；就寝",
+     "context": "Cynthia Clark, a 63-year-old retired special education teacher in Jackson, Tennessee, said she has several health conditions that affect the dexterity of her hands, her vision and at times her speech."
+    },
+    {
+     "index": 10,
+     "word": "advised",
+     "lower": "advised",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "劝告；建议；通知",
+     "context": "After her SNAP benefits were stolen in May, she was advised to lock her card every time she was not using it."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits",
+  "long_sentences": [
+   {
+    "en": "As part of this reporting, we gathered detailed accounts from more than 50 people across 18 states who’ve had their benefits stolen in the past five years and reviewed dozens more messages, comments and social media posts from people who said they were targeted.",
+    "words": 44
+   },
+   {
+    "en": "In recent years, criminals have also used random number generators, phishing calls and spam texts to steal people’s card information, and they will call state hotlines to try to check your SNAP balance and deposit date.",
+    "words": 36
+   },
+   {
+    "en": "Phone apps, like ebtEdge or Propel , allow you to keep careful track of your card balance, monitor your transaction history for any suspicious purchases and lock your card when it isn’t in use.",
+    "words": 34
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-25T12:49:27",
+ "difficulty": {
+  "score": 86,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 354,
+    "asl": 11.8,
+    "flesch": 68.0,
+    "fkgl": 6.7,
+    "long_sent": 0.0,
+    "beyond": 0.054,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "passage_listening",
+    "words": 287,
+    "asl": 17.9,
+    "flesch": 39.8,
+    "fkgl": 12.2,
+    "long_sent": 0.0,
+    "beyond": 0.042,
+    "in_band": false,
+    "score": 57
+   },
+   {
+    "type": "reading",
+    "words": 482,
+    "asl": 20.1,
+    "flesch": 44.3,
+    "fkgl": 12.1,
+    "long_sent": 0.083,
+    "beyond": 0.073,
+    "in_band": true,
+    "score": 93
+   },
+   {
+    "type": "banked_cloze",
+    "words": 303,
+    "asl": 20.2,
+    "flesch": 47.3,
+    "fkgl": 11.7,
+    "long_sent": 0.133,
+    "beyond": 0.086,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 86（接近六级），与六级区间有偏差。"
+}

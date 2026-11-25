@@ -1,0 +1,47 @@
+{
+ "id": "daily-2026-11-25",
+ "kind": "news",
+ "source": "daily",
+ "date": "2026-11-25",
+ "source_label": "每日一文 · ProPublica",
+ "title_en": "How SNAP Theft Happens — and What to Do if It Happens to You",
+ "title_zh": "SNAP盗窃是如何发生的——如果它发生在你身上该怎么办",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "When Kelly Joly swiped her electronic benefits transfer card at a Kroger in Beaumont, Texas, this August, she was trying to buy groceries for herself and her teenage son. Joly had worked for decades as a waitress. The day before her grocery run, she’d received her monthly $530 in Supplemental Nutrition Assistance Program, or food stamp, benefits, she said. But now, her EBT card was being declined. She tried swiping again and began to cry. The cashier told her that this had been happening a lot recently and suggested she report the issue. Joly stepped to the side and called Texas Health and Human Services as her food sat bagged up on the belt.",
+   "zh": "今年八月，凯利·乔利（Kelly Joly）在得克萨斯州博蒙特市的一家克罗格（Kroger）超市刷电子福利转账卡时，本想为自己和十几岁的儿子购买食品杂货。乔利曾做了几十年服务员。她说，就在去超市的前一天，她刚收到每月530美元的补充营养援助计划（SNAP，即食品券）福利。但此刻，她的EBT卡却被拒付了。她又刷了一次，开始哭了起来。收银员告诉她，最近这种情况经常发生，建议她报告这个问题。乔利走到一旁，拨打了得克萨斯州卫生与公众服务部的电话，而她买的食品就装在袋子里放在传送带上。"
+  },
+  {
+   "en": "The representative at the agency that oversees SNAP in Texas told her there was nothing they could do to replace the funds, Joly recalled. Her benefits were gone, likely stolen by fraudsters. Joly said her account showed transactions from the day before at stores in Illinois, Minnesota and California.",
+   "zh": "乔利回忆说，得州负责监管SNAP的机构代表告诉她，他们无法补发这些资金。她的福利已经没了，很可能是被诈骗分子盗走了。乔利说，她的账户显示前一天在伊利诺伊州、明尼苏达州和加利福尼亚州的商店有交易记录。"
+  },
+  {
+   "en": "“I don’t understand why they wouldn’t replace [our food assistance] if they can see that it was fraud,” she said. “And on top of that, how am I going to feed me and my son this month?”",
+   "zh": "“我不明白，如果他们能看到这是欺诈，为什么不补发[我们的食品援助]，”她说，“更何况，这个月我拿什么养活我和我儿子？”"
+  },
+  {
+   "en": "If you receive SNAP benefits, Joly’s experience may sound all too familiar. Last year alone, more than $470 million was stolen from SNAP recipients by card scammers, affecting about 990,000 households.",
+   "zh": "如果你领取SNAP福利，乔利的经历听起来可能再熟悉不过了。仅去年一年，就有超过4.7亿美元从SNAP受助者手中被卡片诈骗分子盗走，影响了约99万户家庭。"
+  },
+  {
+   "en": "ProPublica recently published an investigation into why Congress and the Trump administration have failed to crack down on SNAP theft despite promises to tackle fraud and waste in safety-net programs. As part of this reporting, we gathered detailed accounts from more than 50 people across 18 states who’ve had their benefits stolen in the past five years and reviewed dozens more messages, comments and social media posts from people who said they were targeted.",
+   "zh": "ProPublica最近发表了一项调查，探究为什么国会和特朗普政府尽管承诺要打击安全网项目中的欺诈和浪费，却未能遏制SNAP盗刷行为。作为报道的一部分，我们收集了来自18个州50多人的详细叙述，他们在过去五年中福利被盗；我们还查阅了数十条更多来自自称受害者的信息、评论和社交媒体帖子。"
+  },
+  {
+   "en": "Many of the victims we heard from had similar questions: How did this happen? How can I prevent it from happening again? Why am I not being reimbursed? And why does it seem like little is being done to prevent these crimes in the first place?",
+   "zh": "我们听到的许多受害者都有类似的疑问：这是怎么发生的？我怎样才能防止再次发生？为什么我没有得到补偿？为什么一开始似乎很少有人采取措施预防这些犯罪？"
+  },
+  {
+   "en": "Much of this crime is the work of low-level street operatives for transnational criminal organizations who install “skimming” devices on card readers at local grocery stores and bodegas. When you swipe your card, these devices capture your data off the magnetic strip on the back, as well as your PIN. That data is either picked up later or transmitted via Bluetooth to thieves waiting nearby.",
+   "zh": "这类犯罪大多是由跨国犯罪组织的底层街头人员所为，他们在当地杂货店和杂货铺的读卡器上安装“侧录”装置。当你刷卡时，这些装置会从背面的磁条上窃取你的数据以及你的PIN码。这些数据要么事后被取走，要么通过蓝牙传输给在附近等待的窃贼。"
+  },
+  {
+   "en": "Skimming is largely preventable via microchips and tap-to-pay technology, which have been greatly successful in reducing fraud in credit and debit card transactions for over a decade. But efforts to install these chips in EBT cards have moved much more slowly.",
+   "zh": "侧录行为在很大程度上可以通过微芯片和感应支付技术来预防，十多年来，这些技术在减少信用卡和借记卡交易欺诈方面取得了巨大成功。但在EBT卡中安装这些芯片的努力却进展缓慢得多。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits"
+}
