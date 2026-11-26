@@ -1,0 +1,515 @@
+{
+ "id": "2026-11-26",
+ "date": "2026-11-26",
+ "title": "A cosmically close supernova may spill the stellar explosion’s secrets",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 382,
+  "sentences": 16,
+  "avg_sentence_len": 23.9,
+  "flesch_ease": 48.4,
+  "flesch_grade": 12.4,
+  "hard_word_ratio": 0.12,
+  "long_sent_ratio": 0.188,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 100
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and a postdoctoral researcher discuss a rare astronomical event and the challenges of observing it.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Hey, did you see the announcement about that supernova? The one that's unusually close to Earth?"
+    },
+    {
+     "sp": "M",
+     "en": "I did. SN 2026ahvu, right? I was actually checking the alert system when it first came in. To be honest, I almost ignored it because we get dozens of alerts every day."
+    },
+    {
+     "sp": "W",
+     "en": "Exactly. But then I read that it hadn't even peaked in brightness yet, so we're catching it early. That's a rare opportunity."
+    },
+    {
+     "sp": "M",
+     "en": "Right. And the fact that it's a type Ia makes it even more valuable. Those are the ones we use as standard candles to measure cosmic distances."
+    },
+    {
+     "sp": "W",
+     "en": "But I thought type Ia supernovas are pretty common? I mean, we use them all the time."
+    },
+    {
+     "sp": "M",
+     "en": "They are common in general, but not this close. Most of them are hundreds of millions of light-years away, so we can't really see what's around them. This one is maybe fifty million light-years or less."
+    },
+    {
+     "sp": "W",
+     "en": "So we might actually be able to figure out what triggered the explosion? Whether it's a second white dwarf or a normal star?"
+    },
+    {
+     "sp": "M",
+     "en": "That's the hope. I've been emailing the radio telescope people to arrange observations. If we can catch the material around the white dwarf, it could tell us which scenario is right."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds promising. But I heard the preliminary findings suggest the white dwarf was really young, less than a hundred million years old. That's unusual, isn't it?"
+    },
+    {
+     "sp": "M",
+     "en": "Very. Most of these explosions involve much older stars. If this one is young, it might mean our models need some adjustment."
+    },
+    {
+     "sp": "W",
+     "en": "Do you think we'll get enough data before it fades?"
+    },
+    {
+     "sp": "M",
+     "en": "I'm cautiously optimistic. The early detection gives us a head start. But we need to act fast. These things don't wait around."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What are the speakers mainly discussing?",
+     "options": [
+      "The competition among astronomers to study distant stars",
+      "The routine procedure for reporting new supernova alerts",
+      "The rarity and research potential of a nearby supernova",
+      "The difficulty of obtaining radio telescope time"
+     ],
+     "answer": 2,
+     "explain": "对话围绕SN 2026ahvu的罕见性（距离近、早期发现）和研究价值展开。B项将日常警报流程误作主旨；C项无中生有，未提竞争；D项虽提及申请望远镜时间，但属细节而非主旨。",
+     "evidence": "I did. SN 2026ahvu, right? I was actually checking the alert system when it first came in."
+    },
+    {
+     "id": "l1_2",
+     "stem": "Why is this supernova particularly valuable for study?",
+     "options": [
+      "It is the first type Ia supernova ever detected.",
+      "It is close enough for astronomers to examine its surroundings.",
+      "It has already peaked, providing complete data.",
+      "It is located in a galaxy with many white dwarfs."
+     ],
+     "answer": 1,
+     "explain": "对话指出多数Ia型超新星距离极远，无法看清周围环境，而这一颗距离近，可研究触发机制。A项绝对化，并非首次；C项与原文相反，尚未达峰值；D项未提及。",
+     "evidence": "Most of them are hundreds of millions of light-years away, so we can't really see what's around them. This one is maybe fifty million light-years or less."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about the preliminary findings?",
+     "options": [
+      "They confirm the existing theoretical models.",
+      "They may require scientists to revise current models.",
+      "They are based on unreliable radio data.",
+      "They contradict the standard candle method."
+     ],
+     "answer": 1,
+     "explain": "男士说“如果这颗星年轻，可能意味着我们的模型需要调整”，暗示现有模型可能需修正。A项与原文相反；C项未提及数据可靠性；D项无中生有，未否定标准烛光法。",
+     "evidence": "If this one is young, it might mean our models need some adjustment."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude toward collecting more data?",
+     "options": [
+      "Cautiously hopeful",
+      "Completely doubtful",
+      "Indifferent",
+      "Overconfident"
+     ],
+     "answer": 0,
+     "explain": "男士说“I'm cautiously optimistic”，表明谨慎乐观。B项完全怀疑与原文相反；C项漠不关心不符；D项过度自信与“cautiously”矛盾。",
+     "evidence": "I'm cautiously optimistic. The early detection gives us a head start."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Astronomers have long used type Ia supernovas as cosmic distance markers, and these are commonly called standard candles. Their brightness is consistent, so scientists can measure vast distances across the universe. These powerful explosions happen when a white dwarf star reignites and destroys itself in a sudden burst. But the exact trigger behind this event remains uncertain after decades of research. Now, a newly discovered supernova may offer valuable clues, and it is designated SN 2026ahvu. It may help explain the mysterious mechanism that ignites such stellar blasts. It is located perhaps fifty million light-years away. That is unusually close for such an event, so it is far easier to observe than most distant counterparts. It was discovered before reaching peak brightness, and this gives scientists an early view of the explosion. It also lets them track its evolution from the very beginning, and researchers have already submitted early findings. These suggest the white dwarf was less than one hundred million years old. That is remarkably young for this type of supernova, and it is also quite surprising to the astronomical community. This unexpected youth may prompt scientists to refine their models of these stellar blasts. It may also make them reconsider long-held ideas about how such systems form. Radio telescope observations are being arranged to study the material around the white dwarf. This could show whether a companion white dwarf or a burning star provided the extra mass. That mass was needed to trigger the explosion. Such close type Ia supernovas are rare, so the opportunity is fleeting. It cannot be repeated once lost, and scientists must act quickly before the supernova fades. But the early detection provides a valuable head start, and few researchers ever receive such a chance. The findings could in the end improve our understanding of how white dwarfs explode. They could also improve how we measure the universe."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The process of discovering new supernovas",
+      "The significance of a nearby type Ia supernova",
+      "The history of the standard candle method",
+      "The competition between radio and optical telescopes"
+     ],
+     "answer": 1,
+     "explain": "全文围绕SN 2026ahvu的罕见性及其研究价值展开。A项发现过程仅为细节；C项标准烛光法只是背景；D项未提及望远镜竞争。",
+     "evidence": "Now, a newly discovered supernova may offer valuable clues, and it is designated SN 2026ahvu."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What makes SN 2026ahvu particularly noteworthy?",
+     "options": [
+      "It is the most distant supernova ever observed.",
+      "It was discovered after it had already faded.",
+      "It is unusually close and was caught early.",
+      "It is the first supernova detected by radio telescopes."
+     ],
+     "answer": 2,
+     "explain": "文中强调其距离近且发现于亮度峰值前。A项与原文相反；B项与原文相反；D项无中生有。",
+     "evidence": "It is located perhaps fifty million light-years away."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about the preliminary findings?",
+     "options": [
+      "They challenge existing ideas about supernova ages.",
+      "They confirm that all type Ia supernovas are young.",
+      "They are based on outdated radio data.",
+      "They prove the standard candle method is flawed."
+     ],
+     "answer": 0,
+     "explain": "原文指出这颗白矮星异常年轻，可能促使科学家修正模型，暗示对现有认识构成挑战。B项绝对化；C项无中生有；D项过度推断。",
+     "evidence": "This unexpected youth may prompt scientists to refine their models of these stellar blasts."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "A Close Supernova Offers a Rare Window into Stellar Explosions",
+   "passage": "When astronomers first detected the supernova now known as SN 2026ahvu, it seemed like just another entry in the daily flood of alerts. But within days, researchers realized that this event was extraordinary. Discovered before it had reached peak brightness, the explosion provided an early glimpse of its evolution. More importantly, it was classified as a type Ia supernova, a class of explosions that astronomers use as \"standard candles\" to measure cosmic distances. These blasts are rare, but they are indispensable tools for probing the universe's expansion. To add to the excitement, type Ia supernovas seldom occur so close to Earth.\n\nType Ia supernovas are believed to occur when a white dwarf star—the small, dense remnant of a sun-like star—reignites and destroys itself. For this to happen, the white dwarf must reach about 1.44 times the mass of the sun, which requires an external source of mass. However, scientists are still uncertain whether that source is a second white dwarf or a star that is still burning. Usually, these explosions are so distant that astronomers cannot observe their surroundings well enough to determine the trigger. But SN 2026ahvu is perhaps 50 million light-years away or less, offering an unusually clear view.\n\n\"They happen so rarely at this distance that it could hopefully help us figure out why this white dwarf exploded in the first place,\" says astronomer Yvette Cendes of the University of Oregon in Eugene, who has been arranging for radio telescopes to observe the outburst. By studying the material around the white dwarf, researchers hope to identify the companion object and thus the explosion mechanism.\n\nPreliminary findings submitted by Sarbadhicary and colleagues on November 6 suggest that the former white dwarf was less than 100 million years old. That is remarkably young compared with other supernovas of this type, and it may help scientists finetune their understanding of these outbursts. If the white dwarf was indeed young, existing models of how white dwarfs accumulate mass and explode might need revision.\n\nThe opportunity, however, is fleeting. The supernova will eventually fade, and astronomers must act quickly to collect data. The early detection gives them a head start, but the window is narrow. Nevertheless, the event promises to shed light on one of astronomy's longstanding puzzles: what exactly triggers a white dwarf to self-destruct? The answer could refine our understanding of standard candles and, ultimately, of the cosmos itself.",
+   "source": {
+    "name": "Science News",
+    "url": "https://www.sciencenews.org/article/close-supernova-secrets-white-dwarf"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The competition among observatories to study supernovas",
+      "The history of using standard candles in astronomy",
+      "The significance of a nearby type Ia supernova",
+      "The process by which white dwarfs accumulate mass"
+     ],
+     "answer": 2,
+     "explain": "全文围绕SN 2026ahvu的罕见性及其研究价值展开，C项正确概括主旨。A项“竞争”文中未提及；B项“历史”仅为背景细节；D项“过程”只是部分内容。",
+     "evidence": "But within days, researchers realized that this event was extraordinary.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What makes SN 2026ahvu particularly valuable for research?",
+     "options": [
+      "It is the most distant type Ia supernova ever observed.",
+      "It was discovered after it had already faded significantly.",
+      "It is close enough for astronomers to study its surroundings.",
+      "It is the first supernova detected by radio telescopes."
+     ],
+     "answer": 2,
+     "explain": "原文指出它距离近，可研究周围环境以确定触发机制，C项正确。A项与原文相反；B项与原文相反；D项无中生有。",
+     "evidence": "But SN 2026ahvu is perhaps 50 million light-years away or less, offering an unusually clear view.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What do scientists hope to learn by studying the material around the white dwarf?",
+     "options": [
+      "The exact age of the universe",
+      "The identity of the companion object",
+      "The temperature of the supernova",
+      "The distance to the nearest galaxy"
+     ],
+     "answer": 1,
+     "explain": "原文明确说研究周围物质是为了识别伴星，从而确定爆炸机制，B项正确。A项“宇宙年龄”未提及；C项“温度”未提及；D项“最近星系距离”未提及。",
+     "evidence": "By studying the material around the white dwarf, researchers hope to identify the companion object and thus the explosion mechanism.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the preliminary findings?",
+     "options": [
+      "They confirm that all type Ia supernovas are young.",
+      "They may require scientists to revise existing models.",
+      "They are based on unreliable radio observations.",
+      "They prove the standard candle method is flawed."
+     ],
+     "answer": 1,
+     "explain": "原文指出这颗白矮星异常年轻，可能促使科学家修正模型，B项正确。A项“所有”绝对化；C项“不可靠”无中生有；D项“证明有缺陷”过度推断。",
+     "evidence": "If the white dwarf was indeed young, existing models of how white dwarfs accumulate mass and explode might need revision.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"fleeting\" in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "brief",
+      "distant",
+      "uncertain",
+      "dangerous"
+     ],
+     "answer": 0,
+     "explain": "fleeting意为“短暂的”，与brief同义，A项正确。B项distant指距离远；C项uncertain指不确定；D项dangerous指危险，均不符合语境。",
+     "evidence": "The opportunity, however, is fleeting.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "But within days, researchers realized that this event was [1]. Discovered before it had reached peak brightness, the explosion provided an early glimpse of its evolution. More importantly, it was [2] as a type Ia supernova, a class of explosions that astronomers use as \"standard candles\" to measure cosmic distances. These blasts are rare, but they are [3] tools for probing the universe's expansion. To add to the excitement, type Ia supernovas seldom occur so close to Earth.\n\nType Ia supernovas are believed to occur when a white dwarf star—the small, dense [4] of a sun-like star—reignites and destroys itself. For this to happen, the white dwarf must reach about 1.44 times the mass of the sun, which [5] an external source of mass. However, scientists are still uncertain whether that source is a second white dwarf or a star that is still burning. Usually, these explosions are so distant that astronomers cannot observe their [6] well enough to determine the trigger.\n\nBut SN 2026ahvu is perhaps 50 million light-years away or less, offering an unusually clear view. \"They happen so rarely at this [7] that it could hopefully help us figure out why this white dwarf exploded in the first place,\" says [8] Yvette Cendes of the University of Oregon in Eugene, who has been arranging for radio telescopes to observe the outburst. By studying the material around the white dwarf, researchers hope to identify the companion object and thus the explosion mechanism.\n\nPreliminary findings [9] by Sarbadhicary and colleagues on November 6 suggest that the former white dwarf was less than 100 million years old. That is remarkably young [10] with other supernovas of this type, and it may help scientists finetune their understanding of these outbursts.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "accountable"
+    },
+    {
+     "label": "B",
+     "word": "astronomer"
+    },
+    {
+     "label": "C",
+     "word": "classified"
+    },
+    {
+     "label": "D",
+     "word": "compared"
+    },
+    {
+     "label": "E",
+     "word": "contract"
+    },
+    {
+     "label": "F",
+     "word": "distance"
+    },
+    {
+     "label": "G",
+     "word": "extraordinary"
+    },
+    {
+     "label": "H",
+     "word": "indispensable"
+    },
+    {
+     "label": "I",
+     "word": "reliance"
+    },
+    {
+     "label": "J",
+     "word": "remnant"
+    },
+    {
+     "label": "K",
+     "word": "requires"
+    },
+    {
+     "label": "L",
+     "word": "submitted"
+    },
+    {
+     "label": "M",
+     "word": "surroundings"
+    },
+    {
+     "label": "N",
+     "word": "underlying"
+    },
+    {
+     "label": "O",
+     "word": "vaccinate"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "extraordinary",
+     "lower": "extraordinary",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "非凡的",
+     "context": "But within days, researchers realized that this event was extraordinary."
+    },
+    {
+     "index": 2,
+     "word": "classified",
+     "lower": "classified",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "把…分类，把…分级",
+     "context": "More importantly, it was classified as a type Ia supernova, a class of explosions that astronomers use as \"standard candles\" to measure cosmic distances."
+    },
+    {
+     "index": 3,
+     "word": "indispensable",
+     "lower": "indispensable",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "必不可少的",
+     "context": "These blasts are rare, but they are indispensable tools for probing the universe's expansion."
+    },
+    {
+     "index": 4,
+     "word": "remnant",
+     "lower": "remnant",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "J",
+     "gloss": "残留部分",
+     "context": "Type Ia supernovas are believed to occur when a white dwarf star—the small, dense remnant of a sun-like star—reignites and destroys itself."
+    },
+    {
+     "index": 5,
+     "word": "requires",
+     "lower": "requires",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "K",
+     "gloss": "要求，命令",
+     "context": "For this to happen, the white dwarf must reach about 1.44 times the mass of the sun, which requires an external source of mass."
+    },
+    {
+     "index": 6,
+     "word": "surroundings",
+     "lower": "surroundings",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "M",
+     "gloss": "周围的事物，环境",
+     "context": "Usually, these explosions are so distant that astronomers cannot observe their surroundings well enough to determine the trigger."
+    },
+    {
+     "index": 7,
+     "word": "distance",
+     "lower": "distance",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "F",
+     "gloss": "距离",
+     "context": "More importantly, it was [2] as a type Ia supernova, a class of explosions that astronomers use as \"standard candles\" to measure cosmic distances."
+    },
+    {
+     "index": 8,
+     "word": "astronomer",
+     "lower": "astronomer",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "B",
+     "gloss": "",
+     "context": "More importantly, it was [2] as a type Ia supernova, a class of explosions that astronomers use as \"standard candles\" to measure cosmic distances."
+    },
+    {
+     "index": 9,
+     "word": "submitted",
+     "lower": "submitted",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "提交",
+     "context": "Preliminary findings submitted by Sarbadhicary and colleagues on November 6 suggest that the former white dwarf was less than 100 million years old."
+    },
+    {
+     "index": 10,
+     "word": "compared",
+     "lower": "compared",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "比较，对照",
+     "context": "That is remarkably young compared with other supernovas of this type, and it may help scientists finetune their understanding of these outbursts."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Science News",
+  "url": "https://www.sciencenews.org/article/close-supernova-secrets-white-dwarf",
+  "long_sentences": [
+   {
+    "en": "“They happen so rarely at this distance that it could hopefully help us figure out why this white dwarf exploded in the first place,” says astronomer Yvette Cendes of the University of Oregon in Eugene, who has been arranging for radio telescopes to observe the outburst.",
+    "words": 46
+   },
+   {
+    "en": "Astronomers know type 1a supernovas occur upon the reignition and resulting self-destruction of a white dwarf star, the small cool remnants of a star like the sun that’s too small to become a superdense neutron star or black hole at its demise.",
+    "words": 42
+   },
+   {
+    "en": "These particular outbursts are rare, but they’re astronomical superstars: Scientists use their trademark explosion pattern as a “standard candle” to measure distance into the universe — most notably to discover that the universe’s expansion is accelerating .",
+    "words": 37
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-26T11:58:52",
+ "difficulty": {
+  "score": 86,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 285,
+    "asl": 9.8,
+    "flesch": 76.9,
+    "fkgl": 5.0,
+    "long_sent": 0.0,
+    "beyond": 0.07,
+    "in_band": true,
+    "score": 72
+   },
+   {
+    "type": "passage_listening",
+    "words": 314,
+    "asl": 14.3,
+    "flesch": 56.8,
+    "fkgl": 8.9,
+    "long_sent": 0.0,
+    "beyond": 0.073,
+    "in_band": true,
+    "score": 87
+   },
+   {
+    "type": "reading",
+    "words": 397,
+    "asl": 18.9,
+    "flesch": 48.7,
+    "fkgl": 11.2,
+    "long_sent": 0.048,
+    "beyond": 0.081,
+    "in_band": true,
+    "score": 84
+   },
+   {
+    "type": "banked_cloze",
+    "words": 287,
+    "asl": 20.5,
+    "flesch": 48.7,
+    "fkgl": 11.6,
+    "long_sent": 0.071,
+    "beyond": 0.077,
+    "in_band": true,
+    "score": 100
+   }
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "daily-2026-11-26",
+ "kind": "science",
+ "source": "daily",
+ "date": "2026-11-26",
+ "source_label": "每日一文 · Science News",
+ "title_en": "A cosmically close supernova may spill the stellar explosion’s secrets",
+ "title_zh": "一颗宇宙距离近的超新星可能会泄露恒星爆炸的秘密",
+ "minutes": 3,
+ "paragraphs": [
+  {
+   "en": "When astronomers first spotted the supernova now designated SN 2026ahvu, it was just one of the dozens detected every day. But scientists soon realized this one was something very special, and they’ve been hustling to study it ever since.",
+   "zh": "当天文学家首次发现如今编号为SN 2026ahvu的超新星时，它不过是每天被探测到的数十颗超新星之一。但科学家很快意识到，这一颗非同寻常，此后便一直争分夺秒地研究它。"
+  },
+  {
+   "en": "Soon after scientists spotted the explosion on November 2, they determined it hadn’t yet peaked in brightness, giving scientists an early glimpse at the event. Even more thrilling, within a day of the explosion’s discovery, astronomers had classified it as a type Ia supernova. These particular outbursts are rare, but they’re astronomical superstars: Scientists use their trademark explosion pattern as a “standard candle” to measure distance into the universe — most notably to discover that the universe’s expansion is accelerating . And to round out a trifecta of reasons to be excited, these blasts rarely occur so close to Earth.",
+   "zh": "科学家在11月2日发现这次爆发后不久便确定，它的亮度尚未达到峰值，这让他们得以提前一窥这一天文事件。更令人兴奋的是，在发现爆发后不到一天，天文学家就将其归类为Ia型超新星。这类爆发十分罕见，却是天文学界的超级明星：科学家利用其标志性的爆发模式作为“标准烛光”来测量宇宙距离——最著名的应用便是发现宇宙膨胀正在加速。而凑成三重惊喜的是，这类爆发极少发生在离地球如此之近的地方。"
+  },
+  {
+   "en": "Astronomers know type 1a supernovas occur upon the reignition and resulting self-destruction of a white dwarf star, the small cool remnants of a star like the sun that’s too small to become a superdense neutron star or black hole at its demise. Scientists also know that powering back on requires reaching about 1.44 times the mass of the sun, which can occur only if something is giving the white dwarf extra mass.",
+   "zh": "天文学家知道，Ia型超新星发生于白矮星重新点燃并随之自我毁灭之时。白矮星是类似太阳的恒星留下的微小冷却残骸，其质量太小，在消亡时无法变成超致密的中子星或黑洞。科学家也知道，要重新点燃需要达到约1.44倍太阳质量，而这只有在有某种东西为白矮星提供额外质量时才可能发生。"
+  },
+  {
+   "en": "But scientists aren’t sure what that something is — whether these supernovas are triggered by a second white dwarf or some sort of star that’s still burning. Usually, these explosions occur so far away that astronomers can’t get a good look at where they come from. But SN 2026ahvu is perhaps 50 million light-years or less away from Earth.",
+   "zh": "但科学家并不确定那“某种东西”是什么——这些超新星究竟是由另一颗白矮星触发，还是由某种仍在燃烧的恒星触发。通常，这类爆发发生在极其遥远的地方，天文学家无法看清它们的来源。但SN 2026ahvu距离地球或许只有5000万光年甚至更近。"
+  },
+  {
+   "en": "“They happen so rarely at this distance that it could hopefully help us figure out why this white dwarf exploded in the first place,” says astronomer Yvette Cendes of the University of Oregon in Eugene, who has been arranging for radio telescopes to observe the outburst.",
+   "zh": "“在这么近的距离上，这类事件极为罕见，因此它有望帮助我们弄清这颗白矮星最初为何会爆炸，”俄勒冈大学（位于尤金）天文学家伊薇特·森德斯（Yvette Cendes）说。她一直在安排射电望远镜观测这次爆发。"
+  },
+  {
+   "en": "Sarbadhicary and colleagues have already submitted preliminary findings November 6 at arXiv.org suggesting that the former white dwarf was less than 100 million years old . That’s remarkably young compared with other supernovas of this type, and may help scientists finetune their understanding of these outbursts.",
+   "zh": "萨巴迪卡里及其同事已于11月6日在arXiv.org上提交了初步研究结果，表明这颗前身白矮星的年龄不到1亿年。与同类超新星相比，这年轻得惊人，或许有助于科学家更精细地理解这类爆发。"
+  }
+ ],
+ "vocab": [],
+ "translator": "llm",
+ "url": "https://www.sciencenews.org/article/close-supernova-secrets-white-dwarf"
+}
