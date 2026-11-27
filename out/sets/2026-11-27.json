@@ -1,0 +1,532 @@
+{
+ "id": "2026-11-27",
+ "date": "2026-11-27",
+ "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "时事新闻",
+  "调查研究"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 723,
+  "sentences": 38,
+  "avg_sentence_len": 19.0,
+  "flesch_ease": 53.4,
+  "flesch_grade": 10.5,
+  "hard_word_ratio": 0.075,
+  "long_sent_ratio": 0.053,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.0,
+  "issues": [],
+  "score": 96
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A graduate student and a postdoctoral researcher discuss an upcoming cosmology workshop and the challenges of interpreting survey data.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "I heard the department is hosting a workshop on dark energy next month. Are you involved in the planning?"
+    },
+    {
+     "sp": "M",
+     "en": "Yes, I’m on the organizing committee. The idea is to bring together people working on different surveys so we can compare notes on the latest results."
+    },
+    {
+     "sp": "W",
+     "en": "That sounds useful. But isn’t there already a fairly solid standard model? Why the need for a whole workshop?"
+    },
+    {
+     "sp": "M",
+     "en": "Well, that’s exactly the point. For about twenty years, the standard model has worked remarkably well. But recent data from two major projects suggest that some measurements don’t quite fit the predictions."
+    },
+    {
+     "sp": "W",
+     "en": "So you mean the model might be incomplete? That’s a pretty big claim."
+    },
+    {
+     "sp": "M",
+     "en": "It is. But cosmologists are careful. They’re not saying the model is wrong; they’re saying there appear to be cracks. It could be a problem with the measurements, or it could be new physics. We need more data to tell."
+    },
+    {
+     "sp": "W",
+     "en": "I see. And the workshop will help sort that out?"
+    },
+    {
+     "sp": "M",
+     "en": "Hopefully. The goal is to get observers and theorists in the same room. Right now, different teams use slightly different methods, and it’s hard to know whether the tension is real or just a systematic error."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. I’ve been analyzing some supernova data myself, and I’ve noticed how sensitive the results are to the assumptions you make."
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. That’s why we need to be transparent about our methods. The workshop will have sessions on statistical techniques and on how to combine datasets from different surveys."
+    },
+    {
+     "sp": "W",
+     "en": "Will there be room for students to present their work?"
+    },
+    {
+     "sp": "M",
+     "en": "Absolutely. We’ve set aside a whole afternoon for short talks by early-career researchers. If you’re interested, you should submit an abstract."
+    },
+    {
+     "sp": "W",
+     "en": "I’d like that. When is the deadline?"
+    },
+    {
+     "sp": "M",
+     "en": "The end of this week. But don’t worry too much—the committee is more interested in the science than in polished presentations."
+    },
+    {
+     "sp": "W",
+     "en": "Good to know. I’ll start putting something together. Thanks for the encouragement."
+    },
+    {
+     "sp": "M",
+     "en": "No problem. I think your work on supernovae would fit perfectly with the themes we’re planning."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the main purpose of the workshop?",
+     "options": [
+      "To announce a definitive replacement for the standard model.",
+      "To compare results from different surveys and address inconsistencies.",
+      "To train students in statistical methods for cosmology.",
+      "To celebrate twenty years of stable cosmological research."
+     ],
+     "answer": 1,
+     "explain": "男士说工作坊目的是让不同巡天项目的人对比结果，并讨论测量是否不吻合，A项同义改写。B项“宣布确定替代模型”过度推断；C项“培训学生统计方法”是部分内容而非主旨；D项“庆祝二十年稳定研究”张冠李戴，原文是稳定后出现困惑。",
+     "evidence": "The idea is to bring together people working on different surveys so we can compare notes on the latest results."
+    },
+    {
+     "id": "l1_2",
+     "stem": "According to the man, what do recent data from two projects suggest?",
+     "options": [
+      "The universe is made entirely of dark energy and dark matter.",
+      "The standard model has been completely disproven by new evidence.",
+      "Some measurements do not match the standard model’s predictions.",
+      "Cosmologists have agreed on a new model of the universe."
+     ],
+     "answer": 2,
+     "explain": "男士明确说“some measurements don’t quite fit the predictions”，A项同义改写。B项“完全被推翻”绝对化；C项“宇宙全由暗能量和暗物质组成”偷换概念；D项“已同意新模型”与原文“无法确定”矛盾。",
+     "evidence": "But recent data from two major projects suggest that some measurements don’t quite fit the predictions."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What can be inferred about the current state of cosmology from the conversation?",
+     "options": [
+      "Researchers are uncertain whether the tension reflects new physics or systematic errors.",
+      "Cosmologists have abandoned the standard model due to recent findings.",
+      "The workshop is unlikely to resolve the tension between surveys.",
+      "Students are not encouraged to participate in the workshop."
+     ],
+     "answer": 0,
+     "explain": "男士说“it’s hard to know whether the tension is real or just a systematic error”，A项合理推断。B项“已放弃标准模型”与原文“not saying the model is wrong”矛盾；C项“不太可能解决”过度推断；D项“不鼓励学生参加”与原文相反。",
+     "evidence": "Right now, different teams use slightly different methods, and it’s hard to know whether the tension is real or just a systematic error."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man’s attitude toward the workshop’s potential?",
+     "options": [
+      "Cautiously optimistic about making progress through collaboration.",
+      "Skeptical that any meaningful discussion will take place.",
+      "Indifferent because the issues are already resolved.",
+      "Overconfident that a new model will be announced."
+     ],
+     "answer": 0,
+     "explain": "男士说“Hopefully”并强调让观测者和理论家同处一室，态度是谨慎乐观，A项正确。B项“怀疑有意义讨论”与积极筹备矛盾；C项“漠不关心”与主动组织矛盾；D项“过度自信宣布新模型”与“需要更多数据”矛盾。",
+     "evidence": "Hopefully. The goal is to get observers and theorists in the same room."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "For decades, cosmologists have relied on a standard model to describe the composition and evolution of the universe, a framework that has shaped much of modern astronomical research. This model holds that ordinary matter makes up only a small fraction of the cosmos, while dark matter and dark energy account for the rest. Dark energy, in particular, is thought to be responsible for the accelerating expansion of the universe. The model has been remarkably successful in explaining a wide range of observations, from the cosmic microwave background to the distribution of galaxies. However, recent results from two major surveys have begun to challenge this comfortable picture. The Dark Energy Survey, after twenty years of data collection, has produced a massive dataset of supernovas and galaxies. When combined with data from another project, the Dark Energy Spectroscopic Instrument, the findings suggest that the standard model may not tell the whole story. Some measurements appear to be in tension with the model’s predictions, leaving cosmologists puzzled. Scientists are careful not to overstate the significance of these results. They point out that the tension could arise from unrecognized systematic errors in the measurements rather than from new physics. To resolve the issue, researchers need more precise data and better ways of combining observations from different instruments. Workshops and collaborative projects are being organized to help this process. Regardless of the final outcome, the current situation is generating excitement in the field. As one cosmologist put it, the cracks in the standard model are “enough to make you either uncomfortable or excited.” For many researchers, the possibility that the universe contains something unexpected is precisely what makes cosmology so compelling."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Recent survey results that challenge the standard cosmological model.",
+      "The history of the Dark Energy Survey over twenty years.",
+      "The competition between two major cosmological projects.",
+      "The complete replacement of the standard model by new physics."
+     ],
+     "answer": 0,
+     "explain": "全文围绕DES和DESI的结果对标准模型的挑战展开，A项概括准确。B项只提DES历史，以偏概全；C项“竞争”无中生有；D项“完全替代”绝对化且与原文“谨慎”矛盾。",
+     "evidence": "However, recent results from two major surveys have begun to challenge this comfortable picture."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What does the standard model say about dark energy?",
+     "options": [
+      "It is believed to drive the accelerating expansion of the universe.",
+      "It makes up the majority of ordinary matter in the cosmos.",
+      "It has been directly observed by the Dark Energy Survey.",
+      "It was proposed to explain the slowing of cosmic expansion."
+     ],
+     "answer": 0,
+     "explain": "原文说“Dark energy ... is thought to be responsible for the accelerating expansion”，A项同义改写。B项“占普通物质大部分”偷换概念；C项“被直接观测”与“invisible”矛盾；D项“解释膨胀减慢”因果倒置。",
+     "evidence": "Dark energy, in particular, is thought to be responsible for the accelerating expansion of the universe."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about cosmologists’ response to the recent findings?",
+     "options": [
+      "They are cautious about drawing firm conclusions from the data.",
+      "They are convinced that new physics has been discovered.",
+      "They believe the standard model should be abandoned immediately.",
+      "They are indifferent to the tension in the measurements."
+     ],
+     "answer": 0,
+     "explain": "原文说“Scientists are careful not to overstate”并指出可能是系统误差，A项合理推断。B项“确信发现新物理”与谨慎态度矛盾；C项“立即放弃模型”过度；D项“漠不关心”与“generating excitement”矛盾。",
+     "evidence": "Scientists are careful not to overstate the significance of these results."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "Cracks in the Cosmic Standard Model",
+   "passage": "For nearly two decades, the standard model of cosmology has provided a remarkably successful framework for understanding the universe. It holds that ordinary matter constitutes only a small fraction of the cosmos, while dark matter and dark energy account for the rest. Dark energy, in particular, is thought to be responsible for the accelerating expansion of the universe. This model has explained a wide range of observations, from the cosmic microwave background to the large-scale distribution of galaxies.\n\nHowever, recent results from two major surveys have begun to challenge this comfortable picture. The Dark Energy Survey (DES), after twenty years of data collection, has produced a massive dataset of supernovas and galaxies. When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the findings suggest that the standard model may not tell the whole story. Some measurements appear to be in tension with the model’s predictions, leaving cosmologists puzzled. “There appear to be cracks in that model,” said one researcher. “There’s something that doesn’t fit.”\n\nScientists are careful not to overstate the significance of these results. They point out that the tension could arise from unrecognized systematic errors in the measurements rather than from new physics. To resolve the issue, researchers need more precise data and better ways of combining observations from different instruments. Workshops and collaborative projects are being organized to facilitate this process, bringing together observers and theorists to compare methods and assumptions.\n\nThe current situation is generating a mixture of unease and excitement. After twenty years of stability, cosmologists are returning to a state of confusion. As one cosmologist put it, the cracks in the standard model are “enough to make you either uncomfortable or excited.” For many researchers, the possibility that the universe contains something unexpected is precisely what makes cosmology so compelling. Whether the tension will ultimately be resolved by better measurements or by a revolutionary new theory remains an open question.\n\nWhat is clear is that the field is entering a new phase of investigation. The standard model, once regarded as settled, is now being scrutinized as never before. This does not mean it is wrong, but it does mean that cosmologists must remain open to the possibility that their understanding of the universe is incomplete. The next few years of data collection and analysis will be crucial in determining whether the cracks widen into a chasm or turn out to be mere surface flaws.",
+   "source": {
+    "name": "Quanta",
+    "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the main idea of the passage?",
+     "options": [
+      "The standard cosmological model has been definitively disproved by recent surveys.",
+      "Recent survey data indicate that the standard cosmological model may be incomplete.",
+      "Cosmologists have reached a consensus on a new model of the universe.",
+      "The standard model of cosmology has remained unchallenged for twenty years."
+     ],
+     "answer": 1,
+     "explain": "正确项B概括全文：近期巡天数据挑战标准模型，暗示其可能不完整。A项“definitively disproved”绝对化，原文只说“may not tell the whole story”；C项“reached a consensus”无中生有，原文强调困惑；D项“unchallenged”与原文“begun to challenge”矛盾。",
+     "evidence": "However, recent results from two major surveys have begun to challenge this comfortable picture.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "What does the standard model say about dark energy?",
+     "options": [
+      "It has been directly observed by the Dark Energy Survey.",
+      "It makes up the majority of ordinary matter in the cosmos.",
+      "It is believed to drive the accelerating expansion of the universe.",
+      "It was proposed to explain the slowing of cosmic expansion."
+     ],
+     "answer": 2,
+     "explain": "正确项C同义改写原文“responsible for the accelerating expansion”。A项“directly observed”与原文“thought to be”矛盾；B项“majority of ordinary matter”偷换概念，原文说暗能量占宇宙大部分而非普通物质；D项“slowing”因果倒置。",
+     "evidence": "Dark energy, in particular, is thought to be responsible for the accelerating expansion of the universe.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "What do scientists say about the tension in the measurements?",
+     "options": [
+      "It will be resolved by abandoning the Dark Energy Survey.",
+      "It has been proven to result from a new form of energy.",
+      "It is entirely due to flaws in the standard model itself.",
+      "It could stem from unrecognized systematic errors rather than new physics."
+     ],
+     "answer": 3,
+     "explain": "正确项D同义改写原文“could arise from unrecognized systematic errors...rather than new physics”。A项“abandoning DES”无中生有；B项“proven”与原文“could”矛盾；C项“entirely due to flaws”过度推断，原文只说可能。",
+     "evidence": "They point out that the tension could arise from unrecognized systematic errors in the measurements rather than from new physics.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the future of cosmology from the passage?",
+     "options": [
+      "Further data and analysis will be essential in clarifying the current tension.",
+      "The standard model will certainly be replaced within the next few years.",
+      "Cosmologists have already determined that the cracks are surface flaws.",
+      "The current confusion will likely discourage young researchers."
+     ],
+     "answer": 0,
+     "explain": "正确项A基于原文“next few years of data collection and analysis will be crucial”合理推断。B项“certainly replaced”绝对化；C项“already determined”与“open question”矛盾；D项“discourage young researchers”无中生有。",
+     "evidence": "The next few years of data collection and analysis will be crucial in determining whether the cracks widen into a chasm or turn out to be mere surface flaws.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word “scrutinized” in the last paragraph is closest in meaning to ______.",
+     "options": [
+      "examined closely",
+      "dismissed quickly",
+      "praised highly",
+      "ignored completely"
+     ],
+     "answer": 0,
+     "explain": "正确项A“examined closely”与scrutinized（仔细检查）同义。B项“dismissed quickly”反义；C项“praised highly”情感色彩错误；D项“ignored completely”反义。",
+     "evidence": "The standard model, once regarded as settled, is now being scrutinized as never before.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "When combined with data from the Dark Energy Spectroscopic Instrument (DESI), the findings suggest that the standard model may not tell the whole story. Some measurements appear to be in tension with the model’s [1], leaving cosmologists puzzled. “There appear to be cracks in that model,” said one researcher. “There’s something that doesn’t fit.”\n\nScientists are careful not to overstate the [2] of these results. They point out that the tension could arise from [3] systematic errors in the measurements rather than from new physics. To [4] the issue, researchers need more precise data and better ways of combining observations from different instruments. Workshops and [5] projects are being organized to facilitate this process, bringing together observers and theorists to compare methods and assumptions.\n\nThe current situation is generating a mixture of unease and [6]. After twenty years of stability, cosmologists are returning to a state of confusion. As one cosmologist put it, the cracks in the standard model are “enough to make you either [7] or excited.” For many researchers, the possibility that the universe contains something unexpected is precisely what makes cosmology so compelling.\n\nWhether the tension will ultimately be [8] by better measurements or by a revolutionary new theory remains an open question. What is clear is that the field is entering a new phase of investigation. The standard model, once [9] as settled, is now being scrutinized as never before. This does not mean it is wrong, but it does mean that cosmologists must remain open to the possibility that their understanding of the universe is incomplete.\n\nThe next few years of data collection and [10] will be crucial in determining whether the cracks widen into a chasm or turn out to be mere surface flaws.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "additional"
+    },
+    {
+     "label": "B",
+     "word": "analysis"
+    },
+    {
+     "label": "C",
+     "word": "collaborative"
+    },
+    {
+     "label": "D",
+     "word": "excitement"
+    },
+    {
+     "label": "E",
+     "word": "generalization"
+    },
+    {
+     "label": "F",
+     "word": "inexhaustible"
+    },
+    {
+     "label": "G",
+     "word": "predictions"
+    },
+    {
+     "label": "H",
+     "word": "regarded"
+    },
+    {
+     "label": "I",
+     "word": "resolve"
+    },
+    {
+     "label": "J",
+     "word": "resolved"
+    },
+    {
+     "label": "K",
+     "word": "segregation"
+    },
+    {
+     "label": "L",
+     "word": "significance"
+    },
+    {
+     "label": "M",
+     "word": "target"
+    },
+    {
+     "label": "N",
+     "word": "uncomfortable"
+    },
+    {
+     "label": "O",
+     "word": "unrecognized"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "predictions",
+     "lower": "predictions",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "G",
+     "gloss": "预言，预告；预报",
+     "context": "Some measurements appear to be in tension with the model’s predictions, leaving cosmologists puzzled."
+    },
+    {
+     "index": 2,
+     "word": "significance",
+     "lower": "significance",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "L",
+     "gloss": "意义，意味；重要性",
+     "context": "“There’s something that doesn’t fit.” Scientists are careful not to overstate the significance of these results."
+    },
+    {
+     "index": 3,
+     "word": "unrecognized",
+     "lower": "unrecognized",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "O",
+     "gloss": "",
+     "context": "They point out that the tension could arise from unrecognized systematic errors in the measurements rather than from new physics."
+    },
+    {
+     "index": 4,
+     "word": "resolve",
+     "lower": "resolve",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "I",
+     "gloss": "解决，下决心",
+     "context": "To resolve the issue, researchers need more precise data and better ways of combining observations from different instruments."
+    },
+    {
+     "index": 5,
+     "word": "collaborative",
+     "lower": "collaborative",
+     "pos": "adj",
+     "tier": "cet4",
+     "label": "C",
+     "gloss": "合作的， 协作的， 协力完成的",
+     "context": "Workshops and collaborative projects are being organized to facilitate this process, bringing together observers and theorists to compare methods and assumptions."
+    },
+    {
+     "index": 6,
+     "word": "excitement",
+     "lower": "excitement",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "刺激， 激动， 兴奋； 令人兴奋的事， 刺激的因素",
+     "context": "The current situation is generating a mixture of unease and excitement."
+    },
+    {
+     "index": 7,
+     "word": "uncomfortable",
+     "lower": "uncomfortable",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "N",
+     "gloss": "",
+     "context": "As one cosmologist put it, the cracks in the standard model are “enough to make you either uncomfortable or excited.” For many researchers, the possibility that the universe contains something unexpected is precisely what makes cosmology so compelling."
+    },
+    {
+     "index": 8,
+     "word": "resolved",
+     "lower": "resolved",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "J",
+     "gloss": "解决，下决心",
+     "context": "Whether the tension will ultimately be resolved by better measurements or by a revolutionary new theory remains an open question."
+    },
+    {
+     "index": 9,
+     "word": "regarded",
+     "lower": "regarded",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "H",
+     "gloss": "把…看作；尊敬",
+     "context": "The standard model, once regarded as settled, is now being scrutinized as never before."
+    },
+    {
+     "index": 10,
+     "word": "analysis",
+     "lower": "analysis",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "B",
+     "gloss": "分析，分解，解析",
+     "context": "The next few years of data collection and analysis will be crucial in determining whether the cracks widen into a chasm or turn out to be mere surface flaws."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "Quanta",
+  "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+  "long_sentences": [
+   {
+    "en": "Those findings, in combination with data gathered by a different project, the Dark Energy Spectroscopic Instrument (DESI), suggest that our understanding of what the universe is made of — the venerable “standard model” of cosmology — is not complete.",
+    "words": 39
+   },
+   {
+    "en": "It looked as if there was just enough matter (dark and visible combined) to tug gravitationally on the universe and continuously slow this expansion without ever bringing it to a full halt.",
+    "words": 32
+   },
+   {
+    "en": "Then, in early 1998, two teams of researchers announced that exploding stars called supernovas seemed to be racing away from Earth under the influence of an unidentified, omnipresent repellent force.",
+    "words": 30
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-27T11:58:52",
+ "difficulty": {
+  "score": 80,
+  "level": "接近六级",
+  "in_band": false,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 351,
+    "asl": 10.3,
+    "flesch": 71.0,
+    "fkgl": 5.9,
+    "long_sent": 0.0,
+    "beyond": 0.085,
+    "in_band": true,
+    "score": 81
+   },
+   {
+    "type": "passage_listening",
+    "words": 277,
+    "asl": 19.8,
+    "flesch": 32.8,
+    "fkgl": 13.6,
+    "long_sent": 0.071,
+    "beyond": 0.051,
+    "in_band": false,
+    "score": 58
+   },
+   {
+    "type": "reading",
+    "words": 405,
+    "asl": 19.3,
+    "flesch": 37.7,
+    "fkgl": 12.8,
+    "long_sent": 0.048,
+    "beyond": 0.062,
+    "in_band": true,
+    "score": 81
+   },
+   {
+    "type": "banked_cloze",
+    "words": 293,
+    "asl": 19.5,
+    "flesch": 40.3,
+    "fkgl": 12.5,
+    "long_sent": 0.067,
+    "beyond": 0.065,
+    "in_band": true,
+    "score": 98
+   }
+  ]
+ },
+ "notice": " 注意：今日自动题难度评分 80（接近六级），与六级区间有偏差。"
+}
