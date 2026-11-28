@@ -1,0 +1,515 @@
+{
+ "id": "2026-11-28",
+ "date": "2026-11-28",
+ "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+ "source": "auto",
+ "engine": "llm",
+ "topics": [
+  "历史人文",
+  "时事新闻"
+ ],
+ "minutes": 35,
+ "measure": {
+  "words": 429,
+  "sentences": 24,
+  "avg_sentence_len": 17.9,
+  "flesch_ease": 48.3,
+  "flesch_grade": 11.0,
+  "hard_word_ratio": 0.044,
+  "long_sent_ratio": 0.083,
+  "level": "六级",
+  "in_band": true,
+  "distance": 0.04,
+  "issues": [],
+  "score": 93
+ },
+ "sections": [
+  {
+   "id": "sec_l1",
+   "type": "long_conversation",
+   "title": "Conversation 1",
+   "scene": "A university student and her professor discuss a community housing project.",
+   "script": [
+    {
+     "sp": "W",
+     "en": "Professor, I've been volunteering with a local housing charity, and I'm thinking of turning that experience into my final-year project. Could I ask for your advice?"
+    },
+    {
+     "sp": "M",
+     "en": "Of course. That sounds like a meaningful direction. What aspect of housing are you hoping to focus on?"
+    },
+    {
+     "sp": "W",
+     "en": "I'm interested in how temporary accommodation affects children's education. The charity runs several family shelters, and I've noticed that kids there change schools far more often than others."
+    },
+    {
+     "sp": "M",
+     "en": "That's a serious issue. Frequent moves can disrupt learning and weaken social ties. But be careful not to rely only on anecdotes. You'll need solid data—perhaps attendance records or interviews with parents and teachers."
+    },
+    {
+     "sp": "W",
+     "en": "Right. I was thinking of surveying about fifty families. But I'm worried that some may not want to talk about their situation."
+    },
+    {
+     "sp": "M",
+     "en": "That's a realistic concern. You'll need to build trust first. Partnering with the charity staff, who already know the families, would help. And make sure your questions are sensitive and anonymous."
+    },
+    {
+     "sp": "W",
+     "en": "Good point. Should I also look at how housing policies differ between districts? The charity operates in three areas, and the rules seem quite inconsistent."
+    },
+    {
+     "sp": "M",
+     "en": "Absolutely. Comparing local policies could reveal how administrative decisions affect families. That would give your project a stronger analytical edge. But keep your scope manageable—don't try to cover everything."
+    },
+    {
+     "sp": "W",
+     "en": "So I should narrow it down to one or two key questions?"
+    },
+    {
+     "sp": "M",
+     "en": "Exactly. For instance, how does the length of stay in temporary housing relate to school stability? That's a focused, answerable question."
+    },
+    {
+     "sp": "W",
+     "en": "That makes sense. I'll draft a research plan and bring it to you next week. Thank you for helping me shape this."
+    },
+    {
+     "sp": "M",
+     "en": "My pleasure. I look forward to seeing your plan. And remember, the goal is not just to describe the problem but to suggest practical improvements."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l1_1",
+     "stem": "What is the main purpose of the conversation?",
+     "options": [
+      "To complain about the poor conditions in local shelters.",
+      "To seek guidance on designing a housing-related research project.",
+      "To request funding for a charity's education programme.",
+      "To discuss the professor's own research on housing policy."
+     ],
+     "answer": 1,
+     "explain": "女士开场即表明想将志愿者经历转化为毕业项目并寻求建议，男士随后围绕研究设计给出指导，故 A 正确。B 项“抱怨条件差”文中未提及；C 项“申请资金”无中生有；D 项“讨论教授自己的研究”张冠李戴，教授只是提供方法建议。",
+     "evidence": "Professor, I've been volunteering with a local housing charity, and I'm thinking of turning that experience into my final-year project. Could I ask for your advice?"
+    },
+    {
+     "id": "l1_2",
+     "stem": "What does the woman want to investigate?",
+     "options": [
+      "How charity staff are trained to help families.",
+      "Why families are evicted from their homes.",
+      "How temporary housing influences children's schooling.",
+      "Whether shelters provide enough food and water."
+     ],
+     "answer": 2,
+     "explain": "女士明确说兴趣在于临时住所如何影响儿童教育，并提到孩子频繁转学，故 A 正确。B 项“为何家庭被驱逐”文中未涉及；C 项“员工培训”无关；D 项“食物和水”偷换概念，原文只提教育。",
+     "evidence": "I'm interested in how temporary accommodation affects children's education."
+    },
+    {
+     "id": "l1_3",
+     "stem": "What does the man imply about the woman's survey plan?",
+     "options": [
+      "It may fail unless trust is established with families.",
+      "It should be expanded to include more districts.",
+      "It will produce results that are easy to generalise.",
+      "It ought to focus on the charity's financial records."
+     ],
+     "answer": 0,
+     "explain": "男士提醒家庭可能不愿谈处境，建议借助慈善机构员工建立信任并匿名提问，暗示缺乏信任会导致调查失败，故 A 正确。B 项与“控制范围”相反；C 项“易于推广”过度推断；D 项“财务记录”无关。",
+     "evidence": "You'll need to build trust first. Partnering with the charity staff, who already know the families, would help."
+    },
+    {
+     "id": "l1_4",
+     "stem": "What is the man's attitude towards the woman's project?",
+     "options": [
+      "Supportive but cautious about its scope.",
+      "Doubtful that it can be completed.",
+      "Indifferent to its social value.",
+      "Critical of the charity's methods."
+     ],
+     "answer": 0,
+     "explain": "男士称方向有意义、建议比较政策以增强分析力，同时反复提醒控制范围、不要贪多，体现支持而谨慎，故 A 正确。B 项“怀疑能否完成”与鼓励语气不符；C 项“漠不关心”错误；D 项“批评慈善机构”无依据。",
+     "evidence": "But keep your scope manageable—don't try to cover everything."
+    }
+   ]
+  },
+  {
+   "id": "sec_l2",
+   "type": "passage_listening",
+   "title": "Passage",
+   "scene": "",
+   "script": [
+    {
+     "sp": "N",
+     "en": "Cities around the world are struggling to provide affordable homes for their residents. The pressure is growing as more and more people move into cities. Rents are rising faster than wages, and as a result, many workers are pushed to the outskirts. They spend hours commuting every day, and this spatial mismatch strains transport systems. It also weakens the social fabric of urban neighbourhoods. Teachers, nurses and shop assistants can no longer live near their workplaces. The quality of essential services may then decline, and some local governments have responded to this problem. They need developers to include a proportion of affordable units in new projects. These inclusionary zoning policies aim to mix income groups within the same area. However, critics argue that these rules can discourage construction, and that would reduce overall supply and in the end raise prices. Evidence from different cities is mixed, and it suggests that design details matter greatly. These details include the size of the requirement and the availability of subsidies. Another approach focuses on land, and public authorities may release unused government land for housing. This land is often sold at below-market prices, and it can speed up development and lower costs. But it needs reliable data on land ownership, and it also needs a transparent allocation process. Without safeguards, such schemes may benefit well-connected developers, and they may not help the families most in need. In the end, no single measure can solve the housing shortage. Experts stress that lasting progress depends on several things. Supply-side policies must be combined with income support and tenant protections. Experts also call for better data on housing need, and this would help direct resources where they are most effective. As one urban planner put it, housing is not merely a market commodity. It is a foundation for stable communities."
+    }
+   ],
+   "questions": [
+    {
+     "id": "l2_1",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "Various strategies for tackling urban housing shortages.",
+      "The reasons why construction workers commute long distances.",
+      "The failure of inclusionary zoning in all cities.",
+      "How to measure the social fabric of neighbourhoods."
+     ],
+     "answer": 0,
+     "explain": "全文依次讨论通勤错配、包容性区划、公共土地释放及综合对策，核心是应对城市住房短缺的多种策略，故 A 正确。B 项只是开头细节；C 项“所有城市都失败”绝对化；D 项“测量社会结构”偏离主旨。",
+     "evidence": "Cities around the world are struggling to provide affordable homes for their residents."
+    },
+    {
+     "id": "l2_2",
+     "stem": "What is a criticism of inclusionary zoning?",
+     "options": [
+      "It may reduce new construction and push prices up.",
+      "It forces developers to build on public land.",
+      "It prevents mixed-income communities from forming.",
+      "It requires tenants to prove their income annually."
+     ],
+     "answer": 0,
+     "explain": "原文指出批评者认为此类规定可能抑制建设、减少供应并最终推高价格，故 A 正确。B 项“强迫在公共土地建设”张冠李戴；C 项与“混合收入群体”目标相反；D 项“租户每年证明收入”无中生有。",
+     "evidence": "However, critics argue that these rules can discourage construction, and that would reduce overall supply and in the end raise prices."
+    },
+    {
+     "id": "l2_3",
+     "stem": "What can be inferred about releasing public land for housing?",
+     "options": [
+      "It can lower costs only if allocation is transparent.",
+      "It always benefits the poorest families first.",
+      "It removes the need for income support policies.",
+      "It is less effective than inclusionary zoning."
+     ],
+     "answer": 0,
+     "explain": "原文说释放公共土地可加速开发、降低成本，但需要透明的分配过程，否则可能惠及有关系开发商，暗示透明是降价惠及目标群体的条件，故 A 正确。B 项“总是最先惠及最贫困家庭”绝对化；C 项“无需收入支持”与末段矛盾；D 项比较优劣文中未提。",
+     "evidence": "Without safeguards, such schemes may benefit well-connected developers, and they may not help the families most in need."
+    }
+   ]
+  },
+  {
+   "id": "sec_r",
+   "type": "reading",
+   "title": "The Global Housing Crisis and the Search for Solutions",
+   "passage": "A home is more than a physical structure; it is a foundation for security, dignity and community life. Yet for billions of people, this foundation remains fragile. As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi to discuss how to address it. The meeting, hosted by UN-Habitat, the agency working to make cities more sustainable, seeks to build consensus on a comprehensive set of recommendations for the UN-Habitat Assembly in 2029.\n\nAdequate housing means having the right to live somewhere in security, peace and dignity. For example, people should not fear being evicted, or that their home is unsafe because it was built with the wrong materials. However, having a home does not necessarily mean that it is safe. The latest UN-Habitat World Cities Report estimates that up to 3.4 billion people lack adequate housing, with more than 1.1 billion living in informal settlements and slums. This usually entails a lack of secure tenure, sanitation or safe water.\n\nAs governments face the challenge of improving existing housing and building new homes, they must also consider the environmental consequences of construction and where these homes are built. \"Housing is the cornerstone for adaptation,\" said Anacláudia Rossbach, Executive Director of UN-Habitat. She emphasized that the housing crisis must be brought to the attention of Member States and that homelessness should be placed on the global housing agenda.\n\nTo address the housing crisis, an essential component remains listening to those most affected. Rossbach underscored the importance of involving local authorities and communities in the development of housing policies, especially those in more vulnerable positions. Local governments, she explained, are closer to the communities they serve and are therefore better positioned to understand their needs. From communities and local governments to researchers and the private sector, efforts to address housing challenges are already underway. \"They are finding solutions. They are innovating, and they are moving the frontier,\" she said.\n\nDespite the magnitude of the global housing crisis, Rossbach finds hope in the solutions already emerging on the ground. \"The decisions here, they will have a direct impact on the lives of people,\" she said. \"So, let's keep people at the centre of our minds this week.\" The challenge is immense, but the commitment to placing people at the heart of housing policy offers a pathway forward.",
+   "source": {
+    "name": "UN News",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
+   },
+   "questions": [
+    {
+     "type": "main",
+     "stem": "What is the passage mainly about?",
+     "options": [
+      "The environmental costs of building new homes worldwide.",
+      "The scale of the housing crisis and inclusive solutions to it.",
+      "The history of UN-Habitat and its previous assemblies.",
+      "The reasons why people prefer informal settlements."
+     ],
+     "answer": 1,
+     "explain": "全文先点明住房危机的规模，再介绍联合国会议、适足住房含义及倾听社区等对策，核心是危机规模与包容性解决方案，故B正确。A项只是第三段细节；C项“历史与历届大会”偏离；D项“偏好住非正规住区”无中生有。",
+     "evidence": "As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi to discuss how to address it.",
+     "id": "r_1"
+    },
+    {
+     "type": "detail",
+     "stem": "According to the World Cities Report, how many people lack adequate housing?",
+     "options": [
+      "About 2.5 billion people.",
+      "More than 1.1 billion people.",
+      "Up to 3.4 billion people.",
+      "Fewer than 1 billion people."
+     ],
+     "answer": 2,
+     "explain": "原文明确说最新报告估计多达34亿人缺乏适足住房，故C正确。A项“约25亿”文中未提；B项“11亿以上”是住在非正规住区和贫民窟的人数，张冠李戴；D项“少于10亿”与数据矛盾。",
+     "evidence": "The latest UN-Habitat World Cities Report estimates that up to 3.4 billion people lack adequate housing, with more than 1.1 billion living in informal settlements and slums.",
+     "id": "r_2"
+    },
+    {
+     "type": "detail",
+     "stem": "Why does Rossbach stress involving local governments in housing policy?",
+     "options": [
+      "They have the power to evict residents from unsafe homes.",
+      "They control most of the funding for new construction.",
+      "They are less influenced by private sector interests.",
+      "They are closer to communities and understand their needs better."
+     ],
+     "answer": 3,
+     "explain": "原文指出地方政府更贴近所服务的社区，因而更能理解其需求，故D正确。A项“有权驱逐居民”与适足住房理念相反；B项“控制大部分资金”无中生有；C项“较少受私营部门影响”过度推断。",
+     "evidence": "Local governments, she explained, are closer to the communities they serve and are therefore better positioned to understand their needs.",
+     "id": "r_3"
+    },
+    {
+     "type": "infer",
+     "stem": "What can be inferred about the Nairobi meeting?",
+     "options": [
+      "It aims to shape recommendations for a future assembly.",
+      "It will immediately end homelessness worldwide.",
+      "It focuses mainly on construction materials.",
+      "It excludes community representatives from discussions."
+     ],
+     "answer": 0,
+     "explain": "原文说会议寻求就一套全面建议达成共识，供2029年联合国人居署大会使用，暗示其目标是形成未来大会的建议，故A正确。B项“立即终结无家可归”绝对化；C项“主要关注建筑材料”偷换概念；D项“排除社区代表”与第四段相反。",
+     "evidence": "The meeting, hosted by UN-Habitat, the agency working to make cities more sustainable, seeks to build consensus on a comprehensive set of recommendations for the UN-Habitat Assembly in 2029.",
+     "id": "r_4"
+    },
+    {
+     "type": "vocab",
+     "stem": "The word \"cornerstone\" in Paragraph 3 is closest in meaning to ______.",
+     "options": [
+      "foundation",
+      "decoration",
+      "obstacle",
+      "consequence"
+     ],
+     "answer": 0,
+     "explain": "cornerstone本义为奠基石，引申为“基础、基石”，与foundation同义，故A正确。B项“装饰”无关；C项“障碍”语义相反；D项“后果”偷换概念，不能替换“基础”。",
+     "evidence": "\"Housing is the cornerstone for adaptation,\" said Anacláudia Rossbach, Executive Director of UN-Habitat.",
+     "id": "r_5"
+    }
+   ]
+  },
+  {
+   "id": "sec_c",
+   "type": "banked_cloze",
+   "title": "选词填空",
+   "instruction": "从下面 15 个选项中为文中 10 个空格选出最佳答案，每个选项只能用一次。",
+   "passage": "For example, people should not fear being evicted, or that their home is unsafe because it was built with the wrong materials. However, having a home does not necessarily mean that it is safe. The latest UN-Habitat World Cities Report [1] that up to 3.4 billion people lack adequate housing, with more than 1.1 billion living in [2] settlements and slums. This usually entails a lack of secure tenure, [3] or safe water.\n\nAs governments face the challenge of improving existing housing and building new homes, they must also consider the [4] consequences of construction and where these homes are built. \"Housing is the cornerstone for adaptation,\" said Anacláudia Rossbach, Executive Director of UN-Habitat. She [5] that the housing crisis must be brought to the attention of Member States and that [6] should be placed on the global housing agenda.\n\nTo [7] the housing crisis, an essential component remains listening to those most affected. Rossbach [8] the importance of involving local authorities and communities in the [9] of housing policies, especially those in more vulnerable positions. Local governments, she explained, are closer to the communities they serve and are therefore better positioned to understand their needs.\n\nFrom communities and local governments to researchers and the private sector, efforts to address housing challenges are already underway. \"They are finding solutions. They are innovating, and they are moving the frontier,\" she said. Despite the [10] of the global housing crisis, Rossbach finds hope in the solutions already emerging on the ground.\n\n\"The decisions here, they will have a direct impact on the lives of people,\" she said. \"So, let's keep people at the centre of our minds this week.\" The challenge is immense, but the commitment to placing people at the heart of housing policy offers a pathway forward.",
+   "bank": [
+    {
+     "label": "A",
+     "word": "address"
+    },
+    {
+     "label": "B",
+     "word": "confess"
+    },
+    {
+     "label": "C",
+     "word": "convincing"
+    },
+    {
+     "label": "D",
+     "word": "development"
+    },
+    {
+     "label": "E",
+     "word": "emphasized"
+    },
+    {
+     "label": "F",
+     "word": "environmental"
+    },
+    {
+     "label": "G",
+     "word": "estimates"
+    },
+    {
+     "label": "H",
+     "word": "homelessness"
+    },
+    {
+     "label": "I",
+     "word": "informal"
+    },
+    {
+     "label": "J",
+     "word": "justice"
+    },
+    {
+     "label": "K",
+     "word": "magnitude"
+    },
+    {
+     "label": "L",
+     "word": "recognize"
+    },
+    {
+     "label": "M",
+     "word": "rectangular"
+    },
+    {
+     "label": "N",
+     "word": "sanitation"
+    },
+    {
+     "label": "O",
+     "word": "underscored"
+    }
+   ],
+   "answers": [
+    {
+     "index": 1,
+     "word": "estimates",
+     "lower": "estimates",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "G",
+     "gloss": "估计",
+     "context": "The latest UN-Habitat World Cities Report estimates that up to 3.4 billion people lack adequate housing, with more than 1.1 billion living in [2] settlements and slums."
+    },
+    {
+     "index": 2,
+     "word": "informal",
+     "lower": "informal",
+     "pos": "adj",
+     "tier": "beyond",
+     "label": "I",
+     "gloss": "",
+     "context": "The latest UN-Habitat World Cities Report [1] that up to 3.4 billion people lack adequate housing, with more than 1.1 billion living in informal settlements and slums."
+    },
+    {
+     "index": 3,
+     "word": "sanitation",
+     "lower": "sanitation",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "N",
+     "gloss": "卫生环境，卫生设备",
+     "context": "This usually entails a lack of secure tenure, sanitation or safe water."
+    },
+    {
+     "index": 4,
+     "word": "environmental",
+     "lower": "environmental",
+     "pos": "adj",
+     "tier": "cet6",
+     "label": "F",
+     "gloss": "环境的，环境产生的",
+     "context": "As governments face the challenge of improving existing housing and building new homes, they must also consider the environmental consequences of construction and where these homes are built."
+    },
+    {
+     "index": 5,
+     "word": "emphasized",
+     "lower": "emphasized",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "E",
+     "gloss": "强调",
+     "context": "She emphasized that the housing crisis must be brought to the attention of Member States and that [6] should be placed on the global housing agenda."
+    },
+    {
+     "index": 6,
+     "word": "homelessness",
+     "lower": "homelessness",
+     "pos": "n",
+     "tier": "beyond",
+     "label": "H",
+     "gloss": "",
+     "context": "She [5] that the housing crisis must be brought to the attention of Member States and that homelessness should be placed on the global housing agenda."
+    },
+    {
+     "index": 7,
+     "word": "address",
+     "lower": "address",
+     "pos": "v",
+     "tier": "cet4",
+     "label": "A",
+     "gloss": "解决",
+     "context": "To address the housing crisis, an essential component remains listening to those most affected."
+    },
+    {
+     "index": 8,
+     "word": "underscored",
+     "lower": "underscored",
+     "pos": "v",
+     "tier": "cet6",
+     "label": "O",
+     "gloss": "强调",
+     "context": "Rossbach underscored the importance of involving local authorities and communities in the [9] of housing policies, especially those in more vulnerable positions."
+    },
+    {
+     "index": 9,
+     "word": "development",
+     "lower": "development",
+     "pos": "n",
+     "tier": "cet4",
+     "label": "D",
+     "gloss": "发展；开发；生长",
+     "context": "Rossbach [8] the importance of involving local authorities and communities in the development of housing policies, especially those in more vulnerable positions."
+    },
+    {
+     "index": 10,
+     "word": "magnitude",
+     "lower": "magnitude",
+     "pos": "n",
+     "tier": "cet6",
+     "label": "K",
+     "gloss": "重大；星等",
+     "context": "Despite the magnitude of the global housing crisis, Rossbach finds hope in the solutions already emerging on the ground."
+    }
+   ]
+  }
+ ],
+ "reading_ref": {
+  "source": "UN News",
+  "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+  "long_sentences": [
+   {
+    "en": "“People don’t sleep at night because they don't know if their houses will be standing the next day,” said Anacláudia Rossbach, Executive Director of UN-Habitat , the agency working to make cities more sustainable, which is hosting the meeting.",
+    "words": 39
+   },
+   {
+    "en": "Speaking to UN News ahead of the meeting, Ms. Rossbach emphasized the importance of bringing the housing crisis to the attention of Member States and building consensus on how to address it.",
+    "words": 32
+   },
+   {
+    "en": "As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November to discuss how to address it.",
+    "words": 28
+   }
+  ]
+ },
+ "reading_draft": null,
+ "generated_at": "2026-11-28T11:45:55",
+ "difficulty": {
+  "score": 82,
+  "level": "接近六级",
+  "in_band": true,
+  "sections": [
+   {
+    "type": "long_conversation",
+    "words": 295,
+    "asl": 10.2,
+    "flesch": 59.1,
+    "fkgl": 7.5,
+    "long_sent": 0.0,
+    "beyond": 0.061,
+    "in_band": true,
+    "score": 72
+   },
+   {
+    "type": "passage_listening",
+    "words": 304,
+    "asl": 13.8,
+    "flesch": 53.7,
+    "fkgl": 9.2,
+    "long_sent": 0.0,
+    "beyond": 0.046,
+    "in_band": true,
+    "score": 78
+   },
+   {
+    "type": "reading",
+    "words": 390,
+    "asl": 18.6,
+    "flesch": 42.4,
+    "fkgl": 12.0,
+    "long_sent": 0.048,
+    "beyond": 0.036,
+    "in_band": true,
+    "score": 82
+   },
+   {
+    "type": "banked_cloze",
+    "words": 296,
+    "asl": 18.5,
+    "flesch": 44.9,
+    "fkgl": 11.6,
+    "long_sent": 0.062,
+    "beyond": 0.037,
+    "in_band": true,
+    "score": 98
+   }
+  ]
+ }
+}
